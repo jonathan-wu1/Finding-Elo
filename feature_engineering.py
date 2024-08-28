@@ -185,7 +185,7 @@ if __name__ == "__main__":
     chunk_size = 5000  # Process 1000 games at a time
     num_chunks = len(games) // chunk_size + (1 if len(games) % chunk_size > 0 else 0)
 
-    for i in range(num_chunks):
+    for i in range(8, num_chunks):
         chunk_start = time.time()
         print(f"Chunk starting at index {i}")
         start_index = i * chunk_size
