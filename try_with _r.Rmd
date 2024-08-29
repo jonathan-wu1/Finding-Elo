@@ -1,0 +1,21 @@
+---
+title: "take2"
+author: "Jonathan Wu"
+date: '2024-08-29'
+output: html_document
+---
+
+
+```{r}
+
+# Load the package
+library(jsonlite)
+
+# Read the NDJSON file
+data <- stream_in(file("..data/Curated/all.ndjson"))
+
+# View the data
+head(data)
+```
+
+

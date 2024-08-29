@@ -11,7 +11,7 @@ import json
 def stockfish_cpl(moves):
     """ returns the average cpl of white and black"""
     stockfish=Stockfish("stockfish/stockfish-windows-x86-64-avx2.exe")
-    stockfish.set_depth(12)#How deep the AI looks
+    stockfish.set_depth(15)#How deep the AI looks
     
     position_evals = []
 
@@ -161,7 +161,7 @@ def process_pgn_file(pgn_file_path, limit):
     return games
 
 def save_results(result, start_index):
-    ndjson_file_path = f'data/raw/feature_engineered_chunk_{start_index}.ndjson'
+    ndjson_file_path = f'data/raw/stockfish_15{start_index}.ndjson'
     with open(ndjson_file_path, 'w') as f:
         for item in result:
             json.dump(item, f)
@@ -175,17 +175,17 @@ if __name__ == "__main__":
     sys.setrecursionlimit(50000)
     start_time = time.time()
     pgn_file_path = "data/data_openings.pgn"
-    games = process_pgn_file(pgn_file_path, 50000)
+    games = process_pgn_file(pgn_file_path, 1000)
     print(f"number of games: {len(games)}")
 
     end_time = time.time()
     print(f"Reading time: {end_time - start_time}")
 
     start_time = time.time()
-    chunk_size = 5000  # Process 1000 games at a time
+    chunk_size = 1000  # Process 1000 games at a time
     num_chunks = len(games) // chunk_size + (1 if len(games) % chunk_size > 0 else 0)
 
-    for i in range(8, num_chunks):
+    for i in range(num_chunks):
         chunk_start = time.time()
         print(f"Chunk starting at index {i}")
         start_index = i * chunk_size
