@@ -1,0 +1,70 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open,Argentina,Francisco Fiorito,1791,7,4.5,262,36,49,13,Level A
+2,Open,United States of America,Ryo Chen,2165,7,5.5,292,45,48,3,Level A
+3,Girls,Brazil,Esther Zilli Ramazzotte,,7,5,251,49,47,-2,Level A
+4,Open,United States of America,Andy Woodward,1975,7,5.5,217,57,53,-4,Level A
+5,Open,,Aaron Reeve Mendes,1520,7,6,232,57,52,-5,Level A
+6,Open,Chile,Mauricio Emmanuel Marrujo Pardo,1857,7,6,216,56,50,-6,Level A
+7,Girls,Bolivia,Iris Nicole Mollo Figueroa,1141,7,5.5,302,51,43,-8,Level A
+8,Girls,United States of America,Omya Vidyarthi,1709,7,6.5,216,52,41,-11,Level A
+9,Open,Canada,Johnathan Wu,1432,7,3.5,275,57,43,-14,Level A
+10,Open,Argentina,Ilan Schnaider,2080,7,5,198,62,47,-15,Level A
+11,Girls,United States of America,J S,1614,7,6,237,62,46,-16,Level A
+12,Girls,Argentina,Vanesa Guzman,1318,7,4,273,61,45,-16,Level A
+13,Open,United States of America,YUVRAJ CHENNAREDDY,1734,7,5,247,62,45,-17,Level A
+14,Open,Ecuador,Leandro Nicolas Ulloa Centeno,1353,7,4,163,67,49,-18,Level A
+15,Open,United States of America,Nevo Faitelson,1706,7,4,200,60,42,-18,Level A
+16,Girls,Canada,Rae Chen,1046,7,5,198,65,43,-22,Level A
+17,Open,Canada,Justin Jialin Gao,,7,4,131,65,42,-23,Level A
+18,Girls,Peru,Fabiana Gomez Gonzales,1034,7,4,211,71,45,-26,Level A
+19,Open,Chile,Maximiliano Far�as Jaque,1395,7,3,215,68,41,-27,Level A
+20,Open,Panama,Adrian Cortes,,7,4.5,234,75,47,-28,Level A
+21,Open,Jamaica,Ronak Shergil,1603,7,4,238,69,41,-28,Level A
+22,Girls,Cuba,Liennys Ferrer naranjo,1225,7,5,211,65,37,-28,Level A
+23,Open,Mexico,Jesus Daniel Diaz Guerrero,,7,3.5,194,66,37,-29,Level A
+24,Open,Paraguay,Marcos Manuel Miranda Fernandez,1112,7,4,263,69,39,-30,Level A
+25,Open,United States of America,Tanitoluwa Adewumi,1730,7,5,172,77,45,-32,Level A
+26,Open,United States of America,Anjaneya Rao,1847,7,4.5,208,81,47,-34,Level A
+27,Girls,United States of America,Crystal Jiuzhou Gu,1365,7,4.5,265,72,37,-35,Level A
+28,Girls,Canada,Alia Myrzaibraimova,1360,7,3,189,84,47,-37,Level A
+29,Open,,Raul Moises Cardenas Armenta,,7,4.5,223,78,41,-37,Level A
+30,Open,Bermuda,Dylan Flanagan,1516,7,3,193,82,43,-39,Level A
+31,Open,Guatemala,Jose David Lopez Escobar,1119,7,3.5,230,80,41,-39,Level A
+32,Open,Bolivia,Neymar Daniel Condori Mamani,1206,7,3,163,79,40,-39,Level A
+33,Open,Panama,ASSIS ABRAHAM,,7,3,215,79,40,-39,Level A
+34,Open,Trinidad & Tobago,Kyan Muradali,1164,7,2.5,194,83,43,-40,Level A
+35,Open,Colombia,COL - Juan Sebastian Negron,10,7,3,171,83,42,-41,Level A
+36,Open,Canada,Luca Georgescu-Nicolau,,7,3.5,240,81,40,-41,Level A
+37,Girls,Canada,Ashley Qian,1189,6,3,215,79,38,-41,Level A
+38,Girls,Canada,Isabelle Guan,,7,4,266,83,40,-43,Level A
+39,Girls,,Lilia Cristina Valdes Alvarez,,6,2,200,84,40,-44,Level A
+40,Open,Canada,Glib Dunikov,1621,7,4,248,80,36,-44,Level A
+41,Girls,Peru,Ramalia Vizcarra Quispe,1333,7,4.5,249,86,38,-48,Level A
+42,Open,Barbados,Aaron Jaikaran,,7,2,260,83,34,-49,Level A
+43,Girls,Colombia,Col - Sofia Luna Monsalve,1158,7,3,151,91,40,-51,Level A
+44,Open,Paraguay,Ivan Torales,1061,7,3,234,91,38,-53,Level A
+45,Girls,Paraguay,Andrea Magali Portillo Arriola,1273,7,3,159,93,39,-54,Level A
+46,Open,Bahamas,Max White,1458,7,2,284,97,40,-57,Level A
+47,Open,Jamaica,Khaleel Johnson-Bartlett,,7,2,157,95,38,-57,Level A
+48,Girls,Chile,Javiera Azocar Gajardo,,7,3,228,92,34,-58,Level A
+49,Open,El Salvador,Santiago Jose Guevara Ruiz,,7,3,216,99,39,-60,Level A
+50,Girls,Costa Rica,Valentina Campos Munoz,1418,7,4,176,101,40,-61,Level A
+51,Open,Guyana,Arysh Raghunauth,,7,2,169,106,33,-73,Level A
+52,Girls,El Salvador,Gabriela Melara,,7,4,207,112,36,-76,Level A
+53,Open,Trinidad & Tobago,TAYDEN BALLIRAM,1304,7,2,141,111,35,-76,Level A
+54,Open,Costa Rica,Sebastian Rodriguez Membreno,,7,2.5,172,108,31,-77,Level A
+55,Open,Costa Rica,Marcelo Leon Bermudez,,7,2.5,224,113,33,-80,Level A
+56,Open,Panama,KHAFIF JOSEPH,,7,3,128,126,38,-88,Level A
+57,Girls,Bahamas,Chika Pride,1159,6,1,157,128,31,-97,Level A
+58,Girls,Jamaica,Victoria Salazar,1270,7,4,123,146,35,-111,Level A
+59,Girls,Paraguay,Jimena Sofia Lugo Martinez,1434,7,3,174,144,33,-111,Level A
+60,Girls,Guyana,Anaya Lall,,7,2,147,137,26,-111,Level A
+61,Girls,Panama,KEYTLEEN CHAVARRIA,1359,6,1,119,149,30,-119,Level A
+62,Girls,Jamaica,Victoria Powell,,6,2,129,151,29,-122,Level A
+63,Open,Guyana,Mayas Khan,1046,7,0,106,162,35,-127,Level A
+64,Open,Panama,KHAFIF TOMMY,,7,3,100,166,33,-133,Level A
+65,Open,Haiti,William Antony SALNAVE,,7,1.5,95,172,34,-138,Level A
+66,Girls,Guatemala,Allison Luz Gabriela Ceballos de Leon,,7,2,151,170,24,-146,Level A
+67,Girls,Panama,ISABELLA NEIRA,,6,2,87,180,29,-151,Level A
+68,Girls,Trinidad & Tobago,SHASMEEN MOHAMMED,,7,2,81,229,22,-207,Level A
+69,Girls,Barbados,Kayla Culpepper,,6,0,34,277,12,-265,Level A

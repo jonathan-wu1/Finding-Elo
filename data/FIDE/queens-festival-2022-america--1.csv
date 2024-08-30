@@ -1,0 +1,163 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Category A,Peru,Deysi Cori T.,2371,11,9,377,40,52,12,Level C
+2,Category A,Colombia,Melissa Castrillon Gomez,2230,11,7.5,405,48,46,-2,Level B
+3,Category D,Ecuador,Alejandra Nicole Cata Pallo,1561,5,2,94,57,52,-5,Level C
+4,Category B,United States of America,Ashley Pang,1989,11,8.5,389,56,48,-8,Level B
+5,Category D,Venezuela,Paola Natali Blanco Gascon,,10,8,250,55,47,-8,Level B
+6,Category A,Brazil,Julia Alboredo,2264,11,8,416,62,51,-11,Level C
+7,Category D,Brazil,Maria Eduarda Papini Gomes,1594,11,7,303,58,47,-11,Level B
+8,Category A,United States of America,Ambica Yellamraju,1835,11,7,401,53,42,-11,Level A
+9,Category A,United States of America,Sabina-Francesca Foisor,2208,10,5,468,58,45,-13,Level B
+10,Category D,United States of America,Anika Rajaram,1499,11,9,323,61,47,-14,Level B
+11,Category D,Panama,Mariana Esther Lobo Jimenez,1478,11,8,289,59,44,-15,Level A
+12,Category B,Peru,Kate Azumi Bravo Mallco,1984,1,0,43,55,40,-15,Level A
+13,Category D,Paraguay,Renata Mayeregger Gonzalez,1461,11,9,273,60,44,-16,Level B
+14,Category D,,Laura Qiu,,11,7.5,355,58,42,-16,Level A
+15,Category A,Colombia,Jenny Astrid Chirivi C,2157,11,4.5,405,57,41,-16,Level A
+16,Category D,Brazil,Mitzi Vedan De Ramos,1565,11,7,225,68,50,-18,Level C
+17,Category D,United States of America,Pranavi Pramod,,11,7,377,62,44,-18,Level A
+18,Category D,,Esther Jou,,11,10,414,58,40,-18,Level A
+19,Category D,Paraguay,Fiorella Mayeregger Gonzalez,1284,11,7,341,64,45,-19,Level B
+20,Category B,Argentina,Anna Laura Scarsi,1815,11,8.5,426,62,43,-19,Level A
+21,Category A,United States of America,Irina Krush,2430,11,7,386,66,45,-21,Level B
+22,Category C,Panama,Ashley Alexandra Castillo Beitia,1668,11,7.5,432,64,43,-21,Level A
+23,Category D,Chile,Valeska Rozas Lazcano,1551,11,9,441,60,39,-21,Level A
+24,Category C,Ecuador,Kerly Danna Herrera Arboleda,1743,10,5,245,66,44,-22,Level A
+25,Category A,United States of America,Anjelina Belakovskaia,2153,11,5.5,360,61,39,-22,Level A
+26,Category D,,Chowdada Devanshi,,11,6,341,65,42,-23,Level A
+27,Category D,Ecuador,Odalys Lisbeth Calderon Guerra,1418,11,8,348,64,40,-24,Level A
+28,Category D,United States of America,Jenny Qi,,11,6,374,63,39,-24,Level A
+29,Category D,Ecuador,Ariadna Estefania Orbe Vivero,1507,11,6.5,254,70,45,-25,Level B
+30,Category D,Ecuador,Heidy Jurado Grefa,1369,11,7,238,68,43,-25,Level A
+31,Category D,Brazil,Alice Lara Biasi Pavao,1354,11,5.5,354,67,41,-26,Level A
+32,Category C,Ecuador,Veronica Priscila Orbe Vivero,1724,11,7,298,69,42,-27,Level A
+33,Category D,Honduras,Alejandra Nicolle Garcia Reyes,1579,11,8,199,69,42,-27,Level A
+34,Category D,Barbados,Chanon Reifer-Belle,1213,11,7,347,69,41,-28,Level A
+35,Category D,Venezuela,Glaycell Daniela Velasquez Marin,1227,11,5.5,243,75,46,-29,Level B
+36,Category B,El Salvador,Angie Garcia,1894,10,4.5,345,74,44,-30,Level A
+37,Category B,Brazil,Thauane Ferreira Medeiros,1889,11,6.5,442,69,39,-30,Level A
+38,Category C,United States of America,Aparna Yellamraju,1720,11,7,372,74,42,-32,Level A
+39,Category A,Brazil,Juliana Sayumi Terao,2223,11,7,427,73,41,-32,Level A
+40,Category D,Panama,Mariana Del Carmen Navarro Valdes,1337,9,5.5,287,73,41,-32,Level A
+41,Category B,Venezuela,Marvia Josefina Alvarado Arcila,1931,6,1.5,197,70,38,-32,Level A
+42,Category D,United States of America,Lulu Huang,1186,11,6.5,371,70,38,-32,Level A
+43,Category D,Peru,Claudia Micaela Acuna Alarcon,1380,10,6.5,383,69,36,-33,Level A
+44,Category C,Venezuela,Beatriz Elvira Noguera Da Almeida,1778,11,6.5,338,76,42,-34,Level A
+45,Category C,Ecuador,Stefanny Santillan Vareles,1673,10,3,273,75,41,-34,Level A
+46,Category D,Trinidad & Tobago,Zara La Fleur,1513,11,5.5,274,73,39,-34,Level A
+47,Category C,Peru,Maria Teresa Jimenez Salas,1718,11,7,422,78,43,-35,Level A
+48,Category D,Ecuador,Heidy Arelys Villagomez Martinez,1377,10,6.5,321,77,42,-35,Level A
+49,Category A,Colombia,Beatriz Irene Franco Valencia,2103,11,5,393,77,42,-35,Level A
+50,Category D,Peru,Ayme Maravi Ceron,1160,11,7,306,77,42,-35,Level A
+51,Category D,,Sakthi Sivasamy,,11,6.5,356,76,41,-35,Level A
+52,Category D,Panama,Marielys Judith Lobo Jimenez,1178,11,4.5,346,75,39,-36,Level A
+53,Category D,Costa Rica,Victoria Sandi Barrantes,1089,10,4.5,254,76,39,-37,Level A
+54,Category D,Chile,Consuelo Villegas Ampuero,1333,10,5.5,262,74,37,-37,Level A
+55,Category B,El Salvador,Celina Palacios,1715,11,6,324,80,42,-38,Level A
+56,Category B,United States of America,Erin Bian,1811,11,9,386,79,41,-38,Level A
+57,Category D,Brazil,Renee Blandy T. Brambilla,1587,11,6,275,79,41,-38,Level A
+58,Category D,Peru,Herrada Blanco Maria Fernanda,1378,11,6,271,79,41,-38,Level A
+59,Category A,Paraguay,Jennifer Perez Rodriguez,2251,11,6,381,78,40,-38,Level A
+60,Category D,United States of America,Yashaswini Ayithi,,5,2,106,85,46,-39,Level B
+61,Category D,Trinidad & Tobago,Sadiqah Razark,1136,11,4,133,84,45,-39,Level B
+62,Category C,Costa Rica,Sofia Mayorga Araya,1769,11,7,335,83,44,-39,Level A
+63,Category D,,Janani Jeganathan,,6,2,105,81,41,-40,Level A
+64,Category D,Brazil,Maria Vitoria De Sousa Silva,1217,10,5,287,77,37,-40,Level A
+65,Category C,Paraguay,Dalila Perez,1799,11,7,381,80,39,-41,Level A
+66,Category A,Peru,Ingrid Y Aliaga Fernandez,2175,11,6,386,79,38,-41,Level A
+67,Category C,Panama,Lourdes Lorena Vasquez Jaen,1653,9,2,254,78,37,-41,Level A
+68,Category C,Costa Rica,Karina Bogantes Robleto,1695,11,5.5,384,81,39,-42,Level A
+69,Category D,Ecuador,Nissi Galvez Alvarado,1074,11,5,236,80,38,-42,Level A
+70,Category D,Peru,Rihanna Irina Rojas Salas,1119,11,5,263,78,36,-42,Level A
+71,Category D,Bolivia,Nicole Mollo Figueroa,1343,11,6.5,416,76,34,-42,Level A
+72,Category D,Peru,Fabiana Jimenez Salas,1039,11,4.5,307,81,38,-43,Level A
+73,Category B,Trinidad & Tobago,Gabriella Johnson,1823,10,4,259,85,41,-44,Level A
+74,Category C,Ecuador,Andrea Bedoya Ramos,1699,10,4,279,83,39,-44,Level A
+75,Category B,Brazil,Joara Chaves,1901,10,2,276,80,36,-44,Level A
+76,Category C,El Salvador,Alejandra Beatriz Zavala Galindo,1748,8,3,263,76,32,-44,Level A
+77,Category D,,Marnina Richards,,10,5.5,312,78,33,-45,Level A
+78,Category D,Costa Rica,Victoria Canales Chinchilla,1431,11,7.5,308,87,41,-46,Level A
+79,Category B,Brazil,Karina Daniela Ferreira Kanzler,1830,6,4,201,89,42,-47,Level A
+80,Category A,Brazil,Vanessa Ramos Gazola,2000,10,2,322,88,41,-47,Level A
+81,Category D,Brazil,Barbara Ribeiro Araujo,1475,11,6,320,82,35,-47,Level A
+82,Category D,Ecuador,Maria Jose Orbe Vivero,1413,11,7,254,87,39,-48,Level A
+83,Category C,Brazil,Camila Evaristo Da Silva,1685,10,3,305,85,37,-48,Level A
+84,Category B,Costa Rica,Maria Jose Ramirez Gonzalez,1809,10,5,262,85,37,-48,Level A
+85,Category B,Costa Rica,Kristel Meliss Diaz Charpentier,1989,11,6,310,89,40,-49,Level A
+86,Category A,Colombia,Angie Lizeth Chirivi C,2093,11,5,377,87,38,-49,Level A
+87,Category C,Argentina,Marysol Ramirez,1751,11,6,362,87,38,-49,Level A
+88,Category D,Paraguay,Paula Betania Sanchez Bobadilla,1466,9,5,204,87,37,-50,Level A
+89,Category C,United States of America,Holly J Mc Roberts,1702,10,5,348,89,38,-51,Level A
+90,Category D,,Roxana Dayanara Intriago Roca,,3,0,53,92,40,-52,Level A
+91,Category D,,Aishwarya Ganapathy,,10,5.5,421,90,38,-52,Level A
+92,Category D,Peru,Zayaka Isabel Urpeque Guzman,,11,5,281,92,39,-53,Level A
+93,Category A,Costa Rica,Tania Regla Hernandez Alvarez,2058,10,3,282,90,35,-55,Level A
+94,Category D,Ecuador,Jaziel Charlie Bermeo Apolinario,1021,9,5.5,168,95,39,-56,Level A
+95,Category B,Brazil,Julia Brunetto Rodio,1804,9,3,246,89,33,-56,Level A
+96,Category D,Honduras,Bitia Cruz,1521,10,7,211,88,32,-56,Level A
+97,Category A,Ecuador,Paulina Orejuela Chango,2036,11,4,310,94,37,-57,Level A
+98,Category B,Ecuador,Danya Brito Heredia,1836,11,7.5,355,97,39,-58,Level A
+99,Category B,Panama,Yaribeth Gonzalez Ramirez,1630,11,6,431,95,37,-58,Level A
+100,Category C,Brazil,Andrea Vidigal Bucci,1769,10,6,252,99,40,-59,Level A
+101,Category A,,Sarai Sanchez Castillo,2112,7,1,153,97,37,-60,Level A
+102,Category D,Trinidad & Tobago,Celine Angelina Mohammed,,11,5,267,95,35,-60,Level A
+103,Category D,Paraguay,Jimena Sofia Lugo Martinez,1272,11,5,219,91,31,-60,Level A
+104,Category D,Ecuador,Romina Estefania Rodriguez Moran,1207,10,5,192,102,40,-62,Level A
+105,Category B,Brazil,Kalyndi Carvalho De Resende,1926,8,1,277,97,35,-62,Level A
+106,Category D,United States of America,Stella Liu,,11,5,301,94,32,-62,Level A
+107,Category D,,Angelin Abelina,,11,4,207,98,35,-63,Level A
+108,Category A,Brazil,Suzana Chang,2034,10,2.5,249,98,35,-63,Level A
+109,Category D,Peru,Allison Nicole Guzman Vera,1375,11,6,267,100,36,-64,Level A
+110,Category D,Brazil,Lara Carolina Malanowski,1539,11,5.5,216,105,40,-65,Level A
+111,Category D,United States of America,Katherine Eisenman,1386,11,6.5,327,104,39,-65,Level A
+112,Category B,Venezuela,Roxanny Matute Escobar,1834,11,6,302,103,38,-65,Level A
+113,Category D,Peru,Xiomara Anahi Guzman Vera,1249,11,6,278,98,33,-65,Level A
+114,Category D,Ecuador,Ariana Escobar,1557,11,6,290,106,40,-66,Level A
+115,Category C,Brazil,Jessica Trindade Hubner,1727,10,5.5,314,100,34,-66,Level A
+116,Category D,United States of America,Sahasra Krishna Rallabandi,,11,7,242,107,40,-67,Level A
+117,Category B,Ecuador,Cristina Orejuela Chango,1879,11,5,328,103,36,-67,Level A
+118,Category B,El Salvador,Marjorie Herrera,1760,7,3,231,100,33,-67,Level A
+119,Category D,Ecuador,Alejandra Isabe Trivino Martinez,,11,5.5,258,102,33,-69,Level A
+120,Category D,,Lilianna Gao,,11,6,252,99,30,-69,Level A
+121,Category B,Ecuador,Jessenia Rojas Solano,1823,10,3,222,106,36,-70,Level A
+122,Category D,Ecuador,Tejasvi Arora Krishan Rani,1112,11,6,275,105,35,-70,Level A
+123,Category D,,Sarah Spresney,,10,4.5,229,107,35,-72,Level A
+124,Category D,,Phoebe Kim,,11,5,335,105,30,-75,Level A
+125,Category D,Ecuador,Leslie Tatiana Salas Ona,1372,11,7,262,114,37,-77,Level A
+126,Category D,United States of America,Lucia Huang,,11,4,141,112,35,-77,Level A
+127,Category D,United States of America,Ya He,,11,5.5,236,109,32,-77,Level A
+128,Category B,Paraguay,Paula Oviedo Acosta,1838,11,6,378,113,34,-79,Level A
+129,Category C,Brazil,Amanda Paul Dull,1772,10,1,255,116,36,-80,Level A
+130,Category D,United States of America,Padma Moturi,,11,5,199,119,37,-82,Level A
+131,Category D,United States of America,Derya Kilic,,11,5,205,118,35,-83,Level A
+132,Category B,Peru,Emely Bachellet Vega Paucar,1819,2,1,29,108,24,-84,Level A
+133,Category B,Ecuador,Andrea Herrera Vallejo,1930,6,1,113,119,30,-89,Level A
+134,Category D,United States of America,Laura Hadewig Montanari,1273,11,4.5,186,133,38,-95,Level A
+135,Category D,,Jamie Scarlet Guale Espinoza,,11,4,160,133,36,-97,Level A
+136,Category D,Trinidad & Tobago,Kayla Martin,1150,11,4,215,136,26,-110,Level A
+137,Category D,,Sukanya I Gandhi,,11,4,130,143,32,-111,Level A
+138,Category D,United States of America,Kavita Rao Pendyala,,6,2,100,141,27,-114,Level A
+139,Category D,Ecuador,Amy Fiorella Galvez Alvarado,,11,5,168,153,25,-128,Level A
+140,Category D,Bolivia,Rachel Nila Choque Quispe,,11,4,172,163,30,-133,Level A
+141,Category D,,Milene Carolina Cisneros Hern�ndez,,9,4.5,147,166,27,-139,Level A
+142,Category D,,Carmen Delia Montes,,2,0,3,140,0,-140,Level A
+143,Category D,,Melissa da Costa Marques,,10,3,188,168,26,-142,Level A
+144,Category D,,Paula Anahi Pe�afiel Aldaz,,10,2.5,105,186,30,-156,Level A
+145,Category D,,Daniela Campos Ulate,,10,2,125,192,32,-160,Level A
+146,Category D,,Neeti Arvind,,10,3.5,84,185,24,-161,Level A
+147,Category D,,Margaret Bailon-Labednick,,11,5,144,197,24,-173,Level A
+148,Category D,,Tahlia Scantlebury,,9,2,129,199,19,-180,Level A
+149,Category D,,Abby Domenica Orlando Almeida,,11,4,187,213,22,-191,Level A
+150,Category D,,Mariel Jasmine Sanchez Ronquillo,,10,2,82,217,17,-200,Level A
+151,Category D,United States of America,Ana Ontiveros,,10,1,106,245,24,-221,Level A
+152,Category D,,Alegria Baltodano Zomer,,11,3,106,253,21,-232,Level A
+153,Category D,,Yenedith Antonella Nevarez Luna,,10,2.5,101,251,18,-233,Level A
+154,Category D,,Ramya Rajaraman,,11,3,98,280,23,-257,Level A
+155,Category D,,Natalia Isis Tufino Montenegro,,10,3,112,272,15,-257,Level A
+156,Category D,Trinidad & Tobago,Samaara Ali,,11,3,132,278,20,-258,Level A
+157,Category D,,Alexis Anzoa-Vunni,,11,4.5,114,293,18,-275,Level A
+158,Category D,,Kimberly Alejandra Calder�n Herrera,,8,1,64,370,9,-361,Level A
+159,Category D,Colombia,Paula Sofia Tipiani Martinez,1392,1,0,0,0,0,,Level A
+160,Category D,Colombia,Karen Sofia Carrillo Riano,1305,1,0,0,0,0,,Level A
+161,Category D,Ecuador,Gladys Maldonado Rivera,1435,1,0,0,0,0,,Level A
+162,Category D,Colombia,Natalia Lopez Mahecha,1197,1,0,0,0,0,,Level A

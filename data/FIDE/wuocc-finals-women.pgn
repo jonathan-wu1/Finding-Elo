@@ -1,0 +1,533 @@
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "1.1"]
+[White "Antolak, Julia"]
+[Black "Tsolakidou, Stavroula"]
+[Result "0-1"]
+[BlackCountry "GR"]
+[BlackElo "2379"]
+[BlackTeam "Saint Louis University"]
+[BlackTitle "IM"]
+[WhiteCountry "PL"]
+[WhiteElo "2306"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WGM"]
+
+1. e4 {[%clk 0:03:02.0]} c5 {[%clk 0:02:58.5]} 2. Ne2 {[%clk 0:03:02.8]} d6 {[%clk 0:02:54.7]} 3. g3 {[%clk 0:03:03.1]} Nf6 {[%clk 0:02:54.5]} 4. Bg2 {[%clk 0:03:03.9]} e6 {[%clk 0:02:47.0]} 5. 0-0 {[%clk 0:03:04.4]} Be7 {[%clk 0:02:47.3]} 6. c3 {[%clk 0:03:05.2]} 0-0 {[%clk 0:02:30.3]} 7. d4 {[%clk 0:03:05.9]} Qc7 {[%clk 0:02:28.6]} 8. h3 {[%clk 0:03:05.9]} Nc6 {[%clk 0:02:14.2]} 9. Be3 {[%clk 0:03:06.3]} b6 {[%clk 0:02:12.0]} 10. Nd2 {[%clk 0:03:06.3]} Bb7 {[%clk 0:02:12.2]} 11. f4 {[%clk 0:02:59.0]} Rad8 {[%clk 0:02:12.3]} 12. Kh2 {[%clk 0:02:47.5]} Na5 {[%clk 0:01:56.6]} 13. Rc1 {[%clk 0:02:34.7]} d5 {[%clk 0:01:41.1]} 14. e5 {[%clk 0:02:34.2]} Ne4 {[%clk 0:01:42.2]} 15. Nxe4 {[%clk 0:02:17.4]} dxe4 {[%clk 0:01:43.1]} 16. b3 {[%clk 0:02:18.2]} Bd5 {[%clk 0:01:11.7]} 17. Qc2 {[%clk 0:02:14.1]} cxd4 {[%clk 0:01:02.7]} 18. Nxd4 {[%clk 0:01:58.7]} Ba3 {[%clk 0:00:31.3]} 19. Rcd1 {[%clk 0:01:51.1]} Qe7 {[%clk 0:00:31.9]} 20. c4 {[%clk 0:01:45.5]} Bb7 {[%clk 0:00:27.8]} 21. Bxe4 {[%clk 0:01:45.8]} Bxe4 {[%clk 0:00:27.2]} 22. Qxe4 {[%clk 0:01:46.5]} Bc5 {[%clk 0:00:27.9]} 23. Nb5 {[%clk 0:01:43.6]} Bxe3 {[%clk 0:00:21.0]} 24. Qxe3 {[%clk 0:01:44.1]} Nb7 {[%clk 0:00:22.0]} 25. Qe2 {[%clk 0:01:20.3]} a6 {[%clk 0:00:22.1]} 26. Nc3 {[%clk 0:01:18.3]} Nc5 {[%clk 0:00:20.2]} 27. Ne4 {[%clk 0:01:16.5]} Nxe4 {[%clk 0:00:18.3]} 28. Qxe4 {[%clk 0:01:17.3]} Qa3 {[%clk 0:00:18.7]} 29. Qe2 {[%clk 0:01:17.1]} Qc5 {[%clk 0:00:17.9]} 30. Rd3 {[%clk 0:01:06.5]} b5 {[%clk 0:00:15.5]} 31. cxb5 {[%clk 0:00:39.0]} axb5 {[%clk 0:00:15.5]} 32. Rfd1 {[%clk 0:00:33.1]} Ra8 {[%clk 0:00:13.5]} 33. R1d2 {[%clk 0:00:28.4]} g6 {[%clk 0:00:14.1]} 34. Qd1 {[%clk 0:00:28.6]} Kg7 {[%clk 0:00:09.6]} 35. Rc2 {[%clk 0:00:27.1]} Qb6 {[%clk 0:00:07.5]} 36. h4 {[%clk 0:00:21.5]} Ra7 {[%clk 0:00:08.4]} 37. Rd6 {[%clk 0:00:09.6]} Qb7 {[%clk 0:00:08.8]} 38. Qd2 {[%clk 0:00:09.0]} Rfa8 {[%clk 0:00:08.9]} 39. h5 {[%clk 0:00:07.4]} Qf3 {[%clk 0:00:06.3]} 40. Rd3 {[%clk 0:00:04.6]} Qxh5+ {[%clk 0:00:06.6]} 41. Kg2 {[%clk 0:00:05.6]} Qg4 {[%clk 0:00:07.6]} 42. Rdc3 {[%clk 0:00:03.9]} Qf5 {[%clk 0:00:08.1]} 43. Rd3 {[%clk 0:00:03.3]} Qe4+ {[%clk 0:00:08.3]} 44. Kf2 {[%clk 0:00:03.4]} Rxa2 {[%clk 0:00:09.0]} 45. Rxa2 {[%clk 0:00:03.5]} Rxa2 {[%clk 0:00:09.9]} 46. Qxa2 {[%clk 0:00:04.2]} Qxd3 {[%clk 0:00:11.1]} 47. Qb2 {[%clk 0:00:05.0]} b4 {[%clk 0:00:11.3]} 48. Kg2 {[%clk 0:00:05.6]} h5 {[%clk 0:00:12.1]} 49. Qa2 {[%clk 0:00:05.6]} Qe4+ {[%clk 0:00:10.7]} 50. Kh3 {[%clk 0:00:06.0]} Qf5+ {[%clk 0:00:11.2]} 51. Kg2 {[%clk 0:00:06.4]} h4 {[%clk 0:00:12.4]} 52. Qa8 {[%clk 0:00:04.6]} Qc2+ {[%clk 0:00:09.5]} 53. Kh3 {[%clk 0:00:04.5]} hxg3 {[%clk 0:00:10.5]} 54. Qd8 {[%clk 0:00:04.5]} Qh2+ {[%clk 0:00:07.7]} 55. Kg4 {[%clk 0:00:05.1]} g2 {[%clk 0:00:05.3]} 56. Qf6+ {[%clk 0:00:04.8]} Kg8 {[%clk 0:00:06.4]} 57. Qd8+ {[%clk 0:00:05.2]} Kh7 {[%clk 0:00:07.3]} {White Resigned} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "1.2"]
+[White "Sliwicka, Alicja"]
+[Black "Shuvalova, Polina"]
+[Result "1-0"]
+[BlackCountry "RU"]
+[BlackElo "2476"]
+[BlackTeam "Ural State Mining University"]
+[BlackTitle "IM"]
+[WhiteCountry "PL"]
+[WhiteElo "2346"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WIM"]
+
+1. e4 {[%clk 0:03:02.0]} c6 {[%clk 0:02:59.3]} 2. d4 {[%clk 0:03:02.5]} g6 {[%clk 0:02:58.9]} 3. Nc3 {[%clk 0:02:54.4]} Bg7 {[%clk 0:02:58.1]} 4. Nf3 {[%clk 0:02:54.0]} d5 {[%clk 0:02:57.2]} 5. h3 {[%clk 0:02:53.9]} dxe4 {[%clk 0:02:51.9]} 6. Nxe4 {[%clk 0:02:53.9]} Nf6 {[%clk 0:02:52.4]} 7. Nxf6+ {[%clk 0:02:44.9]} exf6 {[%clk 0:02:51.3]} 8. Bd3 {[%clk 0:02:43.3]} 0-0 {[%clk 0:02:51.7]} 9. 0-0 {[%clk 0:02:43.5]} Nd7 {[%clk 0:02:52.5]} 10. Bf4 {[%clk 0:02:40.3]} Nb6 {[%clk 0:02:51.3]} 11. c4 {[%clk 0:02:31.9]} Be6 {[%clk 0:02:50.5]} 12. Rc1 {[%clk 0:02:28.2]} Re8 {[%clk 0:02:48.0]} 13. b3 {[%clk 0:02:25.9]} a5 {[%clk 0:02:48.0]} 14. Bb1 {[%clk 0:02:24.5]} a4 {[%clk 0:02:46.4]} 15. Re1 {[%clk 0:02:22.2]} Qd7 {[%clk 0:02:38.1]} 16. Qd2 {[%clk 0:02:17.8]} axb3 {[%clk 0:02:20.0]} 17. axb3 {[%clk 0:02:18.1]} Nc8 {[%clk 0:02:19.0]} 18. Qb4 {[%clk 0:02:04.5]} Ne7 {[%clk 0:02:14.0]} 19. Red1 {[%clk 0:01:59.0]} g5 {[%clk 0:01:53.3]} 20. Bg3 {[%clk 0:01:56.0]} h5 {[%clk 0:01:37.7]} 21. h4 {[%clk 0:01:52.6]} g4 {[%clk 0:01:35.3]} 22. Nd2 {[%clk 0:01:36.4]} Bf5 {[%clk 0:01:32.3]} 23. Bf4 {[%clk 0:01:10.6]} Bxb1 {[%clk 0:01:31.5]} 24. Nxb1 {[%clk 0:01:07.9]} Ng6 {[%clk 0:01:31.9]} 25. Qd2 {[%clk 0:01:00.6]} Re4 {[%clk 0:01:20.0]} 26. Be3 {[%clk 0:00:49.4]} f5 {[%clk 0:01:14.3]} 27. Nc3 {[%clk 0:00:48.8]} Ree8 {[%clk 0:01:14.3]} 28. g3 {[%clk 0:00:47.8]} Rad8 {[%clk 0:01:12.5]} 29. Bg5 {[%clk 0:00:46.2]} Rc8 {[%clk 0:01:08.5]} 30. Be3 {[%clk 0:00:41.3]} b5 {[%clk 0:01:02.1]} 31. Ra1 {[%clk 0:00:39.7]} bxc4 {[%clk 0:00:53.9]} 32. bxc4 {[%clk 0:00:40.0]} Qe6 {[%clk 0:00:54.4]} 33. Ra4 {[%clk 0:00:36.0]} Red8 {[%clk 0:00:53.0]} 34. Ne2 {[%clk 0:00:24.6]} Qe4 {[%clk 0:00:50.1]} 35. Qd3 {[%clk 0:00:22.4]} Qf3 {[%clk 0:00:44.8]} 36. Nf4 {[%clk 0:00:18.5]} Nxf4 {[%clk 0:00:42.6]} 37. Bxf4 {[%clk 0:00:19.0]} Qxd3 {[%clk 0:00:35.2]} 38. Rxd3 {[%clk 0:00:19.2]} Bxd4 {[%clk 0:00:36.0]} 39. Kf1 {[%clk 0:00:15.2]} c5 {[%clk 0:00:36.4]} 40. Ra7 {[%clk 0:00:14.2]} Ra8 {[%clk 0:00:35.1]} 41. Rda3 {[%clk 0:00:14.1]} Rxa7 {[%clk 0:00:34.4]} 42. Rxa7 {[%clk 0:00:14.8]} Re8 {[%clk 0:00:32.1]} 43. Rc7 {[%clk 0:00:14.9]} Re6 {[%clk 0:00:29.9]} 44. Rc8+ {[%clk 0:00:13.4]} Kg7 {[%clk 0:00:30.1]} 45. Rc7 {[%clk 0:00:13.6]} Kg6 {[%clk 0:00:29.7]} 46. Rc8 {[%clk 0:00:13.9]} Ra6 {[%clk 0:00:29.9]} 47. Be3 {[%clk 0:00:11.4]} Ra1+ {[%clk 0:00:23.4]} 48. Kg2 {[%clk 0:00:11.1]} Rc1 {[%clk 0:00:20.8]} 49. Bxc1 {[%clk 0:00:09.0]} {Black Resigned} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "1.3"]
+[White "Osmak, Iulija"]
+[Black "Sargsyan, Anna M."]
+[Result "0-1"]
+[BlackCountry "AM"]
+[BlackElo "2383"]
+[BlackTeam "Armenian State Institute of Physical Culture and Sport"]
+[BlackTitle "IM"]
+[Termination "time forfeit"]
+[WhiteCountry "UA"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "IM"]
+
+1. b4 {[%clk 0:03:02.0]} e6 {[%clk 0:02:54.6]} 2. Bb2 {[%clk 0:03:02.3]} Nf6 {[%clk 0:02:54.2]} 3. b5 {[%clk 0:03:01.9]} Be7 {[%clk 0:02:51.4]} 4. e3 {[%clk 0:03:01.6]} 0-0 {[%clk 0:02:52.0]} 5. Nf3 {[%clk 0:03:01.9]} a6 {[%clk 0:02:51.3]} 6. a4 {[%clk 0:03:02.0]} axb5 {[%clk 0:02:51.2]} 7. axb5 {[%clk 0:03:02.6]} Rxa1 {[%clk 0:02:51.6]} 8. Bxa1 {[%clk 0:03:03.5]} c6 {[%clk 0:02:52.4]} 9. c4 {[%clk 0:03:00.1]} d5 {[%clk 0:02:52.5]} 10. Nc3 {[%clk 0:02:53.1]} Nbd7 {[%clk 0:02:35.5]} 11. Be2 {[%clk 0:02:37.5]} Nb6 {[%clk 0:02:12.2]} 12. cxd5 {[%clk 0:02:07.4]} cxd5 {[%clk 0:02:09.2]} 13. 0-0 {[%clk 0:02:07.5]} Bd6 {[%clk 0:02:02.1]} 14. Qb3 {[%clk 0:01:52.0]} Bd7 {[%clk 0:01:56.5]} 15. Bb2 {[%clk 0:01:41.6]} Qb8 {[%clk 0:01:52.9]} 16. h3 {[%clk 0:01:38.9]} Rc8 {[%clk 0:01:52.6]} 17. d3 {[%clk 0:01:37.4]} Be8 {[%clk 0:01:46.9]} 18. Ra1 {[%clk 0:01:24.1]} Nbd7 {[%clk 0:01:47.0]} 19. Na4 {[%clk 0:01:02.2]} h6 {[%clk 0:01:43.5]} 20. Bf1 {[%clk 0:00:44.1]} Nh7 {[%clk 0:01:21.3]} 21. Ba3 {[%clk 0:00:39.5]} Nhf8 {[%clk 0:01:07.1]} 22. d4 {[%clk 0:00:38.3]} Ng6 {[%clk 0:00:58.7]} 23. Bd3 {[%clk 0:00:31.2]} Ne7 {[%clk 0:00:54.9]} 24. Bxd6 {[%clk 0:00:23.0]} Qxd6 {[%clk 0:00:54.9]} 25. Qa3 {[%clk 0:00:23.7]} Qxa3 {[%clk 0:00:50.5]} 26. Rxa3 {[%clk 0:00:24.1]} Ra8 {[%clk 0:00:50.4]} 27. Ra2 {[%clk 0:00:20.8]} Nc8 {[%clk 0:00:29.2]} 28. Nc3 {[%clk 0:00:20.6]} Rxa2 {[%clk 0:00:28.2]} 29. Nxa2 {[%clk 0:00:21.3]} Nd6 {[%clk 0:00:28.9]} 30. Nc3 {[%clk 0:00:19.8]} Nb6 {[%clk 0:00:29.2]} 31. Nd2 {[%clk 0:00:12.1]} Kf8 {[%clk 0:00:28.8]} 32. Nb3 {[%clk 0:00:10.8]} Nbc4 {[%clk 0:00:27.4]} 33. Nc5 {[%clk 0:00:08.9]} Ke7 {[%clk 0:00:19.9]} 34. Bxc4 {[%clk 0:00:07.3]} dxc4 {[%clk 0:00:19.5]} 35. b6 {[%clk 0:00:07.6]} Bc6 {[%clk 0:00:16.5]} 36. e4 {[%clk 0:00:07.2]} Nc8 {[%clk 0:00:09.4]} 37. d5 {[%clk 0:00:08.1]} exd5 {[%clk 0:00:10.1]} 38. exd5 {[%clk 0:00:09.1]} Bd7 {[%clk 0:00:09.7]} 39. Nxb7 {[%clk 0:00:06.7]} Nxb6 {[%clk 0:00:10.4]} 40. Nc5 {[%clk 0:00:05.4]} Kd6 {[%clk 0:00:09.5]} 41. N5e4+ {[%clk 0:00:05.8]} Kc7 {[%clk 0:00:09.8]} 42. f4 {[%clk 0:00:05.5]} Bf5 {[%clk 0:00:09.8]} 43. Nd2 {[%clk 0:00:04.9]} Kd6 {[%clk 0:00:07.8]} 44. Kf2 {[%clk 0:00:05.6]} Bd3 {[%clk 0:00:08.5]} 45. Nde4+ {[%clk 0:00:02.5]} Bxe4 {[%clk 0:00:07.9]} 46. Nxe4+ {[%clk 0:00:03.5]} Kxd5 {[%clk 0:00:08.9]} 47. Nc3+ {[%clk 0:00:04.3]} Kd4 {[%clk 0:00:09.3]} 48. Nb5+ {[%clk 0:00:05.3]} Kd3 {[%clk 0:00:10.1]} 49. Kf3 {[%clk 0:00:05.7]} c3 {[%clk 0:00:10.6]} 50. Nxc3 {[%clk 0:00:06.0]} Kxc3 {[%clk 0:00:10.8]} 51. Ke4 {[%clk 0:00:07.1]} Kd2 {[%clk 0:00:09.7]} 52. g4 {[%clk 0:00:07.3]} Ke2 {[%clk 0:00:10.1]} 53. h4 {[%clk 0:00:07.9]} Kf2 {[%clk 0:00:10.7]} 54. h5 {[%clk 0:00:08.9]} Kg3 {[%clk 0:00:11.3]} 55. g5 {[%clk 0:00:10.0]} Kg4 {[%clk 0:00:11.8]} {White Loss on Time} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "1.4"]
+[White "Badelka, Olga"]
+[Black "Nur Abidah, Shanti"]
+[Result "1-0"]
+[BlackCountry "ID"]
+[BlackElo "1986"]
+[BlackTeam "Gunadarma University"]
+[BlackTitle "WIM"]
+[Termination "time forfeit"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Missouri"]
+[WhiteTitle "IM"]
+
+1. Nf3 {[%clk 0:03:02.0]} d5 {[%clk 0:02:49.9]} 2. g3 {[%clk 0:03:02.4]} c5 {[%clk 0:02:44.8]} 3. Bg2 {[%clk 0:03:02.2]} Nc6 {[%clk 0:02:43.3]} 4. d4 {[%clk 0:02:59.9]} e6 {[%clk 0:02:41.0]} 5. 0-0 {[%clk 0:02:58.6]} Nf6 {[%clk 0:02:39.5]} 6. c4 {[%clk 0:02:44.7]} dxc4 {[%clk 0:02:37.1]} 7. Qa4 {[%clk 0:02:39.5]} cxd4 {[%clk 0:02:28.2]} 8. Ne5 {[%clk 0:02:21.7]} Bd7 {[%clk 0:02:12.9]} 9. Nxc6 {[%clk 0:02:11.2]} bxc6 {[%clk 0:02:11.0]} 10. Qxc4 {[%clk 0:02:04.9]} Qb6 {[%clk 0:01:58.5]} 11. Nd2 {[%clk 0:01:29.3]} Bd6 {[%clk 0:01:40.9]} 12. Nb3 {[%clk 0:01:25.2]} e5 {[%clk 0:01:39.4]} 13. Bg5 {[%clk 0:01:20.2]} 0-0 {[%clk 0:01:28.8]} 14. e3 {[%clk 0:01:01.9]} c5 {[%clk 0:01:09.3]} 15. Bxf6 {[%clk 0:00:54.9]} Bb5 {[%clk 0:00:58.3]} 16. Qc2 {[%clk 0:00:34.7]} Bxf1 {[%clk 0:00:35.9]} 17. Bxg7 {[%clk 0:00:25.7]} Bxg2 {[%clk 0:00:33.7]} 18. Bxf8 {[%clk 0:00:25.3]} Rxf8 {[%clk 0:00:16.6]} 19. Kxg2 {[%clk 0:00:25.4]} Qc6+ {[%clk 0:00:17.4]} 20. Kg1 {[%clk 0:00:22.6]} c4 {[%clk 0:00:18.1]} 21. Nd2 {[%clk 0:00:21.3]} c3 {[%clk 0:00:17.8]} 22. Nb3 {[%clk 0:00:09.9]} dxe3 {[%clk 0:00:15.8]} 23. fxe3 {[%clk 0:00:10.1]} Rc8 {[%clk 0:00:15.8]} 24. Rf1 {[%clk 0:00:07.7]} cxb2 {[%clk 0:00:15.9]} 25. Qxb2 {[%clk 0:00:08.5]} Qe4 {[%clk 0:00:16.0]} 26. Qf2 {[%clk 0:00:08.8]} Rc7 {[%clk 0:00:16.4]} 27. Nd2 {[%clk 0:00:09.1]} Qd3 {[%clk 0:00:15.6]} 28. Nb3 {[%clk 0:00:06.5]} a5 {[%clk 0:00:15.0]} 29. Qf3 {[%clk 0:00:06.5]} a4 {[%clk 0:00:15.0]} 30. Nc1 {[%clk 0:00:07.2]} Qd2 {[%clk 0:00:14.5]} 31. Ne2 {[%clk 0:00:07.5]} Bc5 {[%clk 0:00:14.9]} 32. Kh1 {[%clk 0:00:07.6]} Qxe3 {[%clk 0:00:14.9]} 33. Qg4+ {[%clk 0:00:08.4]} Kf8 {[%clk 0:00:13.0]} 34. Ng1 {[%clk 0:00:08.3]} Bd4 {[%clk 0:00:11.0]} 35. Nf3 {[%clk 0:00:07.1]} e4 {[%clk 0:00:10.2]} 36. Ng5 {[%clk 0:00:06.8]} Ke7 {[%clk 0:00:02.5]} 37. Nxf7 {[%clk 0:00:06.1]} {Black Loss on Time} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "2.1"]
+[White "Tsolakidou, Stavroula"]
+[Black "Nur Abidah, Shanti"]
+[Result "0-1"]
+[BlackCountry "ID"]
+[BlackElo "1986"]
+[BlackTeam "Gunadarma University"]
+[BlackTitle "WIM"]
+[WhiteCountry "GR"]
+[WhiteElo "2379"]
+[WhiteTeam "Saint Louis University"]
+[WhiteTitle "IM"]
+
+1. d4 {[%clk 0:03:02.0]} d5 {[%clk 0:02:53.5]} 2. c4 {[%clk 0:03:01.9]} e6 {[%clk 0:02:53.7]} 3. Nf3 {[%clk 0:03:03.0]} Nf6 {[%clk 0:02:53.4]} 4. g3 {[%clk 0:03:01.9]} c6 {[%clk 0:02:53.4]} 5. Bg2 {[%clk 0:03:02.7]} Nbd7 {[%clk 0:02:53.2]} 6. 0-0 {[%clk 0:03:03.3]} Be7 {[%clk 0:02:54.1]} 7. Qc2 {[%clk 0:03:01.0]} 0-0 {[%clk 0:02:54.5]} 8. Nbd2 {[%clk 0:03:02.0]} Qc7 {[%clk 0:02:45.4]} 9. e4 {[%clk 0:03:01.3]} dxe4 {[%clk 0:02:43.2]} 10. Nxe4 {[%clk 0:03:02.2]} e5 {[%clk 0:02:43.6]} 11. dxe5 {[%clk 0:01:56.9]} Nxe5 {[%clk 0:02:42.0]} 12. Bf4 {[%clk 0:01:51.3]} Nxf3+ {[%clk 0:02:40.7]} 13. Bxf3 {[%clk 0:01:52.1]} Qa5 {[%clk 0:02:39.8]} 14. Rfe1 {[%clk 0:01:44.5]} Bf5 {[%clk 0:02:35.8]} 15. Bd2 {[%clk 0:01:36.4]} Bxe4 {[%clk 0:02:12.1]} 16. Bxa5 {[%clk 0:01:14.5]} Bxc2 {[%clk 0:02:10.7]} 17. Rxe7 {[%clk 0:01:15.0]} Rab8 {[%clk 0:01:50.2]} 18. Bc3 {[%clk 0:01:15.2]} Rfe8 {[%clk 0:01:47.5]} 19. Rae1 {[%clk 0:01:13.3]} Rxe7 {[%clk 0:01:32.1]} 20. Rxe7 {[%clk 0:01:13.2]} Bd3 {[%clk 0:01:22.6]} 21. Be5 {[%clk 0:01:07.8]} Rd8 {[%clk 0:01:21.6]} 22. b3 {[%clk 0:00:48.6]} b5 {[%clk 0:01:07.4]} 23. Rxa7 {[%clk 0:00:13.8]} bxc4 {[%clk 0:01:06.8]} 24. bxc4 {[%clk 0:00:14.0]} Bxc4 {[%clk 0:01:06.1]} 25. Bc7 {[%clk 0:00:11.4]} Rc8 {[%clk 0:00:54.7]} 26. Be5 {[%clk 0:00:06.3]} Nd5 {[%clk 0:00:51.6]} 27. a4 {[%clk 0:00:05.2]} f6 {[%clk 0:00:49.5]} 28. Bd4 {[%clk 0:00:05.9]} Re8 {[%clk 0:00:48.2]} 29. Kg2 {[%clk 0:00:05.7]} Re1 {[%clk 0:00:47.9]} 30. h4 {[%clk 0:00:06.2]} Bf1+ {[%clk 0:00:47.0]} 31. Kh2 {[%clk 0:00:07.3]} Be2 {[%clk 0:00:31.5]} 32. Bxe2 {[%clk 0:00:07.5]} Rxe2 {[%clk 0:00:31.2]} 33. a5 {[%clk 0:00:05.8]} Rc2 {[%clk 0:00:31.2]} 34. Kg2 {[%clk 0:00:03.4]} c5 {[%clk 0:00:31.1]} 35. Rc7 {[%clk 0:00:03.9]} c4 {[%clk 0:00:29.7]} 36. a6 {[%clk 0:00:03.9]} Nxc7 {[%clk 0:00:29.1]} 37. a7 {[%clk 0:00:02.7]} Na8 {[%clk 0:00:29.4]} {White Resigned} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "2.2"]
+[White "Sargsyan, Anna M."]
+[Black "Badelka, Olga"]
+[Result "0-1"]
+[BlackElo "2428"]
+[BlackTeam "University of Missouri"]
+[BlackTitle "IM"]
+[WhiteCountry "AM"]
+[WhiteElo "2383"]
+[WhiteTeam "Armenian State Institute of Physical Culture and Sport"]
+[WhiteTitle "IM"]
+
+1. d4 {[%clk 0:03:02.0]} d5 {[%clk 0:03:00.8]} 2. c4 {[%clk 0:03:02.1]} dxc4 {[%clk 0:03:01.4]} 3. Nf3 {[%clk 0:03:02.2]} Nf6 {[%clk 0:03:02.1]} 4. e3 {[%clk 0:03:02.9]} e6 {[%clk 0:03:03.1]} 5. Bxc4 {[%clk 0:03:03.2]} a6 {[%clk 0:03:04.0]} 6. 0-0 {[%clk 0:03:01.8]} c5 {[%clk 0:03:04.5]} 7. b3 {[%clk 0:03:00.7]} Nc6 {[%clk 0:03:04.0]} 8. Bb2 {[%clk 0:03:00.3]} b5 {[%clk 0:03:03.5]} 9. Bd3 {[%clk 0:02:56.6]} Bb7 {[%clk 0:03:04.2]} 10. a4 {[%clk 0:02:51.0]} b4 {[%clk 0:03:03.4]} 11. Nbd2 {[%clk 0:02:48.5]} cxd4 {[%clk 0:03:02.1]} 12. exd4 {[%clk 0:02:47.4]} Be7 {[%clk 0:02:59.3]} 13. Nc4 {[%clk 0:02:47.9]} 0-0 {[%clk 0:02:57.1]} 14. a5 {[%clk 0:02:30.3]} Nd5 {[%clk 0:02:44.5]} 15. Re1 {[%clk 0:02:18.2]} Bf6 {[%clk 0:02:32.5]} 16. Qd2 {[%clk 0:02:05.3]} Rc8 {[%clk 0:02:23.8]} 17. Be4 {[%clk 0:01:58.6]} Nce7 {[%clk 0:02:20.7]} 18. Rad1 {[%clk 0:01:48.4]} g6 {[%clk 0:02:15.8]} 19. Nfe5 {[%clk 0:01:47.6]} Ba8 {[%clk 0:01:49.1]} 20. Bf3 {[%clk 0:01:22.4]} Bg7 {[%clk 0:01:44.9]} 21. h4 {[%clk 0:01:16.0]} h5 {[%clk 0:01:42.0]} 22. g3 {[%clk 0:01:10.9]} Nf5 {[%clk 0:01:37.8]} 23. Bg2 {[%clk 0:00:57.2]} Nd6 {[%clk 0:01:29.4]} 24. Nxd6 {[%clk 0:00:57.2]} Qxd6 {[%clk 0:01:29.4]} 25. Nc4 {[%clk 0:00:57.9]} Qd8 {[%clk 0:01:21.0]} 26. Qd3 {[%clk 0:00:46.6]} Bc6 {[%clk 0:01:09.3]} 27. Ne5 {[%clk 0:00:28.6]} Bb5 {[%clk 0:01:09.4]} 28. Qb1 {[%clk 0:00:28.2]} Nc3 {[%clk 0:00:58.4]} 29. Bxc3 {[%clk 0:00:28.5]} bxc3 {[%clk 0:00:58.6]} 30. Qa2 {[%clk 0:00:25.7]} c2 {[%clk 0:00:53.6]} 31. Rc1 {[%clk 0:00:21.7]} Qxd4 {[%clk 0:00:53.6]} 32. Nf3 {[%clk 0:00:12.7]} Qb2 {[%clk 0:00:53.1]} {White Resigned} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "2.3"]
+[White "Shuvalova, Polina"]
+[Black "Osmak, Iulija"]
+[Result "1-0"]
+[BlackCountry "UA"]
+[BlackElo "2428"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "IM"]
+[WhiteCountry "RU"]
+[WhiteElo "2476"]
+[WhiteTeam "Ural State Mining University"]
+[WhiteTitle "IM"]
+
+1. e4 {[%clk 0:03:02.0]} c6 {[%clk 0:02:59.8]} 2. Nf3 {[%clk 0:03:01.0]} d5 {[%clk 0:03:00.6]} 3. exd5 {[%clk 0:03:02.0]} cxd5 {[%clk 0:03:01.1]} 4. Ne5 {[%clk 0:03:02.4]} Nc6 {[%clk 0:02:46.2]} 5. Bb5 {[%clk 0:03:02.1]} Qc7 {[%clk 0:02:45.9]} 6. d4 {[%clk 0:02:59.9]} e6 {[%clk 0:02:44.7]} 7. 0-0 {[%clk 0:02:52.9]} Bd6 {[%clk 0:02:45.0]} 8. f4 {[%clk 0:02:52.4]} Ne7 {[%clk 0:02:44.5]} 9. c3 {[%clk 0:02:49.6]} Bd7 {[%clk 0:02:41.1]} 10. Bd3 {[%clk 0:02:48.3]} f6 {[%clk 0:02:22.5]} 11. Nxd7 {[%clk 0:02:47.6]} Qxd7 {[%clk 0:02:21.3]} 12. Qg4 {[%clk 0:02:47.8]} Nf5 {[%clk 0:02:09.6]} 13. Qf3 {[%clk 0:02:17.6]} Nce7 {[%clk 0:02:05.0]} 14. Nd2 {[%clk 0:02:17.2]} 0-0-0 {[%clk 0:01:53.1]} 15. a4 {[%clk 0:02:16.2]} g5 {[%clk 0:01:51.5]} 16. Nb3 {[%clk 0:02:13.4]} gxf4 {[%clk 0:01:44.7]} 17. Bxf4 {[%clk 0:01:54.3]} Bxf4 {[%clk 0:01:36.3]} 18. Qxf4 {[%clk 0:01:54.2]} Qd6 {[%clk 0:01:35.7]} 19. Nc5 {[%clk 0:01:47.2]} Rhg8 {[%clk 0:01:01.5]} 20. Rae1 {[%clk 0:01:42.2]} Qxf4 {[%clk 0:00:55.9]} 21. Rxf4 {[%clk 0:01:42.3]} Ng6 {[%clk 0:00:49.3]} 22. Rf2 {[%clk 0:01:31.9]} Rde8 {[%clk 0:00:15.9]} 23. Rxe6 {[%clk 0:01:16.9]} Nfh4 {[%clk 0:00:12.5]} 24. g3 {[%clk 0:01:06.6]} b6 {[%clk 0:00:09.4]} 25. Rxe8+ {[%clk 0:00:56.5]} Rxe8 {[%clk 0:00:10.2]} 26. Nb3 {[%clk 0:00:51.9]} Re1+ {[%clk 0:00:09.5]} 27. Bf1 {[%clk 0:00:51.9]} Rb1 {[%clk 0:00:06.0]} 28. gxh4 {[%clk 0:00:51.7]} Nxh4 {[%clk 0:00:07.0]} 29. a5 {[%clk 0:00:49.1]} f5 {[%clk 0:00:07.4]} 30. axb6 {[%clk 0:00:49.2]} axb6 {[%clk 0:00:08.4]} 31. h3 {[%clk 0:00:46.8]} Kd7 {[%clk 0:00:08.4]} 32. Kh2 {[%clk 0:00:44.3]} Ke6 {[%clk 0:00:09.1]} 33. Bd3 {[%clk 0:00:39.0]} Rd1 {[%clk 0:00:08.8]} 34. Bc2 {[%clk 0:00:39.2]} Re1 {[%clk 0:00:08.7]} 35. Kg3 {[%clk 0:00:39.5]} Re3+ {[%clk 0:00:05.4]} 36. Kxh4 {[%clk 0:00:38.7]} {Black Resigned} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "2.4"]
+[White "Antolak, Julia"]
+[Black "Sliwicka, Alicja"]
+[Result "0-1"]
+[BlackCountry "PL"]
+[BlackElo "2346"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "WIM"]
+[WhiteCountry "PL"]
+[WhiteElo "2306"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WGM"]
+
+1. e4 {[%clk 0:03:02.0]} c5 {[%clk 0:03:00.4]} 2. Nf3 {[%clk 0:03:02.8]} d6 {[%clk 0:03:01.3]} 3. d4 {[%clk 0:03:03.6]} cxd4 {[%clk 0:03:02.2]} 4. Nxd4 {[%clk 0:03:04.6]} Nf6 {[%clk 0:03:02.6]} 5. Nc3 {[%clk 0:03:05.6]} Bd7 {[%clk 0:03:02.8]} 6. Bg5 {[%clk 0:03:06.3]} e6 {[%clk 0:03:03.3]} 7. Ndb5 {[%clk 0:03:02.7]} Bc6 {[%clk 0:03:03.5]} 8. Bxf6 {[%clk 0:03:02.2]} gxf6 {[%clk 0:03:03.4]} 9. Qh5 {[%clk 0:02:49.8]} Qb6 {[%clk 0:02:57.0]} 10. 0-0-0 {[%clk 0:02:45.0]} Bd7 {[%clk 0:02:15.1]} 11. f4 {[%clk 0:02:21.0]} a6 {[%clk 0:02:12.8]} 12. Nd4 {[%clk 0:02:21.9]} Nc6 {[%clk 0:02:10.4]} 13. Nb3 {[%clk 0:02:19.0]} Qe3+ {[%clk 0:02:05.4]} 14. Kb1 {[%clk 0:02:19.9]} Qxf4 {[%clk 0:02:05.9]} 15. Bd3 {[%clk 0:01:53.2]} Qe5 {[%clk 0:01:54.2]} 16. Qe2 {[%clk 0:01:50.0]} h5 {[%clk 0:01:49.1]} 17. Na4 {[%clk 0:01:41.8]} b5 {[%clk 0:01:37.1]} 18. Nb6 {[%clk 0:01:42.2]} Rd8 {[%clk 0:01:36.9]} 19. Nxd7 {[%clk 0:01:41.8]} Rxd7 {[%clk 0:01:36.8]} 20. Qe3 {[%clk 0:01:40.4]} Rb7 {[%clk 0:01:32.2]} 21. c4 {[%clk 0:01:02.1]} Bh6 {[%clk 0:01:25.4]} 22. Qe2 {[%clk 0:01:02.4]} Bg7 {[%clk 0:01:19.6]} 23. Rc1 {[%clk 0:00:54.6]} Nb4 {[%clk 0:01:00.9]} 24. cxb5 {[%clk 0:00:28.2]} Nxd3 {[%clk 0:00:55.8]} 25. Rc8+ {[%clk 0:00:28.0]} Ke7 {[%clk 0:00:54.6]} 26. Rxh8 {[%clk 0:00:28.5]} Bxh8 {[%clk 0:00:55.0]} 27. bxa6 {[%clk 0:00:21.6]} Rxb3 {[%clk 0:00:42.8]} 28. axb3 {[%clk 0:00:21.6]} Nb4 {[%clk 0:00:43.2]} 29. Qc4 {[%clk 0:00:06.5]} Qa5 {[%clk 0:00:43.1]} 30. Rf1 {[%clk 0:00:06.7]} f5 {[%clk 0:00:37.8]} 31. Rf2 {[%clk 0:00:05.0]} fxe4 {[%clk 0:00:36.0]} 32. a7 {[%clk 0:00:04.6]} Qxa7 {[%clk 0:00:32.6]} 33. Re2 {[%clk 0:00:03.0]} Qa2+ {[%clk 0:00:30.5]} 34. Kc1 {[%clk 0:00:03.6]} Nd3+ {[%clk 0:00:24.8]} 35. Kd2 {[%clk 0:00:04.5]} Qxb2+ {[%clk 0:00:22.5]} 36. Ke3 {[%clk 0:00:05.3]} Qc1+ {[%clk 0:00:17.2]} 37. Qxc1 {[%clk 0:00:05.2]} Nxc1 {[%clk 0:00:17.9]} 38. Rc2 {[%clk 0:00:06.0]} Nxb3 {[%clk 0:00:18.6]} 39. Rc7+ {[%clk 0:00:06.0]} Kf6 {[%clk 0:00:15.3]} 40. Kxe4 {[%clk 0:00:06.9]} d5+ {[%clk 0:00:14.2]} 41. Ke3 {[%clk 0:00:07.6]} Kg6 {[%clk 0:00:14.2]} 42. Rc8 {[%clk 0:00:08.0]} Bg7 {[%clk 0:00:14.7]} 43. g3 {[%clk 0:00:08.6]} Nd4 {[%clk 0:00:14.9]} 44. h3 {[%clk 0:00:08.3]} Nf5+ {[%clk 0:00:15.7]} 45. Kf3 {[%clk 0:00:08.5]} d4 {[%clk 0:00:16.3]} 46. g4 {[%clk 0:00:09.4]} hxg4+ {[%clk 0:00:15.1]} 47. hxg4 {[%clk 0:00:10.0]} Ne7 {[%clk 0:00:16.0]} 48. Rd8 {[%clk 0:00:10.5]} Nd5 {[%clk 0:00:16.5]} 49. Ke4 {[%clk 0:00:10.8]} Bf6 {[%clk 0:00:15.7]} 50. Rd6 {[%clk 0:00:11.0]} Be7 {[%clk 0:00:15.2]} 51. Ra6 {[%clk 0:00:10.9]} Bf6 {[%clk 0:00:13.5]} 52. Rd6 {[%clk 0:00:10.6]} Kg5 {[%clk 0:00:13.4]} 53. Rd7 {[%clk 0:00:08.4]} Nc3+ {[%clk 0:00:13.1]} 54. Kd3 {[%clk 0:00:08.4]} Kg6 {[%clk 0:00:13.6]} 55. Rd6 {[%clk 0:00:07.1]} e5 {[%clk 0:00:14.2]} 56. Rd7 {[%clk 0:00:07.4]} e4+ {[%clk 0:00:15.2]} 57. Kd2 {[%clk 0:00:08.1]} Bg5+ {[%clk 0:00:14.3]} 58. Ke1 {[%clk 0:00:08.1]} d3 {[%clk 0:00:14.1]} 59. Rd6+ {[%clk 0:00:08.0]} f6 {[%clk 0:00:15.0]} 60. Kf2 {[%clk 0:00:07.3]} d2 {[%clk 0:00:15.8]} {White Resigned} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "3.1"]
+[White "Sliwicka, Alicja"]
+[Black "Tsolakidou, Stavroula"]
+[Result "1-0"]
+[BlackCountry "GR"]
+[BlackElo "2379"]
+[BlackTeam "Saint Louis University"]
+[BlackTitle "IM"]
+[Termination "time forfeit"]
+[WhiteCountry "PL"]
+[WhiteElo "2346"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WIM"]
+
+1. e4 {[%clk 0:03:02.0]} c5 {[%clk 0:03:00.5]} 2. Nf3 {[%clk 0:03:02.7]} d6 {[%clk 0:03:01.8]} 3. d4 {[%clk 0:03:03.4]} cxd4 {[%clk 0:03:02.9]} 4. Nxd4 {[%clk 0:03:04.2]} Nf6 {[%clk 0:03:03.0]} 5. Nc3 {[%clk 0:03:04.9]} a6 {[%clk 0:03:03.5]} 6. Nb3 {[%clk 0:03:05.3]} Nc6 {[%clk 0:02:46.8]} 7. Bd3 {[%clk 0:03:04.5]} e6 {[%clk 0:02:45.0]} 8. 0-0 {[%clk 0:03:04.1]} Be7 {[%clk 0:02:45.6]} 9. Bd2 {[%clk 0:03:04.2]} 0-0 {[%clk 0:02:46.4]} 10. f4 {[%clk 0:03:04.4]} Qc7 {[%clk 0:02:47.0]} 11. Qf3 {[%clk 0:03:04.5]} b5 {[%clk 0:01:48.9]} 12. Rae1 {[%clk 0:03:03.9]} Bb7 {[%clk 0:01:46.1]} 13. Qh3 {[%clk 0:03:03.6]} g6 {[%clk 0:01:01.1]} 14. f5 {[%clk 0:03:03.0]} b4 {[%clk 0:00:35.9]} 15. Ne2 {[%clk 0:02:40.6]} Ne5 {[%clk 0:00:35.7]} 16. fxe6 {[%clk 0:02:28.6]} Bc8 {[%clk 0:00:35.8]} 17. Nbd4 {[%clk 0:02:00.4]} fxe6 {[%clk 0:00:36.7]} 18. Nf4 {[%clk 0:01:36.6]} Qb6 {[%clk 0:00:30.4]} 19. Be3 {[%clk 0:01:23.5]} Qb7 {[%clk 0:00:30.2]} 20. Nfxe6 {[%clk 0:01:13.0]} Rf7 {[%clk 0:00:27.4]} 21. Kh1 {[%clk 0:01:03.0]} Bd7 {[%clk 0:00:26.6]} 22. Rf4 {[%clk 0:00:34.4]} Nh5 {[%clk 0:00:24.0]} 23. Rxf7 {[%clk 0:00:34.0]} Nxf7 {[%clk 0:00:24.7]} 24. Qf3 {[%clk 0:00:32.8]} Ne5 {[%clk 0:00:24.0]} 25. Qe2 {[%clk 0:00:33.1]} Nf6 {[%clk 0:00:17.3]} 26. Bg5 {[%clk 0:00:28.7]} Nf7 {[%clk 0:00:16.2]} 27. Bh4 {[%clk 0:00:28.0]} Qc8 {[%clk 0:00:05.7]} 28. Nf4 {[%clk 0:00:26.2]} Ne5 {[%clk 0:00:05.3]} 29. Rf1 {[%clk 0:00:19.2]} Qb7 {[%clk 0:00:05.6]} 30. Bxf6 {[%clk 0:00:18.4]} Bxf6 {[%clk 0:00:06.1]} 31. Nd5 {[%clk 0:00:19.3]} Bg7 {[%clk 0:00:07.2]} 32. Nf6+ {[%clk 0:00:17.0]} Bxf6 {[%clk 0:00:07.8]} 33. Rxf6 {[%clk 0:00:17.7]} Rf8 {[%clk 0:00:08.7]} 34. Rxf8+ {[%clk 0:00:18.4]} Kxf8 {[%clk 0:00:09.3]} 35. Nf3 {[%clk 0:00:19.1]} Kg7 {[%clk 0:00:07.8]} 36. Nxe5 {[%clk 0:00:19.5]} dxe5 {[%clk 0:00:09.0]} 37. Qf2 {[%clk 0:00:16.2]} Be6 {[%clk 0:00:08.3]} 38. Qc5 {[%clk 0:00:16.3]} Qf7 {[%clk 0:00:05.9]} 39. Qxe5+ {[%clk 0:00:16.4]} Kg8 {[%clk 0:00:06.2]} 40. Qb8+ {[%clk 0:00:16.5]} Kg7 {[%clk 0:00:06.9]} 41. Qe5+ {[%clk 0:00:16.7]} Kg8 {[%clk 0:00:07.1]} 42. Qg3 {[%clk 0:00:17.3]} a5 {[%clk 0:00:06.1]} 43. b3 {[%clk 0:00:17.1]} Qf6 {[%clk 0:00:05.9]} 44. h3 {[%clk 0:00:16.6]} Bf7 {[%clk 0:00:04.2]} 45. e5 {[%clk 0:00:16.7]} Qe7 {[%clk 0:00:03.6]} 46. Qe3 {[%clk 0:00:17.0]} Be6 {[%clk 0:00:03.7]} 47. Qd4 {[%clk 0:00:17.4]} Qg5 {[%clk 0:00:02.8]} 48. Bc4 {[%clk 0:00:16.3]} {Black Loss on Time} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "3.2"]
+[White "Osmak, Iulija"]
+[Black "Antolak, Julia"]
+[Result "1/2-1/2"]
+[BlackCountry "PL"]
+[BlackElo "2306"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "WGM"]
+[WhiteCountry "UA"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "IM"]
+
+1. d4 {[%clk 0:03:02.0]} Nf6 {[%clk 0:02:59.8]} 2. Bf4 {[%clk 0:03:02.6]} d6 {[%clk 0:02:59.7]} 3. Nc3 {[%clk 0:02:59.6]} Nbd7 {[%clk 0:02:52.6]} 4. Nf3 {[%clk 0:02:58.6]} g6 {[%clk 0:02:48.9]} 5. e4 {[%clk 0:02:58.2]} Bg7 {[%clk 0:02:49.7]} 6. Qd2 {[%clk 0:02:47.4]} c5 {[%clk 0:02:48.7]} 7. d5 {[%clk 0:02:09.1]} a6 {[%clk 0:02:48.8]} 8. a4 {[%clk 0:02:08.9]} Rb8 {[%clk 0:02:47.3]} 9. a5 {[%clk 0:02:01.9]} b5 {[%clk 0:02:45.3]} 10. axb6 {[%clk 0:02:02.1]} Qxb6 {[%clk 0:02:45.6]} 11. Ra2 {[%clk 0:01:53.5]} Qb4 {[%clk 0:02:35.9]} 12. Bd3 {[%clk 0:01:47.6]} c4 {[%clk 0:02:18.3]} 13. Be2 {[%clk 0:01:44.9]} Nc5 {[%clk 0:02:19.2]} 14. e5 {[%clk 0:01:41.7]} Nfe4 {[%clk 0:01:46.8]} 15. Nxe4 {[%clk 0:01:41.1]} Nxe4 {[%clk 0:01:47.4]} 16. Qxb4 {[%clk 0:01:37.5]} Rxb4 {[%clk 0:01:47.7]} 17. c3 {[%clk 0:01:28.8]} Rb6 {[%clk 0:01:27.1]} 18. 0-0 {[%clk 0:01:23.4]} 0-0 {[%clk 0:01:21.4]} 19. Bxc4 {[%clk 0:01:14.8]} dxe5 {[%clk 0:01:22.0]} 20. Bxe5 {[%clk 0:01:07.1]} Bxe5 {[%clk 0:01:13.1]} 21. Nxe5 {[%clk 0:01:07.2]} Nf6 {[%clk 0:01:13.0]} 22. b4 {[%clk 0:00:56.3]} Bb7 {[%clk 0:01:12.0]} 23. Rd1 {[%clk 0:00:52.9]} Rd6 {[%clk 0:01:11.2]} 24. Ra5 {[%clk 0:00:47.6]} Rfd8 {[%clk 0:01:09.7]} 25. h3 {[%clk 0:00:29.8]} Nxd5 {[%clk 0:01:04.0]} 26. Bxd5 {[%clk 0:00:25.2]} Bxd5 {[%clk 0:00:28.0]} 27. c4 {[%clk 0:00:25.6]} Bb7 {[%clk 0:00:28.5]} 28. Rxd6 {[%clk 0:00:26.1]} exd6 {[%clk 0:00:29.3]} 29. Nd3 {[%clk 0:00:22.6]} Rc8 {[%clk 0:00:29.8]} 30. c5 {[%clk 0:00:20.4]} Be4 {[%clk 0:00:18.3]} 31. Nf4 {[%clk 0:00:15.4]} dxc5 {[%clk 0:00:17.8]} 32. bxc5 {[%clk 0:00:15.9]} Kg7 {[%clk 0:00:14.4]} 33. f3 {[%clk 0:00:16.6]} Bb7 {[%clk 0:00:13.8]} 34. Nd3 {[%clk 0:00:13.5]} Kf6 {[%clk 0:00:10.5]} 35. Kf2 {[%clk 0:00:13.9]} Ke7 {[%clk 0:00:11.1]} 36. Ke3 {[%clk 0:00:14.7]} f6 {[%clk 0:00:09.4]} 37. Kd4 {[%clk 0:00:14.8]} Kd7 {[%clk 0:00:09.8]} 38. Ra1 {[%clk 0:00:08.0]} Kc7 {[%clk 0:00:09.6]} 39. Nb4 {[%clk 0:00:08.3]} Rd8+ {[%clk 0:00:09.9]} 40. Kc3 {[%clk 0:00:08.2]} Ra8 {[%clk 0:00:10.4]} 41. Ra5 {[%clk 0:00:07.7]} Kd7 {[%clk 0:00:07.9]} 42. Kc4 {[%clk 0:00:07.7]} Kc7 {[%clk 0:00:08.6]} 43. Nd5+ {[%clk 0:00:08.1]} Kc6 {[%clk 0:00:04.1]} 44. Nxf6 {[%clk 0:00:07.8]} Rd8 {[%clk 0:00:04.4]} 45. Ne4 {[%clk 0:00:08.1]} Rd1 {[%clk 0:00:04.8]} 46. Nf6 {[%clk 0:00:06.5]} Rc1+ {[%clk 0:00:04.8]} 47. Kd3 {[%clk 0:00:06.6]} Rxc5 {[%clk 0:00:05.2]} 48. Rxc5+ {[%clk 0:00:06.7]} Kxc5 {[%clk 0:00:06.1]} 49. Nxh7 {[%clk 0:00:07.7]} a5 {[%clk 0:00:06.7]} 50. Kc3 {[%clk 0:00:08.7]} a4 {[%clk 0:00:06.8]} 51. h4 {[%clk 0:00:09.0]} Kd6 {[%clk 0:00:04.6]} 52. Nf8 {[%clk 0:00:09.4]} Ke5 {[%clk 0:00:03.7]} 53. Nxg6+ {[%clk 0:00:10.1]} Kf5 {[%clk 0:00:04.5]} 54. Ne7+ {[%clk 0:00:10.3]} Kf4 {[%clk 0:00:04.9]} 55. h5 {[%clk 0:00:11.0]} Kg5 {[%clk 0:00:04.7]} 56. Ng8 {[%clk 0:00:08.9]} Kxh5 {[%clk 0:00:04.7]} 57. Nf6+ {[%clk 0:00:08.9]} Kg5 {[%clk 0:00:04.6]} 58. Nd7 {[%clk 0:00:08.3]} Kf4 {[%clk 0:00:04.8]} 59. Nc5 {[%clk 0:00:09.1]} Bxf3 {[%clk 0:00:04.2]} 60. Nd3+ {[%clk 0:00:08.2]} Kg3 {[%clk 0:00:04.0]} 61. gxf3 {[%clk 0:00:09.3]} Kxf3 {[%clk 0:00:04.8]} 62. Kb4 {[%clk 0:00:10.2]} a3 {[%clk 0:00:05.6]} 63. Kxa3 {[%clk 0:00:11.0]} {Draw by Insufficient Material} 1/2-1/2
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "3.3"]
+[White "Badelka, Olga"]
+[Black "Shuvalova, Polina"]
+[Result "1/2-1/2"]
+[BlackCountry "RU"]
+[BlackElo "2476"]
+[BlackTeam "Ural State Mining University"]
+[BlackTitle "IM"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Missouri"]
+[WhiteTitle "IM"]
+
+1. d4 {[%clk 0:03:02.0]} Nf6 {[%clk 0:02:59.7]} 2. c4 {[%clk 0:03:02.7]} e6 {[%clk 0:02:59.5]} 3. Nc3 {[%clk 0:03:03.2]} Bb4 {[%clk 0:02:52.7]} 4. Bd2 {[%clk 0:03:03.8]} 0-0 {[%clk 0:02:49.5]} 5. e3 {[%clk 0:03:04.4]} b6 {[%clk 0:02:48.1]} 6. Nf3 {[%clk 0:02:59.7]} Bb7 {[%clk 0:02:48.7]} 7. Bd3 {[%clk 0:02:58.3]} c5 {[%clk 0:02:45.5]} 8. dxc5 {[%clk 0:02:52.2]} bxc5 {[%clk 0:02:40.1]} 9. a3 {[%clk 0:02:50.8]} Ba5 {[%clk 0:02:36.7]} 10. 0-0 {[%clk 0:02:29.4]} Nc6 {[%clk 0:02:27.5]} 11. Rc1 {[%clk 0:02:24.3]} Rb8 {[%clk 0:02:27.2]} 12. Nb5 {[%clk 0:02:13.1]} Bxd2 {[%clk 0:02:21.6]} 13. Qxd2 {[%clk 0:02:09.0]} Qe7 {[%clk 0:02:11.3]} 14. Rfd1 {[%clk 0:02:06.6]} Rfd8 {[%clk 0:01:56.9]} 15. Be2 {[%clk 0:02:03.6]} d5 {[%clk 0:01:51.6]} 16. cxd5 {[%clk 0:02:03.4]} exd5 {[%clk 0:01:49.5]} 17. Qc2 {[%clk 0:01:57.8]} a6 {[%clk 0:01:37.1]} 18. Nc3 {[%clk 0:01:49.4]} d4 {[%clk 0:01:33.5]} 19. Na4 {[%clk 0:01:39.8]} dxe3 {[%clk 0:01:31.7]} 20. Qxc5 {[%clk 0:01:22.4]} exf2+ {[%clk 0:01:23.6]} 21. Kf1 {[%clk 0:01:06.0]} Rxd1+ {[%clk 0:00:56.1]} 22. Rxd1 {[%clk 0:01:05.1]} Ng4 {[%clk 0:00:49.2]} 23. Qxe7 {[%clk 0:01:02.1]} Nxe7 {[%clk 0:00:49.6]} 24. Rd7 {[%clk 0:00:23.2]} Nf5 {[%clk 0:00:46.9]} 25. Rd3 {[%clk 0:00:09.7]} Bc6 {[%clk 0:00:35.0]} 26. Nc3 {[%clk 0:00:08.8]} Nfe3+ {[%clk 0:00:29.1]} 27. Rxe3 {[%clk 0:00:09.5]} Nxe3+ {[%clk 0:00:29.9]} 28. Kxf2 {[%clk 0:00:10.5]} Ng4+ {[%clk 0:00:28.1]} 29. Kg3 {[%clk 0:00:10.8]} Nf6 {[%clk 0:00:28.6]} 30. b4 {[%clk 0:00:09.4]} Ne4+ {[%clk 0:00:29.1]} 31. Nxe4 {[%clk 0:00:09.5]} Bxe4 {[%clk 0:00:29.3]} 32. Bxa6 {[%clk 0:00:09.8]} Kf8 {[%clk 0:00:16.1]} 33. Kf4 {[%clk 0:00:09.8]} Bc6 {[%clk 0:00:10.6]} 34. g3 {[%clk 0:00:09.9]} Ke7 {[%clk 0:00:09.8]} 35. Nd4 {[%clk 0:00:09.3]} Bd7 {[%clk 0:00:09.8]} 36. b5 {[%clk 0:00:09.1]} Kd6 {[%clk 0:00:09.1]} 37. a4 {[%clk 0:00:09.2]} Kc5 {[%clk 0:00:09.5]} 38. Nf5 {[%clk 0:00:06.8]} g6 {[%clk 0:00:09.0]} 39. Ne7 {[%clk 0:00:06.1]} Re8 {[%clk 0:00:08.0]} 40. Nc6 {[%clk 0:00:06.6]} Ra8 {[%clk 0:00:03.7]} 41. Ne5 {[%clk 0:00:06.8]} Be6 {[%clk 0:00:03.7]} 42. Kg5 {[%clk 0:00:06.8]} Kb4 {[%clk 0:00:04.3]} 43. Kf6 {[%clk 0:00:07.3]} Kxa4 {[%clk 0:00:04.4]} 44. Nxf7 {[%clk 0:00:07.9]} Bxf7 {[%clk 0:00:05.1]} 45. Kxf7 {[%clk 0:00:08.8]} Ra7+ {[%clk 0:00:06.2]} 46. Ke6 {[%clk 0:00:08.7]} Ka5 {[%clk 0:00:06.9]} 47. Kd6 {[%clk 0:00:08.4]} Kb6 {[%clk 0:00:07.6]} 48. Ke5 {[%clk 0:00:08.2]} Rc7 {[%clk 0:00:07.6]} 49. Kf4 {[%clk 0:00:08.2]} Rc2 {[%clk 0:00:06.5]} 50. h4 {[%clk 0:00:08.7]} Rc3 {[%clk 0:00:06.7]} 51. Kg4 {[%clk 0:00:09.1]} h5+ {[%clk 0:00:05.2]} 52. Kf4 {[%clk 0:00:09.7]} Kc5 {[%clk 0:00:05.6]} 53. Bc8 {[%clk 0:00:08.8]} Kxb5 {[%clk 0:00:04.1]} 54. Be6 {[%clk 0:00:09.3]} Kc5 {[%clk 0:00:03.8]} 55. Bf7 {[%clk 0:00:10.0]} Ra3 {[%clk 0:00:03.0]} 56. Bxg6 {[%clk 0:00:10.4]} Kd6 {[%clk 0:00:03.6]} 57. Bxh5 {[%clk 0:00:10.5]} Ke7 {[%clk 0:00:04.5] White offered a draw.} 58. Bg4 {[%clk 0:00:07.8]} {Agreed a Draw} 1/2-1/2
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "3.4"]
+[White "Nur Abidah, Shanti"]
+[Black "Sargsyan, Anna M."]
+[Result "0-1"]
+[BlackCountry "AM"]
+[BlackElo "2383"]
+[BlackTeam "Armenian State Institute of Physical Culture and Sport"]
+[BlackTitle "IM"]
+[WhiteCountry "ID"]
+[WhiteElo "1986"]
+[WhiteTeam "Gunadarma University"]
+[WhiteTitle "WIM"]
+
+1. e4 {[%clk 0:03:02.0]} c6 {[%clk 0:02:58.0]} 2. d4 {[%clk 0:03:02.1]} d5 {[%clk 0:02:58.9]} 3. Nc3 {[%clk 0:02:59.2]} dxe4 {[%clk 0:02:58.9]} 4. Nxe4 {[%clk 0:02:59.8]} Bf5 {[%clk 0:02:59.4]} 5. Ng3 {[%clk 0:02:59.8]} Bg6 {[%clk 0:02:59.6]} 6. Nf3 {[%clk 0:02:59.6]} e6 {[%clk 0:02:56.2]} 7. h4 {[%clk 0:02:59.7]} h6 {[%clk 0:02:56.7]} 8. Ne5 {[%clk 0:02:52.8]} Bh7 {[%clk 0:02:56.8]} 9. Bf4 {[%clk 0:02:52.3]} Nf6 {[%clk 0:02:52.6]} 10. c4 {[%clk 0:02:11.0]} Bb4+ {[%clk 0:02:37.0]} 11. Bd2 {[%clk 0:02:09.7]} Qxd4 {[%clk 0:02:14.9]} 12. Bxb4 {[%clk 0:02:09.2]} Qxe5+ {[%clk 0:02:15.0]} 13. Be2 {[%clk 0:02:09.9]} c5 {[%clk 0:02:07.2]} 14. Bc3 {[%clk 0:02:09.0]} Qc7 {[%clk 0:01:39.2]} 15. Bf3 {[%clk 0:02:09.3]} Nbd7 {[%clk 0:01:38.6]} 16. Qb3 {[%clk 0:01:50.3]} Rb8 {[%clk 0:01:38.3]} 17. Qa4 {[%clk 0:01:40.2]} 0-0 {[%clk 0:01:26.0]} 18. Qxa7 {[%clk 0:01:37.1]} Ne5 {[%clk 0:01:25.5]} 19. Qa4 {[%clk 0:01:16.1]} Nd3+ {[%clk 0:01:17.9]} 20. Kf1 {[%clk 0:01:12.2]} Ne5 {[%clk 0:01:11.1]} 21. Rd1 {[%clk 0:01:00.1]} Rfd8 {[%clk 0:01:05.5]} 22. Ke2 {[%clk 0:00:58.5]} Bd3+ {[%clk 0:01:03.1]} 23. Ke3 {[%clk 0:00:59.1]} Nxc4+ {[%clk 0:00:54.7]} 24. Qxc4 {[%clk 0:00:49.9]} Bxc4 {[%clk 0:00:55.4]} 25. Rxd8+ {[%clk 0:00:49.9]} Rxd8 {[%clk 0:00:55.6]} 26. Ne4 {[%clk 0:00:49.3]} Rd3+ {[%clk 0:00:54.7]} 27. Ke2 {[%clk 0:00:48.8]} Rxc3+ {[%clk 0:00:55.4]} {White Resigned} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "4.1"]
+[White "Tsolakidou, Stavroula"]
+[Black "Sargsyan, Anna M."]
+[Result "0-1"]
+[BlackCountry "AM"]
+[BlackElo "2383"]
+[BlackTeam "Armenian State Institute of Physical Culture and Sport"]
+[BlackTitle "IM"]
+[Termination "time forfeit"]
+[WhiteCountry "GR"]
+[WhiteElo "2379"]
+[WhiteTeam "Saint Louis University"]
+[WhiteTitle "IM"]
+
+1. Nf3 {[%clk 0:03:02.0]} d5 {[%clk 0:02:56.7]} 2. g3 {[%clk 0:03:02.6]} Nf6 {[%clk 0:02:44.6]} 3. Bg2 {[%clk 0:03:03.6]} Bg4 {[%clk 0:02:45.2]} 4. h3 {[%clk 0:02:59.9]} Bh5 {[%clk 0:02:44.8]} 5. 0-0 {[%clk 0:02:57.8]} Nbd7 {[%clk 0:02:44.9]} 6. c4 {[%clk 0:02:56.9]} c6 {[%clk 0:02:38.8]} 7. d4 {[%clk 0:02:57.6]} e6 {[%clk 0:02:37.0]} 8. Qb3 {[%clk 0:02:57.9]} Qb6 {[%clk 0:02:31.0]} 9. Nc3 {[%clk 0:02:48.8]} Be7 {[%clk 0:02:25.9]} 10. Nh4 {[%clk 0:02:48.2]} Qxd4 {[%clk 0:02:01.1]} 11. Qxb7 {[%clk 0:02:18.2]} 0-0 {[%clk 0:02:00.2]} 12. g4 {[%clk 0:02:05.8]} Qxc4 {[%clk 0:01:38.6]} 13. gxh5 {[%clk 0:01:32.7]} Qxh4 {[%clk 0:01:25.1]} 14. Qxc6 {[%clk 0:01:30.0]} Rfc8 {[%clk 0:01:07.5]} 15. Qb5 {[%clk 0:01:26.0]} Qxh5 {[%clk 0:01:04.3]} 16. Qd3 {[%clk 0:01:24.7]} Ne5 {[%clk 0:00:59.6]} 17. Qg3 {[%clk 0:01:22.1]} Nc4 {[%clk 0:00:46.7]} 18. e4 {[%clk 0:00:57.2]} d4 {[%clk 0:00:28.1]} 19. e5 {[%clk 0:00:40.5]} Nxe5 {[%clk 0:00:27.5]} 20. Nb5 {[%clk 0:00:37.6]} Rab8 {[%clk 0:00:25.5]} 21. Nxd4 {[%clk 0:00:37.5]} Rc4 {[%clk 0:00:20.8]} 22. Be3 {[%clk 0:00:32.5]} Rbc8 {[%clk 0:00:17.4]} 23. Nb5 {[%clk 0:00:23.9]} a6 {[%clk 0:00:15.2]} 24. Nc3 {[%clk 0:00:17.7]} Bd6 {[%clk 0:00:12.6]} 25. Rad1 {[%clk 0:00:16.0]} Bb8 {[%clk 0:00:12.6]} 26. f4 {[%clk 0:00:16.1]} Nc6 {[%clk 0:00:04.6]} 27. Bf3 {[%clk 0:00:17.0]} Qg6 {[%clk 0:00:05.5]} 28. Qxg6 {[%clk 0:00:15.1]} hxg6 {[%clk 0:00:06.4]} 29. Be2 {[%clk 0:00:15.7]} Rb4 {[%clk 0:00:06.3]} 30. Bxa6 {[%clk 0:00:16.6]} Rf8 {[%clk 0:00:05.9]} 31. Bc5 {[%clk 0:00:14.9]} Rxb2 {[%clk 0:00:06.2]} 32. Bxf8 {[%clk 0:00:14.7]} Kxf8 {[%clk 0:00:07.0]} 33. Bb5 {[%clk 0:00:09.7]} Ba7+ {[%clk 0:00:07.5]} 34. Kh1 {[%clk 0:00:10.2]} Nd4 {[%clk 0:00:08.3]} 35. Bd3 {[%clk 0:00:08.9]} Nh5 {[%clk 0:00:08.8]} 36. Ne4 {[%clk 0:00:06.6]} Nf5 {[%clk 0:00:08.4]} 37. Rf3 {[%clk 0:00:02.5]} Be3 {[%clk 0:00:07.8]} 38. Rb1 {[%clk 0:00:02.0]} Rxa2 {[%clk 0:00:08.0]} {White Loss on Time} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "4.2"]
+[White "Shuvalova, Polina"]
+[Black "Nur Abidah, Shanti"]
+[Result "1-0"]
+[BlackCountry "ID"]
+[BlackElo "1986"]
+[BlackTeam "Gunadarma University"]
+[BlackTitle "WIM"]
+[WhiteCountry "RU"]
+[WhiteElo "2476"]
+[WhiteTeam "Ural State Mining University"]
+[WhiteTitle "IM"]
+
+1. e4 {[%clk 0:03:02.0]} d5 {[%clk 0:02:59.5]} 2. exd5 {[%clk 0:03:02.2]} Qxd5 {[%clk 0:02:58.9]} 3. d4 {[%clk 0:03:02.3]} e5 {[%clk 0:02:56.6]} 4. Nc3 {[%clk 0:02:53.6]} Qxd4 {[%clk 0:02:56.3]} 5. Qxd4 {[%clk 0:02:54.1]} exd4 {[%clk 0:02:56.9]} 6. Nb5 {[%clk 0:02:54.9]} Na6 {[%clk 0:02:57.3]} 7. Nxd4 {[%clk 0:02:52.3]} Bc5 {[%clk 0:02:53.7]} 8. Ngf3 {[%clk 0:02:51.7]} Bg4 {[%clk 0:02:53.1]} 9. Bxa6 {[%clk 0:02:50.3]} bxa6 {[%clk 0:02:52.4]} 10. 0-0 {[%clk 0:02:50.5]} 0-0-0 {[%clk 0:02:52.8]} 11. c3 {[%clk 0:02:42.0]} Ne7 {[%clk 0:02:48.1]} 12. h3 {[%clk 0:02:39.9]} Bh5 {[%clk 0:02:26.4]} 13. Bg5 {[%clk 0:02:38.3]} f6 {[%clk 0:02:26.1]} 14. Be3 {[%clk 0:02:28.3]} Nd5 {[%clk 0:02:07.5]} 15. Bd2 {[%clk 0:02:16.9]} Bb6 {[%clk 0:02:01.2]} 16. Rfe1 {[%clk 0:02:14.3]} Rhe8 {[%clk 0:01:57.2]} 17. Rxe8 {[%clk 0:01:59.7]} Rxe8 {[%clk 0:01:54.5]} 18. c4 {[%clk 0:01:59.6]} Bxd4 {[%clk 0:01:45.7]} 19. Nxd4 {[%clk 0:01:58.2]} Nb6 {[%clk 0:01:45.3]} 20. b3 {[%clk 0:01:55.6]} c5 {[%clk 0:01:37.3]} 21. Nf5 {[%clk 0:01:54.9]} Re2 {[%clk 0:01:29.3]} 22. Be3 {[%clk 0:01:53.1]} Bg6 {[%clk 0:01:25.5]} 23. Ne7+ {[%clk 0:01:19.3]} Kd7 {[%clk 0:01:19.0]} 24. Nxg6 {[%clk 0:01:18.6]} hxg6 {[%clk 0:01:19.7]} 25. Bxc5 {[%clk 0:01:19.0]} g5 {[%clk 0:01:15.4]} 26. Be3 {[%clk 0:01:16.8]} Kc6 {[%clk 0:01:14.0]} 27. Kf1 {[%clk 0:01:16.1]} Rc2 {[%clk 0:01:13.2]} 28. Ke1 {[%clk 0:01:14.8]} a5 {[%clk 0:00:44.8]} 29. Kd1 {[%clk 0:01:14.2]} Rb2 {[%clk 0:00:43.2]} 30. Bd4 {[%clk 0:01:14.5]} Nxc4 {[%clk 0:00:42.3]} 31. Bxb2 {[%clk 0:01:13.4]} Nxb2+ {[%clk 0:00:43.0]} 32. Kc2 {[%clk 0:01:14.0]} {Black Resigned} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "4.3"]
+[White "Antolak, Julia"]
+[Black "Badelka, Olga"]
+[Result "0-1"]
+[BlackElo "2428"]
+[BlackTeam "University of Missouri"]
+[BlackTitle "IM"]
+[WhiteCountry "PL"]
+[WhiteElo "2306"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WGM"]
+
+1. e4 {[%clk 0:03:02.0]} c5 {[%clk 0:03:00.7]} 2. Nf3 {[%clk 0:03:02.3]} Nc6 {[%clk 0:03:01.5]} 3. Bb5 {[%clk 0:03:02.5]} e6 {[%clk 0:03:01.6]} 4. Bxc6 {[%clk 0:03:03.2]} bxc6 {[%clk 0:03:02.5]} 5. b3 {[%clk 0:03:04.0]} d6 {[%clk 0:03:02.3]} 6. e5 {[%clk 0:03:02.9]} f6 {[%clk 0:03:03.1]} 7. exd6 {[%clk 0:03:02.8]} e5 {[%clk 0:03:04.1]} 8. 0-0 {[%clk 0:02:58.5]} Bxd6 {[%clk 0:03:04.4]} 9. h3 {[%clk 0:02:48.3]} Ne7 {[%clk 0:03:03.9]} 10. d3 {[%clk 0:02:48.5]} 0-0 {[%clk 0:03:01.7]} 11. Nbd2 {[%clk 0:02:48.7]} Nd5 {[%clk 0:03:00.5]} 12. Ne4 {[%clk 0:02:40.3]} Be7 {[%clk 0:02:35.6]} 13. Bb2 {[%clk 0:02:26.9]} Qe8 {[%clk 0:02:27.7]} 14. c4 {[%clk 0:02:22.7]} Nf4 {[%clk 0:02:23.4]} 15. Bc1 {[%clk 0:02:18.5]} Ne6 {[%clk 0:02:16.1]} 16. Be3 {[%clk 0:02:17.1]} Nd4 {[%clk 0:02:13.5]} 17. b4 {[%clk 0:01:33.9]} Nxf3+ {[%clk 0:02:05.1]} 18. Qxf3 {[%clk 0:01:34.4]} cxb4 {[%clk 0:02:04.4]} 19. Nc5 {[%clk 0:01:23.2]} a5 {[%clk 0:01:51.7]} 20. Rfd1 {[%clk 0:01:13.4]} f5 {[%clk 0:01:51.2]} 21. d4 {[%clk 0:01:08.8]} e4 {[%clk 0:01:43.5]} 22. Qe2 {[%clk 0:01:01.5]} f4 {[%clk 0:01:40.5]} 23. Bc1 {[%clk 0:01:01.7]} Bxc5 {[%clk 0:01:36.7]} 24. dxc5 {[%clk 0:01:02.4]} f3 {[%clk 0:01:37.0]} 25. Qe3 {[%clk 0:00:54.4]} fxg2 {[%clk 0:00:50.8]} 26. Bb2 {[%clk 0:00:54.7]} Qf7 {[%clk 0:00:48.2]} 27. Rd2 {[%clk 0:00:43.1]} Be6 {[%clk 0:00:47.7]} 28. Qxe4 {[%clk 0:00:37.5]} Bxc4 {[%clk 0:00:42.6]} 29. Rad1 {[%clk 0:00:32.5]} Bd5 {[%clk 0:00:40.1]} 30. Qg4 {[%clk 0:00:28.6]} Rae8 {[%clk 0:00:38.8]} 31. Bd4 {[%clk 0:00:20.8]} Bf3 {[%clk 0:00:37.7]} {White Resigned} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "4.4"]
+[White "Sliwicka, Alicja"]
+[Black "Osmak, Iulija"]
+[Result "0-1"]
+[BlackCountry "UA"]
+[BlackElo "2428"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "IM"]
+[WhiteCountry "PL"]
+[WhiteElo "2346"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WIM"]
+
+1. e4 {[%clk 0:03:02.0]} c6 {[%clk 0:03:00.4]} 2. d4 {[%clk 0:03:01.9]} d5 {[%clk 0:03:01.3]} 3. e5 {[%clk 0:03:02.8]} c5 {[%clk 0:03:01.0]} 4. dxc5 {[%clk 0:03:03.3]} e6 {[%clk 0:03:00.2]} 5. Be3 {[%clk 0:02:53.6]} Ne7 {[%clk 0:02:47.9]} 6. c3 {[%clk 0:02:34.4]} Nf5 {[%clk 0:02:47.1]} 7. Bd4 {[%clk 0:02:33.3]} Be7 {[%clk 0:02:30.6]} 8. Nf3 {[%clk 0:02:31.5]} 0-0 {[%clk 0:02:27.5]} 9. Bd3 {[%clk 0:02:30.9]} Nd7 {[%clk 0:02:25.4]} 10. Bxf5 {[%clk 0:02:13.2]} exf5 {[%clk 0:02:24.9]} 11. b4 {[%clk 0:02:12.9]} Re8 {[%clk 0:02:13.5]} 12. 0-0 {[%clk 0:02:12.9]} Nf8 {[%clk 0:02:14.0]} 13. Re1 {[%clk 0:02:05.8]} f4 {[%clk 0:02:14.0]} 14. Nbd2 {[%clk 0:01:40.3]} Bf5 {[%clk 0:02:12.5]} 15. c4 {[%clk 0:01:38.6]} Ne6 {[%clk 0:02:06.7]} 16. Rc1 {[%clk 0:01:29.8]} a5 {[%clk 0:01:31.7]} 17. a3 {[%clk 0:01:30.0]} dxc4 {[%clk 0:01:26.6]} 18. Nxc4 {[%clk 0:01:27.8]} axb4 {[%clk 0:01:25.3]} 19. axb4 {[%clk 0:01:24.8]} Bg4 {[%clk 0:01:23.0]} 20. Nd6 {[%clk 0:01:13.9]} Bxf3 {[%clk 0:01:19.5]} 21. gxf3 {[%clk 0:01:14.0]} Bxd6 {[%clk 0:00:58.3]} 22. exd6 {[%clk 0:01:11.7]} Qg5+ {[%clk 0:00:46.6]} 23. Kh1 {[%clk 0:01:11.2]} Qh5 {[%clk 0:00:39.9]} 24. Re5 {[%clk 0:00:54.3]} Qh3 {[%clk 0:00:35.1]} 25. Rd5 {[%clk 0:00:37.5]} Red8 {[%clk 0:00:26.4]} 26. Bb2 {[%clk 0:00:34.5]} Ra2 {[%clk 0:00:22.6]} 27. Rc2 {[%clk 0:00:31.9]} h6 {[%clk 0:00:11.8]} 28. b5 {[%clk 0:00:31.8]} Ng5 {[%clk 0:00:12.4]} 29. Rd3 {[%clk 0:00:23.2]} h5 {[%clk 0:00:05.5]} 30. Qe2 {[%clk 0:00:15.4]} Kh7 {[%clk 0:00:04.6]} 31. Rcd2 {[%clk 0:00:14.0]} f6 {[%clk 0:00:04.9]} 32. Rc2 {[%clk 0:00:09.8]} b6 {[%clk 0:00:02.2]} 33. c6 {[%clk 0:00:09.9]} Rxd6 {[%clk 0:00:03.1]} 34. Qd2 {[%clk 0:00:07.5]} Nxf3 {[%clk 0:00:02.7]} 35. Rxf3 {[%clk 0:00:06.8]} Qxf3+ {[%clk 0:00:03.2]} 36. Kg1 {[%clk 0:00:06.7]} Rxd2 {[%clk 0:00:03.5]} 37. Rxd2 {[%clk 0:00:07.8]} Qg4+ {[%clk 0:00:04.3]} 38. Kf1 {[%clk 0:00:08.2]} Qh3+ {[%clk 0:00:04.7]} 39. Ke2 {[%clk 0:00:08.5]} Qe6+ {[%clk 0:00:05.3]} 40. Kf1 {[%clk 0:00:09.0]} Qc4+ {[%clk 0:00:05.9]} 41. Kg2 {[%clk 0:00:09.2]} Qxb5 {[%clk 0:00:06.8]} 42. Rc2 {[%clk 0:00:10.2]} Rxb2 {[%clk 0:00:06.8]} 43. Rxb2 {[%clk 0:00:09.4]} Qxb2 {[%clk 0:00:07.6]} 44. c7 {[%clk 0:00:10.5]} Qc3 {[%clk 0:00:08.4]} {White Resigned} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "5.1"]
+[White "Osmak, Iulija"]
+[Black "Tsolakidou, Stavroula"]
+[Result "1-0"]
+[BlackCountry "GR"]
+[BlackElo "2379"]
+[BlackTeam "Saint Louis University"]
+[BlackTitle "IM"]
+[Termination "time forfeit"]
+[WhiteCountry "UA"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "IM"]
+
+1. b4 {[%clk 0:03:02.0]} e5 {[%clk 0:02:59.1]} 2. Bb2 {[%clk 0:03:02.8]} e4 {[%clk 0:02:59.8]} 3. e3 {[%clk 0:03:01.5]} d5 {[%clk 0:03:00.7]} 4. b5 {[%clk 0:03:01.0]} Nf6 {[%clk 0:03:01.1]} 5. d4 {[%clk 0:03:01.4]} c6 {[%clk 0:02:58.3]} 6. c4 {[%clk 0:02:59.6]} Bd6 {[%clk 0:02:57.1]} 7. Nc3 {[%clk 0:02:59.4]} 0-0 {[%clk 0:02:54.7]} 8. a4 {[%clk 0:02:59.2]} Bf5 {[%clk 0:02:48.0]} 9. Qb3 {[%clk 0:02:56.5]} dxc4 {[%clk 0:02:30.3]} 10. Bxc4 {[%clk 0:02:56.2]} Nbd7 {[%clk 0:02:31.1]} 11. Nge2 {[%clk 0:02:48.2]} Ng4 {[%clk 0:02:31.9]} 12. Ng3 {[%clk 0:02:43.4]} Qh4 {[%clk 0:00:44.2]} 13. Ncxe4 {[%clk 0:02:38.0]} Bxe4 {[%clk 0:00:19.1]} 14. Nxe4 {[%clk 0:02:37.9]} Be7 {[%clk 0:00:15.1]} 15. Ng3 {[%clk 0:02:31.4]} Rae8 {[%clk 0:00:11.5]} 16. Be2 {[%clk 0:01:55.0]} Bg5 {[%clk 0:00:10.4]} 17. Bxg4 {[%clk 0:01:52.6]} Qxg4 {[%clk 0:00:11.4]} 18. 0-0 {[%clk 0:01:53.2]} Nf6 {[%clk 0:00:07.7]} 19. bxc6 {[%clk 0:01:52.8]} bxc6 {[%clk 0:00:08.4]} 20. Qc2 {[%clk 0:01:47.4]} Re6 {[%clk 0:00:06.2]} 21. Qf5 {[%clk 0:01:38.4]} Qh4 {[%clk 0:00:06.2]} 22. Qf3 {[%clk 0:01:31.0]} g6 {[%clk 0:00:05.1]} 23. Rfe1 {[%clk 0:01:26.9]} Rfe8 {[%clk 0:00:05.5]} 24. h3 {[%clk 0:01:27.5]} Nd5 {[%clk 0:00:05.1]} 25. Nf1 {[%clk 0:01:24.5]} f5 {[%clk 0:00:06.1]} 26. Rac1 {[%clk 0:01:12.6]} Bf6 {[%clk 0:00:06.3]} 27. Bc3 {[%clk 0:00:38.7]} Kg7 {[%clk 0:00:07.1]} 28. Bd2 {[%clk 0:00:38.8]} h6 {[%clk 0:00:04.6]} 29. Qg3 {[%clk 0:00:37.1]} Qh5 {[%clk 0:00:04.0]} 30. Rb1 {[%clk 0:00:32.4]} f4 {[%clk 0:00:04.2]} 31. exf4 {[%clk 0:00:31.9]} Rxe1 {[%clk 0:00:05.0]} 32. Rxe1 {[%clk 0:00:32.7]} Rxe1 {[%clk 0:00:06.0]} 33. Bxe1 {[%clk 0:00:33.7]} Bxd4 {[%clk 0:00:06.7]} 34. Qd3 {[%clk 0:00:30.2]} Bb6 {[%clk 0:00:05.6]} 35. Bc3+ {[%clk 0:00:25.9]} Kf7 {[%clk 0:00:06.4]} 36. Qc4 {[%clk 0:00:25.1]} Qf5 {[%clk 0:00:06.5]} 37. Qxc6 {[%clk 0:00:23.4]} Nxf4 {[%clk 0:00:07.2]} 38. Qb7+ {[%clk 0:00:15.9]} Ke8 {[%clk 0:00:08.0]} 39. Qf3 {[%clk 0:00:12.2]} Nxh3+ {[%clk 0:00:06.5]} 40. Qxh3 {[%clk 0:00:07.5]} Qxf2+ {[%clk 0:00:07.4]} 41. Kh2 {[%clk 0:00:08.4]} Qg1+ {[%clk 0:00:08.0]} 42. Kg3 {[%clk 0:00:09.1]} Bc7+ {[%clk 0:00:08.3]} 43. Kh4 {[%clk 0:00:07.3]} Bd8+ {[%clk 0:00:07.4]} 44. Kg4 {[%clk 0:00:05.8]} h5+ {[%clk 0:00:07.9]} 45. Kg3 {[%clk 0:00:05.7]} Qxf1 {[%clk 0:00:07.1]} 46. Qe6+ {[%clk 0:00:05.7]} Be7 {[%clk 0:00:08.2]} 47. Qc8+ {[%clk 0:00:05.9]} Kf7 {[%clk 0:00:08.8]} 48. Qc6 {[%clk 0:00:05.3]} Qd3+ {[%clk 0:00:06.6]} 49. Kh2 {[%clk 0:00:04.5]} Qf5 {[%clk 0:00:06.5]} 50. Qc4+ {[%clk 0:00:04.3]} Ke8 {[%clk 0:00:06.1]} 51. Qc6+ {[%clk 0:00:04.7]} Kf7 {[%clk 0:00:06.3]} 52. Qc4+ {[%clk 0:00:05.4]} Kf8 {[%clk 0:00:06.8]} 53. Qd4 {[%clk 0:00:04.7]} Bg5 {[%clk 0:00:05.6]} 54. Qg7+ {[%clk 0:00:04.4]} Ke8 {[%clk 0:00:06.7]} 55. Qg8+ {[%clk 0:00:05.2]} Kd7 {[%clk 0:00:07.7]} 56. Qg7+ {[%clk 0:00:06.0]} Kc6 {[%clk 0:00:07.8]} 57. Qxa7 {[%clk 0:00:04.7]} Bf4+ {[%clk 0:00:08.3]} 58. Kg1 {[%clk 0:00:04.2]} Qb1+ {[%clk 0:00:09.0]} 59. Kf2 {[%clk 0:00:04.8]} Qc2+ {[%clk 0:00:07.1]} 60. Kf3 {[%clk 0:00:05.0]} g5 {[%clk 0:00:04.2]} 61. Qa6+ {[%clk 0:00:04.5]} Kd7 {[%clk 0:00:05.2]} 62. Qb5+ {[%clk 0:00:04.9]} Ke6 {[%clk 0:00:03.4]} 63. Qc6+ {[%clk 0:00:04.8]} Bd6 {[%clk 0:00:02.5]} 64. Qc4+ {[%clk 0:00:04.4]} {Black Loss on Time} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "5.2"]
+[White "Badelka, Olga"]
+[Black "Sliwicka, Alicja"]
+[Result "1-0"]
+[BlackCountry "PL"]
+[BlackElo "2346"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "WIM"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Missouri"]
+[WhiteTitle "IM"]
+
+1. Nf3 {[%clk 0:03:02.0]} c5 {[%clk 0:03:00.3]} 2. c4 {[%clk 0:03:02.1]} Nc6 {[%clk 0:03:00.7]} 3. Nc3 {[%clk 0:03:00.5]} e5 {[%clk 0:03:00.5]} 4. g3 {[%clk 0:02:58.4]} g6 {[%clk 0:02:59.1]} 5. Bg2 {[%clk 0:02:58.7]} Bg7 {[%clk 0:03:00.0]} 6. 0-0 {[%clk 0:02:59.2]} Nge7 {[%clk 0:03:00.8]} 7. d3 {[%clk 0:02:51.6]} d6 {[%clk 0:03:01.1]} 8. Ne1 {[%clk 0:02:51.4]} Be6 {[%clk 0:02:59.8]} 9. Nd5 {[%clk 0:02:52.1]} Bxd5 {[%clk 0:02:41.7]} 10. cxd5 {[%clk 0:02:51.9]} Nb8 {[%clk 0:02:36.6]} 11. Nc2 {[%clk 0:02:38.6]} 0-0 {[%clk 0:02:35.3]} 12. f4 {[%clk 0:02:32.5]} Nd7 {[%clk 0:02:25.9]} 13. e4 {[%clk 0:02:32.0]} f5 {[%clk 0:02:24.3]} 14. Be3 {[%clk 0:02:24.4]} Rc8 {[%clk 0:02:19.8]} 15. Rc1 {[%clk 0:02:16.2]} b6 {[%clk 0:02:10.6]} 16. b3 {[%clk 0:02:16.4]} exf4 {[%clk 0:01:46.2]} 17. gxf4 {[%clk 0:02:15.4]} Nf6 {[%clk 0:01:45.2]} 18. Kh1 {[%clk 0:02:14.6]} fxe4 {[%clk 0:01:01.5]} 19. dxe4 {[%clk 0:02:14.0]} Qd7 {[%clk 0:01:01.9]} 20. Bg1 {[%clk 0:02:04.8]} Nh5 {[%clk 0:00:59.4]} 21. Qd2 {[%clk 0:01:50.0]} Bh6 {[%clk 0:00:58.8]} 22. Be3 {[%clk 0:01:49.6]} Rf7 {[%clk 0:00:52.5]} 23. e5 {[%clk 0:01:41.1]} Rff8 {[%clk 0:00:33.0]} 24. e6 {[%clk 0:01:31.2]} Qb7 {[%clk 0:00:26.7]} 25. f5 {[%clk 0:01:28.2]} Bxe3 {[%clk 0:00:24.1]} 26. Nxe3 {[%clk 0:01:28.7]} Nxf5 {[%clk 0:00:20.2]} 27. Nxf5 {[%clk 0:01:28.1]} Rxf5 {[%clk 0:00:21.1]} 28. Rxf5 {[%clk 0:01:27.8]} gxf5 {[%clk 0:00:22.2]} 29. Qg5+ {[%clk 0:01:22.0]} Ng7 {[%clk 0:00:20.1]} 30. Rg1 {[%clk 0:01:19.7]} Kh8 {[%clk 0:00:18.6]} 31. Bf3 {[%clk 0:01:16.7]} Nxe6 {[%clk 0:00:12.5]} 32. Qf6+ {[%clk 0:01:01.0]} Ng7 {[%clk 0:00:13.2]} 33. h4 {[%clk 0:01:01.8]} Rg8 {[%clk 0:00:06.1]} 34. h5 {[%clk 0:00:58.4]} Qd7 {[%clk 0:00:02.4]} 35. h6 {[%clk 0:00:54.9]} {Black Resigned} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "5.3"]
+[White "Nur Abidah, Shanti"]
+[Black "Antolak, Julia"]
+[Result "0-1"]
+[BlackCountry "PL"]
+[BlackElo "2306"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "WGM"]
+[Termination "time forfeit"]
+[WhiteCountry "ID"]
+[WhiteElo "1986"]
+[WhiteTeam "Gunadarma University"]
+[WhiteTitle "WIM"]
+
+1. e4 {[%clk 0:03:02.0]} c5 {[%clk 0:03:00.8]} 2. Nf3 {[%clk 0:03:01.6]} e6 {[%clk 0:03:01.6]} 3. d4 {[%clk 0:03:02.5]} cxd4 {[%clk 0:03:02.7]} 4. Nxd4 {[%clk 0:03:03.3]} Nf6 {[%clk 0:03:03.6]} 5. Bd3 {[%clk 0:03:02.3]} Nc6 {[%clk 0:03:01.4]} 6. Nxc6 {[%clk 0:03:01.6]} dxc6 {[%clk 0:03:01.9]} 7. Be3 {[%clk 0:02:59.6]} Qc7 {[%clk 0:03:00.4]} 8. h3 {[%clk 0:02:59.7]} e5 {[%clk 0:02:50.5]} 9. 0-0 {[%clk 0:02:56.4]} Be7 {[%clk 0:02:51.0]} 10. c4 {[%clk 0:02:56.7]} 0-0 {[%clk 0:02:51.4]} 11. Nc3 {[%clk 0:02:56.7]} Be6 {[%clk 0:02:51.9]} 12. f4 {[%clk 0:02:56.7]} exf4 {[%clk 0:02:50.1]} 13. Rxf4 {[%clk 0:02:43.5]} Bc5 {[%clk 0:02:32.4]} 14. Bxc5 {[%clk 0:02:29.9]} Qxf4 {[%clk 0:02:32.7]} 15. Bxf8 {[%clk 0:02:30.1]} Qe3+ {[%clk 0:02:17.9]} 16. Kh2 {[%clk 0:02:18.1]} Rxf8 {[%clk 0:02:18.3]} 17. Qe2 {[%clk 0:02:16.0]} Qxe2 {[%clk 0:02:06.9]} 18. Bxe2 {[%clk 0:02:14.6]} Rd8 {[%clk 0:02:07.3]} 19. e5 {[%clk 0:01:56.7]} Nd7 {[%clk 0:02:07.1]} 20. Rd1 {[%clk 0:01:57.0]} Rb8 {[%clk 0:01:58.8]} 21. Ne4 {[%clk 0:01:40.1]} Nxe5 {[%clk 0:01:57.1]} 22. b3 {[%clk 0:01:40.4]} b6 {[%clk 0:01:48.3]} 23. Ng5 {[%clk 0:01:32.6]} Bf5 {[%clk 0:01:33.3]} 24. g4 {[%clk 0:01:22.7]} Bg6 {[%clk 0:01:30.7]} 25. Nf3 {[%clk 0:01:13.4]} f6 {[%clk 0:01:22.1]} 26. Kg3 {[%clk 0:01:07.4]} Re8 {[%clk 0:01:14.7]} 27. Nxe5 {[%clk 0:01:02.7]} fxe5 {[%clk 0:00:42.9]} 28. Rd7 {[%clk 0:00:56.2]} a5 {[%clk 0:00:41.2]} 29. Rd6 {[%clk 0:00:50.3]} Rc8 {[%clk 0:00:25.7]} 30. Re6 {[%clk 0:00:50.6]} e4 {[%clk 0:00:25.0]} 31. h4 {[%clk 0:00:51.3]} Kf7 {[%clk 0:00:24.3]} 32. Rd6 {[%clk 0:00:43.5]} Ke7 {[%clk 0:00:24.8]} 33. Rd4 {[%clk 0:00:40.9]} h6 {[%clk 0:00:20.1]} 34. Bf1 {[%clk 0:00:34.5]} c5 {[%clk 0:00:17.4]} 35. Rd5 {[%clk 0:00:34.2]} Rd8 {[%clk 0:00:13.6]} 36. Rxd8 {[%clk 0:00:18.9]} Kxd8 {[%clk 0:00:14.0]} 37. Kf4 {[%clk 0:00:19.6]} Ke7 {[%clk 0:00:14.6]} 38. Bg2 {[%clk 0:00:18.1]} e3 {[%clk 0:00:13.5]} 39. Kxe3 {[%clk 0:00:18.4]} Bb1 {[%clk 0:00:13.6]} 40. Kd2 {[%clk 0:00:15.2]} Kd6 {[%clk 0:00:11.8]} 41. Kc3 {[%clk 0:00:12.3]} Ke5 {[%clk 0:00:11.4]} 42. a3 {[%clk 0:00:12.5]} Kf4 {[%clk 0:00:10.2]} 43. g5 {[%clk 0:00:13.2]} hxg5 {[%clk 0:00:10.1]} 44. hxg5 {[%clk 0:00:12.7]} Kxg5 {[%clk 0:00:10.5]} 45. b4 {[%clk 0:00:13.5]} axb4+ {[%clk 0:00:10.1]} 46. axb4 {[%clk 0:00:14.2]} Kf4 {[%clk 0:00:10.7]} 47. bxc5 {[%clk 0:00:14.1]} bxc5 {[%clk 0:00:11.3]} 48. Kd2 {[%clk 0:00:11.6]} Be4 {[%clk 0:00:09.1]} 49. Bf1 {[%clk 0:00:11.7]} g5 {[%clk 0:00:09.1]} 50. Ke2 {[%clk 0:00:12.6]} g4 {[%clk 0:00:09.6]} 51. Kf2 {[%clk 0:00:13.3]} g3+ {[%clk 0:00:08.8]} 52. Kg1 {[%clk 0:00:13.9]} Ke3 {[%clk 0:00:09.2]} 53. Bh3 {[%clk 0:00:13.5]} Kd4 {[%clk 0:00:09.1]} 54. Be6 {[%clk 0:00:12.4]} Kc3 {[%clk 0:00:08.0]} 55. Bf7 {[%clk 0:00:12.5]} Kd4 {[%clk 0:00:07.3]} 56. Bg8 {[%clk 0:00:12.7]} g2 {[%clk 0:00:07.2]} 57. Bf7 {[%clk 0:00:12.6]} Ke3 {[%clk 0:00:07.4]} 58. Bg8 {[%clk 0:00:13.2]} Kd4 {[%clk 0:00:06.3]} 59. Bf7 {[%clk 0:00:13.6]} Bd3 {[%clk 0:00:07.0]} 60. Kxg2 {[%clk 0:00:13.8]} Bxc4 {[%clk 0:00:07.9]} 61. Bh5 {[%clk 0:00:13.2]} Bd5+ {[%clk 0:00:08.0]} 62. Kf2 {[%clk 0:00:13.5]} c4 {[%clk 0:00:08.6]} 63. Ke2 {[%clk 0:00:13.6]} Kc3 {[%clk 0:00:09.1]} 64. Kd1 {[%clk 0:00:12.7]} Kb2 {[%clk 0:00:09.5]} 65. Bg6 {[%clk 0:00:12.7]} c3 {[%clk 0:00:10.2]} 66. Ke2 {[%clk 0:00:13.0]} Bc4+ {[%clk 0:00:09.6]} 67. Ke3 {[%clk 0:00:11.0]} Ba2 {[%clk 0:00:10.2]} 68. Bd3 {[%clk 0:00:04.9]} Bb1 {[%clk 0:00:10.2]} {White Loss on Time} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "5.4"]
+[White "Sargsyan, Anna M."]
+[Black "Shuvalova, Polina"]
+[Result "1-0"]
+[BlackCountry "RU"]
+[BlackElo "2476"]
+[BlackTeam "Ural State Mining University"]
+[BlackTitle "IM"]
+[WhiteCountry "AM"]
+[WhiteElo "2383"]
+[WhiteTeam "Armenian State Institute of Physical Culture and Sport"]
+[WhiteTitle "IM"]
+
+1. d4 {[%clk 0:03:02.0]} Nf6 {[%clk 0:02:59.6]} 2. c4 {[%clk 0:03:02.7]} e6 {[%clk 0:03:00.2]} 3. Nf3 {[%clk 0:03:03.2]} b6 {[%clk 0:02:59.0]} 4. g3 {[%clk 0:03:03.1]} c6 {[%clk 0:02:59.2]} 5. Bg2 {[%clk 0:03:02.1]} d5 {[%clk 0:02:59.9]} 6. 0-0 {[%clk 0:03:02.2]} Be7 {[%clk 0:03:00.9]} 7. Nc3 {[%clk 0:02:57.3]} 0-0 {[%clk 0:03:00.8]} 8. Ne5 {[%clk 0:02:57.4]} Bb7 {[%clk 0:02:57.6]} 9. e4 {[%clk 0:02:40.2]} dxc4 {[%clk 0:02:52.5]} 10. Nxc4 {[%clk 0:02:35.9]} Nbd7 {[%clk 0:02:51.2]} 11. e5 {[%clk 0:02:33.6]} Nd5 {[%clk 0:02:50.3]} 12. Ne4 {[%clk 0:02:32.3]} Ba6 {[%clk 0:02:49.3]} 13. Qa4 {[%clk 0:02:06.0]} Bb5 {[%clk 0:02:28.0]} 14. Qb3 {[%clk 0:01:55.7]} a5 {[%clk 0:02:25.8]} 15. a4 {[%clk 0:01:55.2]} Ba6 {[%clk 0:02:24.9]} 16. Rd1 {[%clk 0:01:54.9]} f5 {[%clk 0:02:15.1]} 17. exf6 {[%clk 0:01:43.1]} N7xf6 {[%clk 0:02:09.2]} 18. Ne5 {[%clk 0:01:40.5]} Rc8 {[%clk 0:02:07.2]} 19. Bd2 {[%clk 0:01:32.3]} Be2 {[%clk 0:01:59.3]} 20. Re1 {[%clk 0:01:29.8]} Bh5 {[%clk 0:01:59.2]} 21. Rac1 {[%clk 0:01:27.8]} Qd6 {[%clk 0:01:56.4]} 22. Nxd6 {[%clk 0:01:24.9]} {Black Resigned} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "6.1"]
+[White "Tsolakidou, Stavroula"]
+[Black "Shuvalova, Polina"]
+[Result "1/2-1/2"]
+[BlackCountry "RU"]
+[BlackElo "2476"]
+[BlackTeam "Ural State Mining University"]
+[BlackTitle "IM"]
+[WhiteCountry "GR"]
+[WhiteElo "2379"]
+[WhiteTeam "Saint Louis University"]
+[WhiteTitle "IM"]
+
+1. e4 {[%clk 0:03:02.0]} c6 {[%clk 0:03:00.5]} 2. Nf3 {[%clk 0:03:00.0]} g6 {[%clk 0:03:01.4]} 3. d4 {[%clk 0:02:58.8]} d5 {[%clk 0:02:59.1]} 4. Nc3 {[%clk 0:02:59.8]} Bg7 {[%clk 0:02:59.5]} 5. h3 {[%clk 0:03:01.0]} dxe4 {[%clk 0:02:58.7]} 6. Nxe4 {[%clk 0:03:01.6]} Nf6 {[%clk 0:02:59.7]} 7. Nxf6+ {[%clk 0:02:59.3]} exf6 {[%clk 0:03:00.0]} 8. Bc4 {[%clk 0:02:56.5]} 0-0 {[%clk 0:03:00.3]} 9. 0-0 {[%clk 0:02:57.2]} Nd7 {[%clk 0:03:00.5]} 10. Bf4 {[%clk 0:02:54.1]} Nb6 {[%clk 0:03:00.9]} 11. Bb3 {[%clk 0:02:55.2]} a5 {[%clk 0:02:58.8]} 12. a4 {[%clk 0:02:55.9]} Re8 {[%clk 0:02:56.7]} 13. c3 {[%clk 0:02:49.7]} Be6 {[%clk 0:02:56.7]} 14. Re1 {[%clk 0:02:46.2]} Qd7 {[%clk 0:02:50.6]} 15. Nd2 {[%clk 0:02:35.6]} Nd5 {[%clk 0:02:38.6]} 16. Bg3 {[%clk 0:02:36.2]} f5 {[%clk 0:02:37.6]} 17. Qf3 {[%clk 0:02:27.1]} Nf6 {[%clk 0:02:11.0]} 18. Be5 {[%clk 0:02:26.9]} Bxb3 {[%clk 0:02:09.0]} 19. Nxb3 {[%clk 0:02:27.6]} Ne4 {[%clk 0:02:08.3]} 20. Bxg7 {[%clk 0:02:17.6]} Kxg7 {[%clk 0:02:09.1]} 21. Qd3 {[%clk 0:02:15.1]} Rad8 {[%clk 0:02:04.4]} 22. f3 {[%clk 0:02:10.9]} Ng3 {[%clk 0:01:53.2]} 23. Nc5 {[%clk 0:02:11.5]} Qc7 {[%clk 0:01:54.0]} 24. Qd2 {[%clk 0:01:55.5]} f4 {[%clk 0:01:48.3]} 25. Ne4 {[%clk 0:01:32.4]} Nf5 {[%clk 0:01:29.2]} 26. Qf2 {[%clk 0:01:32.7]} h6 {[%clk 0:01:27.2]} 27. Re2 {[%clk 0:01:17.0]} b5 {[%clk 0:01:12.4]} 28. axb5 {[%clk 0:01:07.5]} cxb5 {[%clk 0:01:13.1]} 29. Rae1 {[%clk 0:01:07.3]} b4 {[%clk 0:01:08.2]} 30. Nc5 {[%clk 0:01:07.1]} Rxe2 {[%clk 0:01:05.9]} 31. Qxe2 {[%clk 0:01:04.8]} bxc3 {[%clk 0:01:01.5]} 32. bxc3 {[%clk 0:01:05.6]} Ne3 {[%clk 0:00:58.0]} 33. Rb1 {[%clk 0:00:43.8]} Rb8 {[%clk 0:00:49.7]} 34. Qa2 {[%clk 0:00:33.8]} Rxb1+ {[%clk 0:00:42.1]} 35. Qxb1 {[%clk 0:00:34.8]} Qe7 {[%clk 0:00:40.1]} 36. Qb8 {[%clk 0:00:11.3]} Qh4 {[%clk 0:00:21.2]} 37. Qe5+ {[%clk 0:00:08.9]} Kh7 {[%clk 0:00:21.8]} 38. Nd3 {[%clk 0:00:09.6]} Qg3 {[%clk 0:00:18.7]} 39. Nxf4 {[%clk 0:00:02.3]} Qe1+ {[%clk 0:00:07.0]} 40. Kh2 {[%clk 0:00:03.2]} Nf1+ {[%clk 0:00:07.5]} 41. Kg1 {[%clk 0:00:04.1]} Ne3+ {[%clk 0:00:07.4]} 42. Kh2 {[%clk 0:00:04.6]} Nf1+ {[%clk 0:00:06.6]} 43. Kg1 {[%clk 0:00:05.7]} Ne3+ {[%clk 0:00:05.6]} {Draw by Repetition} 1/2-1/2
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "6.2"]
+[White "Antolak, Julia"]
+[Black "Sargsyan, Anna M."]
+[Result "0-1"]
+[BlackCountry "AM"]
+[BlackElo "2383"]
+[BlackTeam "Armenian State Institute of Physical Culture and Sport"]
+[BlackTitle "IM"]
+[WhiteCountry "PL"]
+[WhiteElo "2306"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WGM"]
+
+1. e4 {[%clk 0:03:02.0]} c6 {[%clk 0:02:59.7]} 2. d4 {[%clk 0:03:02.8]} d5 {[%clk 0:03:00.5]} 3. Nd2 {[%clk 0:03:03.6]} dxe4 {[%clk 0:03:01.1]} 4. Nxe4 {[%clk 0:03:04.5]} Bf5 {[%clk 0:03:01.8]} 5. Ng3 {[%clk 0:03:05.2]} Bg6 {[%clk 0:03:02.6]} 6. h4 {[%clk 0:03:06.1]} h6 {[%clk 0:03:03.1]} 7. Nf3 {[%clk 0:03:06.9]} e6 {[%clk 0:03:03.6]} 8. h5 {[%clk 0:03:08.0]} Bh7 {[%clk 0:03:04.3]} 9. Bd3 {[%clk 0:03:08.8]} Bxd3 {[%clk 0:03:04.6]} 10. Qxd3 {[%clk 0:03:09.7]} Nf6 {[%clk 0:03:05.3]} 11. Bd2 {[%clk 0:03:10.6]} c5 {[%clk 0:03:05.4]} 12. Ne4 {[%clk 0:03:11.4]} Nc6 {[%clk 0:02:46.6]} 13. Bc3 {[%clk 0:03:12.0]} Nd5 {[%clk 0:01:22.0]} 14. dxc5 {[%clk 0:02:57.3]} Nxc3 {[%clk 0:01:18.5]} 15. Qxc3 {[%clk 0:02:29.0]} Qd5 {[%clk 0:01:18.4]} 16. Nfd2 {[%clk 0:02:28.4]} 0-0-0 {[%clk 0:01:17.4]} 17. a3 {[%clk 0:01:59.8]} f5 {[%clk 0:01:16.8]} 18. Nd6+ {[%clk 0:01:54.4]} Bxd6 {[%clk 0:01:17.3]} 19. cxd6 {[%clk 0:01:55.2]} Qxd6 {[%clk 0:01:18.0]} 20. 0-0-0 {[%clk 0:01:54.9]} Kb8 {[%clk 0:01:13.3]} 21. g3 {[%clk 0:01:40.9]} Nd4 {[%clk 0:01:12.1]} 22. Kb1 {[%clk 0:01:36.7]} e5 {[%clk 0:01:06.9]} 23. Nc4 {[%clk 0:01:30.1]} Qc5 {[%clk 0:01:01.3]} 24. Rhe1 {[%clk 0:01:25.5]} e4 {[%clk 0:00:44.9]} 25. Ne3 {[%clk 0:01:16.4]} Qxc3 {[%clk 0:00:27.8]} 26. bxc3 {[%clk 0:01:17.0]} Nb5 {[%clk 0:00:28.6]} 27. Kb2 {[%clk 0:01:13.3]} Nd6 {[%clk 0:00:25.7]} 28. Rd4 {[%clk 0:01:05.2]} Kc7 {[%clk 0:00:22.1]} 29. Red1 {[%clk 0:01:05.7]} Rhf8 {[%clk 0:00:21.2]} 30. Nd5+ {[%clk 0:00:56.5]} Kc6 {[%clk 0:00:13.7]} 31. Nf4 {[%clk 0:00:56.2]} Rf6 {[%clk 0:00:13.2]} 32. Kb3 {[%clk 0:00:53.7]} b5 {[%clk 0:00:13.2]} 33. Nd5 {[%clk 0:00:39.4]} Rf7 {[%clk 0:00:13.4]} 34. Ne3 {[%clk 0:00:39.9]} a5 {[%clk 0:00:12.3]} 35. c4 {[%clk 0:00:30.4]} bxc4+ {[%clk 0:00:06.8]} 36. Nxc4 {[%clk 0:00:30.1]} Rf6 {[%clk 0:00:05.0]} 37. Nxa5+ {[%clk 0:00:27.9]} Kc7 {[%clk 0:00:05.3]} 38. Nc4 {[%clk 0:00:22.9]} Rb8+ {[%clk 0:00:05.9]} 39. Ka2 {[%clk 0:00:19.7]} Nb5 {[%clk 0:00:06.7]} 40. Rd7+ {[%clk 0:00:17.7]} Kc6 {[%clk 0:00:07.4]} 41. Ne5+ {[%clk 0:00:12.1]} Kb6 {[%clk 0:00:08.2]} 42. Rb1 {[%clk 0:00:11.6]} Ka6 {[%clk 0:00:05.6]} 43. Rb3 {[%clk 0:00:11.6]} Rbb6 {[%clk 0:00:04.9]} 44. Rxg7 {[%clk 0:00:11.6]} Rbd6 {[%clk 0:00:04.4]} 45. Nc4 {[%clk 0:00:10.1]} Rc6 {[%clk 0:00:05.3]} 46. Ne3 {[%clk 0:00:08.8]} Nc3+ {[%clk 0:00:05.9]} 47. Kb2 {[%clk 0:00:08.8]} Na4+ {[%clk 0:00:06.6]} 48. Kc1 {[%clk 0:00:08.8]} Nc5 {[%clk 0:00:07.1]} 49. Rb8 {[%clk 0:00:07.0]} Nd3+ {[%clk 0:00:07.8]} 50. Kd2 {[%clk 0:00:07.5]} Nxf2 {[%clk 0:00:08.5]} 51. c4 {[%clk 0:00:07.4]} Rfd6+ {[%clk 0:00:09.1]} 52. Ke2 {[%clk 0:00:05.6]} Ng4 {[%clk 0:00:09.8]} 53. Nxg4 {[%clk 0:00:05.6]} fxg4 {[%clk 0:00:10.4]} 54. Rxg4 {[%clk 0:00:06.1]} Rxc4 {[%clk 0:00:11.2]} 55. Re8 {[%clk 0:00:06.1]} Rc2+ {[%clk 0:00:11.5]} 56. Ke3 {[%clk 0:00:06.5]} Rd3+ {[%clk 0:00:12.1]} 57. Kxe4 {[%clk 0:00:04.4]} Rdc3 {[%clk 0:00:12.0]} 58. Rgg8 {[%clk 0:00:03.7]} Kb5 {[%clk 0:00:10.2]} 59. Rb8+ {[%clk 0:00:03.6]} Ka4 {[%clk 0:00:10.9]} 60. Ra8+ {[%clk 0:00:04.1]} Kb3 {[%clk 0:00:11.7]} 61. Rgb8+ {[%clk 0:00:03.9]} Ka2 {[%clk 0:00:12.3]} 62. g4 {[%clk 0:00:04.3]} Re2+ {[%clk 0:00:12.5]} 63. Kf4 {[%clk 0:00:04.7]} Rc4+ {[%clk 0:00:13.3]} 64. Kf5 {[%clk 0:00:05.5]} Rf2+ {[%clk 0:00:14.1]} 65. Ke5 {[%clk 0:00:05.9]} Rxg4 {[%clk 0:00:14.1]} 66. a4 {[%clk 0:00:06.7]} Rg5+ {[%clk 0:00:13.6]} 67. Ke4 {[%clk 0:00:07.2]} Rxh5 {[%clk 0:00:13.7]} 68. a5 {[%clk 0:00:07.9]} Rh4+ {[%clk 0:00:13.2]} 69. Ke5 {[%clk 0:00:08.1]} Re2+ {[%clk 0:00:13.4]} 70. Kd5 {[%clk 0:00:08.0]} Rh1 {[%clk 0:00:13.4]} 71. a6 {[%clk 0:00:06.7]} Rd1+ {[%clk 0:00:14.0]} 72. Kc6 {[%clk 0:00:07.1]} h5 {[%clk 0:00:13.9]} 73. Re8 {[%clk 0:00:05.5]} Rc2+ {[%clk 0:00:14.0]} 74. Kb6 {[%clk 0:00:05.7]} Rb1+ {[%clk 0:00:14.7]} 75. Ka7 {[%clk 0:00:05.9]} Rc7# {[%clk 0:00:14.8]} 0-1
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "6.3"]
+[White "Sliwicka, Alicja"]
+[Black "Nur Abidah, Shanti"]
+[Result "1-0"]
+[BlackCountry "ID"]
+[BlackElo "1986"]
+[BlackTeam "Gunadarma University"]
+[BlackTitle "WIM"]
+[WhiteCountry "PL"]
+[WhiteElo "2346"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "WIM"]
+
+1. e4 {[%clk 0:03:02.0]} d5 {[%clk 0:03:00.7]} 2. exd5 {[%clk 0:03:02.8]} Qxd5 {[%clk 0:02:58.4]} 3. Nf3 {[%clk 0:03:03.3]} c6 {[%clk 0:02:57.9]} 4. d4 {[%clk 0:03:02.5]} Nf6 {[%clk 0:02:57.5]} 5. c4 {[%clk 0:03:01.2]} Qa5+ {[%clk 0:02:57.0]} 6. Bd2 {[%clk 0:02:45.1]} Qc7 {[%clk 0:02:44.8]} 7. Nc3 {[%clk 0:02:44.2]} Bf5 {[%clk 0:02:43.8]} 8. Be2 {[%clk 0:02:19.4]} e6 {[%clk 0:02:38.1]} 9. Nh4 {[%clk 0:02:18.4]} Bg6 {[%clk 0:02:36.6]} 10. Nxg6 {[%clk 0:02:17.8]} hxg6 {[%clk 0:02:37.4]} 11. h3 {[%clk 0:02:12.6]} Nbd7 {[%clk 0:02:36.2]} 12. Be3 {[%clk 0:02:09.3]} Be7 {[%clk 0:02:33.9]} 13. a3 {[%clk 0:02:05.3]} Rd8 {[%clk 0:02:32.1]} 14. Qd2 {[%clk 0:02:04.5]} 0-0 {[%clk 0:02:21.3]} 15. 0-0 {[%clk 0:02:01.2]} e5 {[%clk 0:02:17.0]} 16. dxe5 {[%clk 0:01:39.0]} Nxe5 {[%clk 0:02:15.2]} 17. Qc2 {[%clk 0:01:38.7]} a6 {[%clk 0:02:02.6]} 18. Na4 {[%clk 0:01:33.3]} c5 {[%clk 0:02:02.7]} 19. b4 {[%clk 0:01:26.5]} Nfd7 {[%clk 0:01:57.5]} 20. b5 {[%clk 0:01:20.3]} axb5 {[%clk 0:01:38.5]} 21. cxb5 {[%clk 0:01:20.6]} b6 {[%clk 0:01:36.1]} 22. f4 {[%clk 0:01:17.7]} Ra8 {[%clk 0:01:28.9]} 23. fxe5 {[%clk 0:01:15.3]} Qxe5 {[%clk 0:01:29.4]} 24. Qc3 {[%clk 0:00:27.3]} Rxa4 {[%clk 0:01:11.3]} 25. Qxe5 {[%clk 0:00:27.2]} Nxe5 {[%clk 0:01:11.9]} 26. Bf4 {[%clk 0:00:23.0]} Bf6 {[%clk 0:01:07.7]} 27. Rad1 {[%clk 0:00:22.7]} Rxa3 {[%clk 0:01:01.2]} 28. Rd6 {[%clk 0:00:22.7]} c4 {[%clk 0:00:54.3]} 29. Rxb6 {[%clk 0:00:21.0]} Nd3 {[%clk 0:00:54.7]} 30. Be3 {[%clk 0:00:16.2]} Re8 {[%clk 0:00:48.5]} 31. Bxd3 {[%clk 0:00:15.1]} cxd3 {[%clk 0:00:45.7]} 32. Bf2 {[%clk 0:00:11.3]} d2 {[%clk 0:00:46.7]} 33. Rd6 {[%clk 0:00:11.6]} Bc3 {[%clk 0:00:46.4]} 34. b6 {[%clk 0:00:11.8]} Rb3 {[%clk 0:00:46.9]} 35. Rd3 {[%clk 0:00:10.8]} Rb8 {[%clk 0:00:42.1]} 36. g4 {[%clk 0:00:10.3]} f5 {[%clk 0:00:42.1]} 37. gxf5 {[%clk 0:00:10.7]} gxf5 {[%clk 0:00:43.1]} 38. Kg2 {[%clk 0:00:11.8]} Rc8 {[%clk 0:00:37.5]} 39. Rd1 {[%clk 0:00:12.2]} Rb5 {[%clk 0:00:36.6]} 40. b7 {[%clk 0:00:11.5]} Rxb7 {[%clk 0:00:36.6]} 41. Bd4 {[%clk 0:00:10.9]} Ba5 {[%clk 0:00:36.6]} 42. Be3 {[%clk 0:00:11.0]} Rb2 {[%clk 0:00:36.1]} 43. Kf3 {[%clk 0:00:11.5]} Rcc2 {[%clk 0:00:35.8]} 44. Rd5 {[%clk 0:00:12.2]} g6 {[%clk 0:00:36.0]} 45. Rxa5 {[%clk 0:00:12.3]} Rb3 {[%clk 0:00:34.1]} 46. Ke2 {[%clk 0:00:12.9]} Rcc3 {[%clk 0:00:32.9]} 47. Re5 {[%clk 0:00:13.3]} Kf7 {[%clk 0:00:31.4]} 48. Rxd2 {[%clk 0:00:13.2]} Kf6 {[%clk 0:00:32.4]} 49. Bd4 {[%clk 0:00:13.7]} Rxh3 {[%clk 0:00:32.0]} 50. Rb5+ {[%clk 0:00:11.6]} Ke6 {[%clk 0:00:32.2]} 51. Rxb3 {[%clk 0:00:11.6]} Rxb3 {[%clk 0:00:30.8]} 52. Be3 {[%clk 0:00:12.5]} Ke5 {[%clk 0:00:29.9]} 53. Ra2 {[%clk 0:00:13.2]} Rb5 {[%clk 0:00:26.9]} 54. Kf3 {[%clk 0:00:13.1]} Rb3 {[%clk 0:00:24.6]} 55. Kf2 {[%clk 0:00:13.7]} Ke4 {[%clk 0:00:20.8]} 56. Ra4+ {[%clk 0:00:13.8]} Kd3 {[%clk 0:00:21.1]} 57. Rd4+ {[%clk 0:00:14.2]} Kc3 {[%clk 0:00:21.6]} 58. Rd6 {[%clk 0:00:14.9]} Rb2+ {[%clk 0:00:19.1]} 59. Kf3 {[%clk 0:00:15.0]} Rb1 {[%clk 0:00:16.1]} 60. Rxg6 {[%clk 0:00:15.1]} Rf1+ {[%clk 0:00:16.3]} 61. Bf2 {[%clk 0:00:15.4]} Kd3 {[%clk 0:00:16.0]} 62. Rf6 {[%clk 0:00:14.9]} Kc4 {[%clk 0:00:15.0]} 63. Rxf5 {[%clk 0:00:15.8]} Rd1 {[%clk 0:00:13.7]} 64. Rf4+ {[%clk 0:00:16.3] Black offered a draw.} Kd5 {[%clk 0:00:12.5]} 65. Be3 {[%clk 0:00:17.2]} Rd3 {[%clk 0:00:13.1]} 66. Ke2 {[%clk 0:00:17.8]} Rb3 {[%clk 0:00:13.7]} 67. Rh4 {[%clk 0:00:18.0]} Kc6 {[%clk 0:00:14.5]} 68. Kf3 {[%clk 0:00:17.9]} Kb5 {[%clk 0:00:15.4]} 69. Ke4 {[%clk 0:00:17.2]} Rb4+ {[%clk 0:00:16.0]} 70. Bd4 {[%clk 0:00:18.3]} Kc4 {[%clk 0:00:16.5]} 71. Rh8 {[%clk 0:00:18.2]} Kb3 {[%clk 0:00:17.2]} 72. Rc8 {[%clk 0:00:18.8]} Rc4 {[%clk 0:00:17.5]} 73. Rb8+ {[%clk 0:00:19.2]} Kc2 {[%clk 0:00:18.3]} 74. Ke3 {[%clk 0:00:20.3]} Kc1 {[%clk 0:00:18.9]} 75. Kd3 {[%clk 0:00:20.0]} Rc7 {[%clk 0:00:19.4]} 76. Ra8 {[%clk 0:00:20.4]} Rb7 {[%clk 0:00:19.3]} 77. Rh8 {[%clk 0:00:16.0]} Kb1 {[%clk 0:00:19.0]} 78. Rh1+ {[%clk 0:00:13.1]} Ka2 {[%clk 0:00:16.1]} 79. Ra1+ {[%clk 0:00:13.6]} Kb3 {[%clk 0:00:16.7]} 80. Rb1+ {[%clk 0:00:14.4]} Ka2 {[%clk 0:00:17.6]} 81. Rxb7 {[%clk 0:00:15.3]} Ka3 {[%clk 0:00:17.8]} 82. Kc4 {[%clk 0:00:13.9]} Ka2 {[%clk 0:00:17.7]} 83. Bc5 {[%clk 0:00:10.6]} Ka1 {[%clk 0:00:17.8]} 84. Kc3 {[%clk 0:00:10.6]} Ka2 {[%clk 0:00:18.3]} 85. Kc2 {[%clk 0:00:11.2]} Ka1 {[%clk 0:00:19.3]} 86. Ra7# {[%clk 0:00:12.1]} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "6.4"]
+[White "Osmak, Iulija"]
+[Black "Badelka, Olga"]
+[Result "1-0"]
+[BlackElo "2428"]
+[BlackTeam "University of Missouri"]
+[BlackTitle "IM"]
+[Termination "time forfeit"]
+[WhiteCountry "UA"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Texas Rio Grande Valley"]
+[WhiteTitle "IM"]
+
+1. b4 {[%clk 0:03:02.0]} Nf6 {[%clk 0:02:54.3]} 2. Bb2 {[%clk 0:03:02.6]} e6 {[%clk 0:02:51.9]} 3. b5 {[%clk 0:03:03.1]} d5 {[%clk 0:02:52.3]} 4. e3 {[%clk 0:03:03.7]} Be7 {[%clk 0:02:51.9]} 5. Nf3 {[%clk 0:03:04.3]} a6 {[%clk 0:02:51.6]} 6. a4 {[%clk 0:03:04.1]} axb5 {[%clk 0:02:51.1]} 7. axb5 {[%clk 0:03:05.0]} Rxa1 {[%clk 0:02:51.5]} 8. Bxa1 {[%clk 0:03:05.9]} 0-0 {[%clk 0:02:52.3]} 9. c4 {[%clk 0:03:05.8]} c6 {[%clk 0:02:39.8]} 10. Nc3 {[%clk 0:03:05.2]} cxb5 {[%clk 0:02:25.4]} 11. cxb5 {[%clk 0:03:00.9]} Nbd7 {[%clk 0:02:21.4]} 12. Be2 {[%clk 0:03:01.2]} Nb6 {[%clk 0:02:17.7]} 13. 0-0 {[%clk 0:03:01.7]} Qd6 {[%clk 0:02:15.6]} 14. Qb3 {[%clk 0:02:52.6]} Bd7 {[%clk 0:02:09.9]} 15. Na4 {[%clk 0:02:34.6]} Nxa4 {[%clk 0:01:54.0]} 16. Qxa4 {[%clk 0:02:34.6]} Ne4 {[%clk 0:01:50.1]} 17. d3 {[%clk 0:02:15.0]} Nc5 {[%clk 0:01:48.0]} 18. Qb4 {[%clk 0:02:12.3]} f6 {[%clk 0:01:06.3]} 19. Rc1 {[%clk 0:02:04.3]} b6 {[%clk 0:01:06.9]} 20. Bb2 {[%clk 0:01:55.0]} Ra8 {[%clk 0:01:06.6]} 21. Ba3 {[%clk 0:01:43.8]} Bf8 {[%clk 0:00:38.1]} 22. h3 {[%clk 0:01:40.8]} Qb8 {[%clk 0:00:37.2]} 23. d4 {[%clk 0:01:32.2]} Ne4 {[%clk 0:00:34.1]} 24. Qxf8+ {[%clk 0:01:31.9]} Qxf8 {[%clk 0:00:34.5]} 25. Bxf8 {[%clk 0:01:32.5]} Kxf8 {[%clk 0:00:35.1]} 26. Rc7 {[%clk 0:01:32.0]} Ke8 {[%clk 0:00:30.4]} 27. Rb7 {[%clk 0:01:25.8]} Nc3 {[%clk 0:00:29.8]} 28. Bd3 {[%clk 0:01:24.5]} Nxb5 {[%clk 0:00:12.6]} 29. Rxb6 {[%clk 0:01:14.4]} Nc7 {[%clk 0:00:12.3]} 30. Bxh7 {[%clk 0:01:13.8]} Ra1+ {[%clk 0:00:11.3]} 31. Kh2 {[%clk 0:01:14.0]} Ra2 {[%clk 0:00:11.9]} 32. Kg3 {[%clk 0:01:13.9]} Kd8 {[%clk 0:00:11.0]} 33. Bb1 {[%clk 0:01:09.5]} Ra1 {[%clk 0:00:09.8]} 34. Bd3 {[%clk 0:01:09.4]} Ra3 {[%clk 0:00:10.2]} 35. Bb1 {[%clk 0:01:06.0]} Nb5 {[%clk 0:00:09.8]} 36. Rb8+ {[%clk 0:00:57.3]} Kc7 {[%clk 0:00:09.8]} 37. Rg8 {[%clk 0:00:56.6]} g5 {[%clk 0:00:10.3]} 38. Bh7 {[%clk 0:00:48.6]} Nc3 {[%clk 0:00:10.2]} 39. Rf8 {[%clk 0:00:48.3]} f5 {[%clk 0:00:09.5]} 40. Nxg5 {[%clk 0:00:47.4]} Ne2+ {[%clk 0:00:08.7]} 41. Kh2 {[%clk 0:00:46.4]} Kd6 {[%clk 0:00:08.6]} 42. Nf7+ {[%clk 0:00:45.5]} Ke7 {[%clk 0:00:08.2]} 43. Rd8 {[%clk 0:00:43.8]} Kxf7 {[%clk 0:00:06.4]} 44. Rxd7+ {[%clk 0:00:44.1]} Kf6 {[%clk 0:00:07.3]} 45. Bg8 {[%clk 0:00:39.7]} Ra6 {[%clk 0:00:06.4]} 46. Rf7+ {[%clk 0:00:38.5]} Kg6 {[%clk 0:00:06.0]} 47. h4 {[%clk 0:00:38.3]} Ra8 {[%clk 0:00:05.3]} 48. Re7 {[%clk 0:00:37.7]} Rxg8 {[%clk 0:00:04.3]} 49. Rxe6+ {[%clk 0:00:38.5]} Kh5 {[%clk 0:00:03.6]} 50. g3 {[%clk 0:00:38.2]} Nc3 {[%clk 0:00:02.9]} 51. Rf6 {[%clk 0:00:34.6]} Kg4 {[%clk 0:00:03.3]} 52. Kg2 {[%clk 0:00:33.5]} f4 {[%clk 0:00:02.3]} 53. Rxf4+ {[%clk 0:00:33.3]} Kh5 {[%clk 0:00:02.7]} 54. Rf5+ {[%clk 0:00:33.4]} Kg6 {[%clk 0:00:03.2]} 55. Rg5+ {[%clk 0:00:33.4]} Kf7 {[%clk 0:00:03.8]} 56. Rxg8 {[%clk 0:00:33.9]} Kxg8 {[%clk 0:00:04.3]} 57. g4 {[%clk 0:00:34.4]} Kg7 {[%clk 0:00:04.9]} 58. Kg3 {[%clk 0:00:33.1]} Kf6 {[%clk 0:00:04.7]} 59. f3 {[%clk 0:00:31.5]} Ne2+ {[%clk 0:00:04.7]} 60. Kf2 {[%clk 0:00:31.7]} Nc1 {[%clk 0:00:05.2]} 61. h5 {[%clk 0:00:29.5]} Kg5 {[%clk 0:00:04.0]} 62. f4+ {[%clk 0:00:23.1]} Kh6 {[%clk 0:00:02.7]} 63. Kg3 {[%clk 0:00:18.8]} Ne2+ {[%clk 0:00:02.3]} 64. Kh4 {[%clk 0:00:17.8]} {Black Loss on Time} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "7.1"]
+[White "Badelka, Olga"]
+[Black "Tsolakidou, Stavroula"]
+[Result "1/2-1/2"]
+[BlackCountry "GR"]
+[BlackElo "2379"]
+[BlackTeam "Saint Louis University"]
+[BlackTitle "IM"]
+[WhiteElo "2428"]
+[WhiteTeam "University of Missouri"]
+[WhiteTitle "IM"]
+
+1. Nf3 {[%clk 0:03:02.0]} Nf6 {[%clk 0:03:00.9]} 2. g3 {[%clk 0:03:02.3]} d5 {[%clk 0:03:01.7]} 3. Bg2 {[%clk 0:03:02.7]} c6 {[%clk 0:03:03.1]} 4. 0-0 {[%clk 0:03:02.6]} Bg4 {[%clk 0:03:04.1]} 5. h3 {[%clk 0:03:03.4]} Bh5 {[%clk 0:03:05.2]} 6. d4 {[%clk 0:03:03.0]} e6 {[%clk 0:03:00.6]} 7. c4 {[%clk 0:03:03.7]} Nbd7 {[%clk 0:02:52.6]} 8. cxd5 {[%clk 0:03:03.8]} exd5 {[%clk 0:02:53.5]} 9. Nh4 {[%clk 0:03:04.4]} Be7 {[%clk 0:02:41.0]} 10. Nf5 {[%clk 0:03:03.5]} 0-0 {[%clk 0:02:26.6]} 11. Nxe7+ {[%clk 0:03:03.7]} Qxe7 {[%clk 0:02:27.3]} 12. Nc3 {[%clk 0:03:04.4]} Rfe8 {[%clk 0:02:26.0]} 13. Re1 {[%clk 0:03:04.6]} Nb6 {[%clk 0:02:21.8]} 14. b3 {[%clk 0:03:00.3]} Rad8 {[%clk 0:02:06.4]} 15. a4 {[%clk 0:02:50.7]} Nc8 {[%clk 0:02:07.4]} 16. Bg5 {[%clk 0:02:39.0]} Nd6 {[%clk 0:02:05.3]} 17. Qc1 {[%clk 0:02:22.0]} h6 {[%clk 0:02:02.1]} 18. Bf4 {[%clk 0:02:21.9]} Nfe4 {[%clk 0:01:58.3]} 19. Nxe4 {[%clk 0:02:18.1]} Nxe4 {[%clk 0:01:59.2]} 20. a5 {[%clk 0:01:57.4]} g5 {[%clk 0:01:43.6]} 21. Bd2 {[%clk 0:01:51.7]} Bg6 {[%clk 0:01:38.3]} 22. a6 {[%clk 0:01:46.9]} b6 {[%clk 0:01:38.2]} 23. Rd1 {[%clk 0:01:36.3]} Qe6 {[%clk 0:01:38.9]} 24. Be1 {[%clk 0:01:33.4]} c5 {[%clk 0:01:07.4]} 25. dxc5 {[%clk 0:01:21.4]} Rc8 {[%clk 0:00:59.7]} 26. c6 {[%clk 0:01:11.4]} Rxc6 {[%clk 0:00:59.1]} 27. Qb2 {[%clk 0:01:11.9]} Rec8 {[%clk 0:00:50.7]} 28. Rac1 {[%clk 0:01:09.5]} Rxc1 {[%clk 0:00:36.2]} 29. Rxc1 {[%clk 0:01:09.0]} Rxc1 {[%clk 0:00:36.9]} 30. Qxc1 {[%clk 0:01:09.3]} Nc5 {[%clk 0:00:37.9]} 31. b4 {[%clk 0:00:51.5]} Nxa6 {[%clk 0:00:28.0]} 32. Bc3 {[%clk 0:00:44.7]} Qxe2 {[%clk 0:00:13.6]} 33. Qa3 {[%clk 0:00:30.8]} Bd3 {[%clk 0:00:08.5]} 34. b5 {[%clk 0:00:27.0]} Bxb5 {[%clk 0:00:06.2]} 35. Qd6 {[%clk 0:00:25.9]} Qe6 {[%clk 0:00:02.2]} 36. Qd8+ {[%clk 0:00:22.9]} Qe8 {[%clk 0:00:02.2]} 37. Qf6 {[%clk 0:00:21.3]} Kf8 {[%clk 0:00:03.4]} 38. Bxd5 {[%clk 0:00:16.3]} Nc7 {[%clk 0:00:03.8]} 39. Qd6+ {[%clk 0:00:10.4]} Qe7 {[%clk 0:00:02.9]} 40. Bg7+ {[%clk 0:00:08.3]} Ke8 {[%clk 0:00:03.9]} 41. Bc6+ {[%clk 0:00:08.6]} Bxc6 {[%clk 0:00:04.5]} 42. Qxc6+ {[%clk 0:00:09.4]} Qd7 {[%clk 0:00:05.8]} 43. Qb7 {[%clk 0:00:07.9]} Ke7 {[%clk 0:00:05.3]} 44. Bxh6 {[%clk 0:00:05.4]} f6 {[%clk 0:00:05.4]} 45. Qe4+ {[%clk 0:00:04.5]} Ne6 {[%clk 0:00:05.4]} 46. h4 {[%clk 0:00:04.6]} gxh4 {[%clk 0:00:06.0]} 47. gxh4 {[%clk 0:00:04.8]} Qd1+ {[%clk 0:00:05.9]} 48. Kh2 {[%clk 0:00:04.2]} Qd6+ {[%clk 0:00:06.7]} 49. Kg1 {[%clk 0:00:03.9]} Qd1+ {[%clk 0:00:07.2]} 50. Kh2 {[%clk 0:00:04.3]} Qd6+ {[%clk 0:00:07.9]} 51. Kg1 {[%clk 0:00:05.0]} a5 {[%clk 0:00:08.7]} 52. Be3 {[%clk 0:00:03.1]} Kd7 {[%clk 0:00:06.4]} 53. Qb7+ {[%clk 0:00:02.9]} Qc7 {[%clk 0:00:06.8]} 54. Qd5+ {[%clk 0:00:02.8]} Qd6 {[%clk 0:00:07.8]} 55. Qb7+ {[%clk 0:00:03.3]} Qc7 {[%clk 0:00:08.8]} 56. Qd5+ {[%clk 0:00:04.0]} Ke7 {[%clk 0:00:09.5]} 57. h5 {[%clk 0:00:03.9]} a4 {[%clk 0:00:09.5]} 58. h6 {[%clk 0:00:03.8]} Nf8 {[%clk 0:00:07.4]} 59. Qe4+ {[%clk 0:00:03.2]} Qe5 {[%clk 0:00:06.4]} 60. Qb7+ {[%clk 0:00:03.3]} Ke8 {[%clk 0:00:06.0]} 61. Qc8+ {[%clk 0:00:03.9]} Kf7 {[%clk 0:00:06.6]} 62. Qb7+ {[%clk 0:00:04.7]} Ke8 {[%clk 0:00:06.7]} 63. Qg7 {[%clk 0:00:05.1]} a3 {[%clk 0:00:05.8]} 64. h7 {[%clk 0:00:05.7]} Nxh7 {[%clk 0:00:06.7]} 65. Qxh7 {[%clk 0:00:06.4]} a2 {[%clk 0:00:07.0]} 66. Qg8+ {[%clk 0:00:07.1]} Ke7 {[%clk 0:00:07.9]} 67. Qxa2 {[%clk 0:00:07.3]} b5 {[%clk 0:00:09.2]} 68. Qa7+ {[%clk 0:00:07.1]} Ke6 {[%clk 0:00:10.2]} 69. Qb6+ {[%clk 0:00:07.5]} Kf5 {[%clk 0:00:10.8]} 70. Kg2 {[%clk 0:00:06.9]} Qe4+ {[%clk 0:00:10.8]} 71. Kf1 {[%clk 0:00:07.2]} Qb1+ {[%clk 0:00:11.0]} 72. Ke2 {[%clk 0:00:07.4]} Qc2+ {[%clk 0:00:11.2]} 73. Bd2 {[%clk 0:00:07.2]} Qc4+ {[%clk 0:00:11.5]} 74. Ke1 {[%clk 0:00:07.3]} Qe4+ {[%clk 0:00:10.6]} 75. Qe3 {[%clk 0:00:07.3]} Qb1+ {[%clk 0:00:09.7]} 76. Ke2 {[%clk 0:00:07.7]} Qb2 {[%clk 0:00:06.3]} 77. Qc5+ {[%clk 0:00:07.2]} Ke6 {[%clk 0:00:06.0]} 78. Qb4 {[%clk 0:00:07.7]} Qe5+ {[%clk 0:00:06.2]} 79. Kd1 {[%clk 0:00:07.9]} Qa1+ {[%clk 0:00:06.8]} 80. Bc1 {[%clk 0:00:07.8]} Qe5 {[%clk 0:00:04.7]} 81. Be3 {[%clk 0:00:08.2]} Qd5+ {[%clk 0:00:04.7]} 82. Ke2 {[%clk 0:00:08.5]} f5 {[%clk 0:00:05.8]} 83. Qc5 {[%clk 0:00:08.6]} Qa2+ {[%clk 0:00:04.4]} 84. Kf3 {[%clk 0:00:08.8]} Qb3 {[%clk 0:00:05.3]} 85. Kf4 {[%clk 0:00:08.2]} Qa4+ {[%clk 0:00:05.3]} 86. Kg3 {[%clk 0:00:06.8]} Qg4+ {[%clk 0:00:05.8]} 87. Kh2 {[%clk 0:00:07.1]} Qh4+ {[%clk 0:00:06.9]} 88. Kg1 {[%clk 0:00:07.6]} Qg4+ {[%clk 0:00:08.0]} 89. Kf1 {[%clk 0:00:07.1]} Qd1+ {[%clk 0:00:08.9]} 90. Kg2 {[%clk 0:00:06.9]} Qg4+ {[%clk 0:00:09.8]} 91. Kf1 {[%clk 0:00:07.3]} Qd1+ {[%clk 0:00:10.5]} 92. Kg2 {[%clk 0:00:07.2]} Qg4+ {[%clk 0:00:11.5]} 93. Kf1 {[%clk 0:00:07.8]} {Draw by Repetition} 1/2-1/2
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "7.2"]
+[White "Nur Abidah, Shanti"]
+[Black "Osmak, Iulija"]
+[Result "1/2-1/2"]
+[BlackCountry "UA"]
+[BlackElo "2428"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "IM"]
+[WhiteCountry "ID"]
+[WhiteElo "1986"]
+[WhiteTeam "Gunadarma University"]
+[WhiteTitle "WIM"]
+
+1. e4 {[%clk 0:03:02.0]} Nc6 {[%clk 0:03:00.0]} 2. d4 {[%clk 0:03:02.1]} d5 {[%clk 0:03:00.9]} 3. exd5 {[%clk 0:03:02.4]} Qxd5 {[%clk 0:03:01.5]} 4. Nf3 {[%clk 0:03:03.3]} Bg4 {[%clk 0:03:00.7]} 5. c3 {[%clk 0:03:04.1]} Bxf3 {[%clk 0:02:58.2]} 6. Qxf3 {[%clk 0:03:03.8]} Qxf3 {[%clk 0:02:58.5]} 7. gxf3 {[%clk 0:03:04.7]} 0-0-0 {[%clk 0:02:52.5]} 8. Nd2 {[%clk 0:03:01.4]} e5 {[%clk 0:02:46.7]} 9. dxe5 {[%clk 0:02:52.6]} Nxe5 {[%clk 0:02:46.9]} 10. f4 {[%clk 0:02:53.6]} Nd3+ {[%clk 0:02:43.6]} 11. Bxd3 {[%clk 0:02:53.2]} Rxd3 {[%clk 0:02:44.1]} 12. Ke2 {[%clk 0:02:54.1]} Rd7 {[%clk 0:02:42.7]} 13. Nc4 {[%clk 0:02:54.7]} Nh6 {[%clk 0:02:23.0]} 14. Kf3 {[%clk 0:02:50.4]} Bd6 {[%clk 0:02:15.8]} 15. Be3 {[%clk 0:02:49.2]} a6 {[%clk 0:02:14.7]} 16. Rad1 {[%clk 0:02:47.9]} Rhd8 {[%clk 0:02:14.9]} 17. Rd2 {[%clk 0:02:20.9]} Nf5 {[%clk 0:02:10.3]} 18. Rhd1 {[%clk 0:02:15.1]} Bf8 {[%clk 0:02:03.8]} 19. Rxd7 {[%clk 0:02:04.7]} Rxd7 {[%clk 0:02:04.3]} 20. Rxd7 {[%clk 0:02:05.0]} Kxd7 {[%clk 0:02:05.0]} 21. Ke4 {[%clk 0:02:02.0]} Ke6 {[%clk 0:02:01.2]} 22. Ne5 {[%clk 0:01:59.9]} Nd6+ {[%clk 0:01:55.2]} 23. Kf3 {[%clk 0:01:55.5]} f6 {[%clk 0:01:52.5]} 24. Nd3 {[%clk 0:01:55.7]} Nc4 {[%clk 0:01:48.2]} 25. Bc1 {[%clk 0:01:52.4]} g6 {[%clk 0:01:41.5]} 26. b3 {[%clk 0:01:53.1]} Nb6 {[%clk 0:01:41.6]} 27. c4 {[%clk 0:01:51.6]} Nd7 {[%clk 0:01:36.7]} 28. Bb2 {[%clk 0:01:51.4]} Bd6 {[%clk 0:01:33.5]} 29. Nc1 {[%clk 0:01:47.8]} Kf5 {[%clk 0:01:25.9]} 30. Ne2 {[%clk 0:01:47.3]} Bc5 {[%clk 0:01:21.6]} 31. Ng3+ {[%clk 0:01:47.7]} Ke6 {[%clk 0:01:21.7]} 32. Ne4 {[%clk 0:01:48.0]} Be7 {[%clk 0:01:20.0]} 33. Bd4 {[%clk 0:01:46.3]} h5 {[%clk 0:01:15.1]} 34. Nc3 {[%clk 0:01:45.5]} c6 {[%clk 0:01:13.8]} 35. Ne4 {[%clk 0:01:43.3]} Bd8 {[%clk 0:01:04.3]} 36. h3 {[%clk 0:01:40.6]} Bc7 {[%clk 0:01:02.1] White offered a draw.} 37. Be3 {[%clk 0:01:30.1]} b5 {[%clk 0:00:57.1]} 38. Ng3 {[%clk 0:01:20.4]} h4 {[%clk 0:00:53.2]} 39. Ne2 {[%clk 0:01:19.7]} c5 {[%clk 0:00:48.3]} 40. Nc3 {[%clk 0:01:17.1]} bxc4 {[%clk 0:00:44.4]} 41. bxc4 {[%clk 0:01:17.7]} Nb6 {[%clk 0:00:16.8]} 42. Bxc5 {[%clk 0:01:16.0]} Nxc4 {[%clk 0:00:17.6]} 43. Ne4 {[%clk 0:01:12.2]} Kd5 {[%clk 0:00:12.8]} 44. Be7 {[%clk 0:01:10.2]} f5 {[%clk 0:00:11.1]} 45. Nc3+ {[%clk 0:01:09.7]} Kd4 {[%clk 0:00:10.5]} 46. Bf6+ {[%clk 0:01:09.1]} Kd3 {[%clk 0:00:11.0]} 47. Nd5 {[%clk 0:01:09.6]} Nd2+ {[%clk 0:00:10.9]} 48. Kg2 {[%clk 0:01:08.2]} Bd6 {[%clk 0:00:10.7]} 49. Bxh4 {[%clk 0:01:05.9]} Kd4 {[%clk 0:00:10.6]} 50. Nf6 {[%clk 0:00:58.5]} Bxf4 {[%clk 0:00:11.1]} 51. Nd7 {[%clk 0:00:58.6]} Bd6 {[%clk 0:00:11.1]} 52. Bf6+ {[%clk 0:00:53.5]} Kd3 {[%clk 0:00:12.0]} 53. Bg7 {[%clk 0:00:50.6]} Kc2 {[%clk 0:00:12.6]} 54. h4 {[%clk 0:00:50.6]} Kb1 {[%clk 0:00:12.8]} 55. a4 {[%clk 0:00:50.7]} Kc2 {[%clk 0:00:13.6]} 56. a5 {[%clk 0:00:49.7]} Kd3 {[%clk 0:00:13.9]} 57. Bf8 {[%clk 0:00:47.7]} Bc7 {[%clk 0:00:11.2]} 58. Bb4 {[%clk 0:00:45.2]} Ne4 {[%clk 0:00:10.4]} 59. Nf8 {[%clk 0:00:45.5]} Kc4 {[%clk 0:00:10.3]} 60. Be1 {[%clk 0:00:45.2]} g5 {[%clk 0:00:10.7]} 61. Ne6 {[%clk 0:00:44.6]} Bf4 {[%clk 0:00:07.5]} 62. Nxf4 {[%clk 0:00:42.3]} gxf4 {[%clk 0:00:07.8]} 63. h5 {[%clk 0:00:43.0]} Ng5 {[%clk 0:00:05.3]} 64. h6 {[%clk 0:00:42.9]} Kd3 {[%clk 0:00:05.4]} 65. Bb4 {[%clk 0:00:42.9]} Ke2 {[%clk 0:00:04.7]} 66. f3 {[%clk 0:00:38.2]} Ke3 {[%clk 0:00:03.2]} 67. Bd6 {[%clk 0:00:37.5]} Nxf3 {[%clk 0:00:03.3]} 68. h7 {[%clk 0:00:37.2]} Nh4+ {[%clk 0:00:04.0]} 69. Kh3 {[%clk 0:00:35.5]} Ng6 {[%clk 0:00:04.6]} 70. Bc5+ {[%clk 0:00:34.0]} Ke2 {[%clk 0:00:04.9]} 71. Kh2 {[%clk 0:00:31.2]} f3 {[%clk 0:00:05.6]} 72. Kg1 {[%clk 0:00:31.8]} f4 {[%clk 0:00:04.0]} 73. Bb6 {[%clk 0:00:31.4]} Nh8 {[%clk 0:00:03.8]} 74. Bd4 {[%clk 0:00:31.4]} Nf7 {[%clk 0:00:04.6]} 75. Bb6 {[%clk 0:00:30.0]} Ke1 {[%clk 0:00:04.9]} 76. Bf2+ {[%clk 0:00:28.4]} Ke2 {[%clk 0:00:05.5]} 77. Bb6 {[%clk 0:00:28.4]} Ke1 {[%clk 0:00:04.7]} 78. Ba7 {[%clk 0:00:29.0]} Ke2 {[%clk 0:00:04.8]} 79. Bb6 {[%clk 0:00:29.4]} {Draw by Repetition} 1/2-1/2
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "7.3"]
+[White "Sargsyan, Anna M."]
+[Black "Sliwicka, Alicja"]
+[Result "1-0"]
+[BlackCountry "PL"]
+[BlackElo "2346"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "WIM"]
+[WhiteCountry "AM"]
+[WhiteElo "2383"]
+[WhiteTeam "Armenian State Institute of Physical Culture and Sport"]
+[WhiteTitle "IM"]
+
+1. d4 {[%clk 0:03:02.0]} Nf6 {[%clk 0:03:00.3]} 2. c4 {[%clk 0:03:02.8]} c5 {[%clk 0:03:00.8]} 3. d5 {[%clk 0:03:00.2]} b5 {[%clk 0:03:01.4]} 4. cxb5 {[%clk 0:03:00.3]} a6 {[%clk 0:03:02.2]} 5. bxa6 {[%clk 0:03:01.3]} Bxa6 {[%clk 0:03:02.8]} 6. Nc3 {[%clk 0:03:02.2]} g6 {[%clk 0:03:02.3]} 7. Nf3 {[%clk 0:03:03.0]} Bg7 {[%clk 0:03:02.5]} 8. e4 {[%clk 0:03:04.0]} Bxf1 {[%clk 0:03:03.1]} 9. Kxf1 {[%clk 0:03:04.9]} d6 {[%clk 0:03:04.2]} 10. g3 {[%clk 0:03:05.8]} 0-0 {[%clk 0:03:05.0]} 11. Kg2 {[%clk 0:03:06.3]} Nbd7 {[%clk 0:03:05.9]} 12. Qc2 {[%clk 0:03:02.5]} Qa5 {[%clk 0:02:47.5]} 13. Rb1 {[%clk 0:02:37.3]} Rfb8 {[%clk 0:02:43.1]} 14. b3 {[%clk 0:02:32.8]} c4 {[%clk 0:02:16.0]} 15. Bd2 {[%clk 0:02:05.3]} cxb3 {[%clk 0:02:12.9]} 16. Rxb3 {[%clk 0:02:03.1]} Nc5 {[%clk 0:01:57.1]} 17. Rxb8+ {[%clk 0:01:58.0]} Rxb8 {[%clk 0:01:57.6]} 18. Rb1 {[%clk 0:01:58.2]} Ra8 {[%clk 0:01:50.9]} 19. Nd4 {[%clk 0:01:53.9]} Qa6 {[%clk 0:01:39.8]} 20. Nc6 {[%clk 0:01:50.1]} Kf8 {[%clk 0:01:36.8]} 21. a4 {[%clk 0:01:40.6]} Nfd7 {[%clk 0:01:27.1]} 22. a5 {[%clk 0:01:33.5]} Ne5 {[%clk 0:01:19.2]} 23. Nxe5 {[%clk 0:01:06.1]} Bxe5 {[%clk 0:01:19.4]} 24. Nb5 {[%clk 0:01:03.9]} Rc8 {[%clk 0:01:12.6]} 25. Qc4 {[%clk 0:00:18.0]} Nd7 {[%clk 0:01:09.1]} 26. Qa4 {[%clk 0:00:07.3]} Nc5 {[%clk 0:01:09.8]} 27. Qc4 {[%clk 0:00:07.6]} Nd7 {[%clk 0:01:10.1]} 28. Qe2 {[%clk 0:00:07.1]} Bg7 {[%clk 0:01:06.0]} 29. Be1 {[%clk 0:00:07.6]} Rc5 {[%clk 0:01:04.5]} 30. Nd4 {[%clk 0:00:03.7]} Qa8 {[%clk 0:00:59.8]} 31. Nc6 {[%clk 0:00:04.3]} Bf6 {[%clk 0:00:55.0]} 32. a6 {[%clk 0:00:04.8]} Kg7 {[%clk 0:00:47.4]} 33. a7 {[%clk 0:00:05.6]} h5 {[%clk 0:00:39.5]} 34. Qa6 {[%clk 0:00:06.0]} Rc2 {[%clk 0:00:33.9]} 35. Qb7 {[%clk 0:00:06.8]} Qxb7 {[%clk 0:00:30.5]} 36. Rxb7 {[%clk 0:00:06.2]} Ra2 {[%clk 0:00:26.4]} 37. Rxd7 {[%clk 0:00:06.6]} h4 {[%clk 0:00:25.2]} 38. Rd8 {[%clk 0:00:07.5]} h3+ {[%clk 0:00:24.6]} 39. Kxh3 {[%clk 0:00:07.7]} {Black Resigned} 1-0
+
+
+[Event "WUOCC - Finals Women"]
+[Site "Tornelo INT"]
+[Date "2021.03.15"]
+[Round "7.4"]
+[White "Shuvalova, Polina"]
+[Black "Antolak, Julia"]
+[Result "1-0"]
+[BlackCountry "PL"]
+[BlackElo "2306"]
+[BlackTeam "University of Texas Rio Grande Valley"]
+[BlackTitle "WGM"]
+[Termination "time forfeit"]
+[WhiteCountry "RU"]
+[WhiteElo "2476"]
+[WhiteTeam "Ural State Mining University"]
+[WhiteTitle "IM"]
+
+1. d4 {[%clk 0:03:02.0]} Nf6 {[%clk 0:03:00.3]} 2. Nc3 {[%clk 0:03:02.8]} d5 {[%clk 0:02:59.8]} 3. Bf4 {[%clk 0:03:03.6]} e6 {[%clk 0:02:58.2]} 4. Nb5 {[%clk 0:03:04.2]} Na6 {[%clk 0:02:58.2]} 5. e3 {[%clk 0:03:05.4]} Be7 {[%clk 0:02:54.8]} 6. Nf3 {[%clk 0:03:05.5]} 0-0 {[%clk 0:02:55.1]} 7. Bd3 {[%clk 0:03:05.7]} c6 {[%clk 0:02:53.0]} 8. Nc3 {[%clk 0:03:05.8]} c5 {[%clk 0:02:26.2]} 9. h3 {[%clk 0:03:05.3]} Nb4 {[%clk 0:02:22.3]} 10. Be2 {[%clk 0:03:01.5]} cxd4 {[%clk 0:02:22.3]} 11. exd4 {[%clk 0:03:01.4]} Bd7 {[%clk 0:02:21.7]} 12. Ne5 {[%clk 0:03:00.4]} Nc6 {[%clk 0:02:20.9]} 13. 0-0 {[%clk 0:02:56.8]} a6 {[%clk 0:02:19.9]} 14. Re1 {[%clk 0:02:45.3]} Rc8 {[%clk 0:02:19.9]} 15. a3 {[%clk 0:02:37.8]} Ne8 {[%clk 0:01:58.2]} 16. Bd3 {[%clk 0:02:30.2]} Bf6 {[%clk 0:01:50.6]} 17. Ne2 {[%clk 0:02:28.0]} g6 {[%clk 0:01:46.2]} 18. c3 {[%clk 0:02:27.9]} Bg7 {[%clk 0:01:43.3]} 19. Qd2 {[%clk 0:02:25.2]} b5 {[%clk 0:01:11.2]} 20. a4 {[%clk 0:02:23.9]} Nxe5 {[%clk 0:00:56.2]} 21. Bxe5 {[%clk 0:02:21.3]} Qb6 {[%clk 0:00:48.2]} 22. Nf4 {[%clk 0:02:16.8]} Nd6 {[%clk 0:00:40.9]} 23. Bxg7 {[%clk 0:02:16.2]} Kxg7 {[%clk 0:00:41.3]} 24. axb5 {[%clk 0:02:11.2]} axb5 {[%clk 0:00:39.3]} 25. Qe2 {[%clk 0:02:10.4]} Nc4 {[%clk 0:00:38.0]} 26. b3 {[%clk 0:02:07.9]} Nd6 {[%clk 0:00:38.4]} 27. Qe5+ {[%clk 0:02:08.4]} Kg8 {[%clk 0:00:33.4]} 28. Nh5 {[%clk 0:02:01.4]} Ne8 {[%clk 0:00:30.7]} 29. Nf4 {[%clk 0:01:30.5]} Rxc3 {[%clk 0:00:29.0]} 30. h4 {[%clk 0:01:26.5]} Qc7 {[%clk 0:00:26.5]} 31. Qe3 {[%clk 0:01:23.4]} Ng7 {[%clk 0:00:20.3]} 32. g4 {[%clk 0:01:21.3]} e5 {[%clk 0:00:17.4]} 33. dxe5 {[%clk 0:01:16.0]} Qc6 {[%clk 0:00:10.8]} 34. Rac1 {[%clk 0:01:05.4]} b4 {[%clk 0:00:09.3]} 35. Rxc3 {[%clk 0:00:52.7]} bxc3 {[%clk 0:00:09.7]} 36. b4 {[%clk 0:00:52.9]} Bxg4 {[%clk 0:00:09.0]} 37. b5 {[%clk 0:00:54.0]} Qc7 {[%clk 0:00:08.6]} 38. Nxd5 {[%clk 0:00:53.4]} Qb7 {[%clk 0:00:08.4]} 39. Nf6+ {[%clk 0:00:53.6]} Kh8 {[%clk 0:00:09.1]} 40. Qh6 {[%clk 0:00:52.2]} {Black Loss on Time} 1-0
+
+

@@ -1,0 +1,58 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Girls 14,India,Anupam M Sreekumar,1798,9,6,390,34,52,18,Level C
+2,Girls 12,Russia,Victoria Merkulova,,10,8,399,40,51,11,Level C
+3,Girls 14,Vietnam,Linh Dan Nguyen,1413,9,7,315,40,51,11,Level C
+4,Girls 14,Peru,Fiorella Contreras Huaman,1757,9,7.5,410,40,51,11,Level C
+5,Girls 12,Vietnam,Nguyen Huynh Mai Hoa,1246,11,7.5,439,41,50,9,Level C
+6,Girls 10,Singapore,See Jen Ng,1055,10,7,321,46,53,7,Level C
+7,Girls 10,Iran,Rosha Akbari,,10,8.5,306,44,50,6,Level C
+8,Girls 12,Georgia,Kesaria Mgeladze,1551,11,5.5,403,47,52,5,Level C
+9,Girls 14,Armenia,Polina Kobak,,8,5,325,45,49,4,Level B
+10,Girls 12,India,Sneha Halder,1680,11,6,446,43,45,2,Level B
+11,Girls 12,Kazakhstan,Elnaz Kaliakhmet,1686,11,7,558,43,43,0,Level B
+12,Girls 18,Vietnam,Ngoc Thuy Duong Bach,2198,9,9,281,49,48,-1,Level B
+13,Girls 10,Russia,Ksenia Asachenko,,11,5,328,54,51,-3,Level C
+14,Girls 16,Kazakhstan,Amina Kairbekova,2123,10,6.5,303,52,49,-3,Level B
+15,Girls 16,Vietnam,Nguyen My Hanh An,1596,10,7.5,346,52,49,-3,Level B
+16,Girls 18,India,Bommini Mounika Akshaya,1834,9,6,309,51,48,-3,Level B
+17,Girls 12,Iran,Sara Davari,,11,6,485,52,47,-5,Level B
+18,Girls 16,Russia,Veronika Shubenkova,1762,9,6.5,304,52,47,-5,Level B
+19,Girls 16,Malaysia,Jia Ru Sim,2005,10,5.5,270,58,52,-6,Level C
+20,Girls 12,Philippines,Kaye Lalaine Regidor,1492,11,6,509,54,48,-6,Level B
+21,Girls 10,Mongolia,Tselmeg Myagmar,,10,4,468,52,46,-6,Level B
+22,Girls 12,Egypt,Joy Romany,1442,11,4.5,499,47,40,-7,Level B
+23,Girls 14,Philippines,April Joy Claros,1544,8,5,310,54,46,-8,Level B
+24,Girls 10,Azerbaijan,Asnad Valiyeva,,11,6.5,515,52,44,-8,Level B
+25,Girls 16,Georgia,Diana Lomaia,1978,10,6.5,333,58,49,-9,Level B
+26,Girls 12,Russia,Veronika Iudina,,11,5,548,54,45,-9,Level B
+27,Girls 18,China,Cai Youyang,1650,6,1,168,52,43,-9,Level B
+28,Girls 18,Azerbaijan,Malak Ismayil,2088,9,6,341,57,47,-10,Level B
+29,Girls 18,Belarus,Kseniya Zeliantsova,1952,9,4.5,350,59,48,-11,Level B
+30,Girls 18,Malaysia,Jia-Tien Chua,1822,9,3,308,58,47,-11,Level B
+31,Girls 10,Vietnam,Thai Hoang Anh Le,1204,10,7,381,58,46,-12,Level B
+32,Girls 14,Azerbaijan,Narmin Abdinova,1734,8,2,290,62,48,-14,Level B
+33,Girls 10,India,Prishita Gupta,1272,11,7.5,454,59,44,-15,Level A
+34,Girls 18,Georgia,Nia Donghvani,,10,7,432,62,46,-16,Level B
+35,Girls 12,Russia,Mariia Dolinskaya,,10,2.5,424,58,42,-16,Level B
+36,Girls 16,FIDE,Mariya Yakimova,2219,10,6.5,248,63,46,-17,Level B
+37,Girls 14,Vietnam,Thai Ngoc Tuong Minh,1547,8,2.5,342,61,44,-17,Level B
+38,Girls 12,Georgia,Anastasia Kirtadze,1676,11,4.5,575,58,41,-17,Level A
+39,Girls 14,Ireland,Lara Putar,1838,9,3.5,328,63,45,-18,Level B
+40,Girls 10,Romania,Vasylyna Semenova,,10,5,302,67,41,-26,Level A
+41,Girls 14,South Africa,Chloe Badenhorst,1517,9,2.5,345,73,45,-28,Level B
+42,Girls 12,South Africa,Sanjana Ramlall,1262,9,1.5,359,71,41,-30,Level A
+43,Girls 18,India,Chandratreya Prachiti,1998,8,3.5,333,74,42,-32,Level B
+44,Girls 16,Iran,Parnian Ghomi,2006,10,6,284,75,42,-33,Level B
+45,Girls 18,Mongolia,Batkhishig Udval,1626,9,4,229,79,45,-34,Level B
+46,Girls 10,Netherlands,Luna Huang,1281,11,3,344,72,36,-36,Level A
+47,Girls 16,India,Bhagyashree Patil,1958,10,4,238,79,42,-37,Level A
+48,Girls 16,Botswana,Naledi Marape,1723,9,2,199,86,45,-41,Level B
+49,Girls 16,Malawi,Shriyan Santosh Priyasha,1528,9,0,225,84,40,-44,Level B
+50,Girls 10,Peru,Fabiana Gomez Gonzales,1140,11,5,346,82,38,-44,Level A
+51,Girls 16,Azerbaijan,Ayan Allahverdiyeva,2084,9,2,174,91,39,-52,Level A
+52,Girls 10,Egypt,Raghad Alaa Eldin,,11,1.5,246,92,37,-55,Level A
+53,Girls 18,South Africa,Anje Van Jaarsveld,1385,8,0,201,111,41,-70,Level B
+54,Girls 14,Botswana,Banda Natalie Katlo,1595,5,0,30,114,37,-77,Level B
+55,Girls 10,Nigeria,Deborah Ebimobo-ere Quickpen,,6,1,18,122,44,-78,Level A
+56,Girls 18,Belarus,Aliaksandra Tarasenka,2124,1,0,0,0,0,,Level B
+57,Girls 18,Tunisia,Amen Miladi,1741,1,0,0,0,0,,Level B

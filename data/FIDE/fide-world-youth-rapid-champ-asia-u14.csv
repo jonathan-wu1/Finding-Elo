@@ -1,0 +1,69 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Girls,United Arab Emirates,Aisha Mohammed Al Muaeni,1178,5,4.5,97,30,62,32,Level A
+2,Open,Iran,Bardiya Daneshvar,2399,7,5.5,351,39,53,14,Level A
+3,Open,Singapore,Shao Kai Dylan Loh,1685,7,3.5,284,41,52,11,Level A
+4,Open,India,Pranesh M,2437,7,4.5,335,42,51,9,Level A
+5,Open,Vietnam,Nguyen Quoc Hy HCM,,7,4.5,236,44,50,6,Level A
+6,Open,Sri Lanka,L M S T De Silva,2085,7,4.5,277,47,52,5,Level A
+7,Open,India,Aditya Mittal,2438,7,5.5,338,47,52,5,Level A
+8,Girls,Philippines,April Joy Claros,1459,7,5.5,297,46,51,5,Level A
+9,Open,Singapore,Xinglun Royce Ho,1995,7,3,227,50,54,4,Level A
+10,Girls,Mongolia,Davaakhuu Munkhzul,1991,7,4.5,292,48,52,4,Level A
+11,Girls,India,Velpula Sarayu,1964,7,4.5,210,49,50,1,Level A
+12,Girls,India,Boramanikar Tanisha S,1670,7,4,236,51,51,0,Level A
+13,Open,Indonesia,Cleon Amadeus Surya,1629,7,3,171,47,47,0,Level A
+14,Open,India,V Pranav,2348,7,6,245,57,54,-3,Level A
+15,Open,Mongolia,Otgonbayar Bat-Erdene,1411,7,4,192,55,51,-4,Level A
+16,Open,Kazakhstan,Timur Kenbeilov,2095,7,3.5,278,51,47,-4,Level A
+17,Open,India,Bharath Subramaniyam H,2437,7,3,296,56,51,-5,Level A
+18,Open,Kazakhstan,Satbek Akhmedinov,1948,7,3.5,286,55,50,-5,Level A
+19,Open,India,Raahil Mullick,2386,7,4,251,51,46,-5,Level A
+20,Open,Chinese Taipei,Adelard Bai,2399,7,3.5,300,50,44,-6,Level A
+21,Open,Iran,Hamidreza Ebrahimi Hareb,2020,7,3.5,303,55,48,-7,Level A
+22,Open,Lebanon,Bashar Kassar,1379,7,2.5,235,59,50,-9,Level A
+23,Open,Philippines,Mark Jay Bacojo,1926,7,4.5,262,61,50,-11,Level A
+24,Open,China,Di Zhang,2108,7,5,297,59,48,-11,Level A
+25,Open,Bangladesh,Choudhury Swarnavo,1927,7,2.5,225,55,44,-11,Level A
+26,Open,,Jubin Jimmy,2259,7,5,293,55,44,-11,Level A
+27,Girls,Kazakhstan,Meirzhan Karataikyzy,1683,7,4,239,53,41,-12,Level A
+28,Girls,India,Shivika Rohilla,1915,7,4,248,55,42,-13,Level A
+29,Girls,Indonesia,Laysa Latifah,1897,7,6,214,57,43,-14,Level A
+30,Open,India,Shahil Dey,2376,7,5,296,60,45,-15,Level A
+31,Girls,India,V Renganayaki,1783,7,4.5,292,59,44,-15,Level A
+32,Girls,Philippines,Samantha Babol Umayan,1553,6,1.5,178,55,40,-15,Level A
+33,Open,Vietnam,Pham Thien Phuc Vo,2037,7,4,267,59,43,-16,Level A
+34,Girls,Mongolia,Khaliunaa Gankhulug,1899,7,3.5,290,58,42,-16,Level A
+35,Girls,Mongolia,Bayanmunkh Amin-Erdene,1425,7,4,278,57,41,-16,Level A
+36,Open,,Pranav Anand,2381,7,4.5,291,61,43,-18,Level A
+37,Open,"Hong Kong, China",Xuqian Ben Han,1612,7,3.5,304,63,44,-19,Level A
+38,Girls,Kazakhstan,Ayaulym Kaldarova,1592,7,3,180,61,41,-20,Level A
+39,Open,Kyrgyzstan,Eldiar Orozbaev,1973,7,3,188,69,48,-21,Level A
+40,Open,China,Jiajun Sun,2040,7,4,242,71,48,-23,Level A
+41,Girls,India,Sahithi Varshini M,2070,7,5,281,66,43,-23,Level A
+42,Open,India,Mahendra Teja Mekala,1892,7,5,284,64,39,-25,Level A
+43,Girls,Malaysia,A'dira A'ddawiyah Abd Aziz,1372,7,3.5,329,73,47,-26,Level A
+44,Girls,Malaysia,Kai Ni Agnes Chong,1892,7,4,270,69,43,-26,Level A
+45,Girls,China,Jinru Cai,1584,7,3.5,382,68,41,-27,Level A
+46,Girls,Sri Lanka,W M M N Wijesinghe,1612,7,3,169,74,46,-28,Level A
+47,Open,,Seth Peramunetilleke,1925,6,2,204,78,49,-29,Level A
+48,Girls,India,Vishwa Vasnawala,2034,7,3,228,77,45,-32,Level A
+49,Girls,,Alo Nusrat Jahan,1730,7,3.5,262,73,41,-32,Level A
+50,Open,Malaysia,A'qil A'lauddin Abd Aziz,1272,6,2,181,74,39,-35,Level A
+51,Open,Qatar,ABDULLA AL HOMAID MOHAMMED,1301,6,1,175,78,41,-37,Level A
+52,Girls,India,Kriti Mayur Patel,1394,7,3,203,81,43,-38,Level A
+53,Open,Yemen,Husam Al-Dain Abdulhakim Nasher,1342,6,1,167,88,47,-41,Level A
+54,Open,Myanmar,Kaung Mon Thar Johnathan,1468,7,1.5,188,90,48,-42,Level A
+55,Girls,Australia,Ekaterina GRATCHEV,1436,7,3,209,84,41,-43,Level A
+56,Girls,"Hong Kong, China",Yuen Tung Huang,1309,7,2.5,225,82,39,-43,Level A
+57,Girls,Iran,Sahar Masoumi,1902,7,4.5,291,83,39,-44,Level A
+58,Girls,China,Yaqing Wei,1650,7,5,240,86,40,-46,Level A
+59,Girls,Kyrgyzstan,Tomiris Kalkanova,1105,6,1,177,82,35,-47,Level A
+60,Open,Myanmar,Han Thiha Sai,1974,7,3,275,87,39,-48,Level A
+61,Girls,,Elina Saadatmandi,1531,7,3,155,90,41,-49,Level A
+62,Open,Maldives,Yoosuf Waseem Ahmed,1177,6,1,193,91,39,-52,Level A
+63,Open,United Arab Emirates,Yahya Shuaib al kaff,1389,6,1,175,96,36,-60,Level A
+64,Girls,Palestine,taqwa hamouri,1040,6,1,184,106,39,-67,Level A
+65,Girls,,Sirin El Anis,,6,0,128,115,27,-88,Level A
+66,Girls,Maldives,Usamath Kiyan Mohamed,1199,6,1,134,117,28,-89,Level A
+67,Open,Guam,Noah Combs,,6,0,144,122,29,-93,Level A
+68,Girls,Yemen,Fatima Ahmed Al-Jadi,,3,0,1,1000,0,-1000,Level A

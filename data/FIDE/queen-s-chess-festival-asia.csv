@@ -1,0 +1,175 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Category D,Thailand,Nina Tuorila,1280,7,5,130,29,60,31,Level A
+2,Category B,China,Xiao Zhang,2091,10,7.5,390,42,54,12,Level C
+3,Category A,India,Eesha Karavade,2345,3,2.5,140,39,51,12,Level C
+4,Category C,,Khushi Choksi,1576,11,5,298,51,52,1,Level C
+5,Category D,,Vaishnavi R Rao,1159,11,8,426,46,44,-2,Level B
+6,Category B,India,Srimathi R,1944,11,7,482,51,47,-4,Level B
+7,Category D,Jordan,Lana Haymoor,1342,11,6,182,55,49,-6,Level B
+8,Category B,Uzbekistan,Yuliya Khegay,1848,11,6,323,54,48,-6,Level B
+9,Category B,India,Anusha N L V,2030,11,7,458,53,47,-6,Level B
+10,Category B,Indonesia,Dita Karenza,2026,11,6.5,415,55,48,-7,Level B
+11,Category A,Kazakhstan,Assel Serikbay,2228,9,3.5,402,57,46,-11,Level B
+12,Category A,China,Tianqi Yan,2207,11,7.5,398,56,45,-11,Level B
+13,Category C,Kazakhstan,Elnaz Kaliakhmet,1528,11,9,423,55,44,-11,Level B
+14,Category D,Palestine,Eman Sawan,1000,11,7,450,56,44,-12,Level A
+15,Category A,Kazakhstan,Gulmira Dauletova,2257,10,4.5,382,55,43,-12,Level B
+16,Category B,Kazakhstan,Alua Nurmanova,2093,11,9,477,53,41,-12,Level A
+17,Category A,China,Miaoyi Lu,2244,11,5,391,61,48,-13,Level B
+18,Category D,Kyrgyzstan,Aiana Abaeva,1444,11,6.5,374,55,42,-13,Level A
+19,Category D,India,Anjana Devi G,1272,11,6,408,54,40,-14,Level A
+20,Category D,Bangladesh,Khusbu Warsia,1423,11,6,255,61,46,-15,Level B
+21,Category A,Kazakhstan,Xeniya Balabayeva,2116,10,5,476,59,44,-15,Level B
+22,Category C,Iran,Melika Mohammadi,1745,11,7.5,413,58,43,-15,Level A
+23,Category D,Mongolia,Khuslenzaya Baldanjantsan,1381,11,7,434,63,47,-16,Level B
+24,Category B,Philippines,Bernadette Galas,2065,11,6,407,62,46,-16,Level B
+25,Category C,Uzbekistan,Maftuna Bobomurodova,1640,8,4,173,64,47,-17,Level B
+26,Category B,India,Ghosh Samriddhaa,1910,10,5.5,370,60,43,-17,Level A
+27,Category C,,Udval Enkhsaikhan,1710,11,6,371,64,46,-18,Level B
+28,Category D,,Gupta Aadya,1211,11,7.5,407,64,46,-18,Level B
+29,Category A,Singapore,Qianyun Gong,2347,11,8,429,64,46,-18,Level B
+30,Category A,India,Jyothsna L,2112,10,4.5,414,63,45,-18,Level B
+31,Category D,Kazakhstan,Nursulu Orazalina,1355,11,6,395,56,38,-18,Level A
+32,Category B,Mongolia,Davaakhuu Munkhzul,1991,11,6,403,65,46,-19,Level B
+33,Category A,Indonesia,Medina Warda Aulia,2360,11,7,410,64,45,-19,Level B
+34,Category D,Mongolia,Enerel Ariunbold,1228,11,7,409,59,39,-20,Level A
+35,Category C,,Lauren Rice,1558,11,5,405,66,45,-21,Level B
+36,Category D,Jordan,Maya Erani,1183,11,5.5,401,65,44,-21,Level A
+37,Category C,Syria,Roula Mahmoud,1765,11,5,390,64,43,-21,Level A
+38,Category A,India,Vantika Agrawal,2286,11,8,340,63,42,-21,Level A
+39,Category D,Singapore,Kay Yan Eden Pang,1383,11,7,377,61,40,-21,Level A
+40,Category A,India,Sagar Tejaswini,2166,10,2.5,412,72,50,-22,Level C
+41,Category A,India,Savitha Shri B,2281,11,5.5,393,67,45,-22,Level B
+42,Category B,Kyrgyzstan,Aleksandra Samaganova,1993,10,4,362,68,44,-24,Level B
+43,Category B,Iran,Vesal Hamedi Nia,1980,11,6.5,394,67,43,-24,Level A
+44,Category B,India,Suresh Ananya,1916,11,6,349,73,48,-25,Level B
+45,Category C,India,Janhavi Soneji,1706,11,5,259,70,45,-25,Level B
+46,Category D,,Tenuli Dhahamna Rathnayake,1184,11,7,289,68,43,-25,Level A
+47,Category D,India,Sritama Sen,1277,11,8,352,66,41,-25,Level A
+48,Category D,Sri Lanka,Nemindi Linaya Ramanayake,1345,11,7,362,64,39,-25,Level A
+49,Category A,Iran,Anahita Zahedifar,2213,9,1.5,366,71,45,-26,Level B
+50,Category D,,Riddhika Kotia - India,1285,11,7.5,347,68,42,-26,Level A
+51,Category C,Japan,Azumi Sakai,1731,10,5.5,328,67,41,-26,Level A
+52,Category D,Indonesia,Shafira Devi Herfesa,1000,11,9,335,73,46,-27,Level A
+53,Category D,,NAPAT KHANTREE,1201,11,5.5,366,69,42,-27,Level A
+54,Category A,China,Lanlin Zhang,2135,10,5.5,353,68,41,-27,Level A
+55,Category D,Philippines,April Joy Claros,1483,11,8.5,368,71,43,-28,Level A
+56,Category C,Philippines,Francois Marie Magpily,1757,11,8,440,71,43,-28,Level A
+57,Category D,India,Kazmi Daanish Sheen,1103,11,5,355,70,42,-28,Level A
+58,Category D,Sri Lanka,Piyumi Uthpala Amarathunga,1000,9,3,236,69,41,-28,Level A
+59,Category B,,Chua Jia-Tien Chua,1822,11,6,407,74,45,-29,Level B
+60,Category B,China,Yu A. Hu,2094,11,4.5,341,73,44,-29,Level B
+61,Category B,Kyrgyzstan,Begimai Zairbek Kyzy,1921,10,5,353,71,42,-29,Level B
+62,Category C,Sweden,M.s. Harshavardhini,1559,10,3,377,71,42,-29,Level A
+63,Category C,Kazakhstan,Aisha Zakirova,1585,11,8,410,71,42,-29,Level A
+64,Category D,Sri Lanka,Devindya Oshini Gunawardhana,1373,11,9,382,68,39,-29,Level A
+65,Category D,Sri Lanka,Oneli Vithanawasam,1349,11,8,352,71,41,-30,Level A
+66,Category D,,Rosha Akbari,1317,11,6.5,358,77,46,-31,Level B
+67,Category B,Singapore,Mei-En Emmanuelle Hng,2013,11,7,267,76,45,-31,Level B
+68,Category C,Sri Lanka,S D Ranasinghe,1725,11,6.5,540,72,41,-31,Level A
+69,Category D,India,Pournami S,1276,11,9,364,73,41,-32,Level A
+70,Category C,Sri Lanka,K M Dahamdi Sanudula,1717,11,8.5,385,72,40,-32,Level A
+71,Category C,Jordan,Alnaimat Raya,1694,10,3,335,74,41,-33,Level A
+72,Category D,Mongolia,Maral Altankhuyag,1178,11,6,446,69,36,-33,Level A
+73,Category D,Nepal,Anisha Neupane,1459,10,4,246,77,43,-34,Level A
+74,Category C,Nepal,Sujana Lohani,1675,11,5,346,74,40,-34,Level A
+75,Category A,Philippines,Shania Mae Mendoza,2158,10,4.5,362,73,39,-34,Level A
+76,Category D,Thailand,Anya Belle Burbach,1265,11,7.5,301,73,39,-34,Level A
+77,Category A,Lebanon,Knarik Mouradian,2121,10,2.5,298,80,45,-35,Level B
+78,Category D,,Harshini A,1356,11,7,367,78,43,-35,Level A
+79,Category D,Kazakhstan,Malika Japparbekova,1386,11,7.5,375,76,41,-35,Level A
+80,Category B,Bangladesh,Anjum Noshin,1948,9,1.5,256,76,41,-35,Level A
+81,Category D,Sri Lanka,H G Sasmi Sithumsa,1000,11,5,255,82,46,-36,Level B
+82,Category C,United Arab Emirates,Essa Mariam,1561,11,4,341,79,43,-36,Level A
+83,Category A,Kazakhstan,Amina Kairbekova,2132,11,6,409,77,41,-36,Level A
+84,Category D,United Arab Emirates,Anoud Eisa Bashkardi,1000,11,4.5,300,76,40,-36,Level A
+85,Category B,India,Arushi Kotwal,1854,11,6.5,359,74,38,-36,Level A
+86,Category D,Malaysia,Nurul Akma Quzaina Khairolhisal,1301,11,8,364,73,37,-36,Level A
+87,Category D,,Leah Rice,1164,11,6,293,80,43,-37,Level A
+88,Category D,India,Srivastav Manishika,1221,11,7,363,79,42,-37,Level A
+89,Category C,Singapore,Kun Fang,1736,11,6,410,77,40,-37,Level A
+90,Category D,Mongolia,Enkhsaikhan Odmaa,1113,11,5.5,362,76,39,-37,Level A
+91,Category D,,Sirin Bootsumran,1209,11,6,248,81,43,-38,Level A
+92,Category B,Lebanon,Elena Nekrasova,2028,10,3,288,83,44,-39,Level B
+93,Category B,India,C H Meghna,1985,11,5,322,82,43,-39,Level A
+94,Category C,Singapore,Saravanan Durga,1558,11,6,351,80,41,-39,Level A
+95,Category C,Mongolia,Kupjasar Jannur,1517,11,5,396,83,43,-40,Level A
+96,Category C,India,Rebecca Jesumarian,1589,11,7,360,80,40,-40,Level A
+97,Category C,,Pragnya H G,1640,11,5.5,424,77,37,-40,Level A
+98,Category C,India,V. Chaitanya,1668,11,5.5,368,77,37,-40,Level A
+99,Category D,Sri Lanka,G H S Sanulya,1107,10,4,272,84,43,-41,Level A
+100,Category C,Thailand,Araya Prommuang,1563,11,6,340,83,42,-41,Level A
+101,Category C,Indonesia,Christine Elisabeth,1786,11,8,353,81,40,-41,Level A
+102,Category A,Kazakhstan,Nazerke Nurgali,2217,11,6.5,340,79,38,-41,Level A
+103,Category B,Bangladesh,Walijah Ahmed,1902,11,5.5,395,83,41,-42,Level A
+104,Category C,Thailand,Sarocha Chuemsakul,1686,11,6,339,83,41,-42,Level A
+105,Category B,Malaysia,Jia Ru Sim,2005,11,6,398,82,40,-42,Level A
+106,Category D,India,Deeptha Srinivas,1000,11,7,238,80,38,-42,Level A
+107,Category D,Malaysia,Ashwiniy Kumaran,1218,11,6,434,90,47,-43,Level B
+108,Category D,India,Harshvi Matalia,1195,11,5.5,259,84,41,-43,Level A
+109,Category B,India,K. Manasa,1827,11,5,317,89,45,-44,Level B
+110,Category B,India,Sunyuktha C M N,1867,11,5,360,88,44,-44,Level B
+111,Category D,Palestine,Alaa Dawabsha,1000,11,5,275,81,37,-44,Level A
+112,Category D,India,Mansha Mahajan,1000,11,4,299,83,38,-45,Level A
+113,Category C,Japan,Melody Takayasu,1692,11,4,254,83,38,-45,Level A
+114,Category D,India,Shanjula Senthil,1170,11,7,343,81,36,-45,Level A
+115,Category D,Jordan,Ruba Al-Qudah,1269,11,6.5,437,83,36,-47,Level A
+116,Category D,Palestine,Somaya Abo Maktoma,1000,11,5.5,222,91,43,-48,Level A
+117,Category C,Lebanon,Danielle Bedrosian,1641,11,1,277,84,36,-48,Level A
+118,Category D,Thailand,Melita Sunan Buhagiar,1258,11,5,361,87,38,-49,Level A
+119,Category D,Japan,Rikka Mitsuyama,1157,10,5,361,86,37,-49,Level A
+120,Category D,Saudi Arabia,Dalia Alsemairi,1000,11,4,231,89,36,-53,Level A
+121,Category D,Sri Lanka,Desandhi Dhihansa Gamage,1302,11,7,334,91,36,-55,Level A
+122,Category B,Syria,Afamia Mir Mahmoud,1933,5,0,113,91,36,-55,Level A
+123,Category D,Bangladesh,Choudhury Neelava,1350,11,6,267,92,35,-57,Level A
+124,Category D,India,Stuti Bhattacharjee,1000,11,5.5,269,97,38,-59,Level A
+125,Category C,United Arab Emirates,Alserkal Rouda Essa,1504,11,4,264,102,41,-61,Level A
+126,Category D,India,Devi Priya A V,1232,11,5,204,102,41,-61,Level A
+127,Category C,Singapore,Xiu Ning Charlene Mak,1635,11,6,419,99,38,-61,Level A
+128,Category C,Japan,Yuki Misawa,1577,10,4.5,275,93,31,-62,Level A
+129,Category D,United Arab Emirates,Darmaki Latifah,1321,11,6,185,103,40,-63,Level A
+130,Category D,Japan,Kanako Kinoshita,1000,11,5,255,101,38,-63,Level A
+131,Category D,India,Pari Tiwari,1000,11,5.5,360,98,34,-64,Level A
+132,Category B,India,Anjali R. Sagar,1836,10,1,255,104,38,-66,Level A
+133,Category D,Jordan,Al-Khanji Qammar,1272,11,3.5,215,102,34,-68,Level A
+134,Category D,Qatar,Layan Al Qassabi,1167,10,4,205,102,34,-68,Level A
+135,Category D,Malaysia,Linggeswary Ganesh,1000,11,6,278,106,37,-69,Level A
+136,Category D,Saudi Arabia,Leen Mohammed S Aldawsari,1000,11,5,351,110,39,-71,Level A
+137,Category B,Syria,Manar Khalil,1822,10,4,291,108,37,-71,Level A
+138,Category D,Sri Lanka,Chanindi Mewna Attanayake,1317,11,6.5,284,106,35,-71,Level A
+139,Category D,India,Srujanika Gupta,1000,11,4.5,270,104,33,-71,Level A
+140,Category C,Singapore,Kai Xin Siew,1692,11,5,405,104,31,-73,Level A
+141,Category D,Palestine,Taqwa Hamouri,1040,11,6,279,112,38,-74,Level A
+142,Category D,Afghanistan,Monaza Nawazesh,1000,7,3,66,113,38,-75,Level A
+143,Category D,,Pujitaa Mynam,1000,11,4.5,265,111,36,-75,Level A
+144,Category C,Qatar,Kholoud Al-Khelaifi,1507,10,2.5,331,105,30,-75,Level A
+145,Category D,India,Bhansali Anushri,1100,11,4,241,111,32,-79,Level A
+146,Category D,India,Shweta -,1343,11,5,219,122,42,-80,Level A
+147,Category C,Bangladesh,Ahmed Wadifa,1629,11,3,245,118,38,-80,Level A
+148,Category D,,Hasina Akbar,1000,11,4,216,118,37,-81,Level A
+149,Category D,,Samyuktha Kovilakath,1000,11,5,243,116,34,-82,Level A
+150,Category D,Laos,Sinnalone Sihavong,1000,11,4,236,117,32,-85,Level A
+151,Category D,Jordan,Syrina Erani,1075,11,5,208,117,31,-86,Level A
+152,Category D,United Arab Emirates,Ahoud Eisa Bashkardi,1000,11,4,264,116,30,-86,Level A
+153,Category D,India,Maitreyee Singh,1000,11,4,232,121,29,-92,Level A
+154,Category D,India,Anjana A,1137,11,6,201,134,37,-97,Level A
+155,Category D,Japan,Suhani Kudwa,1000,11,4,245,124,27,-97,Level A
+156,Category D,India,Manasvi Gupta,1070,11,4.5,288,127,29,-98,Level A
+157,Category D,,Marwa Hakim,1000,8,1,104,133,29,-104,Level A
+158,Category D,Japan,Nanoha Hayashi,1000,11,4,181,141,32,-109,Level A
+159,Category D,Lebanon,Asmaa Arkadan,1000,11,3,148,152,36,-116,Level A
+160,Category D,India,Janani Ayyappan,1000,11,3.5,216,146,30,-116,Level A
+161,Category D,Saudi Arabia,Manar Bakur Melibari,1000,11,2.5,227,161,26,-135,Level A
+162,Category D,Laos,Souphatta Chanthavong,1000,11,5,261,167,29,-138,Level A
+163,Category D,India,Anuradha Banswal,1000,11,4,217,179,30,-149,Level A
+164,Category D,India,Priyanka Kumari,1000,10,1,113,205,30,-175,Level A
+165,Category D,Saudi Arabia,Rahaf Hussain A Alim,1000,10,2.5,120,202,22,-180,Level A
+166,Category D,Saudi Arabia,Kadi Waleed M Almutairi,1000,9,1,117,203,21,-182,Level A
+167,Category D,Laos,Vilayvone Thongsaly,1000,9,1,78,255,26,-229,Level A
+168,Category D,Laos,Khammany Inthaxay,1000,10,2,113,260,27,-233,Level A
+169,Category D,Laos,Khouanchai Phimmaly,1117,1,0,0,0,0,,Level B
+170,Category D,Maldives,Abdul Rasheed Mariyam Laisa,1180,1,0,0,0,0,,Level A
+171,Category A,Mongolia,Batkhuyag Munguntuul,2428,1,0,0,0,0,,Level B
+172,Category B,Jordan,Ghayda M. Alattar,1868,1,0,0,0,0,,Level B
+173,Category D,Laos,Yuimany Nalisack,1000,1,0,0,0,0,,Level B
+174,Category B,Jordan,Alshaeby Boshra,2033,1,0,0,0,0,,Level B

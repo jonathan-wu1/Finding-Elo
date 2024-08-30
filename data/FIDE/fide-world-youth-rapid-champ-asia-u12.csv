@@ -1,0 +1,71 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open,Philippines,King Whisley Puso,,7,6,297,31,60,29,Level D
+2,Open,China,Tong(Qd) Xiao,1913,7,6,265,34,49,15,Level C
+3,Open,Mongolia,Battulga Tenuunbold,1753,7,4,379,38,52,14,Level C
+4,Open,Malaysia,Yu Tian Poh,2017,7,5,334,37,50,13,Level C
+5,Open,Iran,Artin Ashraf,2075,7,3.5,253,40,52,12,Level C
+6,Girls,,jana othman,,6,2.5,246,43,54,11,Level C
+7,Open,Kazakhstan,Aldiyar Ansat,2255,7,5,322,46,53,7,Level C
+8,Open,,Kshatriya Nitin Venkhande,1782,7,4.5,290,45,51,6,Level C
+9,Open,Kazakhstan,Daniyal Sapenov,1827,7,5,361,43,48,5,Level B
+10,Girls,Indonesia,Samantha Edithso,1792,7,7,236,49,53,4,Level C
+11,Open,Indonesia,Satria Duta Cahaya,1820,7,4.5,176,50,53,3,Level C
+12,Open,India,Payyappat Sreyas,2145,7,4,272,44,47,3,Level B
+13,Open,India,Mayank Chakraborty,1796,7,2.5,292,47,49,2,Level B
+14,Open,Vietnam,Pham Tran Gia Phuc HCM,1750,7,5,322,51,52,1,Level C
+15,Open,India,Kadam Om Manish,2114,7,4,297,46,47,1,Level B
+16,Open,Qatar,Mohamad Firdaus Erfan,,7,3.5,304,47,47,0,Level B
+17,Girls,"Hong Kong, China",Eunice Feng,1528,7,3.5,254,50,49,-1,Level C
+18,Open,,Christian Gian Karlo Arca,1705,7,4.5,258,50,49,-1,Level B
+19,Open,Iran,Reza Mahdavi,2124,7,3.5,292,54,52,-2,Level C
+20,Open,Vietnam,Dang Anh Minh HCM,2014,7,4,303,52,49,-3,Level C
+21,Open,Australia,Oscar Gao,1653,7,3,239,50,47,-3,Level B
+22,Open,India,Ilamparthi A R,1989,7,4.5,326,53,49,-4,Level B
+23,Girls,China,Caidi Zhao,1507,7,4.5,263,53,48,-5,Level B
+24,Girls,Kazakhstan,Aisha Zakirova,1585,7,4.5,210,55,49,-6,Level B
+25,Girls,China,Yining Chen,1745,7,4,251,52,46,-6,Level B
+26,Girls,United Arab Emirates,Mariam Mohammed Almaeeni,1269,7,3,124,66,59,-7,Level D
+27,Girls,Sri Lanka,Nemindi Linaya Ramanayake,1236,7,3,280,52,45,-7,Level B
+28,Open,Mongolia,Batsukh Anand,1965,7,4.5,267,58,50,-8,Level C
+29,Girls,Malaysia,Xia Sean Lee,1016,7,2,239,54,46,-8,Level B
+30,Open,China,Yichen Zhou,1670,7,3,313,50,42,-8,Level B
+31,Open,Kyrgyzstan,Nuriddin Iunusov,1576,7,3.5,346,58,48,-10,Level B
+32,Open,Mongolia,Erdenebat Azjargal,1684,7,4,292,54,44,-10,Level B
+33,Girls,Australia,Angela FENG,1497,7,4.5,223,55,44,-11,Level A
+34,Girls,Mongolia,Unurzul Davaakhuu,1462,7,5.5,235,55,44,-11,Level B
+35,Girls,India,Mrittika Mallick,1690,7,5.5,200,57,44,-13,Level B
+36,Open,China,Shanglin Li,2190,7,5,251,61,46,-15,Level B
+37,Girls,Vietnam,Hieu Linh Mai,1451,7,4,295,63,46,-17,Level B
+38,Girls,India,M Sreekumar Anupam,1798,7,5,242,61,43,-18,Level A
+39,Open,Iran,Seyed Mohammad Parsa Majidi,1845,7,2,256,63,42,-21,Level A
+40,Girls,"Hong Kong, China",Joy Ching Li,1244,7,3,181,66,43,-23,Level B
+41,Girls,,Ahmed Wadifa,1563,7,4,198,68,44,-24,Level B
+42,Girls,Kazakhstan,Zarina Nurgaliyeva,1861,7,5,209,76,49,-27,Level C
+43,Open,Singapore,Yu Zhe Ashton Chia,1902,7,3.5,270,70,43,-27,Level B
+44,Girls,,Riddhika Kotia - India,1285,7,3,239,69,41,-28,Level A
+45,Open,"Hong Kong, China",Thanneermalai Kannappan,1504,7,2.5,274,75,46,-29,Level B
+46,Girls,,Enkh-Amgalan Enkhrii,1421,7,4,239,73,44,-29,Level B
+47,Open,Palestine,Mohamad Seder,1722,7,2,246,70,41,-29,Level A
+48,Girls,Philippines,Ruelle Canino,1660,7,4,208,69,40,-29,Level A
+49,Girls,India,Palak Mohapatra,1465,7,3,240,72,41,-31,Level A
+50,Open,United Arab Emirates,Jaber Soud,1386,7,3,190,75,42,-33,Level A
+51,Girls,Singapore,Simeng Ding,1096,7,3,239,72,39,-33,Level A
+52,Open,Singapore,Zi Han Goh,2087,7,3,176,79,45,-34,Level B
+53,Girls,,Fatemeh Mashhadi,1627,7,4,403,72,38,-34,Level A
+54,Girls,China,Xintong Liu,1519,7,3,247,76,39,-37,Level A
+55,Girls,Kyrgyzstan,Aymonchok Zhunusbekova,1210,7,3,235,83,44,-39,Level A
+56,Girls,United Arab Emirates,Fatima Saleh Jasim,,6,1,132,81,42,-39,Level A
+57,Open,Yemen,Ali Abdulla Senan,1280,6,1,154,81,40,-41,Level A
+58,Girls,Indonesia,Xiao Jiao Wang,1238,7,4,267,85,41,-44,Level A
+59,Girls,India,Arshiya Das,1275,7,3,204,78,34,-44,Level A
+60,Girls,Qatar,RAWDA AL QASSABI MANSOUR,1049,6,1,143,83,38,-45,Level A
+61,Open,Kazakhstan,Imangali Akhilbay,1746,6,2,183,90,44,-46,Level A
+62,Open,,Syed Ridwan,1343,6,0,181,85,39,-46,Level A
+63,Open,Sri Lanka,WD Malisha Sasvindu Weeratungalage,1340,6,2,195,91,43,-48,Level A
+64,Girls,Lebanon,Danielle Dib,1058,6,1.5,229,87,37,-50,Level A
+65,Open,Maldives,Ikaan Waleed,1426,6,1,145,96,40,-56,Level A
+66,Open,Lebanon,Mohamad Fawaz,1236,6,2,105,95,38,-57,Level A
+67,Girls,Maldives,Maryam Mishka Migdhaadh,,6,0,137,109,28,-81,Level A
+68,Girls,Kazakhstan,Kaliza Aizharyk,1321,7,3,139,122,33,-89,Level A
+69,Open,Guam,Ezekiel Gatan,,6,0,89,121,28,-93,Level A
+70,Girls,Yemen,Aya Abdul Hakim Al-Sebaei,,3,0,0,0,0,,Level A

@@ -4,18 +4,186 @@ author: "Jonathan Wu"
 date: '2024-08-29'
 output: html_document
 ---
+```{r}
+library(dplyr)
+library(jsonlite)
+library(glmnet)
+```
+
+
+```{r}
+# Read the NDJSON file
+data <- stream_in(file("data/Curated/stockfish_15.ndjson"))
+
+data$result <- as.factor(data$result)
+data$ECO <- as.factor(data$ECO)
+data$Opening <- as.factor(data$Opening)
+
+
+# Get rid of columns
+data <- data[, !names(data) %in% c("event", "round", "white", "black", "moves", "white_elo", "black_elo", "white_cpl", "black_cpl", "stockfish_eval", "diff_elos")]
+
+```
+```{r}
+head(data, 2)
+```
+
+
+
+```{r}
+X=model.matrix(mean_elos~.,data)[,-1][0:800,]
+y <- data$mean_elos[0:800]
+dim(X)
+```
+
+
+```{r}
+cv_model <- cv.glmnet(X, y, alpha = 1)
+```
+
+
+```{r}
+plot(cv_model) 
+```
+
+
+```{r}
+# Get the best lambda
+best_lambda <- cv_model$lambda.min
+print(best_lambda)
+```
+
+```{r}
+# Fit the final Lasso model
+lasso_model <- glmnet(X, y, alpha = 1, lambda = best_lambda)
+```
+
+```{r}
+#coef(lasso_model)
+```
+
+
+```{r}
+X_test=model.matrix(mean_elos~.,data)[,-1][0:-800,]
+y_test <- data$mean_elos[0:-800]
+dim(X_test)
+length(y_test)
+```
+
+
+```{r}
+predictions <- predict(lasso_model, newx = X_test)
+predictions_vector <- as.vector(predictions)
+```
 
 
 ```{r}
 
-# Load the package
-library(jsonlite)
+# Calculate the residuals
+residuals <- y_test - predictions_vector
 
-# Read the NDJSON file
-data <- stream_in(file("..data/Curated/all.ndjson"))
+# Calculate the Sum of Squared Residuals (SSR)
+SSR <- sum(residuals^2)
 
-# View the data
-head(data)
+# Calculate the Total Sum of Squares (TSS)
+TSS <- sum((y_test - mean(y_test))^2)
+
+# Calculate R-squared score
+r_squared <- 1 - (SSR / TSS)
+
+# Print R-squared score
+print(r_squared)
 ```
+
+
+
+
+
+```{r}
+library(ggplot2)
+
+# Create a data frame for plotting
+plot_data <- data.frame(True = y_test, Predicted = predictions_vector)
+
+# Plot using ggplot2
+ggplot(plot_data, aes(x = True, y = Predicted)) +
+  geom_point() +
+  geom_abline(intercept = 0, slope = 1, color = "red", linetype = "dashed") +
+  labs(x = "True Values", y = "Predicted Values", title = "Predicted vs True Values") +
+  theme_minimal()
+```
+
+
+
+```{r}
+X=model.matrix(mean_elos~.,data)[,-1][0:800,]
+y <- data$mean_elos[0:800]
+
+df <- data[0:800,]
+colnames(df)
+```
+
+
+
+```{r}
+model1 <- lm(mean_elos ~ ., data = df)
+```
+
+
+
+
+
+```{r}
+model2 <- step(model1, direction = "backward")
+```
+
+```{r}
+summary(model2)
+```
+
+
+
+
+```{r}
+test_df = data[0:-800,]
+head(test_df)
+
+# Assess R² on training data
+train_r2 <- summary(model2)$r.squared
+
+# Predict on test data
+test_predictions <- predict(model2, newdata = test_df)
+
+# Calculate R² on test data
+test_actual <- test_df$mean_elos
+test_r2 <- 1 - sum((test_df$mean_elos - test_predictions)^2) / sum((test_df$mean_elos - mean(test_df$mean_elos))^2)
+
+# Print results
+print(paste("Training R²:", train_r2))
+print(paste("Testing R²:", test_r2))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

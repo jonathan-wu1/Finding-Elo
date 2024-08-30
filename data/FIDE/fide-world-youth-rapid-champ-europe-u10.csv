@@ -1,0 +1,126 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Girls,Azerbaijan,Dinara Huseynova,1222,7,5,280,44,58,14,Level A
+2,Open,Scotland,Frederick Gordon,1456,7,4.5,266,40,51,11,Level A
+3,Girls,Georgia,Kesaria Mgeladze,1380,7,5.5,232,40,50,10,Level A
+4,Open,FIDE,Nikolay Averin,1868,7,3.5,300,47,54,7,Level A
+5,Open,Turkiye,Yagiz Kaan Erdogmus,1955,7,5,252,49,52,3,Level A
+6,Open,Russia,Semen Puzyrevsky,1667,7,5.5,295,46,48,2,Level A
+7,Girls,FIDE,Oksana Goriachkina,1454,7,5,393,47,47,0,Level A
+8,Girls,Ukraine,Yevheniia Toroptseva,1621,7,4,278,51,50,-1,Level A
+9,Open,Czech Republic,JIRI BOUSKA,1804,7,4,269,50,49,-1,Level A
+10,Open,Russia,Semen Novozhilov,1842,7,5.5,266,47,46,-1,Level A
+11,Open,Azerbaijan,Jahandar Azadaliyev,1883,7,5,228,51,49,-2,Level A
+12,Open,Russia,Ivan Zemlyanskii,1950,7,7,225,54,50,-4,Level A
+13,Open,Austria,Lukas Dotzer,1956,7,5,247,55,50,-5,Level A
+14,Open,,Antonios Gkavardinas,1606,7,4.5,261,51,46,-5,Level A
+15,Open,Sweden,Oscar Morell,1566,7,4.5,257,55,49,-6,Level A
+16,Open,Germany,Hussain Besou,1804,7,4,267,53,47,-6,Level A
+17,Open,Albania,Mateo Boci,1286,7,3,384,51,45,-6,Level A
+18,Open,Russia,Aleksandr E. Usov,2011,7,5.5,309,55,48,-7,Level A
+19,Open,Poland,Philip Rosol,1509,7,3.5,330,53,46,-7,Level A
+20,Open,Russia,Taimaz Temirbekov,1500,7,5,208,57,48,-9,Level A
+21,Girls,Netherlands,Luna Huang,1281,7,2.5,255,54,45,-9,Level A
+22,Girls,Austria,Maryam Turdiyeva,1333,7,5,130,56,46,-10,Level A
+23,Girls,Croatia,Lara Zagorac,1277,7,4.5,305,54,43,-11,Level A
+24,Open,Russia,Artem S. Lebedev,1669,7,3,238,51,39,-12,Level A
+25,Open,Estonia,Kirill Gorkov,1178,7,3,265,59,46,-13,Level A
+26,Girls,Russia,Victoria Merkulova,1417,7,5.5,261,54,41,-13,Level A
+27,Open,Spain,Jaime Rey Martinez,1886,7,4.5,259,60,46,-14,Level A
+28,Girls,Latvia,Marija Kuznecova,1755,7,4,188,63,48,-15,Level A
+29,Open,Poland,Pawel Sowinski,1767,7,5.5,258,58,43,-15,Level A
+30,Girls,Turkiye,Rengin Aslan,1309,7,3,270,58,42,-16,Level A
+31,Open,Romania,Robert-Gabriel Sava,1782,7,5,222,58,42,-16,Level A
+32,Open,Belgium,Elias Ruzhansky,1598,7,3,244,63,46,-17,Level A
+33,Girls,France,Emilie Negre,1482,7,4,198,62,45,-17,Level A
+34,Open,Lithuania,Lukas Jasiulionis,1307,7,3.5,241,61,44,-17,Level A
+35,Girls,England,Thisumi Jayawarna,1316,7,4,218,61,44,-17,Level A
+36,Girls,Ukraine,Kateryna Khomytska,1291,7,4,230,60,43,-17,Level A
+37,Girls,France,Emilie Alfano,1621,7,5.5,255,59,42,-17,Level A
+38,Open,Czech Republic,MATYAS ROUBAL,1643,7,4,233,66,48,-18,Level A
+39,Open,Czech Republic,BAYARJAVKHLAN DELGERDALAI,1854,7,3,329,59,41,-18,Level A
+40,Girls,Poland,Aliaksandra Klintsevich,1197,7,3.5,346,58,40,-18,Level A
+41,Girls,England,Elis Dicen,1379,7,5,311,57,39,-18,Level A
+42,Girls,Ukraine,Anastasiia Hnatyshyn,1592,7,5,191,67,47,-20,Level A
+43,Open,Turkiye,Uygar Durucay,1616,7,6,307,67,47,-20,Level A
+44,Girls,Estonia,Nadezhda Pritulina,1065,7,4,279,59,39,-20,Level A
+45,Open,Latvia,Reinis Valdats,1442,7,4,216,67,46,-21,Level A
+46,Open,FIDE,Lev Zverev,2053,7,4,206,62,41,-21,Level A
+47,Open,Romania,ANDREI NEGREAN,1613,7,5,302,61,40,-21,Level A
+48,Open,Estonia,Aaron Rajandu,1233,7,5,206,69,47,-22,Level A
+49,Girls,Romania,Bianca Ciocirlan,1038,7,2.5,237,64,42,-22,Level A
+50,Open,Serbia,Jovan Kisic,2060,7,4.5,357,62,40,-22,Level A
+51,Open,Iceland,Josef Omarsson,1247,7,2.5,249,64,41,-23,Level A
+52,Open,Ireland,Andrey A. Ivanov,,7,4.5,260,62,39,-23,Level A
+53,Open,Israel,Uri Shefer,1461,7,4,297,62,39,-23,Level A
+54,Open,England,Jude Shearsby,1673,7,3.5,324,67,43,-24,Level A
+55,Open,Lithuania,Pijus Grybkauskas,1163,7,3,212,66,42,-24,Level A
+56,Open,Spain,Alex Villa Tornero,1917,7,4.5,244,65,41,-24,Level A
+57,Open,,Ruben Coles,1767,7,3,261,65,41,-24,Level A
+58,Open,Georgia,Davit Tatvidze,1265,7,3.5,146,70,45,-25,Level A
+59,Girls,Russia,Veronika Iudina,1573,7,5,193,69,44,-25,Level A
+60,Girls,Azerbaijan,Khanim Ismayilova,1332,7,3.5,259,67,42,-25,Level A
+61,Open,Jersey,Gus Weber,,7,2,261,68,42,-26,Level A
+62,Girls,Serbia,Ana Bagas,1589,7,3.5,294,64,38,-26,Level A
+63,Girls,Albania,Kler Caku,1199,7,4,336,67,40,-27,Level A
+64,Open,Georgia,Gabriel Gabadadze,1309,7,3,263,71,43,-28,Level A
+65,Girls,,Vera Vujovic,1221,7,4,263,71,43,-28,Level A
+66,Girls,Italy,Bianca Pavesi,1620,7,5,250,68,40,-28,Level A
+67,Open,Hungary,Miklos Onodi,1780,7,4,252,76,46,-30,Level A
+68,Open,Ukraine,Oleksii Karvatskyi,1731,7,3,273,68,38,-30,Level A
+69,Open,Belarus,Makar Navumenka,1300,7,3.5,189,80,48,-32,Level A
+70,Open,Croatia,Ivan Horvat,1121,7,1.5,221,74,42,-32,Level A
+71,Girls,Russia,Diana Preobrazhenskaya,1629,7,6,203,72,40,-32,Level A
+72,Girls,Hungary,Borbala Balogh,1247,7,3.5,302,73,40,-33,Level A
+73,Open,Slovakia,Lukas Strapec,1705,7,3,228,72,39,-33,Level A
+74,Open,Sweden,Victor Lilliehook,1353,7,2,223,79,45,-34,Level A
+75,Girls,Spain,Laura Herrero Pena,1231,7,2.5,237,72,38,-34,Level A
+76,Open,England,Harry Zheng,1685,7,3.5,271,73,38,-35,Level A
+77,Open,Georgia,Data Kalabegashvili,1308,7,3.5,265,73,38,-35,Level A
+78,Girls,Slovakia,Timea Haasova,1533,7,3,246,72,37,-35,Level A
+79,Open,Spain,Isaac Herman Gamazo,1514,7,4,227,76,40,-36,Level A
+80,Open,Italy,Alexandro Beliman,1829,7,2.5,203,74,38,-36,Level A
+81,Open,Georgia,Andria Kviriashvili,1406,7,4,244,81,44,-37,Level A
+82,Girls,Cyprus,Aikaterina Sarkisian,1016,7,2.5,231,77,40,-37,Level A
+83,Girls,Belgium,Yumi Peeters,1162,7,3,160,85,46,-39,Level A
+84,Open,Israel,Eliran Shilon Rahav,1272,7,3,190,83,43,-40,Level A
+85,Open,Austria,Peter Balint,1978,7,3.5,221,80,40,-40,Level A
+86,Open,Denmark,Emil Zander,1520,7,3.5,208,77,37,-40,Level A
+87,Girls,Switzerland,Maria Bros,1109,6,0.5,189,82,41,-41,Level A
+88,Open,Slovenia,Tilen Kovacec,1183,7,2,276,79,37,-42,Level A
+89,Open,Ukraine,STEPAN MOHYLNYI,1473,7,4,256,83,40,-43,Level A
+90,Girls,Lithuania,Ula Rudzinskaite,,6,1,172,86,42,-44,Level A
+91,Girls,Azerbaijan,Saadat Bashirli,1320,7,6,232,82,38,-44,Level A
+92,Open,Netherlands,Oscar Zecha,1566,7,3,214,84,39,-45,Level A
+93,Girls,Czech Republic,Valerie Barteckova,1292,7,2.5,241,81,36,-45,Level A
+94,Open,Switzerland,Mikhail Akinkhov,1561,7,2.5,204,79,34,-45,Level A
+95,Girls,Belgium,Lotus Decraene,1263,7,3.5,164,80,34,-46,Level A
+96,Open,Bulgaria,Aleksandar Atanasov,1245,7,2,231,83,34,-49,Level A
+97,Open,North Macedonia,Andrey Ivanov,1424,7,2,177,91,41,-50,Level A
+98,Girls,Belarus,Hanna Saprykava,,7,3,221,88,37,-51,Level A
+99,Open,,Birkir Hallmundarson,,7,2,192,87,36,-51,Level A
+100,Open,Lithuania,Jokubas Dijokas,1209,7,3,200,92,40,-52,Level A
+101,Girls,,Evangelia Siskou,1194,7,4,163,89,37,-52,Level A
+102,Girls,Sweden,Sol Andersson,1194,7,3,175,89,37,-52,Level A
+103,Girls,Latvia,Naomi Maklakova,1372,7,4,208,86,34,-52,Level A
+104,Open,Iceland,Sigurdur Pall Gudnyjarson,1165,7,1,183,91,37,-54,Level A
+105,Open,Belgium,Mathijs De Groof,1113,7,2,236,87,33,-54,Level A
+106,Open,Estonia,Hans-Georg Koosel,1226,7,2.5,213,89,34,-55,Level A
+107,Open,Cyprus,NICOLAS PAKKOUTIS,,7,2,215,90,33,-57,Level A
+108,Girls,Slovenia,Taja Levstik,1342,7,3.5,170,91,32,-59,Level A
+109,Girls,Denmark,Sarah Sima Derlich,1127,7,2.5,178,98,38,-60,Level A
+110,Girls,Montenegro,Sofija Milovic,,6,1,143,94,34,-60,Level A
+111,Girls,Germany,Lisa Sickmann,1510,7,3,187,101,40,-61,Level A
+112,Girls,Ireland,Polly McCormick,,6,0.5,141,98,37,-61,Level A
+113,Girls,Bulgaria,Tsvetina Atanasova,1186,7,3,158,103,40,-63,Level A
+114,Open,Netherlands,Tommy Grooten,1897,7,3,204,100,37,-63,Level A
+115,Girls,Belgium,Dhanyadha Bharathi Mugilan,1308,7,3,197,98,32,-66,Level A
+116,Girls,Iceland,Thorhildur Helgadottir,,7,2,172,108,41,-67,Level A
+117,Open,Malta,Nick Calleja Urry,1106,7,0,193,99,31,-68,Level A
+118,Girls,Iceland,Gudrun Fanney Briem,1229,7,4,154,112,39,-73,Level A
+119,Open,Malta,Leonardo Zangrilli,1221,7,2,157,110,37,-73,Level A
+120,Girls,Malta,Hayley Thornton,,6,0,106,115,38,-77,Level A
+121,Girls,Israel,Ronnie Moscovitch,1015,7,3,286,109,28,-81,Level A
+122,Girls,North Macedonia,Ivana Velkoska,,6,1,144,129,39,-90,Level A
+123,Open,Moldova,VLAD ALBU,1136,7,2,161,126,34,-92,Level A
+124,Girls,Albania,Anja Cota,,6,1,124,135,30,-105,Level A
+125,Open,Monaco,Boris Samorukov,,7,1,69,161,30,-131,Level A

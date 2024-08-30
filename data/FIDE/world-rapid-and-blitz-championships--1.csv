@@ -1,0 +1,177 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open,Russia,Ian Nepomniachtchi,2782,13,9.5,324,21,63,42,Level D
+2,Open,,Magnus Carlsen,2856,13,9.5,705,21,60,39,Level D
+3,Open,India,Nihal Sarin,2662,13,7,510,27,62,35,Level D
+4,Open,France,Maxime Vachier-Lagrave,2761,13,8.5,486,27,62,35,Level D
+5,Open,Russia,Alexander Grischuk,2764,13,8.5,578,27,61,34,Level D
+6,Open,Germany,Daniel Fridman,2626,13,7.5,532,27,59,32,Level D
+7,Open,Uzbekistan,Nodirbek Abdusattorov,2633,13,9.5,517,30,61,31,Level D
+8,Open,Germany,Rasmus Svane,2637,13,8,592,24,55,31,Level D
+9,Open,United States of America,Fabiano Caruana,2792,13,9.5,423,32,62,30,Level D
+10,Open,Azerbaijan,Shakhriyar Mamedyarov,2767,13,9,594,30,60,30,Level D
+11,Open,England,David W L Howell,2646,13,8,458,28,58,30,Level D
+12,Open,Spain,David Anton Guijarro,2693,13,7.5,452,32,61,29,Level D
+13,Open,,Shant Sargsyan,2628,13,8,440,30,59,29,Level D
+14,Open,United States of America,Grigoriy Oparin,2681,13,6,538,28,57,29,Level D
+15,Open,Poland,Jan-Krzysztof Duda,2760,13,9,533,30,58,28,Level D
+16,Open,Romania,Mircea-Emilian Parligras,2575,13,6.5,495,30,58,28,Level D
+17,Open,Norway,Kristian Stuvik Holm,2464,13,5.5,520,27,55,28,Level D
+18,Open,India,Gukesh D,2614,13,9,488,32,59,27,Level D
+19,Open,Germany,Matthias Bluebaum,2642,13,8,537,31,58,27,Level D
+20,Open,,Vadim Zvjaginsev,2599,13,6,486,31,58,27,Level D
+21,Open,Ukraine,Andrei Volokitin,2677,13,8,506,30,57,27,Level D
+22,Open,Spain,Alexei Shirov,2704,13,7,511,30,57,27,Level D
+23,Open,United States of America,Levon Aronian,2772,13,9,502,30,57,27,Level D
+24,Open,Israel,Boris Gelfand,2663,13,8,531,29,56,27,Level D
+25,Open,Armenia,Robert Hovhannisyan,2643,13,7.5,559,28,55,27,Level D
+26,Open,Russia,Vladislav Artemiev,2700,13,8,666,27,54,27,Level D
+27,Open,India,Santosh Gujrathi Vidit,2727,13,7.5,416,32,58,26,Level D
+28,Open,Poland,Pawel Teclaf,2542,12,4.5,399,31,57,26,Level D
+29,Open,France,Alireza Firouzja,2804,13,8,624,31,57,26,Level D
+30,Open,Uzbekistan,Jakhongir Vakhidov,2552,13,7,407,33,58,25,Level D
+31,Open,Georgia,Baadur Jobava,2588,13,7.5,556,32,57,25,Level D
+32,Open,Romania,Richard Rapport,2763,13,9,554,32,57,25,Level D
+33,Open,Netherlands,Anish Giri,2772,13,8,566,30,55,25,Level D
+34,Open,Croatia,Ivan Saric,2669,13,7.5,559,34,58,24,Level D
+35,Open,Russia,Daniil Dubov,2720,13,8.5,567,34,58,24,Level D
+36,Open,Ukraine,Ihor Samunenkov,2369,13,6.5,604,33,57,24,Level D
+37,Open,FIDE,Alexey Sarana,2666,13,8.5,636,33,57,24,Level D
+38,Open,United States of America,Hikaru Nakamura,2736,13,9,565,32,56,24,Level D
+39,Open,FIDE,Maksim Chigaev,2632,13,8,556,32,56,24,Level D
+40,Open,India,Harsha Bharathakoti,2489,13,7,543,30,54,24,Level D
+41,Open,Netherlands,Jorden Van Foreest,2702,13,8.5,538,30,54,24,Level D
+42,Open,United States of America,Hans Moke Niemann,2645,13,7.5,629,38,61,23,Level D
+43,Open,Russia,Sergey Karjakin,2743,13,9,533,35,58,23,Level D
+44,Open,Czech Republic,Peter Michalik,2568,13,5.5,543,32,55,23,Level D
+45,Open,Armenia,Haik M. Martirosyan,2621,13,8,555,34,56,22,Level D
+46,Open,Russia,Ramil Faizrakhmanov,2480,13,6,651,33,55,22,Level D
+47,Open,Germany,Andreas Heimann,2581,13,6,477,33,55,22,Level D
+48,Open,Armenia,Gabriel Sargissian,2681,13,8,493,33,55,22,Level D
+49,Open,India,Narayanan.S.L S.L,2658,13,7,524,31,53,22,Level D
+50,Open,FIDE,David Paravyan,2617,13,7.5,665,30,52,22,Level D
+51,Open,Egypt,Ahmed Adly,2596,13,6.5,518,37,58,21,Level D
+52,Open,Hungary,Adam Kozak,2526,13,6.5,489,34,55,21,Level D
+53,Open,Argentina,Alan Pichot,2625,13,6.5,500,33,54,21,Level D
+54,Open,Poland,Jakub Kosakowski,2437,13,6.5,633,32,53,21,Level D
+55,Open,Greece,Dimitrios Mastrovasilis,2627,13,7.5,597,30,51,21,Level D
+56,Open,Poland,Radoslaw Wojtaszek,2686,13,7.5,412,39,59,20,Level D
+57,Open,Uzbekistan,Javokhir Sindarov,2609,13,6.5,415,37,57,20,Level D
+58,Open,Iran,Parham Maghsoodloo,2701,13,7.5,610,36,56,20,Level D
+59,Open,Poland,Kacper Piorun,2640,13,7.5,588,35,55,20,Level D
+60,Open,Ukraine,Zahar Efimenko,2597,13,8,462,34,54,20,Level D
+61,Open,Armenia,Manuel Petrosyan,2620,13,6.5,557,34,54,20,Level D
+62,Open,Russia,Pavel Ponkratov,2641,13,7.5,560,34,54,20,Level D
+63,Open,FIDE,Vladislav Kovalev,2623,13,6.5,465,34,54,20,Level D
+64,Open,Georgia,Giga Quparadze,2477,13,6,652,34,54,20,Level D
+65,Open,Poland,Pawel Czarnota,2502,13,7.5,484,34,54,20,Level D
+66,Open,India,Guha Mitrabha,2509,13,8.5,598,33,53,20,Level D
+67,Open,Ukraine,Anton Korobov,2699,13,8,479,39,58,19,Level D
+68,Open,Poland,Igor Janik,2525,13,5,689,39,58,19,Level D
+69,Open,Poland,Bartosz Socko,2642,13,7,519,38,57,19,Level D
+70,Open,India,Erigaisi Arjun,2629,13,6,508,38,57,19,Level D
+71,Open,Poland,Oskar Wieczorek,2500,13,5.5,506,37,56,19,Level D
+72,Open,Russia,Maxim Matlakov,2674,13,8,508,37,56,19,Level D
+73,Open,Azerbaijan,Rauf Mamedov,2656,13,6.5,631,36,55,19,Level D
+74,Open,United Arab Emirates,A.r. Saleh Salem,2690,13,8.5,553,35,54,19,Level D
+75,Open,Spain,Alvar Alonso Rosell,2570,13,6.5,424,35,54,19,Level D
+76,Open,Poland,Grzegorz Gajewski,2589,13,5.5,480,34,53,19,Level D
+77,Open,Egypt,Bassem Amin,2680,13,7.5,429,40,58,18,Level D
+78,Open,FIDE,Mikhail Demidov,2556,13,6.5,550,39,57,18,Level D
+79,Open,Turkiye,Vahap Sanal,2601,13,7,590,37,55,18,Level D
+80,Open,Spain,Jaime Santos Latasa,2639,13,6.5,601,36,54,18,Level D
+81,Open,Bulgaria,Ivan Cheparinov,2664,13,8,542,35,53,18,Level D
+82,Open,Ukraine,Volodymyr Onyshchuk,2620,13,8,585,35,53,18,Level D
+83,Open,Armenia,Samvel Ter-Sahakyan,2637,13,6.5,642,34,52,18,Level D
+84,Open,India,Pentala Harikrishna,2717,13,6.5,595,38,55,17,Level D
+85,Open,Armenia,Tigran L. Petrosian,2573,13,8,514,38,55,17,Level D
+86,Open,Spain,Jose Fernando Cuenca Jimenez,2552,13,5.5,616,38,55,17,Level D
+87,Open,Norway,Aryan Tari,2653,13,7.5,564,36,53,17,Level D
+88,Open,Georgia,Merab Gagunashvili,2573,13,6,696,35,52,17,Level D
+89,Open,Serbia,Aleksandar Indjic,2623,13,6,557,35,52,17,Level D
+90,Open,Serbia,Alexandr Predke,2682,13,7,475,40,56,16,Level D
+91,Open,FIDE,Vladimir Fedoseev,2704,13,8.5,561,39,55,16,Level D
+92,Open,FIDE,Kirill Alekseenko,2702,13,7.5,609,37,53,16,Level D
+93,Open,Russia,Aleksey Dreev,2623,13,6.5,544,35,51,16,Level D
+94,Open,FIDE,Evgeniy Najer,2661,13,7.5,577,40,55,15,Level D
+95,Open,Azerbaijan,Khazar Babazada,2429,13,6.5,506,39,54,15,Level D
+96,Open,Italy,Luca Jr Moroni,2575,13,6.5,580,39,54,15,Level D
+97,Open,Russia,Alexander Riazantsev,2634,13,6.5,532,34,49,15,Level D
+98,Open,FIDE,Anton Demchenko,2654,13,6.5,489,42,56,14,Level D
+99,Open,Poland,Szymon Gumularz,2539,13,6.5,526,41,55,14,Level D
+100,Open,Poland,Bartlomiej Heberla,2562,13,6,510,41,55,14,Level D
+101,Open,FIDE,Mikhail Kobalia,2596,13,6.5,515,40,54,14,Level D
+102,Open,Poland,Krystian Kuzmicz,2469,13,5.5,434,40,54,14,Level D
+103,Open,Uzbekistan,Shamsiddin Vokhidov,2536,13,6.5,473,40,54,14,Level D
+104,Open,India,Aditya Mittal,2459,13,4,593,39,53,14,Level D
+105,Open,Denmark,Jesper Sondergaard Thybo,2590,13,5,433,38,52,14,Level D
+106,Open,FIDE,Gleb Dudin,2474,13,7,557,37,51,14,Level D
+107,Open,Romania,Kirill Shevchenko,2655,13,8,541,41,54,13,Level D
+108,Open,Poland,Maciej Klekowski,2479,13,5,450,41,54,13,Level D
+109,Open,Greece,Nikolas Theodorou,2577,13,7,531,39,52,13,Level D
+110,Open,Poland,Mateusz Bartel,2616,13,6,555,39,52,13,Level D
+111,Open,Ukraine,Vadym Petrovskyi,2239,13,4.5,647,38,51,13,Level D
+112,Open,Azerbaijan,Vasif Durarbayli,2615,13,6,414,43,55,12,Level D
+113,Open,Germany,Alexander Donchenko,2636,13,7,525,42,54,12,Level D
+114,Open,India,Raunak Sadhwani,2616,13,5.5,508,42,54,12,Level D
+115,Open,Russia,Sanan Sjugirov,2680,13,6.5,400,41,53,12,Level D
+116,Open,Poland,Jan Klimkowski,2348,13,4.5,491,41,53,12,Level D
+117,Open,Azerbaijan,Mahammad Muradli,2503,13,6.5,647,40,52,12,Level D
+118,Open,Serbia,Velimir Ivic,2606,13,6.5,583,39,51,12,Level D
+119,Open,Poland,Jonasz Baum,2287,13,4.5,403,45,56,11,Level D
+120,Open,Poland,Grzegorz Nasuta,2521,13,5.5,454,43,54,11,Level D
+121,Open,Hungary,Viktor Erdos,2615,13,5,516,42,53,11,Level D
+122,Open,Russia,Oleg Vastrukhin,2376,13,5.5,516,41,52,11,Level D
+123,Open,Ukraine,Li Min Peng,2498,13,4.5,434,41,52,11,Level D
+124,Open,Kazakhstan,Rinat Jumabayev,2631,13,5.5,666,40,51,11,Level D
+125,Open,Azerbaijan,Aydin Suleymanli,2537,13,6,441,45,55,10,Level D
+126,Open,Armenia,Hovhannes Gabuzyan,2589,13,5,450,44,54,10,Level D
+127,Open,Brazil,Darcy Lima,2507,13,5,579,40,50,10,Level D
+128,Open,Israel,Ilia Smirin,2626,13,6.5,442,46,55,9,Level D
+129,Open,India,Sankalp Gupta,2504,13,7,492,46,55,9,Level D
+130,Open,United States of America,Andrew Tang,2519,12,4,461,45,54,9,Level D
+131,Open,India,Abhimanyu Puranik,2604,13,7.5,522,44,53,9,Level D
+132,Open,United States of America,Timur Gareyev,2573,13,7,553,44,53,9,Level D
+133,Open,Austria,Felix Blohberger,2503,13,5.5,498,43,52,9,Level D
+134,Open,Russia,Artyom Timofeev,2572,13,6.5,617,42,51,9,Level D
+135,Open,Iran,Ehsan Ghaem Maghami,2519,13,7.5,473,43,51,8,Level D
+136,Open,Czech Republic,Stepan Zilka,2608,13,6,428,42,50,8,Level D
+137,Open,Romania,Mihnea Costachi,2463,13,6,625,42,50,8,Level D
+138,Open,Kosovo,Nderim Saraci,2486,13,5.5,507,42,50,8,Level D
+139,Open,Poland,Milosz Szpar,2434,13,5.5,438,42,50,8,Level D
+140,Open,Poland,Michal Krasenkow,2576,13,5,545,45,52,7,Level D
+141,Open,FIDE,Klementy Sychev,2550,13,6.5,415,45,52,7,Level D
+142,Open,Azerbaijan,Vugar Asadli,2579,7,2.5,235,47,53,6,Level D
+143,Open,Poland,Piotr Lopusiewicz,2301,12,3,402,47,53,6,Level D
+144,Open,FIDE,Mikhail Al. Antipov,2615,13,7,535,46,52,6,Level D
+145,Open,Sweden,Pontus Carlsson,2457,13,4.5,430,46,52,6,Level D
+146,Open,Poland,Marcel Kanarek,2484,13,6,532,44,50,6,Level D
+147,Open,Armenia,Sergei Movsesian,2608,13,6.5,468,44,50,6,Level D
+148,Open,Israel,Victor Mikhalevski,2562,13,6,476,42,48,6,Level D
+149,Open,Algeria,Bilel Bellahcene,2512,13,6,564,46,51,5,Level D
+150,Open,Austria,Valentin Dragnev,2535,13,4.5,561,46,51,5,Level D
+151,Open,Poland,Daniel Sadzikowski,2525,13,4,507,43,47,4,Level D
+152,Open,FIDE,Volodar Murzin,2519,13,5,417,50,53,3,Level D
+153,Open,Qatar,Husain Aziz,2357,12,3,402,49,52,3,Level D
+154,Open,Italy,Danyyil Dvirnyy,2492,13,4,620,48,51,3,Level D
+155,Open,Czech Republic,Thai Dai Van Nguyen,2609,13,4.5,416,47,50,3,Level D
+156,Open,Romania,Vladislav Nevednichy,2498,12,3.5,532,46,49,3,Level D
+157,Open,Spain,Daniil Yuffa,2567,13,5.5,485,49,50,1,Level D
+158,Open,Netherlands,Lucas Van Foreest,2530,13,5,568,48,48,0,Level D
+159,Open,Egypt,Samy Shoker,2504,13,5.5,634,52,51,-1,Level D
+160,Open,Poland,Mateusz Kolosowski,2444,13,4.5,543,54,52,-2,Level D
+161,Open,Hungary,Gergely Kantor,2575,13,5.5,475,52,50,-2,Level D
+162,Open,Poland,Krzysztof Jakubowski,2471,13,5,423,48,46,-2,Level D
+163,Open,United States of America,Fidel Corrales Jimenez,2530,13,6,468,54,51,-3,Level D
+164,Open,Israel,Evgeny Postny,2557,13,6,442,52,49,-3,Level D
+165,Open,Kyrgyzstan,Semetei Tologon Tegin,2381,12,3.5,561,54,50,-4,Level D
+166,Open,Greece,Stelios Halkias,2527,12,6,373,57,51,-6,Level D
+167,Open,Wales,Grzegorz Toczek,2290,12,2.5,299,56,50,-6,Level D
+168,Open,Poland,Rafal Lubczynski,2413,12,3,326,54,48,-6,Level D
+169,Open,Tajikistan,Mukhammad Yunusov,1874,12,1,522,54,46,-8,Level D
+170,Open,Poland,Marcin Dziuba,2568,13,5,406,59,50,-9,Level D
+171,Open,Norway,Johan-Sebastian Christiansen,2582,13,6,391,57,48,-9,Level D
+172,Open,Venezuela,Cristobal Jose Blanco Acevedo,2304,12,2,456,70,41,-29,Level D
+173,Open,Montenegro,Denis Kadric,2572,8,1.5,218,82,44,-38,Level D
+174,Open,Slovakia,Samir Sahidi,2440,1,0,0,0,0,,Level D
+175,Open,Spain,Eduardo Iturrizaga Bonelli,2606,1,0,0,0,0,,Level D
+176,Open,Yemen,Basheer Al Qudaimi,2440,1,0,0,0,0,,Level D

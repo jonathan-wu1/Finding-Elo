@@ -1,0 +1,1063 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Main list,Cuba,Augusto Cesar Campos Jimenez,2351,2,1,9,12,89,77,Level A
+2,Main list,Armenia,Artyom Manukyan,2148,2,1,16,5,69,64,Level A
+3,Main list,Armenia,Haik M. Martirosyan,2622,2,2,26,12,69,57,Level B
+4,Main list,Peru,Freddy Adrian Acevedo Chavez,1808,2,1,4,30,75,45,Level A
+5,Main list,Canada,Razvan Preotu,2487,3,2,47,25,70,45,Level B
+6,Main list,India,Kathpal Aniket,,2,2,32,22,66,44,Level B
+7,Main list,Peru,Mario Oroche Mayta,1825,1,1,8,32,75,43,Level A
+8,Main list,Czech Republic,Jan Nosek,1904,3,2,38,23,66,43,Level B
+9,Main list,Peru,Wilder Xavier Roman Sanchez,1807,2,1,13,19,62,43,Level A
+10,Main list,Peru,Renzo Jhonathan Rengifo Blancas,2131,3,3,30,27,67,40,Level B
+11,Main list,France,Jean Lefrere,1710,2,2,26,30,69,39,Level B
+12,Main list,France,Matthieu Rousseau,1867,2,1,28,28,64,36,Level B
+13,Main list,India,Sanjay Kolgane Poras,1858,3,3,90,26,62,36,Level D
+14,Main list,Bolivia,Jhoan Mollo,2073,2,2,5,24,60,36,Level A
+15,Main list,Russia,Aleksey Sorokin,2521,3,3,68,25,60,35,Level D
+16,Main list,India,Harshit Raja,2472,2,2,32,24,59,35,Level B
+17,Main list,Chile,Eduardo Raul Verastegui Marca,1843,1,1,6,33,67,34,Level B
+18,Main list,Cuba,Leancy B. Fernandez Bustamante,2080,1,1,15,33,67,34,Level A
+19,Main list,Germany,Marharyta Khrapko,2049,2,1,73,25,58,33,Level D
+20,Main list,Romania,Mihnea Costachi,2471,3,2,61,21,54,33,Level D
+21,Main list,Mexico,Anastacia Antonia Lopez Sanchez,1775,2,1,40,31,63,32,Level B
+22,Main list,United States of America,Rayan Taghizadeh,2311,2,2,37,30,62,32,Level B
+23,Main list,Cuba,Abel Fabian Lopez Gonzalez,2379,3,3,65,26,58,32,Level D
+24,Main list,France,Alexis Cahen,2140,3,2,43,24,56,32,Level B
+25,Main list,United States of America,Kesav Viswanadha,2367,2,2,75,26,56,30,Level D
+26,Main list,Kazakhstan,Alen Rakhimzhan,2273,3,3,63,30,59,29,Level D
+27,Main list,United States of America,Sam Schmakel,2435,3,3,81,30,58,28,Level D
+28,Main list,Egypt,Mohamed Mobark,,2,1,18,40,67,27,Level A
+29,Main list,Chile,Carlos Alberto Castillo Rivera,1841,2,1,21,41,67,26,Level B
+30,Main list,Greece,Grigorios Drakoulakos,2219,3,3,89,31,57,26,Level D
+31,Main list,Slovakia,Svetlana Sucikova,2131,3,2,49,27,53,26,Level D
+32,Main list,Armenia,Anna M. Sargsyan,2383,3,2,21,26,52,26,Level B
+33,Main list,Indonesia,Arif Abdul Hafiz,2234,2,2,30,38,63,25,Level B
+34,Main list,Indonesia,Shanti Nur Abidah,1986,2,2,49,34,59,25,Level B
+35,Main list,Turkiye,Tuna Ozates,2217,2,2,26,33,58,25,Level B
+36,Main list,,Lucas de Lacerda Ramos,,2,1,3,43,67,24,Level A
+37,Main list,China,Yukun Wang,2117,1,1,16,39,63,24,Level A
+38,Main list,Slovakia,Christopher Repka,2491,3,3,77,36,60,24,Level D
+39,Main list,Peru,Brian Sebasti Escalante Ramirez,2454,2,2,15,36,60,24,Level A
+40,Main list,Germany,Lars Goldbeck,2235,2,2,14,33,57,24,Level A
+41,Main list,Uganda,Joshua Opoka,1631,3,2,22,36,59,23,Level B
+42,Main list,Serbia,Milos Krstic,2058,1,1,32,27,50,23,Level B
+43,Main list,Canada,Hou Han Zhang,1813,1,1,34,40,62,22,Level B
+44,Main list,Peru,Christian Amilca Santiago Vilca,2257,3,3,49,37,59,22,Level B
+45,Main list,FIDE,Aleksei Sarana,2649,2,2,42,33,55,22,Level C
+46,Main list,,Xiangdong Kong,,3,3,103,31,52,21,Level C
+47,Main list,Croatia,Luka Matanovic,2251,3,3,31,41,61,20,Level B
+48,Main list,,Arpit Khanulia,,2,1,36,41,61,20,Level B
+49,Main list,United States of America,Akshat Chandra,2536,3,3,87,36,56,20,Level D
+50,Main list,United States of America,JOSIAH STEARMAN,2374,3,3,80,34,54,20,Level C
+51,Main list,Peru,Blanca Solis Chimoy,1854,2,1,31,39,58,19,Level B
+52,Main list,Cuba,Chaneli Martinez Mesa,1763,3,2,11,36,55,19,Level A
+53,Main list,Greece,Georgios-Alexandros Kouskoutis,2231,3,2,55,34,53,19,Level C
+54,Main list,FIDE,Sergei Lobanov,2516,3,3,54,39,57,18,Level D
+55,Main list,Portugal,Andre Ventura Sousa,2390,3,3,89,37,55,18,Level D
+56,Main list,Georgia,Irakli Beradze,2475,3,3,79,35,53,18,Level C
+57,Main list,,Muhammad Lutfi Ali,2399,3,2,113,33,51,18,Level C
+58,Main list,Croatia,Leon Livaic,2507,2,2,63,31,49,18,Level C
+59,Main list,China,Haoyou Deng,1672,1,0,40,30,48,18,Level C
+60,Main list,Russia,Dandar Shoboev,2185,3,3,47,29,47,18,Level B
+61,Main list,Russia,David Shapiro,2395,2,2,46,28,46,18,Level B
+62,Main list,Poland,Oliwia Kiolbasa,2255,2,1.5,72,26,44,18,Level D
+63,Main list,Croatia,Miljenko Muha,2290,2,2,12,41,58,17,Level B
+64,Main list,Poland,Michal Powalka,1969,3,2,48,39,56,17,Level C
+65,Main list,India,Singh Mahip,1599,2,1,41,37,54,17,Level B
+66,Main list,Czech Republic,Jan Petr,2282,3,3,68,32,49,17,Level C
+67,Main list,Russia,Mikhail Mentchikov,1907,3,2,58,44,60,16,Level D
+68,Main list,Guatemala,Hector Vinicio Cotto Mux,1941,2,1,22,39,55,16,Level B
+69,Main list,FIDE,David Paravyan,2647,2,2,74,38,54,16,Level C
+70,Main list,Peru,Kevin Johan Alfaro Mauricio,1969,3,2,70,38,54,16,Level C
+71,Main list,Romania,Petru-Sebastian Ursan,2225,3,2,38,34,50,16,Level B
+72,Main list,United States of America,Grigoriy Oparin,2652,3,3,69,33,49,16,Level C
+73,Main list,Poland,Alicja Sliwicka,2346,3,3,56,44,59,15,Level D
+74,Main list,Poland,Kamil Dragun,2557,3,3,22,40,55,15,Level B
+75,Main list,India,Mukherjee Arpita,2206,3,3,81,37,52,15,Level C
+76,Main list,Cuba,Ariel Gallestey Calvo,2125,2,2,26,44,58,14,Level B
+77,Main list,Iran,Koosha Jaferian,2163,2,2,38,39,53,14,Level B
+78,Main list,Russia,Dmitriy Tretiakov,1997,3,3,92,36,50,14,Level C
+79,Main list,Poland,Anna Kubicka,2235,1,1,16,36,50,14,Level A
+80,Main list,Kazakhstan,Alan Kozhamberdiyev,1517,2,2,30,33,47,14,Level C
+81,Main list,Switzerland,Benedict Wasserfallen,,3,3,26,49,62,13,Level B
+82,Main list,Azerbaijan,Ulvi Bajarani,2458,3,3,33,42,55,13,Level B
+83,Main list,Greece,Georgios Beliotis,2161,2,1,44,42,55,13,Level B
+84,Main list,Armenia,Mariam Avetisyan,2027,3,2,35,41,54,13,Level B
+85,Main list,Serbia,Branislav Kiproski,2300,2,1,13,33,46,13,Level A
+86,Main list,Russia,Oleg Zamyatin,1657,3,2.5,66,31,44,13,Level D
+87,Main list,Armenia,Aram Vardanyan,2025,3,2,49,41,53,12,Level B
+88,Main list,Germany,Andreas Ciolek,2247,3,2,20,38,50,12,Level B
+89,Main list,,Yoseph Theolifus Taher,2455,3,3,50,38,50,12,Level C
+90,Main list,Ukraine,Volodymyr Medvedyk,2159,3,3,68,35,47,12,Level C
+91,Main list,,Sibonelo Sithole,,2,1,15,56,67,11,Level A
+92,Main list,,Sheila Fadhilah Oktavia H.S,,2,1,21,46,57,11,Level B
+93,Main list,Mongolia,Sumiya Bilguun,2454,3,2,36,45,56,11,Level B
+94,Main list,Egypt,Ahmed Alaa Ahmed,2171,3,3,49,44,55,11,Level B
+95,Main list,Greece,Vasil Androutsopoulos-Agiotatos,2144,3,2,49,44,55,11,Level C
+96,Main list,Peru,Rodrigo Moreno Herrera,1633,3,2,26,43,54,11,Level B
+97,Main list,Peru,Heidy Nicole Garcia Andrada,1912,3,2,51,40,51,11,Level C
+98,Main list,Georgia,Ana Shamatava,2155,3,3,48,39,50,11,Level B
+99,Main list,Netherlands,Benjamin Bok,2624,2,2,41,35,46,11,Level B
+100,Main list,Portugal,Henrique M A Albergaria Paiva,2065,2,2,13,52,62,10,Level B
+101,Main list,Poland,Maciej Chmielarz,1993,1,1,24,48,58,10,Level B
+102,Main list,Mexico,Gerardo An Gracia Alvarez,2308,2,1,42,47,57,10,Level B
+103,Main list,Mexico,Carlos Sandoval Mercado,2273,3,3,57,43,53,10,Level C
+104,Main list,Uganda,Allen Kyolaba Nabacwa,1413,2,0,25,47,56,9,Level B
+105,Main list,Greece,Petros Rahmanidis,2132,2,1,41,45,54,9,Level B
+106,Main list,Russia,Aleksey Belov,1749,3,2,113,45,54,9,Level D
+107,Main list,Netherlands,Robby Kevlishvili,2495,3,2.5,83,39,48,9,Level C
+108,Main list,Mexico,Hugo Israel Hernandez santos,1592,2,2,43,38,47,9,Level B
+109,Main list,France,Alexis Tahay,2366,3,3,70,34,43,9,Level C
+110,Main list,Turkiye,Cemil Can Ali Marandi,2543,2,2,33,33,42,9,Level B
+111,Main list,Greece,Anastasia Avramidou,2238,3,2.5,86,31,40,9,Level C
+112,Main list,Philippines,Rhenzi Kyle Sevillano,2197,2,1,35,46,54,8,Level B
+113,Main list,China,Qingyu Yuan,2373,3,3,71,46,54,8,Level C
+114,Main list,Greece,Nikolaos Gouloutis,2362,1,0,57,43,51,8,Level D
+115,Main list,United States of America,Cameron Wheeler,2398,3,2,42,40,48,8,Level B
+116,Main list,Peru,Raul Celestino,1845,3,2,87,47,54,7,Level C
+117,Main list,Brazil,Kathie Goulart Librelato,2165,3,3,81,47,54,7,Level D
+118,Main list,Greece,Polihronis Drakopoulos,2120,2,1,39,47,54,7,Level B
+119,Main list,India,Aagam Aditya E,1707,3,2,49,46,53,7,Level C
+120,Main list,Mexico,Gerardo Renovato  Martinez,,3,2,49,44,51,7,Level B
+121,Main list,Canada,Christopher Knox,2187,3,3,91,40,47,7,Level C
+122,Main list,France,Benjamin Defromont,2246,3,2,11,39,46,7,Level A
+123,Main list,France,Yovann Gatineau,2401,3,2,38,38,45,7,Level B
+124,Main list,India,Manickam M Thanga,1623,2,1.5,81,29,36,7,Level D
+125,Main list,Peru,Camila Francia Arzapalo,1334,3,2,20,49,55,6,Level B
+126,Main list,India,P Tayade Atharvaa,1926,3,2,69,48,54,6,Level D
+127,Main list,Romania,Kirill Shevchenko,2599,3,3,83,45,51,6,Level C
+128,Main list,,Andrew Shattuck,,2,1,30,44,50,6,Level B
+129,Main list,Uzbekistan,Shamsiddin Vokhidov,2529,2,2,38,50,55,5,Level B
+130,Main list,Poland,Julia Antolak,2306,2,2,99,49,54,5,Level C
+131,Main list,Romania,Radu-Cristian Toma,2385,3,3,58,48,53,5,Level C
+132,Main list,Turkiye,Efe Can Tepe,2106,3,2,38,48,53,5,Level B
+133,Main list,Romania,Andrei-Theodor Dolana,2359,3,3,83,47,52,5,Level C
+134,Main list,Cuba,Raynner Amaro Alfonso,2186,2,2,67,41,46,5,Level B
+135,Main list,Chile,Joaquin Aguirre Adaros,1885,2,2,41,39,44,5,Level B
+136,Main list,Philippines,Franchell Eds Javier,1732,1,1,24,37,42,5,Level B
+137,Main list,Russia,Anna Styazhkina,2294,3,3,77,51,55,4,Level D
+138,Main list,India,Narendra Pallavan S,1478,2,1,38,49,53,4,Level B
+139,Main list,India,Neelash Saha,2413,3,3,57,43,47,4,Level C
+140,Main list,Philippines,Tristan Jared Cervero,1933,1,0,23,58,61,3,Level B
+141,Main list,United Arab Emirates,Mozah Al-Moaamari,1383,3,2,48,51,54,3,Level B
+142,Main list,,Corentin Tissier,,3,2,41,51,54,3,Level B
+143,Main list,Greece,Lampros Giannoulakis,2325,2,1,46,49,52,3,Level B
+144,Main list,Russia,Anna Kochukova,2092,3,2,50,49,52,3,Level C
+145,Main list,Mexico,Antonio Sanchez Torres,,3,2,11,53,55,2,Level A
+146,Main list,China,Qi B Chen,2493,2,2,56,48,50,2,Level C
+147,Main list,Lesotho,Tjamela Tsepo,1281,1,1,4,48,50,2,Level A
+148,Main list,Indonesia,Muhammad Andi Aqil Ramadhan,,3,1,71,47,49,2,Level C
+149,Main list,India,Guha Aritrik,1502,3,1,35,47,49,2,Level B
+150,Main list,India,Priya Aditya,1579,2,1,29,46,48,2,Level B
+151,Main list,United States of America,Ruifeng Li,2541,3,3,34,45,47,2,Level B
+152,Main list,Scotland,Declan Shafi,2166,3,3,106,45,47,2,Level B
+153,Main list,France,Jerome Hillebrands,,3,1,19,45,47,2,Level A
+154,Main list,FIDE,Mikhail Al. Antipov,2609,3,3,68,42,44,2,Level B
+155,Main list,India,Choudhuri Angira,1468,2,0,69,41,43,2,Level D
+156,Main list,India,Subhayan Kundu,2305,3,2,45,38,40,2,Level B
+157,Main list,India,Sengupta Arka,1937,3,2,35,56,57,1,Level B
+158,Main list,China,Xiangchen Xia,2039,3,2,39,53,54,1,Level B
+159,Main list,Brazil,Felipe Nakashima,,2,1,46,49,50,1,Level B
+160,Main list,Cuba,Marcos Antonio Morales Marmol,2241,3,2,41,48,49,1,Level B
+161,Main list,United States of America,Craig Hilby,2454,3,3,62,47,48,1,Level B
+162,Main list,Cuba,Jorge Roberto Elias Reyes,2428,3,3,62,47,48,1,Level B
+163,Main list,France,Quentin Burri,2415,2,2,38,46,47,1,Level B
+164,Main list,Philippines,Samantha Glo Revita,1889,1,0,38,55,55,0,Level C
+165,Main list,Russia,Dmitriy Zimnikov,,2,1,43,51,51,0,Level B
+166,Main list,Barbados,Nitin Mahtani,1773,3,2,78,49,49,0,Level B
+167,Main list,Belgium,Nicola Capone,2300,3,3,70,49,49,0,Level C
+168,Main list,Mongolia,Uurtsaikh Uuriintuya,2288,2,2,31,48,48,0,Level B
+169,Main list,,Abrar Mahir,,3,2,113,48,48,0,Level B
+170,Main list,Israel,Eyal Grinberg,2491,3,2,49,47,47,0,Level B
+171,Main list,Belgium,Yohan Burignat,1712,3,2,78,46,46,0,Level B
+172,Main list,Mexico,Alejandro Lima Martinez,2074,3,2,65,45,45,0,Level B
+173,Main list,England,Kamila Hryshchenko,2028,3,2,61,44,44,0,Level B
+174,Main list,Sri Lanka,Sajini Hasara Balasuriya,1543,2,2,42,51,50,-1,Level B
+175,Main list,Israel,Omer Reshef,2495,2,2,30,51,50,-1,Level B
+176,Main list,India,Rahul Bhagtani,,3,3,15,48,47,-1,Level A
+177,Main list,Philippines,John Merill Jacutina,2254,3,3,65,47,46,-1,Level B
+178,Main list,Philippines,Daniel John Lemi,1752,3,2,28,47,46,-1,Level B
+179,Main list,,Pedro Felipe Soares,,2,1.5,89,44,43,-1,Level B
+180,Main list,,Zexu Di,,2,2,19,43,42,-1,Level A
+181,Main list,Indonesia,Anthony Jonathan,1995,2,2,43,41,40,-1,Level B
+182,Main list,Peru,Breiner Roiser Correa Atucsa,2245,3,2,43,62,60,-2,Level B
+183,Main list,France,Matteo Grolleau,1804,3,2,37,56,54,-2,Level B
+184,Main list,,Al Ayyubi Sholahuddin,,2,2,62,55,53,-2,Level C
+185,Main list,Cuba,Jesus Javier Alayon Collazo,,3,1,43,51,49,-2,Level B
+186,Main list,Greece,Stavroula Tsolakidou,2379,3,3,84,50,48,-2,Level B
+187,Main list,Canada,Houji Yao,2035,2,1,17,49,47,-2,Level A
+188,Main list,Mexico,Luis Gabriel Perez Vega,1765,3,2,52,44,42,-2,Level B
+189,Main list,Malaysia,Kim Yew Chan,2303,3,3,57,41,39,-2,Level B
+190,Main list,Portugal,Rafael A Figueiredo Ribeiro,1783,3,2,35,63,60,-3,Level B
+191,Main list,Peru,Mels Leopold Ccerhuayo Escobedo,2153,2,1,24,57,54,-3,Level B
+192,Main list,Peru,Stephanie Beatriz Puppi Lazo,1992,3,2,100,55,52,-3,Level C
+193,Main list,Bulgaria,Gabriela Antova,2250,3,1,27,55,52,-3,Level B
+194,Main list,Venezuela,Felix Jose Ynojosa Aponte,2393,2,1,68,52,49,-3,Level B
+195,Main list,Philippines,Jeth Romy Morado,2243,3,2,71,49,46,-3,Level B
+196,Main list,India,Moharil Rutvik,1610,3,1.5,99,49,46,-3,Level B
+197,Main list,China,Jinshi Bai,2618,3,2,68,47,44,-3,Level B
+198,Main list,South Korea,Sung Ho Yim,2281,1,1,19,45,42,-3,Level A
+199,Main list,Mexico,Jesus Yescas Villanueva,1730,2,2,36,57,53,-4,Level B
+200,Main list,New Zealand,Judy Zhu,,3,1,32,54,50,-4,Level B
+201,Main list,India,Abhinav Reddy Bathula,1735,3,3,54,52,48,-4,Level B
+202,Main list,Mexico,Marco Torres Flores,1593,3,2,108,51,47,-4,Level B
+203,Main list,Russia,Mikhail Khmelev,2077,2,1,67,49,45,-4,Level B
+204,Main list,Scotland,Ioannis Dabos - Doukas,1792,3,2,60,49,45,-4,Level B
+205,Main list,,Harsh Dwivedi,,1,1,33,46,42,-4,Level B
+206,Main list,Mexico,Murga Francisco Bencomo,1816,1,1,22,36,32,-4,Level B
+207,Main list,Greece,Andreas Kelires,2520,3,2,39,56,51,-5,Level B
+208,Main list,,Sri Krishna TKVSS,,3,1.5,60,50,45,-5,Level B
+209,Main list,United States of America,Benjamin Frenkel,2129,3,2.5,84,50,45,-5,Level B
+210,Main list,,Jingzhe Zeng,,3,2,56,50,45,-5,Level B
+211,Main list,El Salvador,Angie Garcia,1802,3,0.5,95,44,39,-5,Level B
+212,Main list,Indonesia,Adiwindra Akbar Jurheza,1777,3,1,46,60,54,-6,Level B
+213,Main list,Poland,Aleksander Kaczmarek,2371,2,2,69,57,51,-6,Level C
+214,Main list,Philippines,Shania Mae Mendoza,2158,3,2,58,56,50,-6,Level D
+215,Main list,France,Samuel Dubuisson,2044,3,2,36,56,50,-6,Level B
+216,Main list,,Aay Aisyah Anisa,1999,2,1,57,55,49,-6,Level B
+217,Main list,Sri Lanka,Minul Sanjula Doluweera,2139,2,2,31,51,45,-6,Level B
+218,Main list,Netherlands,Luuk Baselmans,2251,3,2,43,67,60,-7,Level B
+219,Main list,India,P Iniyan,2506,3,2,14,57,50,-7,Level A
+220,Main list,Brazil,Daniel Pereira Da Silva,1775,2,0,49,56,49,-7,Level B
+221,Main list,New Zealand,Ryan Winter,1965,3,2,62,55,48,-7,Level B
+222,Main list,Saudi Arabia,Tariq Nasser Alshehri,,3,1.5,116,55,48,-7,Level B
+223,Main list,Kyrgyzstan,Kairatbek Abylkasymov,1827,3,2,97,53,46,-7,Level B
+224,Main list,Portugal,Tiago Marques Alves,1506,3,2,60,50,43,-7,Level B
+225,Main list,Switzerland,Jan Fecker,1932,2,1,83,49,42,-7,Level B
+226,Main list,Mexico,Aldo Ivan Espinoza Briones,1535,3,1.5,71,48,41,-7,Level B
+227,Main list,Namibia,Lazarus Shatipamba,,1,0,30,47,40,-7,Level B
+228,Main list,Ukraine,Nadezhda Salah,2026,3,1,27,40,33,-7,Level B
+229,Main list,Cuba,Adrian Daniel Suarez Figueras,2166,2,0,3,40,33,-7,Level A
+230,Main list,Indonesia,Michael Owen,1991,3,2,108,61,53,-8,Level C
+231,Main list,Mexico,Alfredo Felix Soto,2075,3,2.5,92,59,51,-8,Level C
+232,Main list,Namibia,Dudley Noreseb,1698,2,0,12,58,50,-8,Level B
+233,Main list,,Thomas Goldie,,3,2,90,57,49,-8,Level C
+234,Main list,Mongolia,Byambasuren Garidmagnai,2369,3,3,19,55,47,-8,Level A
+235,Main list,FIDE,Olga Badelka,2428,3,3,82,54,46,-8,Level B
+236,Main list,Chile,Ian Avalos Herrera,1630,3,2,92,51,43,-8,Level B
+237,Main list,,Fabian Olivares,,3,1,68,60,51,-9,Level C
+238,Main list,,Osiel Castillo,,3,0,58,57,48,-9,Level B
+239,Main list,United States of America,Jack Easton,2175,3,3,63,52,43,-9,Level A
+240,Main list,Australia,Viney Kumar,1711,3,2,65,51,42,-9,Level B
+241,Main list,Philippines,Divine Grace Luna,1716,2,1,53,51,42,-9,Level C
+242,Main list,,Lindokuhle Vukile Sibisi,,1,0,10,49,40,-9,Level A
+243,Main list,Serbia,Matija Lojovic,2119,3,2,95,47,38,-9,Level B
+244,Main list,India,Mishra Shreyam,1577,3,2,47,61,51,-10,Level C
+245,Main list,Greece,Ioannis K. Kollias,1721,3,2,81,57,47,-10,Level B
+246,Main list,Jamaica,Christopher Davis,1337,2,1,32,54,44,-10,Level A
+247,Main list,Mexico,Kenneth Porras Romero,1745,3,2,55,54,44,-10,Level B
+248,Main list,,Qiao Li,,3,1,50,54,44,-10,Level A
+249,Main list,Mexico,Cojo Miramontes Alejandro Del,1677,2,1,19,52,42,-10,Level A
+250,Main list,Ukraine,Vitaly Stasiuk,1855,3,2,48,50,40,-10,Level B
+251,Main list,Mongolia,Uurtsaikh Agibileg,2413,3,3,79,67,56,-11,Level D
+252,Main list,India,Sunyuktha C M N,1867,2,1,53,64,53,-11,Level D
+253,Main list,Philippines,John Jasper Laxamana,2069,3,1,77,59,48,-11,Level B
+254,Main list,Armenia,Vahan Nalbandyan,2014,3,2,101,54,43,-11,Level C
+255,Main list,Greece,Zisis Tsaknakis,2236,3,3,74,54,43,-11,Level A
+256,Main list,Poland,Lukasz Zaleski,2173,3,3,36,53,42,-11,Level B
+257,Main list,Chile,Alex Benjamin Ortega Carrasco,1935,3,1.5,130,52,41,-11,Level A
+258,Main list,Turkiye,Mirac Kerem Maden,2072,2,1,50,51,40,-11,Level B
+259,Main list,,Kundanr Kumar,,3,1,30,48,37,-11,Level B
+260,Main list,Chile,Antonia Leon Badillo,1320,3,1,9,44,33,-11,Level A
+261,Main list,,Diego Cabezas,,3,1,47,63,51,-12,Level B
+262,Main list,Belgium,Quentin Fontaine,2324,2,1,37,63,51,-12,Level B
+263,Main list,Netherlands,Michael Nicol,,3,1,31,60,48,-12,Level B
+264,Main list,Kazakhstan,Bakhytzhan Kembayev,2054,3,3,96,60,48,-12,Level B
+265,Main list,Indonesia,Qomara Reyhan,1608,2,1,52,58,46,-12,Level B
+266,Main list,United States of America,Dachey Lin,2222,2,2,54,53,41,-12,Level A
+267,Main list,India,Jwalin Mehta,2086,2,2,66,53,41,-12,Level A
+268,Main list,Egypt,Ahmed Kamel Abu Elmagd,,3,2,40,52,40,-12,Level A
+269,Main list,Peru,Gianella Francia Arzapalo,1701,2,2,14,48,36,-12,Level A
+270,Main list,India,Srijit Paul,2312,3,2,92,62,49,-13,Level C
+271,Main list,India,Chakraborty Shashwat,1820,2,1,59,60,47,-13,Level B
+272,Main list,Turkiye,Emre Erdal,1516,1,1,35,59,46,-13,Level A
+273,Main list,Brazil,Pedro Ferreira Lage,2123,3,2,64,58,45,-13,Level B
+274,Main list,Poland,Damian Strzalkowski,1585,3,2,79,56,43,-13,Level A
+275,Main list,Germany,Ferdinand Xiong,2211,1,1,24,55,42,-13,Level A
+276,Main list,India,Prakash Shubh,1096,3,1,73,55,42,-13,Level A
+277,Main list,Philippines,Daphne Mae Dy,1578,3,2,88,54,41,-13,Level A
+278,Main list,Greece,Nikolas Theodorou,2554,3,3,76,54,41,-13,Level B
+279,Main list,Cuba,Carlos Daniel Albornoz Cabrera,2573,1,1,16,51,38,-13,Level A
+280,Main list,Ecuador,Ariana Escobar,1557,2,1,57,63,49,-14,Level B
+281,Main list,Russia,Timofey Smirnov,2420,3,3,68,63,49,-14,Level B
+282,Main list,Russia,Darya Gorovenko,2106,2,2,63,63,49,-14,Level B
+283,Main list,United States of America,Ladia Jirasek,2361,3,2,64,61,47,-14,Level B
+284,Main list,,Ummi Fisabilillah,2159,2,2,19,61,47,-14,Level A
+285,Main list,,Rohan M,,2,1,52,60,46,-14,Level B
+286,Main list,India,Manoj Anjali,1576,2,1.5,90,57,43,-14,Level B
+287,Main list,Lesotho,Phetetso Mashato,1270,2,0,36,56,42,-14,Level A
+288,Main list,Uganda,Jimmy Balewa,1595,2,2,70,54,40,-14,Level B
+289,Main list,Russia,Nikita Fedotov,2311,3,2,111,65,50,-15,Level C
+290,Main list,India,Kuvelkar Rajaryan,1905,3,2,72,64,49,-15,Level C
+291,Main list,Peru,Mariano Anthon Cardenas Quispe,1686,1,0,40,60,45,-15,Level D
+292,Main list,Russia,Sergey Drygalov,2490,2,2,32,59,44,-15,Level A
+293,Main list,Armenia,Hovhannes Gabuzyan,2557,3,3,84,58,43,-15,Level B
+294,Main list,Peru,German Gonzalo Quirhuayo Chumbe,2296,2,1,7,58,43,-15,Level A
+295,Main list,Mongolia,Erdene-Ochir Nyambileg,2038,3,2,55,57,42,-15,Level B
+296,Main list,Greece,Konstantinos Mourogiannis,1833,3,2,117,55,40,-15,Level A
+297,Main list,Indonesia,Ivan Maxmillian Putra Pasaribu,2229,3,1,21,53,38,-15,Level A
+298,Main list,China,Yiqian Wu,,3,2,74,51,36,-15,Level A
+299,Main list,,Leonardo de Lima Silva,,1,0,6,48,33,-15,Level A
+300,Main list,Germany,Yankelevich Lev,2389,1,1,25,47,32,-15,Level B
+301,Main list,France,Julien Morison,1828,1,1,21,68,52,-16,Level B
+302,Main list,Netherlands,Bas Van Doren,2032,3,3,60,61,45,-16,Level B
+303,Main list,Poland,Maciej Zielinski,2197,3,3,113,60,44,-16,Level B
+304,Main list,Mexico,Gerardo Hernandez Vazquez,1886,2,1,78,58,42,-16,Level A
+305,Main list,Poland,Malgorzata Bebnik,1758,3,2,21,54,38,-16,Level A
+306,Main list,Spain,David Villacorta Nicolas,2153,3,1.5,68,53,37,-16,Level A
+307,Main list,Singapore,Zhi Ying Natanya Ng,1394,2,1,50,52,36,-16,Level B
+308,Main list,Mexico,Teresa Alejandra Avila Bautista,1642,2,1.5,99,51,35,-16,Level B
+309,Main list,Cuba,Jorge Marcos Gomez Sanchez,2352,2,1,19,70,53,-17,Level A
+310,Main list,,Van Hoorn Geert,,3,1,63,63,46,-17,Level B
+311,Main list,,Adam Banda,,3,1,105,57,40,-17,Level B
+312,Main list,Egypt,Mohamed Zayan,2132,3,2,50,57,40,-17,Level B
+313,Main list,Ireland,Conor Nolan,1884,3,1,77,55,38,-17,Level A
+314,Main list,Cuba,William Hernandez Gonzalez,2481,1,1,19,49,32,-17,Level A
+315,Main list,Russia,Alina Ser Bratchik,,2,0,23,79,61,-18,Level B
+316,Main list,Kenya,Francis Michuki,1637,3,1,29,77,59,-18,Level B
+317,Main list,United States of America,David Brodsky,2455,3,2,73,76,58,-18,Level D
+318,Main list,Chile,Joaquin Fica Cruz,1949,2,2,32,68,50,-18,Level B
+319,Main list,Greece,Ioannis Poulopoulos,2236,3,2.5,105,64,46,-18,Level B
+320,Main list,,Jonathan Gonzalez Dominguez,,3,2,71,63,45,-18,Level B
+321,Main list,Croatia,Filip Pavic,2243,3,3,74,63,45,-18,Level B
+322,Main list,Kazakhstan,Ivan Mezentsev,2354,2,2,43,60,42,-18,Level B
+323,Main list,India,L D`souza Andria,1786,2,1,69,60,42,-18,Level B
+324,Main list,Indonesia,Abyaz Attaqee Shah Oktora,,1,0,27,59,41,-18,Level B
+325,Main list,India,Isha Sharma,2256,3,3,46,57,39,-18,Level A
+326,Main list,,Jorge Sanchez,,3,2,52,56,38,-18,Level A
+327,Main list,,Hogle Alexfer Prudente Macedo,,3,0,35,55,37,-18,Level A
+328,Main list,Romania,Radu-Cristian Fluerariu,1985,3,3,67,54,36,-18,Level A
+329,Main list,Russia,Anna Afonasieva,2298,2,2,32,52,34,-18,Level B
+330,Main list,Peru,Antony Neciosup,1655,2,1,17,66,47,-19,Level A
+331,Main list,Cuba,Rafael Alejandro Medina Diaz,2290,2,1,7,62,43,-19,Level A
+332,Main list,Indonesia,Muhammad Harits Fadlilah,1995,3,3,22,60,41,-19,Level B
+333,Main list,Cuba,Melissa Rodriguez Dominguez,2103,2,1,24,57,38,-19,Level A
+334,Main list,,Angela Nkosi,,3,2,36,78,58,-20,Level B
+335,Main list,Greece,Georgios Paraskevas,1752,3,2,76,67,47,-20,Level B
+336,Main list,Mongolia,Naran-Erdene Naranbaatar,2055,3,2,119,66,46,-20,Level B
+337,Main list,,Lakshay Solanki,,2,0,83,65,45,-20,Level B
+338,Main list,India,Anand Saurabh,2304,3,2,59,64,44,-20,Level A
+339,Main list,India,Dhara Debankan,1950,3,3,79,63,43,-20,Level A
+340,Main list,Russia,Semen Elistratov,2401,2,2,54,63,43,-20,Level B
+341,Main list,,Rishav Srivastava,,3,2,60,63,43,-20,Level B
+342,Main list,,Mazen Chaaban,,3,1.5,86,62,42,-20,Level A
+343,Main list,Peru,Robert Gutierrez Vargas,1870,1,1,19,62,42,-20,Level A
+344,Main list,,Kabeer Rohila,,2,0,5,60,40,-20,Level A
+345,Main list,Kazakhstan,Kazybek Umbetov,2073,2,1,16,58,38,-20,Level A
+346,Main list,,Gustavo Andres Contreras Cuevas,,2,0,60,55,35,-20,Level A
+347,Main list,El Salvador,Armando Melendez,1261,3,1,43,53,33,-20,Level A
+348,Main list,Romania,Emilia-Florentina Coman,1770,2,1,51,74,53,-21,Level C
+349,Main list,India,R U Arun,1908,2,1,36,71,50,-21,Level B
+350,Main list,United States of America,Segev Eliezer,2004,2,1,14,71,50,-21,Level A
+351,Main list,,Kevin Maurin,,3,1,53,70,49,-21,Level B
+352,Main list,India,Kumaria Shaurya,1461,3,1,83,68,47,-21,Level B
+353,Main list,Brazil,Leonardo Yamamoto Por Goncalves,1979,3,3,64,65,44,-21,Level A
+354,Main list,Cuba,Rachel Palmero Martinez,2099,3,1,73,65,44,-21,Level A
+355,Main list,Cuba,Jonathan Hernandez Ruiz,2024,2,2,31,60,39,-21,Level A
+356,Main list,Mexico,Alonso Velo Arredondo,2068,3,2,32,75,53,-22,Level B
+357,Main list,Cuba,Jorge Frank Herrera Aruca,1964,3,2,43,73,51,-22,Level B
+358,Main list,France,Lucas Brison,1906,2,2,77,71,49,-22,Level B
+359,Main list,Singapore,Jeffery Wei Heng Koh,,2,2,35,65,43,-22,Level B
+360,Main list,,Abir Mohammad Turza,,3,1,21,65,43,-22,Level A
+361,Main list,Italy,Marco Solime`,1781,3,1,52,64,42,-22,Level A
+362,Main list,,Joseph Mbuthia,,3,2,12,64,42,-22,Level A
+363,Main list,Peru,Fabricio David Prado Gabriel,1751,3,2,54,63,41,-22,Level A
+364,Main list,Bangladesh,Ghosh Promit,,3,1,71,61,39,-22,Level A
+365,Main list,,Amjad Aljohani,,2,1,36,61,39,-22,Level A
+366,Main list,Ecuador,Bryan Carrasco Jacome,2103,2,1,46,59,37,-22,Level A
+367,Main list,,Afina Sany Saffana,,3,0,38,56,34,-22,Level A
+368,Main list,Kazakhstan,Dilyara Gabitova,1671,2,1,60,75,52,-23,Level C
+369,Main list,Brazil,Matheus dos Santos Ramos,,3,1,61,72,49,-23,Level B
+370,Main list,Russia,Rada Danilova,2048,2,2,56,71,48,-23,Level B
+371,Main list,Mexico,Axel Alberto Diaz Espinoza,1641,3,1,53,70,47,-23,Level B
+372,Main list,Cuba,Marlon Javier La Villa Rivas,2252,3,3,39,69,46,-23,Level B
+373,Main list,Peru,Brath Toribio Alvarado,1544,3,2,11,69,46,-23,Level A
+374,Main list,,Antony Joseph,,3,1,97,68,45,-23,Level C
+375,Main list,Indonesia,Novendra Priasmoro,2502,3,3,69,68,45,-23,Level B
+376,Main list,,Zen Wisa Sartre,,2,1,69,68,45,-23,Level C
+377,Main list,India,Jaglan Vikrant,1626,2,2,39,64,41,-23,Level A
+378,Main list,India,S Anand,1548,2,1,56,59,36,-23,Level B
+379,Main list,Iran,Nima Javanbakht,2472,2,2,34,68,44,-24,Level B
+380,Main list,Mexico,Quetzija Escamilla Romero,1377,2,0,39,65,41,-24,Level B
+381,Main list,Greece,Lampros Printzios,1296,3,1,121,64,40,-24,Level A
+382,Main list,Serbia,Milena Vujcic,2069,3,2,87,62,38,-24,Level A
+383,Main list,Mexico,Vanessa Donjuan Perez,1272,3,1,63,62,38,-24,Level A
+384,Main list,India,Shivam Handa,1323,3,1,54,61,37,-24,Level A
+385,Main list,Kenya,Lenny Mataiga Shile,1751,3,2,67,58,34,-24,Level A
+386,Main list,Cuba,Geydis De la C. Mantilla Gras,1997,1,1,20,54,30,-24,Level A
+387,Main list,France,Colin Moriniaux,1973,3,2,60,70,45,-25,Level B
+388,Main list,Poland,Igor Janik,2495,3,3,55,69,44,-25,Level A
+389,Main list,Armenia,Suren Gesyan,1945,2,2,35,68,43,-25,Level B
+390,Main list,,Ethan Zhao,,2,1.5,64,66,41,-25,Level A
+391,Main list,Peru,Sergio Cisneros Cardoza,1666,2,2,94,63,38,-25,Level A
+392,Main list,Cuba,Dylan Isidro Berdayes Ason,2445,1,1,19,62,37,-25,Level A
+393,Main list,,Luis Hernandez,,3,1,34,73,47,-26,Level B
+394,Main list,,Vibushan Arangaswamy,,3,1,85,73,47,-26,Level C
+395,Main list,Spain,Cesar Redondo Moran,1422,2,1,20,71,45,-26,Level B
+396,Main list,Russia,Gusein Taimurazov,,2,2,55,70,44,-26,Level B
+397,Main list,Japan,Ryoya Mitsui,1841,3,2,42,69,43,-26,Level B
+398,Main list,Canada,Zehn Nasir,2057,3,2,62,68,42,-26,Level A
+399,Main list,Poland,Szymon Pinkas,1309,2,1,22,67,41,-26,Level A
+400,Main list,Mexico,David Eugenio Lugo Aldana,1490,2,1,52,66,40,-26,Level B
+401,Main list,Ukraine,Viktor Matviishen,2512,3,2,97,66,40,-26,Level A
+402,Main list,,Richard Zhang,,3,1.5,143,62,36,-26,Level A
+403,Main list,Peru,Eddi Gino Ramirez Quiroz,1478,2,0.5,69,62,36,-26,Level A
+404,Main list,Russia,Igor Khabas,1667,2,1,47,82,55,-27,Level B
+405,Main list,Russia,Aleksandr Makarenko,2151,3,2,30,74,47,-27,Level B
+406,Main list,Scotland,Tariq Pasha,1905,3,2,41,71,44,-27,Level B
+407,Main list,India,K V Sudharshan,1288,1,0,26,69,42,-27,Level C
+408,Main list,Brazil,Giovane Santiago Leacima,1884,2,1,30,67,40,-27,Level B
+409,Main list,,Tamara Kaliwo,,2,0,12,78,50,-28,Level B
+410,Main list,Chile,Jose Patricio Bahamondes Cepeda,1893,3,1,53,75,47,-28,Level B
+411,Main list,France,Pietro Porsia,1709,3,1,93,74,46,-28,Level B
+412,Main list,Mexico,Edgar Froylan Luna Javier,2114,3,2,74,71,43,-28,Level A
+413,Main list,Lesotho,Letsatsi Khama,1379,3,0,73,70,42,-28,Level B
+414,Main list,Indonesia,Aji Bagus Wicaksono,,2,2,47,64,36,-28,Level B
+415,Main list,Armenia,Qristine Smbatyan,1685,1,1,14,64,36,-28,Level A
+416,Main list,Mexico,Joshua Adrian Avila Rodriguez,1940,2,2,26,79,50,-29,Level B
+417,Main list,,Hugo Durand,,2,0,22,79,50,-29,Level B
+418,Main list,Peru,Renzo Jos Pelaes Castillo,1493,3,1,84,74,45,-29,Level B
+419,Main list,India,B Patra Himanshu,1261,2,1,33,74,45,-29,Level B
+420,Main list,Scotland,Murad Abdulla,2287,3,2,64,73,44,-29,Level C
+421,Main list,Poland,Marcin Rosicki,2023,3,2,38,71,42,-29,Level B
+422,Main list,Peru,Carlos Enrique Huarcaya Silloca,1942,3,2,17,70,41,-29,Level A
+423,Main list,Philippines,Francis Xavier Guimalan,1902,3,1,40,69,40,-29,Level A
+424,Main list,Peru,Geraldine Espinoza Davila,1401,2,0,44,65,36,-29,Level A
+425,Main list,Mexico,Diego Baltazar Ibanez,2054,2,1,85,64,35,-29,Level A
+426,Main list,China,Wenzhi Dai,2044,2,1,68,63,34,-29,Level A
+427,Main list,Portugal,Paulo Alexandre G Monteiro,2023,3,1,17,83,53,-30,Level A
+428,Main list,Singapore,Shi Chen Kerwin Lim,,3,0,79,78,48,-30,Level B
+429,Main list,,Weifan Liu,,3,2,74,77,47,-30,Level B
+430,Main list,France,Mathys Noir,1890,3,1,89,76,46,-30,Level B
+431,Main list,Scotland,Kai Pannwitz,1802,3,2,59,76,46,-30,Level B
+432,Main list,Honduras,Jose Valladares,1529,1,0,13,76,46,-30,Level A
+433,Main list,Portugal,Ana Raquel Da Costa Bastos,1636,3,2,47,75,45,-30,Level B
+434,Main list,France,Enzo Porsia,1752,3,2,78,72,42,-30,Level A
+435,Main list,India,Nilsu Pattnayak,1948,3,2,76,72,42,-30,Level B
+436,Main list,Ukraine,Vladimir Volobuev,1988,3,2,64,72,42,-30,Level B
+437,Main list,Paraguay,Vazquez Guillermo,2527,1,1,10,70,40,-30,Level A
+438,Main list,Kenya,Samuel Mwaura Ngugi,,3,0.5,98,68,38,-30,Level A
+439,Main list,,Corentin Cadieu,1524,2,1,41,57,27,-30,Level A
+440,Main list,India,Ankit Nandwal,1340,3,1,29,79,48,-31,Level B
+441,Main list,North Macedonia,Kosta Peev,1913,3,2,98,78,47,-31,Level B
+442,Main list,Portugal,Francisco Parente,1506,3,1,63,77,46,-31,Level C
+443,Main list,Philippines,Kris Oswald Olvido,,3,2,49,74,43,-31,Level B
+444,Main list,Chile,Melany Vildosola Canales,1632,2,2,27,72,41,-31,Level A
+445,Main list,Greece,Filippos Korniotis,2133,3,2,65,68,37,-31,Level A
+446,Main list,,Ananta Noor Anan,,3,1,74,66,35,-31,Level A
+447,Main list,India,Sumeet Gawande,1360,3,2,79,61,30,-31,Level A
+448,Main list,India,Aditya MY,1563,3,2,68,76,44,-32,Level A
+449,Main list,United States of America,Khoa Minh Nguyen,1801,3,2,71,76,44,-32,Level A
+450,Main list,Indonesia,Singgih Satria Lesmana,1875,3,2,23,76,44,-32,Level A
+451,Main list,Mexico,Kevin Ozuna Ramos,1935,3,3,30,75,43,-32,Level A
+452,Main list,India,Maheswari Kushank,1285,3,1,102,73,41,-32,Level B
+453,Main list,Singapore,Jin Sheng Timothy Ling,1640,3,1,108,70,38,-32,Level B
+454,Main list,India,Ankit Yadav,1114,3,2,72,68,36,-32,Level A
+455,Main list,Mexico,Sheila Angelica Rodriguez Silva,1745,2,0,29,67,35,-32,Level A
+456,Main list,,Kai Duenez,,3,1,60,67,35,-32,Level A
+457,Main list,Mexico,Jordi Milburgo Carrera Puig,1778,2,1,47,78,45,-33,Level B
+458,Main list,Switzerland,Anton Kuenzi,1815,3,1,23,77,44,-33,Level A
+459,Main list,,Christian Joel Navarro Ruiz,,2,1,19,75,42,-33,Level A
+460,Main list,,Abdelrahman Amin,,3,1,64,74,41,-33,Level A
+461,Main list,India,Jayalakshmi Sree,,3,0,49,72,39,-33,Level A
+462,Main list,Mexico,Arianne Elizabeth Ponce  Bermudez,1570,3,1,69,72,39,-33,Level B
+463,Main list,Sri Lanka,H Charanga Jithmal Gamage,1718,3,2,60,71,38,-33,Level A
+464,Main list,,Manas Chodimalla,,3,2,73,70,37,-33,Level A
+465,Main list,India,Kundu Kaustuv,2301,2,1,14,69,36,-33,Level A
+466,Main list,Mexico,Carlos A Hernandez Rendon,1838,3,1,45,69,36,-33,Level A
+467,Main list,India,Kumar Deepak,1198,2,1,53,69,36,-33,Level A
+468,Main list,Russia,Egor Chaika,,3,1,36,87,53,-34,Level B
+469,Main list,Kenya,Boera Robert,1716,2,2,25,86,52,-34,Level B
+470,Main list,,Shirshajit Gupta,,2,1,51,81,47,-34,Level C
+471,Main list,,Bing Yue,,3,1.5,82,78,44,-34,Level B
+472,Main list,Ukraine,Liubomyr Voloshynskyi,2118,2,1,42,77,43,-34,Level A
+473,Main list,El Salvador,Ortez Andrea,1969,3,2,94,77,43,-34,Level A
+474,Main list,India,Suman Saurav,1189,3,1,49,73,39,-34,Level A
+475,Main list,Romania,Andreea-Marioara Cosman,2164,2,1,16,72,38,-34,Level A
+476,Main list,,Ben Gribbon,,3,2,81,72,38,-34,Level A
+477,Main list,Indonesia,Ken Nahel Falsaveta,1594,3,2,65,72,38,-34,Level A
+478,Main list,,M. Zainal A Loleh,,2,0,63,70,36,-34,Level A
+479,Main list,Jordan,Smreen Roaa,1104,2,1,20,69,35,-34,Level B
+480,Main list,China,Siwei Wei,,3,2,79,83,48,-35,Level C
+481,Main list,United States of America,Ashritha Eswaran,2244,2,2,38,72,37,-35,Level A
+482,Main list,Mexico,Patricia Sarahi Arvizu Rivera,1735,2,1,28,71,36,-35,Level A
+483,Main list,Netherlands,Thomas Kools,2103,2,1,37,70,35,-35,Level B
+484,Main list,Chile,Franco Gasic Merino,2204,3,2,37,67,32,-35,Level A
+485,Main list,Sri Lanka,Tharmasanthiran Brahman,1355,2,1,35,66,31,-35,Level A
+486,Main list,,Aufa Mochamad Aufa Erditya Pratama,,3,1.5,57,80,44,-36,Level B
+487,Main list,Greece,Kyriaki Kalyva,1823,3,2,70,80,44,-36,Level A
+488,Main list,Russia,Galina Krapivina,1968,2,2,55,78,42,-36,Level A
+489,Main list,Indonesia,SATRIAWAN SINGGIH ALVREDO,1801,2,2,31,75,39,-36,Level A
+490,Main list,Greece,Dimitrios Papakonstantinou,,1,1,20,71,35,-36,Level B
+491,Main list,,Praveen Kumar Maurya,,3,0.5,86,70,34,-36,Level A
+492,Main list,Peru,Christian Andre Guzman Miraval,1776,3,2,85,70,34,-36,Level A
+493,Main list,,Halim Mansour,1385,2,1,55,93,56,-37,Level D
+494,Main list,Turkiye,Omer Faruk Ozer,2317,3,1,52,91,54,-37,Level C
+495,Main list,Russia,Polina Shuvalova,2476,3,2,63,81,44,-37,Level A
+496,Main list,Mexico,Ana Valeria Salas Estrada,1824,3,2.5,89,81,44,-37,Level A
+497,Main list,,Luda Jing,,3,1,64,79,42,-37,Level A
+498,Main list,Canada,Joseph F. Bellissimo,2203,3,3,51,78,41,-37,Level A
+499,Main list,Mexico,Andrei Heredia Madrigal,2040,3,2,39,78,41,-37,Level A
+500,Main list,,Vaishnavi Bhangar,,3,0,48,84,46,-38,Level C
+501,Main list,Mexico,Angel Ivan Quiroga Jaquez,2214,2,1,51,83,45,-38,Level B
+502,Main list,Jordan,Abu-Khater Ahmad,1414,3,1,61,81,43,-38,Level B
+503,Main list,United States of America,Gulrukhbegim Tokhirjonova,2362,3,2,114,80,42,-38,Level A
+504,Main list,FIDE,Rudik Roberto Rompich Cotzojay,1854,3,2,49,75,37,-38,Level A
+505,Main list,Lesotho,Sechaba Khalema,1827,2,1,38,70,32,-38,Level A
+506,Main list,Scotland,Euan Gray,2098,2,1,47,92,53,-39,Level B
+507,Main list,England,Harry Grieve,2351,3,3,58,86,47,-39,Level B
+508,Main list,Poland,Dymitr Ostrowski,1401,3,1,61,82,43,-39,Level A
+509,Main list,France,Noe Mangold,1993,3,2,89,79,40,-39,Level A
+510,Main list,Ecuador,Helen Pazmay Mora,,3,0,59,78,39,-39,Level A
+511,Main list,,Arthur Mellinger,,3,2,115,71,32,-39,Level A
+512,Main list,India,Sharma Kunal,1324,2,0.5,60,67,28,-39,Level A
+513,Main list,France,Simon Sarkizian,1559,3,1,43,89,49,-40,Level B
+514,Main list,,Charbel el Khoury,,3,1,54,86,46,-40,Level B
+515,Main list,France,Wissam Pheng,1739,3,2,38,82,42,-40,Level A
+516,Main list,,Paschalia Ariawan Felia,,3,1,67,79,39,-40,Level A
+517,Main list,Switzerland,Fabian Jin,1728,2,1,31,79,39,-40,Level A
+518,Main list,,Jonthan Ismael Juárez Guadarrama,,2,1,33,79,39,-40,Level B
+519,Main list,,Mohammed Alkibbee,,3,1,69,78,38,-40,Level A
+520,Main list,India,Das Kunal,1655,2,1,41,97,56,-41,Level B
+521,Main list,Mexico,Roberto Alejandro Avila Bautista,2001,2,1,58,94,53,-41,Level B
+522,Main list,India,Uttam Prakash Sharma,1694,3,2,68,85,44,-41,Level A
+523,Main list,Switzerland,Lucas Schenck,,3,0,59,82,41,-41,Level A
+524,Main list,Germany,Simon Leeb,2207,2,2,52,81,40,-41,Level A
+525,Main list,Russia,Dmitry Radostev,1889,3,1,73,79,38,-41,Level A
+526,Main list,,Ishaan Bedi,,3,1,54,78,37,-41,Level A
+527,Main list,China,Yanting Chen,,2,0,66,77,36,-41,Level A
+528,Main list,Philippines,Diomel John Escutin,,3,1,87,77,36,-41,Level A
+529,Main list,Poland,Maciej Kowalec,2123,3,2,54,76,35,-41,Level B
+530,Main list,,Rishabh Choudhary,,3,1,52,76,35,-41,Level A
+531,Main list,Mongolia,Batsaikhan Otgonsuvd,1837,3,2,24,74,33,-41,Level A
+532,Main list,Peru,Ruth CCorimanya Ttica,1677,3,2,52,72,31,-41,Level A
+533,Main list,Kenya,Shem Aberi,,2,1,48,70,29,-41,Level A
+534,Main list,Philippines,Kristine Mae Flores,1613,1,1,17,70,29,-41,Level A
+535,Main list,India,Bhargav Abhishek,1177,2,1,97,87,45,-42,Level B
+536,Main list,Lithuania,Tomas Laurusas,2505,2,2,67,84,42,-42,Level A
+537,Main list,,Sisekelo Madiya,,2,1,75,82,40,-42,Level B
+538,Main list,Chile,David Cona Jara,1779,3,2,23,81,39,-42,Level A
+539,Main list,Sri Lanka,E D S Chandula,1661,2,1,52,79,37,-42,Level A
+540,Main list,Turkiye,Kerem Erdal,1534,3,2,59,78,36,-42,Level A
+541,Main list,Ukraine,Iulija Osmak,2428,2,2,29,76,34,-42,Level A
+542,Main list,England,Gautam Jain,1900,3,2,38,76,34,-42,Level A
+543,Main list,Slovakia,Radoslav Panko,2044,2,1,19,74,32,-42,Level A
+544,Main list,,Ariski Wahyudi,,3,1,14,93,50,-43,Level A
+545,Main list,New Zealand,Geoffrey Gunawan,1521,2,2,51,90,47,-43,Level B
+546,Main list,Colombia,Joshua Daniel Ruiz Castillo,2502,2,2,25,87,44,-43,Level A
+547,Main list,,Narek Soghoyan,,3,1,45,87,44,-43,Level A
+548,Main list,Japan,Atsushi Takenouchi,,3,1,64,84,41,-43,Level A
+549,Main list,Indonesia,Azmi Nur Habibi,1986,3,2,40,83,40,-43,Level A
+550,Main list,Spain,Luis Manso Marugan,1682,2,2,32,81,38,-43,Level A
+551,Main list,,Lima de Souza Junior Nilton,,3,2,49,80,37,-43,Level A
+552,Main list,Greece,Ioannis Kalogeris,2307,2,2,62,78,35,-43,Level A
+553,Main list,Indonesia,Fernanda Agus Saputra Pribadi,1932,2,2,28,72,29,-43,Level A
+554,Main list,,Ahmed Elbaz,,1,0,29,67,24,-43,Level A
+555,Main list,Mexico,Andrea Ruiz Villalba,1741,3,2,83,92,48,-44,Level B
+556,Main list,Armenia,Tigran Azaryan,2115,3,2,57,84,40,-44,Level A
+557,Main list,El Salvador,Alejandro Pinto,1742,1,0,50,84,40,-44,Level A
+558,Main list,Greece,Konstantinos Kouroglou,1724,2,1,37,82,38,-44,Level A
+559,Main list,Botswana,Besa Masaiti,1708,3,1,51,81,37,-44,Level A
+560,Main list,,Meghana Banuprasad,,2,0.5,85,81,37,-44,Level A
+561,Main list,Namibia,Mbitjita Kahuure,,2,0,43,81,37,-44,Level A
+562,Main list,,Raphael Roshan Joseph,,3,1,57,79,35,-44,Level A
+563,Main list,,Sander Miesen,,3,1,57,79,35,-44,Level A
+564,Main list,Portugal,Joao Nuno Baptista Valente,1878,2,1,41,78,34,-44,Level A
+565,Main list,Belgium,Pierre Vernimmen,2010,3,2,86,78,34,-44,Level B
+566,Main list,Romania,George-Daniel Scripcaru,2170,2,1,46,72,28,-44,Level A
+567,Main list,,Abdullah Aboelnoor,,3,1,36,95,50,-45,Level B
+568,Main list,United Arab Emirates,Alsheraifi Ali Hamdan,1760,3,1,65,93,48,-45,Level B
+569,Main list,Greece,Anastasios Koukas,1933,2,1,24,87,42,-45,Level B
+570,Main list,Philippines,Merlene Membrere,1571,3,1,94,84,39,-45,Level A
+571,Main list,,Igor Esquivel Souza,,2,0,40,83,38,-45,Level A
+572,Main list,Philippines,Laila Camel Nadera,1618,2,0,24,82,37,-45,Level A
+573,Main list,,Jordan Kanchev,,2,1,22,87,41,-46,Level A
+574,Main list,India,Gupta Harsh,1283,3,1,10,86,40,-46,Level A
+575,Main list,,Aaradhya Nachankar,,3,1,100,86,40,-46,Level B
+576,Main list,Russia,Nikolay Semenov,1520,3,1,74,81,35,-46,Level A
+577,Main list,Mexico,Servando Rivera Chanttes,,3,1,44,80,34,-46,Level A
+578,Main list,Indonesia,Firman Cahya Wardhana Aji,1936,3,2,70,80,34,-46,Level A
+579,Main list,India,Bharadwaj A Aaditya,,2,1,15,79,33,-46,Level A
+580,Main list,Switzerland,Benjamin Brandis,2029,2,2,24,79,33,-46,Level A
+581,Main list,,Miguel Ángel Salinas Nolasco,,2,2,26,77,31,-46,Level A
+582,Main list,Russia,Bato Tsybikov,1819,2,1,44,99,52,-47,Level B
+583,Main list,Kenya,Timothy Kipngetich,,2,1,35,93,46,-47,Level B
+584,Main list,Armenia,Janik Ghulyan,1766,3,2,77,90,43,-47,Level B
+585,Main list,Ukraine,Dmitry Nagornyy,1926,3,3,64,88,41,-47,Level A
+586,Main list,Peru,Camila Elizabeth Acevedo Aybar,,3,1,44,86,39,-47,Level A
+587,Main list,Mexico,Carlos Jahi Fierro Jaquez,1833,3,1,32,85,38,-47,Level A
+588,Main list,,Nathan Bharwani,,2,0,58,85,38,-47,Level A
+589,Main list,,Carolina Cuevas Cuello,,3,0.5,45,85,38,-47,Level A
+590,Main list,,Onnie Mwandingi,,2,1,119,84,37,-47,Level A
+591,Main list,France,Nicolas Kern,2082,2,2,79,84,37,-47,Level A
+592,Main list,Croatia,Ruža Purkić,1483,3,1,75,83,36,-47,Level A
+593,Main list,,Martin Monnot-Prada,,2,0.5,52,82,35,-47,Level B
+594,Main list,France,Yannick Kambrath,2375,3,2,61,81,34,-47,Level A
+595,Main list,Croatia,Dorian Kablar,1515,3,1,69,79,32,-47,Level B
+596,Main list,India,P M Ram Prasad,1493,3,1,67,100,52,-48,Level C
+597,Main list,,Riya Parmar,,2,0,23,96,48,-48,Level B
+598,Main list,France,Damien Ribiere,2083,3,2,79,94,46,-48,Level B
+599,Main list,,Akshat Sindhwani,,2,1,32,89,41,-48,Level A
+600,Main list,Turkiye,Ataberk Sarigil,1334,3,1,52,88,40,-48,Level A
+601,Main list,,Navaneeth Holla,,2,1,23,87,39,-48,Level B
+602,Main list,India,S Bharata,1219,3,1,104,85,37,-48,Level A
+603,Main list,Peru,Alvaro Arcos Tejeda,,1,1,22,84,36,-48,Level A
+604,Main list,,Gaga Medson,,2,0,31,80,32,-48,Level A
+605,Main list,Sri Lanka,Thilina Perera,1434,3,1,56,88,39,-49,Level A
+606,Main list,Lebanon,Omar Obeid,1327,2,1,42,87,38,-49,Level B
+607,Main list,India,Raj Singh Nikhil,1138,3,1,112,87,38,-49,Level A
+608,Main list,India,Shriraj Trivedi,1273,3,1,39,85,36,-49,Level A
+609,Main list,,Mario Paredes,,2,0,41,81,32,-49,Level A
+610,Main list,Mexico,Karhim Arenas Caiceros,,2,1,85,77,28,-49,Level A
+611,Main list,Mexico,Hernandez Carlos Al Rangel,1852,2,1,64,95,45,-50,Level B
+612,Main list,France,Theo Bressy,2277,3,3,31,92,42,-50,Level B
+613,Main list,Russia,Ekaterina Blagoveschenskaya,1685,2,1,35,90,40,-50,Level A
+614,,,,1878,21,9,368,87,37,-50,Level A
+615,Main list,Cuba,Karla July Fernandez Rivero,2025,2,1,43,87,37,-50,Level B
+616,Main list,Greece,Anthi - Maria Vozinaki,1861,3,2,70,84,34,-50,Level A
+617,Main list,,Divyesh Pant,,2,1,25,103,52,-51,Level B
+618,Main list,,Vishnusai Janjanam,,3,0,105,90,39,-51,Level A
+619,Main list,,Utkarsh Dubey,,3,1,115,90,39,-51,Level A
+620,Main list,Philippines,Lynus Garrett Kho,,3,1,62,88,37,-51,Level A
+621,Main list,Brazil,Tiago Novaes Pereira,1771,3,1,49,88,37,-51,Level B
+622,Main list,Malta,Jamie Farrugia,1566,2,0.5,77,87,36,-51,Level A
+623,Main list,Mexico,Jorge Serrano Herrera,,3,1,122,87,36,-51,Level A
+624,Main list,Italy,Francesco Ferraguti,2067,3,2,72,87,36,-51,Level A
+625,Main list,Poland,Konrad Zielinski,1691,3,2,84,86,35,-51,Level A
+626,Main list,Netherlands,Chiel Koster,1913,3,3,44,85,34,-51,Level A
+627,Main list,Mexico,Yesúa Leonel Méndez Córdoba,1571,3,1,22,83,32,-51,Level A
+628,Main list,,Shruti Sikri,,2,0,49,82,31,-51,Level A
+629,Main list,Russia,Andrey P. Antonov,2137,2,1,51,103,51,-52,Level C
+630,Main list,Jordan,Haymoor Lana,1342,3,1,45,96,44,-52,Level B
+631,Main list,Ireland,Conor Maher,1939,3,2,48,96,44,-52,Level B
+632,Main list,Romania,Maria-Alexandra Ciocan,1982,3,2,46,95,43,-52,Level A
+633,Main list,,James Walklett,,3,2,154,91,39,-52,Level A
+634,Main list,,Luis Serrano,,3,0,68,90,38,-52,Level A
+635,Main list,Brazil,Luan Araujo De Paula,1706,2,1,77,88,36,-52,Level A
+636,Main list,Egypt,Abanob Ashraf,1599,3,2,28,88,36,-52,Level A
+637,Main list,India,Das Asmita,1759,3,2,58,101,48,-53,Level C
+638,Main list,Russia,Ruslan Nekrasov,1745,2,0,32,97,44,-53,Level B
+639,Main list,Mexico,Gabriel Osiris Andrade Ortega,,2,1,30,90,37,-53,Level A
+640,Main list,Peru,Fatima Zelaya Contreras,1348,3,1,38,77,24,-53,Level A
+641,Main list,Australia,Ronen Bhaumik,,3,1,48,98,44,-54,Level A
+642,Main list,,Paul Waweru Gathoni,,2,1,23,98,44,-54,Level A
+643,Main list,Scotland,Jonathan Livingstone,,2,0,44,93,39,-54,Level A
+644,Main list,Russia,Polina Anipchenko,1619,3,2,90,88,34,-54,Level A
+645,Main list,Poland,Jan Rosinski,1226,3,0.5,103,87,33,-54,Level A
+646,Main list,Romania,Gabriela Cristocea,1757,2,1,68,85,31,-54,Level A
+647,Main list,,Akash Roy,,2,1,39,82,28,-54,Level A
+648,Main list,Peru,Manuel Alejandro Torres Regalado,1683,3,1,85,80,26,-54,Level A
+649,Main list,India,Das Soumyajit,1699,2,1,48,101,46,-55,Level B
+650,Main list,Philippines,Angelo Villar Miguel,,3,1,82,98,43,-55,Level B
+651,Main list,India,Atharva R Patil,1407,3,1,21,93,38,-55,Level B
+652,Main list,France,Ivan Tawegoum,1880,2,1,55,93,38,-55,Level A
+653,Main list,,Subhodeep Maji,,3,1,79,89,34,-55,Level A
+654,Main list,,Gregoire Tissier,,2,1,40,85,30,-55,Level A
+655,Main list,Jordan,Azoobi Salim,1176,3,0.5,60,103,47,-56,Level B
+656,Main list,Poland,Przemyslaw Kindler,2055,3,2,45,94,38,-56,Level A
+657,Main list,Kenya,Wambugu Wandina,1412,3,1,71,94,38,-56,Level A
+658,Main list,,Mikhail Omar,,2,0,73,89,33,-56,Level A
+659,Main list,,Qianli Ma,,2,0,55,85,29,-56,Level B
+660,Main list,FIDE,Chun Hei Jun Hui,,3,1,33,96,39,-57,Level A
+661,Main list,,Yuhao Zhang,,3,1.5,129,96,39,-57,Level A
+662,Main list,France,Nathan Carlier,1725,3,1,41,94,37,-57,Level A
+663,Main list,Bangladesh,Huq Syeda Sadia,,2,1,71,92,35,-57,Level A
+664,Main list,Spain,Marta Rodriguez Perez,1636,2,1,52,90,33,-57,Level A
+665,Main list,Italy,Massimiliano Ballista,1957,3,0,38,89,32,-57,Level A
+666,Main list,India,Roy Chaudhary Rohit,1519,2,1,41,84,27,-57,Level A
+667,Main list,India,Ritabroto Ganguly,1930,1,1,10,77,20,-57,Level A
+668,Main list,Ukraine,Kyrylo Kuznetsov,,2,1,60,95,37,-58,Level A
+669,Main list,,Mir Mahmid Sarker,,2,0,24,87,29,-58,Level A
+670,Main list,United Arab Emirates,Essa Mariam,1561,3,1,44,102,43,-59,Level A
+671,Main list,,Enzo Isnard,,2,0,31,101,42,-59,Level B
+672,Main list,Chile,Mario Felipe Constanzo Vivanco,2008,3,1,57,96,37,-59,Level A
+673,Main list,Mongolia,Tumurbaatar Nomindalai,2111,3,2,48,96,37,-59,Level B
+674,Main list,Indonesia,Pramana Martin Silaen Alberto,1922,2,1,37,94,35,-59,Level A
+675,Main list,,Shimar Arsath,,3,0,40,91,32,-59,Level A
+676,Main list,Bangladesh,Bashar Zihad Md. Habibul,1447,3,1,118,90,31,-59,Level A
+677,Main list,,Ishan Chhangani,,2,2,37,98,38,-60,Level A
+678,Main list,Egypt,Mariam Hatem Elbassiouny,,3,0,46,95,35,-60,Level A
+679,Main list,Fiji,Pavitra Chand,,3,1,64,95,34,-61,Level A
+680,Main list,,Sinuhe Isay Cortes Contreras,,3,1,37,88,27,-61,Level A
+681,Main list,Portugal,Tiago Saraiva Fernandes,1957,1,1,14,82,21,-61,Level A
+682,Main list,,Jose Gabriel Sampaio Sales Filho,,3,1,41,106,44,-62,Level B
+683,Main list,France,Ednan Petetin,,2,0.5,59,99,37,-62,Level A
+684,Main list,,Izzet Efe Kemaloglu,,2,0,58,95,33,-62,Level B
+685,Main list,,Mihnea Gabriel Popa,,3,1,90,104,41,-63,Level A
+686,Main list,Kazakhstan,Alisa Kozybayeva,1704,3,2,17,98,35,-63,Level A
+687,Main list,,Pierre-Louis Bailly,,3,0.5,123,105,41,-64,Level A
+688,Main list,India,Chatterjee Aritra,,3,1,46,103,39,-64,Level A
+689,Main list,,Ximena Moreno Luján,,3,0,92,102,38,-64,Level A
+690,Main list,Kenya,Gabriel Njuki,1661,2,0,30,101,37,-64,Level B
+691,Main list,,Cephas King'ori Wangari,,2,0,82,101,37,-64,Level A
+692,Main list,,Vishal Kumar NK,,3,1,53,100,36,-64,Level A
+693,Main list,,Tom Matsuo,,3,1,70,94,30,-64,Level A
+694,Main list,,Pratama Gilang Setyawan Yoga,,3,1,34,93,29,-64,Level A
+695,Main list,Kenya,Christian Nderi Muchugu,1423,2,1,49,88,24,-64,Level A
+696,Main list,,Rohan Bobby,,3,1,45,86,22,-64,Level A
+697,Main list,,Alan Juarez Rojas,,2,1,42,105,40,-65,Level A
+698,Main list,,William Douglas,,2,1,27,95,30,-65,Level A
+699,Main list,,Roberto Xicay,,2,0,23,82,17,-65,Level A
+700,Main list,France,Quentin Grataloup,1933,3,2,19,129,63,-66,Level A
+701,Main list,Malawi,Trapence Brian,,3,1,53,100,34,-66,Level A
+702,Main list,Portugal,Ricardo Marques,1650,2,0,13,97,31,-66,Level A
+703,Main list,Philippines,Alexis Anne Osena,1704,3,1,22,93,27,-66,Level A
+704,Main list,Jamaica,Javaughn Haynes,,2,0,46,90,24,-66,Level A
+705,Main list,,Irawan Rokhmad Aji,,2,0,18,111,44,-67,Level B
+706,Main list,,Mathieu Leboeuf,,2,0,30,107,40,-67,Level A
+707,Main list,,Arthur Strygun,,3,0,29,105,38,-67,Level A
+708,Main list,India,Dutta Arkodipto,,3,1,30,97,30,-67,Level A
+709,Main list,,Novianto Dimas Permana Bayu,,3,2,69,96,29,-67,Level A
+710,Main list,India,Acharya Shivaram,1145,2,1,28,92,25,-67,Level A
+711,Main list,Mexico,Atzin F Constantino Gomez,1329,2,1,10,87,20,-67,Level A
+712,Main list,South Africa,Tumelo Ranoto,,2,1,60,100,32,-68,Level A
+713,Main list,India,Prabhakar Nikhilesh,1298,3,1,41,100,32,-68,Level A
+714,Main list,,Ousha Al-Shamsi,1452,2,1,15,136,67,-69,Level A
+715,Main list,,Alessandro Pepegna,,3,0,35,120,51,-69,Level B
+716,Main list,,Fabio Bastos,,3,1,39,107,38,-69,Level A
+717,Main list,Netherlands,Jord Ypma,2116,3,2,62,106,37,-69,Level B
+718,Main list,,B D S Mendis,,3,2,69,102,33,-69,Level A
+719,Main list,France,Cecile BOURGOIN,1688,2,0,38,101,32,-69,Level A
+720,Main list,Ukraine,Zoryana Fedysiv,1149,2,0,13,116,46,-70,Level A
+721,Main list,Singapore,Jun Jie Ng,1171,3,1,23,109,39,-70,Level A
+722,Main list,India,Basu Rajarshi,1342,3,1,65,104,34,-70,Level A
+723,Main list,Russia,Maksim Lekomtsev,1847,3,1,61,104,34,-70,Level A
+724,Main list,,Gauthier Lemaitre,,1,0,22,102,32,-70,Level D
+725,Main list,,Lebohang Rampa,,2,0,11,117,46,-71,Level A
+726,Main list,Saudi Arabia,Osamah Abdullah A. Alenaizan,,3,1,37,114,43,-71,Level B
+727,Main list,Poland,Agata Wicikowska,1545,2,1,40,111,40,-71,Level A
+728,Main list,,Gastelum Casanova Angel Ricardo,,3,0.5,65,109,38,-71,Level A
+729,Main list,,Hansen Nagaria,,3,0,41,95,24,-71,Level A
+730,Main list,Mexico,Susana Albarez Mendoza,1530,2,1,66,111,39,-72,Level A
+731,Main list,India,Pradyumn Sakshi,1504,3,1,71,109,37,-72,Level A
+732,Main list,Kenya,Lenox Mangi,1661,1,0,23,107,35,-72,Level A
+733,Main list,India,Prakash G Guru,,2,1,45,103,31,-72,Level A
+734,Main list,,Anuj Somani,,2,0,55,99,27,-72,Level A
+735,Main list,,Lorenzo Marra,,3,1,36,123,50,-73,Level B
+736,Main list,Indonesia,Fajar Al Walidayn Mohammad,,3,1,44,114,41,-73,Level A
+737,Main list,,M. Qudwah Jundana,,1,0,13,105,31,-74,Level B
+738,Main list,,Oscar Fernando Lopez Godinez,,3,2,34,119,44,-75,Level B
+739,Main list,Mexico,Abraham De Jesus Pablo Sotelo,,3,0,80,114,39,-75,Level A
+740,Main list,India,Choudhary Naitik,1355,3,0,25,111,36,-75,Level A
+741,Main list,Uganda,Safinah Mugide,1518,2,0,32,106,31,-75,Level A
+742,Main list,,Diego LeBlond,,3,0,30,105,30,-75,Level A
+743,Main list,Scotland,Stuthi Hegde,1534,2,1,25,112,36,-76,Level A
+744,Main list,Malaysia,Tey He Yang Ryan,,3,1.5,109,108,32,-76,Level A
+745,Main list,,McDonald Mapulesi,,3,1,47,108,32,-76,Level A
+746,Main list,Guatemala,Pablo Andres Solares Godoy,,3,1,61,106,30,-76,Level A
+747,Main list,Romania,Adrian-Simion Secheres,2375,3,2,55,105,29,-76,Level A
+748,Main list,,Stanislav Lazar,,2,0,42,100,24,-76,Level B
+749,Main list,,Hassan Ebrahim,,2,0,30,96,20,-76,Level B
+750,Main list,,Joao Nogueira,,3,0,79,124,47,-77,Level B
+751,Main list,Switzerland,Ludovic Zaza,2032,3,2,42,113,36,-77,Level A
+752,Main list,France,Alexis Gelis,,2,1,23,112,35,-77,Level B
+753,Main list,,Vinayak Sharda,,3,1,97,109,32,-77,Level A
+754,Main list,Guatemala,Raul Anibal Pineda Duarte,1259,2,1,27,107,30,-77,Level A
+755,Main list,Mexico,Karla Mon Sanchez Mendoza,1320,2,0,16,102,25,-77,Level A
+756,Main list,,Ivan Stefanyk,,2,0,51,101,24,-77,Level A
+757,Main list,India,Besh Vignesh Reddy Matta,1687,2,1,55,122,44,-78,Level A
+758,Main list,France,Baptiste Alloui-Cros,2139,2,1,38,117,39,-78,Level A
+759,Main list,Mexico,Eduardo Gutierrez Bernardini,1584,3,2,28,117,39,-78,Level A
+760,Main list,Kazakhstan,Zhansaya Shakuali,,3,2,18,111,33,-78,Level A
+761,Main list,England,William Kender,1393,3,0,61,111,33,-78,Level A
+762,Main list,,David Poghosyan,,3,1,59,110,32,-78,Level A
+763,Main list,Fiji,Tony Chan,,2,0,34,110,32,-78,Level A
+764,Main list,,Nancy Lizbeth Rodriguez Palacios,,2,1,47,104,26,-78,Level A
+765,Main list,Jamaica,Kahli Campbell,,2,1,1,78,0,-78,Level A
+766,Main list,,Claudio Di Maio,,3,0,72,112,33,-79,Level A
+767,Main list,,Maria Regina Blasio Lozano,,2,0,28,100,21,-79,Level A
+768,Main list,Mexico,Hector Javib Byrd Zuniga,,1,0,16,124,44,-80,Level B
+769,Main list,,Bruno Araujo de Jesus,,2,1,52,118,38,-80,Level A
+770,Main list,,Simon Frederic Bilai Biloa,,3,2,29,114,34,-80,Level B
+771,Main list,,Frank Kimz,,3,0,91,111,31,-80,Level A
+772,Main list,Guatemala,Julio Palencia,1752,2,0,59,109,29,-80,Level A
+773,Main list,,Samir Andrei Lucio Dias,,3,1,68,122,41,-81,Level A
+774,Main list,,Tiago Pereira,,3,2,21,130,48,-82,Level B
+775,Main list,France,Axel Vanneste,1395,2,0,17,117,35,-82,Level A
+776,Main list,Namibia,Elton Kambindangolo,,2,0,45,106,24,-82,Level A
+777,Main list,Netherlands,Feline Waardenburg,1836,3,1.5,60,128,45,-83,Level B
+778,Main list,Mexico,Elisa Mariana Rivera Hernandez,,3,1,60,118,35,-83,Level A
+779,Main list,Mongolia,Bold Tsogt-Ochir,,3,2,58,117,34,-83,Level A
+780,Main list,India,Sharma Saurabh,1381,3,1,53,117,34,-83,Level A
+781,Main list,Greece,Ioannis Athanasios Sarakatsanis,1632,3,2,38,117,34,-83,Level A
+782,Main list,India,Anvay Parwekar,1052,3,1,54,114,31,-83,Level A
+783,Main list,,Paulina Szalewicz,,2,1,27,105,22,-83,Level A
+784,Main list,Cuba,Lien Medina Murgado,1707,3,1,55,101,18,-83,Level A
+785,Main list,,Mack Mohan Verma,,2,0,25,120,36,-84,Level A
+786,Main list,India,Ghosh Samriddhaa,1910,2,1,21,117,33,-84,Level A
+787,Main list,Sri Lanka,Hiruna Wickramasinghe,1476,3,2,52,117,33,-84,Level A
+788,Main list,,Xin Zhen Khoo,,3,0.5,93,116,32,-84,Level A
+789,Main list,Poland,Jan Kabzinski,1558,3,2,25,116,32,-84,Level A
+790,Main list,United Arab Emirates,Kaltham Mubarak Al Shamsi,1349,3,1,52,113,29,-84,Level A
+791,Main list,India,V S Kakodkar Ishan,1179,2,1,41,122,37,-85,Level A
+792,Main list,,Jason Zhi-Ying Chan,,3,1,57,120,35,-85,Level A
+793,Main list,Ukraine,Vitalii Dzurak,1894,2,1,29,119,34,-85,Level A
+794,Main list,,Nikhat Ali,768,1,0,12,118,33,-85,Level B
+795,Main list,United States of America,Aadarsh Srivatsav,1665,2,1,23,115,30,-85,Level A
+796,Main list,India,Jafer Shaik,,2,0,21,114,29,-85,Level A
+797,Main list,India,Shenoy K Panchami,1371,2,2,27,134,48,-86,Level B
+798,Main list,,Ishaan Baranwal,,3,1,39,117,31,-86,Level A
+799,Main list,,Julien Noel,,3,1,78,116,30,-86,Level A
+800,Main list,,Aidan Gardner,,3,0,45,115,29,-86,Level A
+801,Main list,,Mohanakanna Raguraman,,1,0,6,103,17,-86,Level A
+802,Main list,,Rajvi Savla,,3,2,79,124,37,-87,Level A
+803,Main list,France,Camille MORVRANGE,1461,2,0,40,120,33,-87,Level D
+804,Main list,,Nkosingiphile Gift Ntombela,,3,0,43,117,30,-87,Level A
+805,Main list,,Abel David Palafox,,3,1,39,115,28,-87,Level A
+806,Main list,France,Axel Brunel,1827,2,1,13,110,23,-87,Level A
+807,Main list,Netherlands,Stefan Vleming,1836,2,0,48,121,33,-88,Level A
+808,Main list,,Felipe Rafael Focil Mendoza,,2,1,27,121,33,-88,Level B
+809,Main list,Sri Lanka,Suriyabandara Darshana,,3,1,64,119,31,-88,Level A
+810,Main list,Greece,Aggeliki Grammatikaki,1682,2,1,21,117,29,-88,Level A
+811,Main list,,Raphael Anjou,,3,0,44,111,23,-88,Level A
+812,Main list,,Surya Prakash Sahu,,2,1,41,123,34,-89,Level A
+813,Main list,,Davide Rabotti,,3,1,64,121,31,-90,Level A
+814,Main list,,Julio Cesar Gonzalez Balderas,,2,0,23,120,30,-90,Level A
+815,Main list,Spain,Victor Alonso Prieto,1551,3,2,30,120,30,-90,Level A
+816,Main list,,Samuel Mendez,,2,0,26,117,27,-90,Level A
+817,Main list,,Aldo Gabriel Negrette Merino,,3,1,59,112,22,-90,Level A
+818,Main list,India,Saini Vishu,,1,0,22,104,14,-90,Level A
+819,Main list,Fiji,Navisheel Prasad,,2,1,57,131,40,-91,Level A
+820,Main list,,Sina Babaeizadeh,,3,0.5,66,130,39,-91,Level A
+821,Main list,,Aurelie Coursimault,,2,1,60,128,37,-91,Level A
+822,Main list,,Hanifah Nur Zakiyanti,,3,1,57,124,33,-91,Level A
+823,Main list,,Gabriel Cevallos,,2,0,29,122,31,-91,Level B
+824,Main list,Peru,Brayan Ernesto Chumpitaz Angeles,,1,0,12,108,17,-91,Level B
+825,Main list,Chile,Enrique Simpson Bonta,,3,0,30,119,27,-92,Level A
+826,Main list,,Erlangga Vieg Sabilla,,2,0,82,118,26,-92,Level A
+827,Main list,France,Adelin Fort,1774,3,2,16,137,44,-93,Level A
+828,Main list,,Nishankumar Jha,,3,0,53,133,40,-93,Level A
+829,Main list,,Anmol Gera,,2,1,10,113,20,-93,Level A
+830,Main list,India,K V Subhash,1779,2,1,29,132,38,-94,Level B
+831,Main list,,Gourav Tiwari,,2,1,15,127,33,-94,Level A
+832,Main list,,Nihar Kudupudi,,3,0,44,124,30,-94,Level A
+833,Main list,,Ayata Nakashima,,3,1,81,124,30,-94,Level A
+834,Main list,,Jose Campos,,3,1,59,121,27,-94,Level A
+835,Main list,Indonesia,Atika Restiani,,3,1,61,120,26,-94,Level A
+836,Main list,,Juan Chaguaceda Lasa,,2,1,16,133,38,-95,Level A
+837,Main list,India,Shukla Samarth,,3,1.5,51,132,37,-95,Level A
+838,Main list,,Sacha Amsallem,,3,1,44,129,34,-95,Level A
+839,Main list,Peru,Alexandra Fiore Estrada Cantaro,1723,2,1,36,129,33,-96,Level A
+840,Main list,,Josue Moreno Lujan,,2,1,66,129,33,-96,Level A
+841,Main list,France,Nizar Aghamir Alrobiai,2117,2,1,18,129,33,-96,Level A
+842,Main list,,Camila Oliveira Soares,,3,1,85,128,32,-96,Level A
+843,Main list,,Ethan Joubioux,,3,0,36,127,31,-96,Level A
+844,Main list,Lesotho,Maboloko Leboela,1296,3,0,68,125,29,-96,Level A
+845,Main list,Antigua and Barbuda,Bailey Matthew,1049,3,2,26,115,19,-96,Level A
+846,Main list,,Aykhan Ahmadli,,3,1,76,134,37,-97,Level A
+847,Main list,,Thobani Ricky Mathe,,2,0,26,128,31,-97,Level A
+848,Main list,France,Jules Morata,1568,2,1,73,127,30,-97,Level A
+849,Main list,,Fedinand Oyoko,,1,1,7,141,43,-98,Level A
+850,Main list,,Arturo Jonathan Diaz Hernandez,,3,2,72,138,40,-98,Level A
+851,Main list,Portugal,Ana Margarida Goncalves,,3,0,34,127,29,-98,Level A
+852,Main list,,Alessandro Marin Vargas,,3,0,92,126,28,-98,Level A
+853,Main list,Philippines,Sara Francine Olendo,1692,3,1,16,123,25,-98,Level A
+854,Main list,,Xiao Liu,,2,0,13,113,15,-98,Level A
+855,Main list,India,I Avikshith,1230,2,0,32,140,41,-99,Level A
+856,Main list,,Christian Daniel Requejo Flores,,2,1,32,133,34,-99,Level A
+857,Main list,,Amit Kumar Saha,,3,0,60,132,33,-99,Level A
+858,Main list,Bulgaria,Emil Stefanov,2350,1,0,30,129,30,-99,Level B
+859,Main list,Russia,Uliyana Starikova,1395,3,2,37,115,16,-99,Level A
+860,Main list,Singapore,Adithya Prasad,,2,1,34,135,35,-100,Level A
+861,Main list,,Jorge Vazquez Colin,,3,1,41,129,29,-100,Level A
+862,Main list,India,Shabdhik Varma,1899,3,2,85,140,39,-101,Level A
+863,Main list,,Luisa Fernanda Ortiz Galina,,2,1,14,137,36,-101,Level A
+864,Main list,,Suprakash Das,,2,1,21,125,24,-101,Level A
+865,Main list,Saudi Arabia,Mustafa Abdullah M Alkhabaz,,2,2,44,138,36,-102,Level A
+866,Main list,Ukraine,Vira Sydoryak,1791,2,1,47,134,32,-102,Level A
+867,Main list,Mexico,Blanca Perez Montealegre,,3,1,33,137,33,-104,Level A
+868,Main list,India,Sahay Aayush,,2,1,11,113,9,-104,Level A
+869,Main list,,Maulana Afrizal Alfan,,3,1,46,138,33,-105,Level A
+870,Main list,,Munkhpurev Ganbold,,3,1,53,137,32,-105,Level A
+871,Main list,,Alex Tanner-Wall,,2,1,58,139,33,-106,Level A
+872,Main list,Australia,Emily Zhang,,3,1,50,138,32,-106,Level A
+873,Main list,,Jaime De Veyra,,3,1,34,151,44,-107,Level B
+874,Main list,United States of America,Antone Amalbert,,3,1,44,147,39,-108,Level A
+875,Main list,Malta,Timothy Portelli,1529,3,1,72,142,33,-109,Level B
+876,Main list,,Dhashin Krishna M,,3,0,57,141,32,-109,Level A
+877,Main list,France,Florine Reau,1738,2,1,20,139,30,-109,Level A
+878,Main list,,Mohit Kumar,,3,1,43,138,28,-110,Level A
+879,Main list,,Andrea-Alexandra Varga,,3,1,52,140,29,-111,Level A
+880,Main list,,Ryotaro Aoyama,,2,0,45,130,18,-112,Level A
+881,Main list,India,Pattanayak Nabanita,1465,2,1,6,146,33,-113,Level A
+882,Main list,,Juan Dolorier Aburto Zapata,,2,0,23,143,30,-113,Level A
+883,Main list,,Sanjay Pramod,,2,1,15,133,20,-113,Level A
+884,Main list,India,Das Aneek,1838,3,2,22,150,36,-114,Level A
+885,Main list,,Ewelina Zwierzynska-Drewniak,,2,1,30,145,30,-115,Level A
+886,Main list,,Mahmoud Zaraa,,3,1,66,146,30,-116,Level A
+887,Main list,,Carlos Garcia,,2,0,31,146,29,-117,Level A
+888,Main list,,Kowsar Mahmud,,3,1,41,139,22,-117,Level A
+889,Main list,,Rochak Bhardwaj,,2,0,36,139,22,-117,Level A
+890,Main list,,Ariadna Milan Garcia,,1,0,17,148,29,-119,Level B
+891,Main list,,Gordon Chieng,,3,0,42,151,31,-120,Level A
+892,Main list,,Oleh Kobasiar,,2,1,6,171,50,-121,Level A
+893,Main list,,Victor Papillon,,2,0,35,147,26,-121,Level A
+894,Main list,,Andy Shih,,3,2,68,156,34,-122,Level A
+895,Main list,,Vanessa naliaka Simiyu,,2,0,11,140,18,-122,Level A
+896,Main list,Belgium,Aurian De Briey,1690,3,2,48,139,17,-122,Level A
+897,Main list,,Barath Natarajan,,3,0,77,149,26,-123,Level A
+898,Main list,,Jaime Pacheco,,3,1,57,141,18,-123,Level A
+899,Main list,Belgium,Josephine Collin,1171,1,1,18,168,44,-124,Level A
+900,Main list,,Vladyslav Baklazhkov,,2,0,3,157,33,-124,Level A
+901,Main list,Russia,Nikita Druzhinin,1742,2,1,44,156,32,-124,Level B
+902,Main list,Romania,Clarisa-Iustina Bejan,1507,2,1,17,149,24,-125,Level A
+903,Main list,,Ethan Shanks,,3,1,47,149,23,-126,Level A
+904,Main list,,Junior Adelfo Calderon Nolazco,,2,1,11,163,36,-127,Level A
+905,Main list,,Dillan Carvennec,,2,1,12,152,25,-127,Level A
+906,Main list,Fiji,Aniketh Akhil Chand,,3,1,30,145,17,-128,Level A
+907,Main list,,Akash Dighade,,2,0,20,159,30,-129,Level A
+908,Main list,,Srikar Akella,,3,1,23,151,22,-129,Level A
+909,Main list,India,Soni Shikhar,,3,1,19,145,16,-129,Level A
+910,Main list,,David Riley,,2,1,13,153,23,-130,Level A
+911,Main list,,Krishan Kumar Rao,,2,0,39,164,33,-131,Level B
+912,Main list,,Martin Boyle,,2,1,15,158,27,-131,Level B
+913,Main list,,Linah Soliman,,3,1,13,154,23,-131,Level A
+914,Main list,Peru,Fabrizio Saldivar Sifuentes,1150,2,1,34,170,38,-132,Level A
+915,Main list,United States of America,Cole Blakeman,,2,1,50,168,36,-132,Level A
+916,Main list,,Manuel Andreas Tobiaz,,3,1,48,157,25,-132,Level A
+917,Main list,Fiji,Avineet Singh,,3,1,37,156,24,-132,Level A
+918,Main list,,Zied Amama,,2,1,49,167,33,-134,Level A
+919,Main list,,Swetaa Snigdhha,,2,1,12,169,33,-136,Level A
+920,Main list,,Thi Thanh Tu Duong,,2,1,11,154,18,-136,Level A
+921,Main list,Malta,Andrew Cachia,,3,1,20,172,35,-137,Level A
+922,Main list,,Arnab Debnath,,3,1,44,173,30,-143,Level A
+923,Main list,Belgium,Maximilien Dallemagne,2100,3,2,55,179,35,-144,Level A
+924,Main list,,Vrishank Jannu,,3,0,60,166,22,-144,Level A
+925,Main list,,Ricardo Andrade,,3,1,36,163,17,-146,Level A
+926,Main list,,Giovanni Giuriani,,1,0,7,177,29,-148,Level B
+927,Main list,,Filipe Reis,,2,0,29,170,21,-149,Level A
+928,Main list,,Aldo Ortiz Rodriguez,,3,1,28,175,25,-150,Level A
+929,Main list,,Jacob Jovanovich,,2,0,18,179,28,-151,Level B
+930,Main list,,Muhammed Wadee,,3,1,33,188,36,-152,Level A
+931,Main list,Egypt,Amir Mokhtar,1665,1,0,15,173,20,-153,Level C
+932,Main list,,Olivier Lanvert,,3,0,26,182,27,-155,Level A
+933,Main list,Jordan,Altahrawi Raneen,,2,0,3,189,33,-156,Level A
+934,Main list,,Romain Michelucci,,2,1,7,200,43,-157,Level A
+935,Main list,Jamaica,Samuel Smith,,3,1,25,185,28,-157,Level A
+936,Main list,,Livia Moreira Fristachi Harada,,3,0,28,187,29,-158,Level A
+937,Main list,,Clayton Schopfer,,2,0,14,183,21,-162,Level A
+938,Main list,,Ahmed Ayman,,2,0,30,185,20,-165,Level A
+939,Main list,,Leqaa Fouad,,2,0,19,188,21,-167,Level A
+940,Main list,,Alexandre Brailovski,,2,1,12,187,17,-170,Level A
+941,Main list,,Berk Cansever,,1,0,11,189,18,-171,Level B
+942,Main list,India,Siri Sharma,1320,3,1,18,188,17,-171,Level A
+943,Main list,,Mzwandile Soro,,3,1,7,203,29,-174,Level A
+944,Main list,,Karissa Ravinza,,2,1,12,190,8,-182,Level A
+945,Main list,,Sushant Saini,,3,0,25,219,36,-183,Level A
+946,Main list,,Olivier Ple,,3,0,56,224,36,-188,Level A
+947,Main list,Croatia,Mirta Medak,1423,2,1,13,214,23,-191,Level A
+948,Main list,,Ezekiel Kakraba,,3,1,17,220,24,-196,Level A
+949,Main list,India,Nizam Mehdi Syed,,3,0.5,75,235,31,-204,Level A
+950,Main list,,Nishant Das,,2,1,7,208,0,-208,Level A
+951,Main list,,Lana Goncalves Westin,,3,0,11,230,18,-212,Level A
+952,Main list,,Shazia Ahmad,,3,0,12,239,25,-214,Level A
+953,Main list,,Patricia Nicorescu,,3,1,35,244,29,-215,Level A
+954,Main list,,Vanshika Rajput,,2,1,10,241,20,-221,Level A
+955,Main list,,Sharwary M R,,1,0,7,239,14,-225,Level A
+956,Main list,India,Shibashish Mahapatra,1652,3,1,25,255,24,-231,Level A
+957,Main list,Jordan,Abdelrahim Abdelrahim,1383,2,1,10,264,10,-254,Level A
+958,Main list,,Harsh Pundir,,2,1,1,259,0,-259,Level A
+959,Main list,,Pedro Henrique Alconara Brito,,3,0,25,279,8,-271,Level A
+960,Main list,,Laura Andrea Barrientos Pineda,,3,1,7,304,29,-275,Level A
+961,Main list,,Nathaly Milagros Arias Perez,,2,0,4,390,25,-365,Level A
+962,Main list,,Meet Buddhadev,,1,0,4,399,0,-399,Level B
+963,Main list,,Andre Carlos Barrera Gama,,1,0,6,423,17,-406,Level B
+964,Main list,,Harshit Rajput,,3,0,11,484,18,-466,Level A
+965,Main list,,Lanitaman Grace Rode,,3,1,3,488,0,-488,Level A
+966,Main list,,Salma Sanchez,,3,0,3,685,0,-685,Level A
+967,Main list,Armenia,Arman Ghevondyan,1895,2,1,3,0,100,-1000,Level B
+968,Main list,,Estrella Azucena Fuentes Flores,,2,0,0,0,0,,Level B
+969,Main list,,Issam Aalilou,,2,1,0,0,0,,Level A
+970,Main list,Georgia,Nato Imnadze,2251,1,1,0,0,0,,Level A
+971,Main list,Peru,Marco Delgado Romero,2282,3,0,0,0,0,,Level A
+972,Main list,Mexico,Luis Eduardo Carrasco Lizarraga,,1,1,0,0,0,,Level D
+973,Main list,India,Anmol Gera,1707,2,1,0,0,0,,Level A
+974,Main list,,Pephins Moyo,,2,1,0,0,0,,Level B
+975,Main list,,Noa Tymczuk,,3,1,0,0,0,,Level A
+976,Main list,India,Guha Mitrabha,2445,1,1,0,0,0,,Level B
+977,Main list,Russia,Ivan Gagarin,1725,2,1,0,0,0,,Level A
+978,Main list,Uganda,Arthur Bitarinsa,1617,3,1,0,0,0,,Level A
+979,Main list,,Orama Mwinjiro,,2,1,0,0,0,,Level A
+980,Main list,El Salvador,Guillermo Moreno,1406,1,1,0,0,0,,Level A
+981,Main list,India,Majumdar Aniket,1584,3,1,0,0,0,,Level A
+982,Main list,Mexico,Helen Ai Espinoza Briones,1266,2,1,0,0,0,,Level A
+983,Main list,Ukraine,Tigran Grigoryan,1806,3,1,0,0,0,,Level A
+984,Main list,,Sergio Alejandro Soto Mejia,,3,1,0,0,0,,Level A
+985,Main list,Ecuador,Daniel Mejia Teran,1271,2,1,0,0,0,,Level A
+986,Main list,Italy,Luca Tazzioli,2102,1,1,0,0,0,,Level A
+987,Main list,,Joan Munes Alpirez,,2,1,0,0,0,,Level A
+988,Main list,India,Pillai Harshana,1073,3,2,0,0,0,,Level A
+989,Main list,Peru,Jose Luis Campos Torres,,2,0,0,0,0,,Level A
+990,Main list,,Nokwanda Buthelezi,,2,2,0,0,0,,Level A
+991,Main list,Egypt,Hassan Bahaa,,1,1,0,0,0,,Level A
+992,Main list,,Erick Hun,,2,0,0,0,0,,Level A
+993,Main list,,Tonathiu De La Torre Castro,,2,1,0,0,0,,Level A
+994,Main list,,Clinton Shikuku,,2,1,0,0,0,,Level A
+995,Main list,Namibia,Teolifus Uutoni,,2,1,0,0,0,,Level A
+996,Main list,Indonesia,Gracelia Paramesthi Samekto,1826,2,1,0,0,0,,Level A
+997,Main list,,Zihang Zou,,2,1,0,0,0,,Level A
+998,Main list,,Mpendulo Sanele Cele,,2,1,0,0,0,,Level A
+999,Main list,France,Thomas Lepoittevin,1811,2,1,0,0,0,,Level A
+1000,Main list,,Oscar Leonel Godoy Godoy,,2,1,0,0,0,,Level A
+1001,Main list,Peru,Rolando German Perez Olaguivel,1714,2,1,0,0,0,,Level A
+1002,Main list,France,Emma Grandval,,2,1,0,0,0,,Level A
+1003,Main list,,Vinayak Sahu,,2,1,0,0,0,,Level A
+1004,Main list,Indonesia,Anthony Jayanata Luis,1643,3,2,0,0,0,,Level A
+1005,Main list,India,Vineet Bhat,1585,2,0,0,0,0,,Level A
+1006,Main list,,Thomas Abbott,,2,0,0,0,0,,Level A
+1007,Main list,,Lynn El Yaman,,1,0,0,0,0,,Level A
+1008,Main list,India,Rao Sharan,1992,2,0,0,0,0,,Level A
+1009,Main list,India,Mitra Baidurjya,1490,1,0,0,0,0,,Level B
+1010,Main list,Malawi,Blessings Dalitso Kamanga,1512,1,0,0,0,0,,Level B
+1011,Main list,FIDE,Vladimir Fedoseev,2687,1,0,0,0,0,,Level B
+1012,Main list,,Gayane Momchyan,,1,0,0,0,0,,Level A
+1013,Main list,,OSCAR ACEVEDO,,1,0,0,0,0,,Level A
+1014,Main list,,Omid Abaei,,1,0,0,0,0,,Level A
+1015,Main list,China,Yuxin Du,2014,1,0,0,0,0,,Level A
+1016,Main list,,Rostislav Borovets,,2,0,0,0,0,,Level A
+1017,Main list,,Robert Santos,,1,0,0,0,0,,Level A
+1018,Main list,,Allan Dilla,,1,0,0,0,0,,Level A
+1019,Main list,,Adrian Corvera Zamora,,1,0,0,0,0,,Level A
+1020,Main list,Ukraine,Maksym Masliyevych,1458,1,0,0,0,0,,Level A
+1021,Main list,,Jose Ignacio Gutierrez,,1,0,0,0,0,,Level A
+1022,Main list,Indonesia,THORIQ AQIL,,2,0,0,0,0,,Level A
+1023,Main list,,Michael Verlinsky,,2,0,0,0,0,,Level A
+1024,Main list,,Alex Moriani,,1,0,0,0,0,,Level B
+1025,Main list,,Kati Amos Kati,,2,0,0,0,0,,Level A
+1026,Main list,,Tushar Raut,,1,0,0,0,0,,Level A
+1027,Main list,,Franco Galvez,,2,0,0,0,0,,Level A
+1028,Main list,,Akbarkhuja Akramkhujaev,,1,0,0,0,0,,Level A
+1029,Main list,,Jhonatan Junior Gutierrez Rojas,,2,0,0,0,0,,Level A
+1030,Main list,,Aziz Ajmi,,1,0,0,0,0,,Level A
+1031,Main list,Philippines,Darry Bernardo,2114,1,0,0,0,0,,Level A
+1032,Main list,Kenya,Karugu Kiugo,1416,1,0,0,0,0,,Level A
+1033,Main list,India,Khanna Shailesh,1340,1,0,0,0,0,,Level A
+1034,Main list,,Michael Ho,,1,0,0,0,0,,Level B
+1035,Main list,,Tenghui Li,,2,0,0,0,0,,Level A
+1036,Main list,Cuba,Laritza Alfonso Ruisanchez,2108,1,0,0,0,0,,Level A
+1037,Main list,Ukraine,Ivan Rushynets,1753,2,0,0,0,0,,Level A
+1038,Main list,China,Yinglun Xu,2554,1,0,0,0,0,,Level B
+1039,Main list,Kenya,Cynthia Awino Obondo,1298,2,0,0,0,0,,Level A
+1040,Main list,Cuba,Cesar Alejandro Perez Rodriguez,2303,2,0,0,0,0,,Level A
+1041,Main list,Belarus,Dmitrij Kirilin,2093,2,0,0,0,0,,Level A
+1042,Main list,,Thomas Mehers,,2,0,0,0,0,,Level A
+1043,Main list,,Abhinav Singhal,,2,0,0,0,0,,Level A
+1044,Main list,,Franck Laperche,,1,0,0,0,0,,Level B
+1045,Main list,Portugal,Mariana Sofia T. Silva,1871,1,0,0,0,0,,Level A
+1046,Main list,United States of America,Ricardo Peredo,,2,0,0,0,0,,Level A
+1047,Main list,India,Singh Gill Aryandeep,1453,2,0,0,0,0,,Level A
+1048,Main list,Australia,Max Mikkelsen,1864,2,0,0,0,0,,Level A
+1049,Main list,,Emerson Pena Vasquez,,2,0,0,0,0,,Level A
+1050,Main list,Ukraine,Taras Panchyshyn,2120,2,0,0,0,0,,Level A
+1051,Main list,France,Emma Brin-Vervat,1520,2,0,0,0,0,,Level A
+1052,Main list,Ukraine,Yuri Krasnogor,,1,0,0,0,0,,Level A
+1053,Main list,Poland,Marcin Smolka,2189,1,0,0,0,0,,Level A
+1054,Main list,Russia,Darya Kandrashina,1583,2,0,0,0,0,,Level A
+1055,Main list,Egypt,EGY Salma Elhussien 🇪🇬,,2,0,0,0,0,,Level A
+1056,Main list,Jamaica,Ineisha McNain,,1,0,0,0,0,,Level A
+1057,Main list,Jamaica,Lamar Williams,,1,0,0,0,0,,Level A
+1058,Main list,Portugal,Ricardo Alexandre Luis Santos,2121,1,0,0,0,0,,Level A
+1059,Main list,Ukraine,Vasyl Medvedyk,1930,1,0,0,0,0,,Level A
+1060,Main list,,Declan Coleman,,2,0,0,0,0,,Level A
+1061,Main list,,Hugo Orellana Rastello,,1,0,0,0,0,,Level B
+1062,Main list,India,Dahiya Yash,1286,1,0,0,0,0,,Level A

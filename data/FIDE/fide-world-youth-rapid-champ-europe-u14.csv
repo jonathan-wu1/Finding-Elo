@@ -1,0 +1,126 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open,Belarus,Artsiom I Strybuk,2215,7,4.5,226,36,58,22,Level A
+2,Open,Sweden,Adrian Soderstrom,2258,7,5.5,244,41,54,13,Level A
+3,Open,Poland,Jakub Chyzy,2250,7,4.5,242,39,52,13,Level A
+4,Open,Azerbaijan,Read Samadov,2332,7,5,316,38,50,12,Level A
+5,Open,Albania,Aleksander Xhembulla,1739,7,2.5,192,44,54,10,Level A
+6,Open,Ukraine,Andrii Palchuk,2149,7,4,265,42,51,9,Level A
+7,Open,Russia,Grigori Ponomarev,2281,7,5,441,39,48,9,Level A
+8,Open,Belarus,Denis Lazavik,2436,7,6,308,43,51,8,Level A
+9,Open,Poland,Jan Klimkowski,2305,7,6,186,43,51,8,Level A
+10,Open,Spain,Diego Vergara Anton,2177,7,4.5,418,41,48,7,Level A
+11,Open,France,Timothe Razafindratsima,2341,7,4.5,273,50,53,3,Level A
+12,Girls,Switzerland,Mariya Manko,1859,7,5,197,46,48,2,Level A
+13,Open,Ukraine,Semen Mitusov,2306,7,4.5,310,43,45,2,Level A
+14,Open,Israel,Yahli Sokolovsky,2489,7,4.5,307,46,47,1,Level A
+15,Open,Slovakia,Sebastian Lukas Kostolansky,2393,7,4,209,51,51,0,Level A
+16,Girls,Albania,Klean Shuqja,1905,7,5,308,50,49,-1,Level A
+17,Girls,Hungary,Kata Karacsonyi,2138,7,5.5,312,49,48,-1,Level A
+18,Girls,Russia,Nadezhda Nikolaeva,1864,7,5,249,49,47,-2,Level A
+19,Open,Russia,Erdem Khubukshanov,2293,7,6,318,46,44,-2,Level A
+20,Open,France,Augustin Droin,2289,7,5.5,294,50,47,-3,Level A
+21,Open,Estonia,Tormi Kull,1719,7,3,292,49,46,-3,Level A
+22,Open,Lithuania,Erikas Mecelica,1620,7,3,273,48,45,-3,Level A
+23,Open,Azerbaijan,Shiroghlan Talibov,2128,7,3,229,49,45,-4,Level A
+24,Girls,Russia,Galina Mikheeva,1943,7,4,232,47,42,-5,Level A
+25,Girls,Netherlands,Eline Roebers,2066,7,6,179,58,52,-6,Level A
+26,Open,Turkiye,Yanki Taspinar,2178,7,3.5,378,50,44,-6,Level A
+27,Open,Austria,Nico Marakovits,2214,7,4,264,57,50,-7,Level A
+28,Open,Greece,Dimitrios Makridis,2226,7,4.5,246,60,51,-9,Level A
+29,Girls,France,Manon Schippke,1913,7,4.5,235,60,51,-9,Level A
+30,Open,Turkiye,Tunahan Yildiz,1818,7,3.5,262,54,45,-9,Level A
+31,Girls,FIDE,Margarita Zvereva,1937,7,5,256,54,44,-10,Level A
+32,Open,Azerbaijan,Suleyman Suleymanli,2067,7,2,416,54,44,-10,Level A
+33,Girls,Slovakia,Viktoria Nadzamova,2014,7,5,185,65,54,-11,Level A
+34,Open,Russia,Ilya Makoveev,2315,7,5,194,61,49,-12,Level A
+35,Open,Italy,Claudio Paduano,2204,7,4,183,60,48,-12,Level A
+36,Girls,Russia,Veronika Shubenkova,1816,7,6,220,58,46,-12,Level A
+37,Open,,Benny Aizenberg,2279,7,4.5,268,57,45,-12,Level A
+38,Open,Israel,Guy Levin,2382,7,3.5,292,57,45,-12,Level A
+39,Open,North Macedonia,Anton Zlatkov,2032,7,3.5,265,55,43,-12,Level A
+40,Open,Georgia,Vasiko Shapovalovi,1741,7,3.5,277,61,48,-13,Level A
+41,Open,Sweden,Edvin Trost,2184,7,4,227,60,47,-13,Level A
+42,Open,Lithuania,Gleb Pidluznij,2044,7,3,316,60,47,-13,Level A
+43,Girls,Slovakia,Simona Bochnickova,1718,7,3,268,59,46,-13,Level A
+44,Open,Hungary,Aron Pasti,2227,7,3.5,231,65,51,-14,Level A
+45,Open,Russia,Daniil Maneluk,2350,7,4.5,244,63,49,-14,Level A
+46,Open,Bulgaria,Aleksandar Tashev,2251,7,4,254,60,46,-14,Level A
+47,Girls,Turkiye,Cisel Anacoglu,1924,7,4.5,230,58,44,-14,Level A
+48,Open,Cyprus,Chrysostomos Rousis,1692,7,1.5,283,58,44,-14,Level A
+49,Open,Iceland,Benedikt Briem,1864,7,2.5,279,63,48,-15,Level A
+50,Open,Norway,Shazil Shehzad,2166,7,3.5,233,68,52,-16,Level A
+51,Girls,England,Anum Sheikh,1853,7,4,290,62,46,-16,Level A
+52,Open,,Richard Stalmach,2296,7,5,209,60,44,-16,Level A
+53,Open,Hungary,Simon Fule,2250,7,5,245,67,50,-17,Level A
+54,Open,Romania,Robert-Ionut Creanga,2053,7,3,243,67,50,-17,Level A
+55,Girls,Russia,Marina Kuznetsova,1959,7,4.5,249,67,50,-17,Level A
+56,Open,Latvia,Jevgenijs Springis,1817,7,2.5,297,62,45,-17,Level A
+57,Open,Slovenia,Nejc Herega,2052,7,3.5,248,61,44,-17,Level A
+58,Girls,Belarus,Kseniya Norman,1873,7,5,314,58,41,-17,Level A
+59,Open,Netherlands,Yichen Han,2307,7,4,269,67,49,-18,Level A
+60,Girls,Latvia,Agnesa Stepania Ter-Avetisjana,1766,7,4.5,251,60,39,-21,Level A
+61,Girls,Azerbaijan,Samra Gasimova,1543,7,3.5,258,70,48,-22,Level A
+62,Girls,Lithuania,Ieva Griksaite,1444,7,3,247,67,44,-23,Level A
+63,Open,Germany,Markus Albert,1926,7,3.5,237,59,36,-23,Level A
+64,Girls,Poland,Maria Siekanska,1919,7,5,197,71,47,-24,Level A
+65,Open,Lithuania,Daniel Leclere,1800,7,3,287,71,47,-24,Level A
+66,Open,Montenegro,Peko Djurovic,2062,7,3.5,195,70,46,-24,Level A
+67,Open,Slovakia,Simon Rybka,2185,7,4,172,69,45,-24,Level A
+68,Open,Malta,Luke Fleri,1633,7,2.5,255,69,45,-24,Level A
+69,Open,Denmark,Noah Wahlgreen,1905,7,2,235,67,43,-24,Level A
+70,Open,Wales,Ethan Chung,1619,7,2.5,226,71,46,-25,Level A
+71,Girls,Monaco,Fiorina Berezovsky,1665,7,3,233,66,41,-25,Level A
+72,Girls,Turkiye,Gulenay Aydin,1975,7,3.5,307,65,40,-25,Level A
+73,Open,England,Jacob D Yoon,2116,7,3,210,64,39,-25,Level A
+74,Open,Lithuania,Steponas Zilakauskis,1773,7,2.5,299,71,44,-27,Level A
+75,Girls,Russia,Olga Dm. Karmanova,2007,7,4,202,74,46,-28,Level A
+76,Girls,Germany,Linda Becker,1763,7,2.5,299,72,44,-28,Level A
+77,Open,Scotland,Aryan Munshi,1148,7,1.5,216,72,44,-28,Level A
+78,Girls,Slovenia,Vesna Mihelic,1872,7,4,253,71,43,-28,Level A
+79,Girls,Germany,Svenja Butenandt,2014,7,3,263,71,43,-28,Level A
+80,Girls,Wales,Hiya Ray,1586,7,3,199,73,44,-29,Level A
+81,Girls,Netherlands,Dana Verheij,1821,7,3,186,77,46,-31,Level A
+82,Girls,Germany,Luisa Bashylina,1978,7,3,318,73,42,-31,Level A
+83,Open,Malta,Jack Mizzi,1901,7,2,265,73,42,-31,Level A
+84,Open,Iceland,Gunnar Erik Gudmundsson,1729,7,2.5,228,72,41,-31,Level A
+85,Girls,Greece,Panagiota Kiousi,1920,7,4,234,72,41,-31,Level A
+86,Girls,Hungary,Angelia Alexandrova,1833,7,2.5,187,72,41,-31,Level A
+87,Girls,Georgia,Lizi Koniadze,1406,7,3.5,214,71,40,-31,Level A
+88,Girls,Czech Republic,Anna Voriskova,1912,7,4,277,71,40,-31,Level A
+89,Girls,Sweden,Alva Ling Tran,1777,7,4,149,76,44,-32,Level A
+90,Open,Switzerland,Raphael Erne,1833,7,2.5,266,74,42,-32,Level A
+91,Girls,Romania,Alexia-Teodora Puia,1697,6,1.5,185,82,49,-33,Level A
+92,Girls,Poland,Martyna Starosta,2094,7,6,200,79,46,-33,Level A
+93,Girls,Ukraine,Anzhelika Lomakina,1663,7,4,236,79,45,-34,Level A
+94,Open,Russia,Pavel Trofimov,2163,7,4,250,78,44,-34,Level A
+95,Girls,Iceland,Batel Goitom Haile,1659,7,3,192,73,39,-34,Level A
+96,Open,Belgium,Wonder Dutre,1632,7,2.5,270,80,45,-35,Level A
+97,Girls,Norway,Amelia Nordquelle,1780,7,4,188,84,47,-37,Level A
+98,Girls,Austria,Kata Vicze,1854,7,4,153,79,42,-37,Level A
+99,Open,Serbia,Luka Ristic,2311,7,4,229,72,35,-37,Level A
+100,Open,Malta,Matthew Fleri,1854,7,2,160,84,46,-38,Level A
+101,Open,Russia,Kirill Bazyrtsyrenov,2150,7,4,223,81,43,-38,Level A
+102,Girls,England,Abigail Riis Weersing,1704,7,2.5,244,75,37,-38,Level A
+103,Girls,Spain,Arami Lobo Pereira,1789,7,3.5,188,82,43,-39,Level A
+104,Girls,Ireland,Lara Putar,1930,7,4,226,79,40,-39,Level A
+105,Girls,Malta,Milena Stagno,1456,7,2,256,79,39,-40,Level A
+106,Girls,Croatia,Marta Trgovac,1472,7,3,180,85,42,-43,Level A
+107,Girls,Israel,Maya Lapushnian,,7,2.5,215,85,40,-45,Level A
+108,Girls,Estonia,Jekaterina Smirnova,1466,7,3,246,82,37,-45,Level A
+109,Open,Liechtenstein,Jonas Weissenhofer,1719,7,2.5,161,91,45,-46,Level A
+110,Open,Ireland,Patryk Brozynski,1547,7,1.5,219,82,36,-46,Level A
+111,Girls,Serbia,Emilija Lazovic,1199,6,1,210,86,38,-48,Level A
+112,Girls,Bulgaria,Dilyana Ivanova,1743,7,4,186,83,35,-48,Level A
+113,Open,Cyprus,ANDREAS PAKKOUTIS,1125,7,0,210,87,35,-52,Level A
+114,Girls,Russia,Dina Kulkova,1583,7,2,266,93,38,-55,Level A
+115,Girls,Iceland,Idunn Helgadottir,1338,6,1,188,95,38,-57,Level A
+116,Girls,Montenegro,Milena Mosurovic,1428,7,3,182,99,41,-58,Level A
+117,Girls,North Macedonia,Mihaela Zrmanovska,1300,7,3,164,101,42,-59,Level A
+118,Open,Jersey,Yuvraj Singh,1304,7,1,129,99,36,-63,Level A
+119,Girls,Hungary,Petra Zsuzsanna Buri,1835,7,2,158,104,39,-65,Level A
+120,Open,Bulgaria,Esat Ramadanov,1799,7,2,140,107,41,-66,Level A
+121,Girls,Scotland,Nivedita Suyal,1417,6,0,166,94,28,-66,Level A
+122,Girls,Cyprus,Danai Miltiadou,1352,6,1,117,107,36,-71,Level A
+123,Girls,Denmark,Clara Heiberg,1514,6,1,188,115,38,-77,Level A
+124,Open,Croatia,Damian Vucenovic,1980,7,3,216,116,34,-82,Level A
+125,Girls,Switzerland,Lilo Beyeler,1478,6,0,128,122,30,-92,Level A

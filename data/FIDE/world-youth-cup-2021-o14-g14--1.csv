@@ -1,0 +1,366 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open 14,Peru,Juan David Prado Mendivil,,8,4.5,243,24,66,42,Level D
+2,Open 14,,Pablo Lavagnino,,9,5,359,22,63,41,Level D
+3,Open 14,Norway,Sergey Eliseev,2109,2,0,11,28,64,36,Level C
+4,Open 14,England,Edison Xu,1838,10,6.5,390,33,61,28,Level D
+5,Open 14,India,Arjun Sidharth S,1665,10,7.5,404,30,55,25,Level D
+6,Open 14,Kenya,Odongo Lwanga,1269,9,5.5,270,39,62,23,Level D
+7,Girls 14,Malaysia,Kai Ni Agnes Chong,1892,10,7.5,333,35,58,23,Level D
+8,Open 14,Vietnam,Tong Hai Anh,1486,10,7,335,37,57,20,Level D
+9,Open 14,India,Shubh Kapur,1617,9,4.5,391,31,50,19,Level D
+10,Girls 14,Peru,Nasya Yamila Norena Flores,1410,8,5,196,34,52,18,Level C
+11,Open 14,United States of America,Vyom Vidyarthi,2225,10,8,356,39,56,17,Level D
+12,Open 14,United States of America,Erick Zhao,2037,10,7.5,282,39,56,17,Level D
+13,Open 14,,John Veny,1687,10,6.5,373,31,48,17,Level C
+14,Open 14,Slovenia,Rudi Olenik Campa,2172,10,8,276,43,58,15,Level D
+15,Girls 14,South Africa,Davida Strong,1282,10,7.5,313,42,57,15,Level D
+16,Girls 14,India,Anahita Verma,1407,10,7,431,38,52,14,Level C
+17,Girls 14,Croatia,Josipa Zovko,1355,10,5.5,316,37,51,14,Level C
+18,Girls 14,Canada,Kaitlyn Tao,,10,6,354,45,58,13,Level D
+19,Open 14,Malaysia,Darshan Revinthran,1652,10,6,360,44,57,13,Level D
+20,Open 14,United States of America,Bach Ngo,2071,10,8,418,42,55,13,Level D
+21,Open 14,Vietnam,Dinh Minh An,1701,9,6.5,372,40,52,12,Level C
+22,Open 14,Indonesia,Cleon Amadeus Surya,1629,10,7.5,308,37,49,12,Level C
+23,Girls 14,Philippines,Jersey Marticio,1544,10,8.5,362,37,49,12,Level C
+24,Open 14,Philippines,Wayne Ruiz,1584,10,8,363,45,56,11,Level D
+25,Girls 14,Malaysia,Saffiah Maisarah Mohd Fadzli,1384,10,6.5,297,44,54,10,Level C
+26,Girls 14,Philippines,April Joy Claros,1544,10,7.5,303,43,51,8,Level C
+27,Open 14,United States of America,Shawnak Shivakumar,1865,10,6,359,45,52,7,Level C
+28,Open 14,Netherlands,Arthur De Winter,1987,10,7.5,369,43,50,7,Level C
+29,Girls 14,Mongolia,Khuslenzaya Baldanjantsan,1381,10,7,433,41,48,7,Level B
+30,Open 14,Peru,Gabriel Eduardo Sandoval Nizama,467,9,4,259,47,53,6,Level C
+31,Open 14,Netherlands,Yichen Han,2307,10,7,396,45,51,6,Level C
+32,Open 14,Belarus,Mikhei Navumenka,2188,10,8,386,43,49,6,Level B
+33,Open 14,Switzerland,Matthias Mattenberger,1970,10,7,296,43,49,6,Level B
+34,Girls 14,India,Nithyashree Saravanan,1010,9,7,369,48,53,5,Level D
+35,Open 14,Turkiye,Yanki Taspinar,2178,10,6.5,351,46,51,5,Level C
+36,Open 14,Mauritania,Taleb Mohamed Mohamed Abderrahim,1799,9,5.5,271,43,48,5,Level B
+37,Girls 14,Finland,Sara-Olivia Sippola,1573,10,5.5,336,53,57,4,Level D
+38,Open 14,Belarus,Artiom Stribuk,2241,10,7.5,342,51,55,4,Level D
+39,Girls 14,,Alo Nusrat Jahan,1635,6,1.5,128,48,52,4,Level C
+40,Open 14,Canada,Daniel Xu,1851,10,6,360,47,51,4,Level C
+41,Open 14,India,Mahendra Teja Mekala,1892,10,7,372,47,51,4,Level C
+42,Open 14,Brazil,Enzo Magalhaes De Lima,1732,10,4,391,49,52,3,Level C
+43,Open 14,Kazakhstan,Edgar Mamedov,2168,10,6.5,422,48,51,3,Level D
+44,Open 14,United Arab Emirates,Jaber Soud,1387,9,4,316,48,51,3,Level C
+45,Girls 14,United States of America,Yesun Lee,1683,10,7.5,388,44,47,3,Level C
+46,Open 14,Morocco,Elharrak Ahmed,1389,10,6,367,50,52,2,Level D
+47,Open 14,Vietnam,Anh Minh Dang,2040,10,7,352,50,52,2,Level C
+48,Open 14,India,Prraneeth Vuppala,2253,10,7,378,49,51,2,Level C
+49,Girls 14,FIDE,Alexandra Shvedova,2025,9,8,325,49,51,2,Level C
+50,Open 14,India,Krishnan Ritvik,1843,10,5.5,379,46,48,2,Level B
+51,Girls 14,Peru,Maria Teresa Jimenez Salas,1468,10,5.5,365,46,48,2,Level B
+52,Open 14,Canada,Anthony Atanasov,2070,10,7,371,45,47,2,Level B
+53,Open 14,India,Kukreja Sankalp,1902,10,6.5,264,52,53,1,Level C
+54,Girls 14,,Enkh-Amgalan Enkhrii,1421,10,5,311,51,52,1,Level C
+55,Open 14,Georgia,Vasiko Shapovalovi,1777,10,5,323,50,51,1,Level C
+56,Girls 14,Vietnam,Linh Dan Nguyen,1413,10,8,449,49,50,1,Level C
+57,Girls 14,United States of America,Ellen Wang,2007,9,7,318,48,49,1,Level C
+58,Open 14,India,Garv Gaur,2083,10,7,423,48,49,1,Level B
+59,Open 14,England,Nishchal Thatte,1873,10,6.5,353,47,48,1,Level B
+60,Open 14,Greece,Nikolaos Poupalos,1887,10,5.5,399,45,46,1,Level B
+61,Girls 14,Cayman Islands,Laia Swaminathan,1187,9,4,212,52,52,0,Level C
+62,Open 14,Slovenia,Nik Javornik,1983,10,4.5,368,51,51,0,Level C
+63,Open 14,India,Harsh Suresh,1940,10,5.5,381,48,48,0,Level C
+64,Girls 14,United States of America,Kalia Wang,1577,10,6,285,52,51,-1,Level C
+65,Open 14,Jamaica,Jaden Shaw,1614,10,6.5,315,52,51,-1,Level C
+66,Open 14,Tajikistan,Jaloliddin Ilkhomi,1934,10,6,348,51,50,-1,Level C
+67,Open 14,Bolivia,Matias Ariel Barja Viveros,1579,10,4.5,340,50,49,-1,Level B
+68,Open 14,Spain,Lorenzo Perea Fruet,2004,10,7,489,48,47,-1,Level B
+69,Girls 14,,Hansi Dewmini Kodikara,1114,10,5,458,47,46,-1,Level D
+70,Girls 14,India,Debapriya Manna,1268,10,5.5,294,54,52,-2,Level C
+71,Open 14,Thailand,Brunel Baron Burbach,1757,10,6,352,47,45,-2,Level B
+72,Open 14,,Kristopher Reynard,1794,10,6,413,55,52,-3,Level C
+73,Open 14,Sri Lanka,Dinul Vinsitha Weerasekara,1406,10,6,293,54,51,-3,Level C
+74,Girls 14,Russia,Nomina Darmaeva,1727,10,6.5,381,52,49,-3,Level B
+75,Open 14,Mexico,Miguel Angel Montes Orozco,1801,10,6,403,52,49,-3,Level B
+76,Open 14,India,Nagare Kaivalya Sandip,1845,10,6,365,52,49,-3,Level B
+77,Open 14,,Chowdhury Marzouq,1801,10,5.5,387,49,46,-3,Level B
+78,Open 14,Sri Lanka,A A Kavishka Gimshan Laksiri,1387,10,4,321,60,56,-4,Level D
+79,Open 14,Israel,Yonathan Uritsky,2102,9,6.5,269,56,52,-4,Level C
+80,Open 14,Azerbaijan,Read Samadov,2332,10,7,316,53,49,-4,Level B
+81,Open 14,Poland,Jan Malek,2097,10,6.5,450,50,46,-4,Level B
+82,Girls 14,Russia,Yaroslava Marochkina,1696,10,7,427,47,43,-4,Level B
+83,Open 14,Malta,Matthew Fleri,1778,10,5.5,352,54,49,-5,Level B
+84,Girls 14,Belarus,Kseniya Norman,1906,10,7,277,58,52,-6,Level C
+85,Open 14,Tunisia,Wael Chakroun,1336,10,5,369,55,49,-6,Level B
+86,Open 14,Canada,Max Chen,1997,10,6.5,388,54,48,-6,Level B
+87,Open 14,Turkiye,Ediz Gurel,2346,10,9,294,53,47,-6,Level B
+88,Open 14,Spain,Javier Habans Aguerrea,2317,10,7.5,273,62,55,-7,Level D
+89,Open 14,Palestine,Mohammed Seder,1722,10,5,355,56,49,-7,Level B
+90,Open 14,Cyprus,Rafail Antoniou,1638,10,5.5,375,55,48,-7,Level B
+91,Girls 14,United States of America,Zoey Tang,1985,10,6,391,54,47,-7,Level B
+92,Girls 14,Netherlands,Wendy Huang,1860,10,6,448,54,47,-7,Level B
+93,Open 14,Bolivia,Jonathan I. Montevilla Cahuasa,1433,10,4,347,53,46,-7,Level B
+94,Open 14,Kyrgyzstan,Erzhan Zhakshylykov,2144,10,7,318,53,46,-7,Level B
+95,Girls 14,Peru,Fiorella Contreras Huaman,1937,10,8,352,52,45,-7,Level B
+96,Open 14,,Emanuel Kot,,10,5.5,417,50,43,-7,Level B
+97,Girls 14,Vietnam,Ngoc Hien Nguyen,1377,10,6.5,291,57,49,-8,Level B
+98,Open 14,Russia,Gordey Kolesov,1842,10,5.5,430,52,44,-8,Level B
+99,Open 14,Zambia,Shane Kennedy,1353,10,4.5,415,52,44,-8,Level A
+100,Open 14,Switzerland,Dorian Asllani,1977,10,6,327,58,49,-9,Level B
+101,Girls 14,United States of America,Anika Rajaram,1537,10,7,374,58,49,-9,Level C
+102,Open 14,"Hong Kong, China",Thanneermalai Kannappan,1504,10,4.5,217,57,48,-9,Level B
+103,Open 14,Netherlands,Roger Labruyere,2045,10,5.5,348,55,46,-9,Level B
+104,Open 14,,Khishigbat Ulziikhishig,1601,10,6.5,327,55,46,-9,Level B
+105,Girls 14,Panama,Marielys Judith Lobo Jimenez,1110,10,4,283,55,46,-9,Level B
+106,Open 14,Indonesia,Satria Duta Cahaya,1820,10,7,282,59,49,-10,Level B
+107,Open 14,Brazil,Pedro Sada Sarda,1603,10,6,319,59,49,-10,Level B
+108,Girls 14,India,Rajanya Datta,1509,10,6.5,378,58,48,-10,Level B
+109,Open 14,Azerbaijan,Toghrul Asadli,1633,10,4.5,324,58,48,-10,Level B
+110,Girls 14,United States of America,Lilian Wang,1434,10,4,393,57,47,-10,Level B
+111,Open 14,Singapore,Yu Zhe Ashton Chia,1862,10,6.5,307,57,47,-10,Level B
+112,Open 14,Paraguay,Alejandro David Jodorcovsky,1715,10,5.5,319,57,47,-10,Level B
+113,Girls 14,Russia,Irina Poliato,1711,7,5,224,57,47,-10,Level B
+114,Girls 14,United States of America,Kelsey Liu,1488,10,7,234,55,45,-10,Level B
+115,Girls 14,Botswana,Banda Natalie Katlo,1605,9,3.5,220,52,42,-10,Level A
+116,Open 14,Philippines,Gladimir Chester Romero,1427,10,4,383,59,48,-11,Level B
+117,Open 14,Canada,Eric Ning,1957,10,6,451,56,45,-11,Level B
+118,Girls 14,Turkiye,Ecrin Efsa Buyuk,1788,10,5,533,51,40,-11,Level A
+119,Girls 14,Ukraine,Anzhelika Lomakina,1730,10,6.5,396,61,49,-12,Level B
+120,Girls 14,Ireland,Lara Putar,1930,10,7.5,378,61,49,-12,Level B
+121,Open 14,Canada,Noah Nathaniel Yuen,1699,10,5,352,60,48,-12,Level B
+122,Open 14,Georgia,Deniel Safarov,1785,10,5.5,358,60,48,-12,Level B
+123,Open 14,Belarus,Artsiom Bialiauski,2025,5,1,117,59,47,-12,Level B
+124,Open 14,Norway,Sverre Lye,1899,10,5,318,58,46,-12,Level B
+125,Girls 14,United States of America,Chloe Gaw,1766,10,6,333,56,44,-12,Level B
+126,Open 14,Ireland,Kavin Venkatesan,2011,10,5.5,352,56,44,-12,Level A
+127,Open 14,Angola,Jaime Sonhy,1490,10,5,342,56,44,-12,Level B
+128,Girls 14,Guatemala,Deycy Daniela Raymundo,1454,10,4.5,417,52,40,-12,Level A
+129,Open 14,Bolivia,Licael Roderick Ticona Rocabado,1911,10,7,312,61,48,-13,Level B
+130,Open 14,Chile,Antu Amigo Quintana,1788,10,5,363,61,48,-13,Level B
+131,Open 14,Mongolia,Orgilon Batsaikhan,1259,10,6,243,60,47,-13,Level B
+132,Girls 14,Canada,Rachel Ruoxuan Chen,1502,10,5.5,415,56,43,-13,Level B
+133,Open 14,Brazil,Vitor Augusto Ponciano De Carvalho,1627,10,5,387,55,42,-13,Level A
+134,Open 14,Ireland,Fearghal Brady,1463,10,3.5,316,61,47,-14,Level B
+135,Open 14,Georgia,Kakhaber Kiziria,1503,10,4.5,361,61,47,-14,Level B
+136,Open 14,Turkiye,Serdar Murat Yildiz,1501,10,4.5,403,61,47,-14,Level B
+137,Girls 14,Greece,Giolanta Kalamoukou,1353,9,4,315,59,45,-14,Level B
+138,Open 14,Turkiye,Talha Herdem,1151,10,5.5,340,58,44,-14,Level B
+139,Girls 14,India,Saparya Ghosh,1196,10,4,428,53,39,-14,Level A
+140,Open 14,United States of America,Ryan R Wang,1722,10,5,258,67,52,-15,Level C
+141,Girls 14,Norway,Amelia Nordquelle,1799,5,2,124,66,51,-15,Level C
+142,Open 14,Japan,Yuma Okabe,,10,4,276,63,48,-15,Level B
+143,Girls 14,England,Emily Maton,1415,10,5.5,400,61,46,-15,Level B
+144,Open 14,India,Bhavesh Mahajan,2047,10,7,379,59,44,-15,Level B
+145,Girls 14,Philippines,Ruelle Canino,1697,10,6,466,59,44,-15,Level B
+146,Open 14,India,Vrashank Chouhan,1795,10,5,315,64,48,-16,Level B
+147,Open 14,Ukraine,Mykhailo Matviienko,1809,10,5,316,62,46,-16,Level B
+148,Girls 14,,Erdenejargal Undarmaa,,10,5.5,437,60,44,-16,Level A
+149,Open 14,United States of America,Jayden Xu,1649,10,5,271,60,44,-16,Level B
+150,Open 14,Switzerland,Aryan Anand,1814,10,4.5,384,59,43,-16,Level A
+151,Girls 14,Malaysia,Mirza Irdina Muzamil,1304,10,5.5,471,59,43,-16,Level A
+152,Open 14,India,Goutham Krishna H,1352,10,7,453,67,50,-17,Level C
+153,Open 14,Canada,Hemant Srinivasan,1917,10,7,349,64,47,-17,Level B
+154,Open 14,Bahamas,Avian Pride,1208,10,4,338,63,46,-17,Level B
+155,Open 14,Azerbaijan,Huseyn Seyid,1781,10,6,308,62,45,-17,Level B
+156,Open 14,Scotland,Sanjith Madhavan,1498,10,5,356,62,45,-17,Level B
+157,Open 14,Georgia,Nikolozi Shamatava,1714,10,6,403,61,44,-17,Level A
+158,Open 14,Argentina,Matias Handsztok,1852,10,6,422,60,43,-17,Level B
+159,Open 14,Georgia,Alexandre Gogia,1375,10,5,281,67,49,-18,Level B
+160,Girls 14,Canada,Yu Han Guo,1432,10,4.5,413,62,44,-18,Level A
+161,Open 14,India,Abhrojyoty Nath,1499,10,4.5,396,61,43,-18,Level A
+162,Girls 14,India,Tejaswini G,1628,10,6.5,341,59,41,-18,Level A
+163,Open 14,Greece,Stefanos Magalakis,2030,10,6,374,64,45,-19,Level B
+164,Girls 14,Ukraine,Daryna Kryvenko,1412,10,5.5,342,64,45,-19,Level B
+165,Open 14,Lebanon,Mahmoud Badieh,1485,6,2,239,63,44,-19,Level B
+166,Open 14,Georgia,Daviti Nemsadze,1724,9,4.5,328,63,44,-19,Level A
+167,Open 14,Argentina,Joaquin Fiorito,1909,10,6,332,61,42,-19,Level A
+168,Girls 14,Russia,Ekaterina Kirdyashkina,1844,10,5,457,60,41,-19,Level A
+169,Open 14,Singapore,Yi-En Ian Ho,1317,10,4,348,69,49,-20,Level C
+170,Girls 14,Belarus,Yuliya Liavonava,1423,10,5,320,65,45,-20,Level B
+171,Open 14,Chile,Tomas Reyes Mendoza,1879,10,4.5,348,65,45,-20,Level B
+172,Girls 14,United States of America,Jenny Zhu,1573,10,5.5,367,65,45,-20,Level B
+173,Open 14,Canada,Ilia Batorshyn,,10,6,282,64,44,-20,Level A
+174,Open 14,Wales,Yuxuan Wu,1320,10,4,369,63,43,-20,Level A
+175,Girls 14,Russia,Veronika Shubenkova,1749,10,5.5,416,62,42,-20,Level A
+176,Open 14,England,Arjun Kolani,1770,10,6,275,70,49,-21,Level B
+177,Open 14,United States of America,Owen Xuan,1792,10,6,380,68,47,-21,Level B
+178,Open 14,Malta,Luke Fleri,1615,10,5.5,292,67,46,-21,Level B
+179,Girls 14,Albania,Eklea Omeri,1201,10,5.5,343,66,45,-21,Level B
+180,Girls 14,India,Mrittika Mallick,1690,10,6.5,411,66,45,-21,Level B
+181,Girls 14,Palestine,Eman Sawan,,10,4.5,340,66,45,-21,Level B
+182,Girls 14,India,Kanishka S,1292,10,6,332,65,44,-21,Level A
+183,Girls 14,Vietnam,Le Cam Hien Nguyen,1673,10,7,294,65,44,-21,Level A
+184,Girls 14,Azerbaijan,Samra Gasimova,1543,10,6,345,64,43,-21,Level A
+185,Girls 14,India,Dakshita Kumawat,1362,10,6,327,64,43,-21,Level A
+186,Open 14,Estonia,Daniel Kikkas,1088,10,3.5,348,58,37,-21,Level A
+187,Open 14,India,Sahib Singh,1745,10,6.5,312,69,47,-22,Level B
+188,Girls 14,England,Tashika Arora,1744,10,6,312,68,46,-22,Level B
+189,Open 14,Argentina,Luca Giovanni Petti,1711,10,4,314,65,43,-22,Level B
+190,Girls 14,Netherlands,Lauri Maris,1511,10,5,421,59,37,-22,Level A
+191,Open 14,Peru,Harold Oliver Paul Guarniz Sandoval,1202,10,5,244,70,47,-23,Level B
+192,Girls 14,United States of America,Ashley Pang,1785,10,6,283,69,46,-23,Level B
+193,Girls 14,Switzerland,Mariia Manko,1864,10,6,376,69,46,-23,Level B
+194,Open 14,South Africa,Jan Karsten,,9,3.5,289,69,46,-23,Level B
+195,Open 14,Greece,Dimitrios Makridis,2226,10,8,319,68,45,-23,Level B
+196,Open 14,Canada,Aayush Ajith,1770,10,6,412,68,45,-23,Level B
+197,Girls 14,South Africa,Chloe Badenhorst,1439,10,5.5,373,66,43,-23,Level A
+198,Open 14,Thailand,Patawee Wangthumboon,1438,10,4.5,299,65,42,-23,Level A
+199,Open 14,Georgia,Mikheil Apkhazava,1405,10,5,363,65,42,-23,Level A
+200,Open 14,Chile,Miguel Angel Arias Diaz,1694,10,5,367,64,41,-23,Level A
+201,Girls 14,Norway,Ponnammal Ramasubramanian,1394,10,4,392,64,41,-23,Level A
+202,Open 14,Albania,Ergit Ramaj,1537,10,5,313,71,47,-24,Level B
+203,Open 14,United States of America,Leonard Sweeney-Barrett,,10,5,256,68,44,-24,Level A
+204,Open 14,Azerbaijan,Ilgar Mammadov,1658,10,4.5,356,68,44,-24,Level A
+205,Open 14,Finland,Iraj Laturkar,1553,10,3,391,66,42,-24,Level A
+206,Open 14,Russia,Alexey O. Zakharov,2093,3,1,50,66,42,-24,Level B
+207,Girls 14,,Divya Bhavani Chembrolu,,10,5.5,248,63,39,-24,Level A
+208,Girls 14,Chile,Consuelo Villegas Ampuero,1203,10,4.5,337,63,39,-24,Level A
+209,Open 14,Brazil,Stefan Moisei VIeira Lima,1580,10,5,264,72,47,-25,Level B
+210,Open 14,Indonesia,Maximiliano Marrhuimawan,1496,10,4,249,68,43,-25,Level A
+211,Open 14,Panama,Nicolas Arturo Batista Rosas,1623,10,5.5,317,68,43,-25,Level B
+212,Girls 14,Mongolia,Khishigbaatar Bayasgalan,1640,10,7,484,67,42,-25,Level A
+213,Open 14,,Pathee Chiravanich,1352,10,3,409,67,42,-25,Level A
+214,Girls 14,Singapore,Tze Chi Liew,1146,10,4.5,327,63,38,-25,Level A
+215,Open 14,Cyprus,Kriton Tornaritis,1212,10,3.5,262,73,47,-26,Level B
+216,Open 14,,Pierre Akin Durruoglu,,10,4,323,70,44,-26,Level A
+217,Open 14,South Africa,Edward Potgieter,1348,10,4,358,69,43,-26,Level A
+218,Girls 14,Cuba,Aliett Valdes Boza,1892,10,6,322,67,41,-26,Level A
+219,Girls 14,Cuba,Sheila Suarez Castillo,1737,10,5.5,348,67,41,-26,Level A
+220,Open 14,Trinidad & Tobago,Joshua Medina,1321,10,4,287,69,42,-27,Level A
+221,Girls 14,Netherlands,Manasvita Basa,1711,7,2.5,205,74,46,-28,Level B
+222,Girls 14,Norway,Lykke-Merlot Helliesen,1708,10,4.5,321,72,44,-28,Level A
+223,Open 14,,Jing Xi Jonathan Lee,1730,10,4.5,266,72,44,-28,Level A
+224,Open 14,Mexico,Miguel Angel Lopez Garcia,1524,10,5,280,72,44,-28,Level B
+225,Open 14,Finland,Aku Salonen,1383,10,4.5,340,69,41,-28,Level A
+226,Open 14,,Yu Hang Koay,1418,10,5,408,68,40,-28,Level A
+227,Open 14,Mauritania,Abdellahi Khaled Abdellahi,,10,4,265,76,47,-29,Level B
+228,Open 14,Ireland,Patryk Brozynski,1547,10,5,361,73,44,-29,Level B
+229,Girls 14,Georgia,Mariam Sichinava,1607,10,5,325,71,42,-29,Level A
+230,Girls 14,Sweden,M.s. Harshavardhini,1559,8,3,273,66,37,-29,Level A
+231,Open 14,"Hong Kong, China",Xuqian Ben Han,1612,10,5,273,79,49,-30,Level B
+232,Girls 14,Jamaica,Gabriella Watson,1101,10,5,292,76,46,-30,Level B
+233,Girls 14,,Gupta Shubhi,1095,10,4.5,467,74,44,-30,Level A
+234,Girls 14,Spain,Arami Lobo Pereira,1815,8,5.5,236,73,43,-30,Level A
+235,Girls 14,Tunisia,Meyssem Mefteh,1198,10,3.5,306,73,43,-30,Level A
+236,Open 14,Yemen,Husam Al-Dain Abdulhakim Nasher,1342,10,3,287,73,43,-30,Level A
+237,Open 14,,Peter El Nawar,,6,1.5,112,72,42,-30,Level A
+238,Open 14,Canada,Vincent Latorre,1731,10,5.5,288,70,40,-30,Level A
+239,Girls 14,Chile,Valentina Galvez Aguirre,1316,10,3,341,70,40,-30,Level A
+240,Open 14,South Africa,Reegan Palmer,1325,10,4,263,78,47,-31,Level B
+241,Girls 14,India,Sinthia Sarkar,1569,10,6,247,77,46,-31,Level B
+242,Open 14,,Khodani Nwedo,1601,10,3.5,328,77,46,-31,Level B
+243,Girls 14,Slovenia,Pika Radej,1364,10,4,328,75,44,-31,Level A
+244,Open 14,South Africa,Jorah Soojay,1478,10,5,248,75,44,-31,Level A
+245,Girls 14,India,Sanikommu Manasvi,1331,10,4.5,284,74,43,-31,Level A
+246,Girls 14,,Lauren Rice,1586,10,5,345,74,43,-31,Level A
+247,Girls 14,Mongolia,Davaakhuu Unurzul,1462,10,6,452,72,41,-31,Level A
+248,Girls 14,Russia,Sofiya Listratova,1299,10,4.5,373,71,40,-31,Level A
+249,Girls 14,United States of America,Lily Deng,,10,5,438,71,39,-32,Level A
+250,Girls 14,Georgia,Mariam Gvatua,1407,10,5,359,68,36,-32,Level A
+251,Open 14,,Ganbat Danzanjunai,1578,10,6,275,82,49,-33,Level C
+252,Open 14,Croatia,Ivor Colev,1901,9,3.5,289,79,46,-33,Level B
+253,Girls 14,Mongolia,Enkhbolor Nyamdavaa,1695,10,5.5,383,77,44,-33,Level A
+254,Open 14,Jersey,Yuvraj Singh,1304,10,3.5,359,75,42,-33,Level A
+255,Open 14,Sri Lanka,J M Daham V Jayasundara,1181,10,3.5,318,75,42,-33,Level A
+256,Open 14,Jersey,Robert Jack Tieppo,1301,3,0,66,72,39,-33,Level A
+257,Girls 14,Panama,Mariana Esther Lobo Jimenez,1247,10,6,336,71,38,-33,Level A
+258,Girls 14,Russia,Darya Shevtsova,1584,10,7,386,70,37,-33,Level A
+259,Girls 14,Kyrgyzstan,Imannur Momunkulova,1387,10,5,331,77,43,-34,Level A
+260,Girls 14,Bangladesh,Jahan Diba Israt,1617,10,3.5,374,77,43,-34,Level A
+261,Open 14,,Mawuli Richardson,,10,4,277,79,44,-35,Level A
+262,Open 14,Philippines,Cedric Kahlel Abris,1548,10,5,339,78,43,-35,Level B
+263,Girls 14,Georgia,Ana Macharashvili,1276,10,3.5,363,77,42,-35,Level A
+264,Girls 14,Bolivia,Irasema Aguilar,1327,10,3,322,76,41,-35,Level A
+265,Open 14,Canada,Shreyas Prasanna,1356,10,4,264,75,40,-35,Level A
+266,Girls 14,Bangladesh,Ahmed Wadifa,1724,10,4.5,379,73,38,-35,Level A
+267,Open 14,"Hong Kong, China",Arsh Shah,1751,9,4,337,72,37,-35,Level A
+268,Open 14,Panama,Rion Okuno Okuno,,10,3.5,294,80,44,-36,Level A
+269,Girls 14,Chile,Valentina Anto Gonzalez Gonzalez,1198,10,4,274,79,43,-36,Level A
+270,Girls 14,United States of America,Varnika Jammalamadaka,,10,4,458,80,43,-37,Level A
+271,Girls 14,Botswana,Moshoboro Arona,1329,10,3.5,293,78,41,-37,Level A
+272,Open 14,Morocco,Omar Ouadnouni,,10,4,283,75,38,-37,Level A
+273,Open 14,Malaysia,Uzair Shahar,1302,10,5.5,342,81,43,-38,Level A
+274,Open 14,Ghana,Aarush Thakkar,,10,3,307,80,42,-38,Level A
+275,Girls 14,Mexico,Sofia Gomez Camara,1411,9,2.5,346,79,41,-38,Level A
+276,Girls 14,Bolivia,Ariadne Baldiviezo Plata,1176,10,4.5,411,78,40,-38,Level A
+277,Girls 14,Sri Lanka,K M Dahamdi Sanudula,1717,10,6,404,78,40,-38,Level A
+278,Open 14,Thailand,Tada Tangsunawan,1168,10,4,258,82,43,-39,Level A
+279,Girls 14,Angola,Jemima Paulo,1754,10,7,327,82,43,-39,Level A
+280,Open 14,Albania,Kelvin Kosta,1247,10,4,353,81,42,-39,Level A
+281,Girls 14,South Africa,Chisomo Boshoma,1273,10,5,250,80,41,-39,Level A
+282,Girls 14,South Africa,Thato Matshego,,10,3.5,393,77,38,-39,Level A
+283,Girls 14,Bolivia,Adriana Canaviri,1211,10,4.5,344,74,35,-39,Level A
+284,Girls 14,New Zealand,Tyleah Po`e-Tofaeono,1385,10,3.5,289,84,44,-40,Level A
+285,Girls 14,Argentina,Sofia Milagros Bontempi,1414,10,4,341,83,43,-40,Level A
+286,Open 14,Botswana,Ofile Masilo,1506,10,3.5,272,80,40,-40,Level A
+287,Girls 14,Zimbabwe,Carol Ndlovu,,10,3,290,78,38,-40,Level A
+288,Girls 14,Ghana,Angel-Jordan Quansah,1214,10,3.5,327,80,39,-41,Level A
+289,Girls 14,United States of America,Chloe Wang,,10,5,306,80,39,-41,Level A
+290,Open 14,Zambia,Chembe Sean Kunda,1412,10,3,308,79,38,-41,Level A
+291,Open 14,United States of America,Siddharth Arutla,1379,10,3.5,251,88,46,-42,Level B
+292,Open 14,,Melinda Suico,,10,3,266,83,41,-42,Level A
+293,Girls 14,Greece,Aikaterini Argyro Gkoutzouki,1434,10,5,354,82,40,-42,Level A
+294,Girls 14,India,Patel Riddhi R,1620,10,5.5,324,81,39,-42,Level A
+295,Open 14,Costa Rica,Martin Eduardo Barboza Viquez,1491,10,3.5,306,79,37,-42,Level A
+296,Girls 14,England,Nina Pert,1536,10,5,337,85,42,-43,Level A
+297,Open 14,Luxembourg,Pablo Ortiz Bogdanov,1144,10,4.5,322,89,44,-45,Level A
+298,Girls 14,Argentina,Nahiara Gabriela Galeano,1344,10,4.5,383,88,43,-45,Level A
+299,Open 14,Panama,Andre Mendez Machado,1773,10,4,269,87,42,-45,Level A
+300,Girls 14,Scotland,Jennifer Feng,,10,3.5,346,82,37,-45,Level A
+301,Girls 14,India,Elakshi Srivastava,1214,10,4,340,87,41,-46,Level A
+302,Open 14,Kenya,Wanjala Samuel,1354,9,1.5,212,87,41,-46,Level A
+303,Open 14,Ireland,Andrew Finnerty,1292,10,3.5,343,86,40,-46,Level A
+304,Open 14,Trinidad & Tobago,Juninho La Fleur,1338,10,3,256,81,35,-46,Level A
+305,Open 14,Scotland,Matthew Willder,1555,10,3,297,89,42,-47,Level A
+306,Open 14,Puerto Rico,Nathaniel I. Garcia Figueroa,1399,8,3,179,87,40,-47,Level A
+307,Open 14,Brazil,Gabriel Leao Quadros Marocco,1396,10,4.5,305,87,39,-48,Level A
+308,Open 14,,Syed Ridwan,1311,10,4,252,86,38,-48,Level A
+309,Open 14,Jamaica,Eric Min,1361,10,3,281,86,38,-48,Level A
+310,Girls 14,Brazil,Gabriela Goes Da Cunha,1564,10,5,338,86,38,-48,Level A
+311,Girls 14,United States of America,Aradh Kaur,1436,4,1.5,102,85,37,-48,Level B
+312,Girls 14,Brazil,Maria Vitoria De Sousa Silva,1164,8,2.5,239,82,34,-48,Level A
+313,Girls 14,Sri Lanka,Chanindi Mewna Attanayake,1317,10,5,241,87,38,-49,Level A
+314,Open 14,Jamaica,Rohit Mahtani,1189,10,4,303,92,42,-50,Level A
+315,Girls 14,Costa Rica,Kristy Valeria Salazar Gould,1334,10,4,301,89,39,-50,Level A
+316,Open 14,Panama,Adrian Jafeth Miranda Samudio,1598,10,5,269,91,40,-51,Level A
+317,Girls 14,Scotland,Nivedita Suyal,,10,3,344,91,40,-51,Level A
+318,Girls 14,Netherlands,Elysia Feng,1445,10,3.5,334,89,38,-51,Level A
+319,Girls 14,Paraguay,Renata Mayeregger Gonzalez,1280,10,4,362,89,38,-51,Level A
+320,Open 14,Jamaica,Krish Khemlani,1129,10,5,224,97,43,-54,Level A
+321,Open 14,Cyprus,Nicolas Vermehren,1599,10,4,262,98,43,-55,Level A
+322,Open 14,Trinidad & Tobago,Chandresh Prabhakar,1288,10,3,218,96,41,-55,Level A
+323,Open 14,Tunisia,Mohamed Ben Rayana,1156,7,2,132,96,41,-55,Level A
+324,Girls 14,Slovenia,Ema Lukac,1137,10,5,313,95,40,-55,Level A
+325,Girls 14,,Zi Yau Bernadette Kong,1357,10,4,310,95,40,-55,Level A
+326,Girls 14,Mexico,Vanya Briseyda Conde Mares,1551,9,4,303,95,40,-55,Level A
+327,Girls 14,South Africa,Tawana Chinoruma,,10,4,202,92,37,-55,Level A
+328,Open 14,Chile,Agustin Ramirez Camilla,1157,5,1,122,91,36,-55,Level A
+329,Open 14,Mexico,Zuben Algenubi Jorajuria Mendoza,1696,10,4,285,92,36,-56,Level A
+330,Girls 14,,Prachi Pardeshi,,10,3.5,310,92,36,-56,Level A
+331,Open 14,,Luis Oliveira,,10,3,277,98,39,-59,Level A
+332,Girls 14,Jersey,Yasmin Forbes,,10,2.5,266,92,33,-59,Level A
+333,Open 14,Barbados,Rory Prescod,1183,10,4,287,99,38,-61,Level A
+334,Open 14,Barbados,Melvin Terence,1028,10,3,311,99,38,-61,Level A
+335,Open 14,Canada,Rafael Adam,1474,10,4,247,104,42,-62,Level A
+336,Girls 14,Panama,Layla Yasmira Caicedo Rios,1103,10,4,270,101,39,-62,Level A
+337,Open 14,Yemen,Abdul Qader Abdulla,1135,9,2.5,231,97,35,-62,Level A
+338,Open 14,Bermuda,Dimitri Gontcharov,1448,10,3,264,94,32,-62,Level A
+339,Open 14,Bahamas,Tadan Ferguson,,9,1,212,106,43,-63,Level A
+340,Girls 14,Trinidad & Tobago,Aradhana Ramnarine Singh,1211,10,2.5,292,99,35,-64,Level A
+341,Open 14,United Arab Emirates,Yahya Shuaib Al Kaff,1388,10,4.5,325,103,38,-65,Level A
+342,Girls 14,Mexico,Paulina Yunuen Velarde Hernandez,1205,10,4,234,106,40,-66,Level A
+343,Girls 14,Kenya,Devashri Shah,1048,10,3,300,102,35,-67,Level A
+344,Open 14,Scotland,Ananth Subramaniam,1055,10,2,362,100,33,-67,Level A
+345,Girls 14,,Zarquel Mawaddah,1346,9,5.5,311,107,38,-69,Level A
+346,Open 14,Barbados,Taariq Callender,,10,2,255,101,29,-72,Level A
+347,Girls 14,Kenya,Amy Mumo Mutua,1120,9,2.5,267,113,40,-73,Level A
+348,Girls 14,,Nyambayar Nomuun,,10,2.5,246,105,32,-73,Level A
+349,Open 14,Cyprus,Denis Lebedinskis,955,10,2.5,256,106,32,-74,Level A
+350,Girls 14,Kenya,Laurecia Minage Atiagaga,1039,9,2,204,116,35,-81,Level A
+351,Open 14,,Justin Spencer,,9,2,213,113,32,-81,Level A
+352,Girls 14,Guyana,Maliha Dhana Rajkumar,,9,2,139,122,39,-83,Level A
+353,Open 14,Guyana,Emmanuel Primus,,10,1,188,119,36,-83,Level A
+354,Girls 14,Ireland,Diana Bueckert,1305,10,4,364,118,35,-83,Level A
+355,Open 14,Kenya,Vyom Kunjal Shah,1064,10,2.5,228,118,34,-84,Level A
+356,Girls 14,Jamaica,Ruthann Collins,1300,10,3,206,117,33,-84,Level A
+357,Girls 14,Jamaica,Suraiya Matandara-Clarke,913,10,2,194,118,32,-86,Level A
+358,Open 14,,Kalí Freytes Henríquez,,9,1.5,176,135,36,-99,Level A
+359,Open 14,Barbados,Keon Lashley,1059,9,1,151,133,34,-99,Level A
+360,Girls 14,,Alyssa Stewart,,10,2.5,235,140,34,-106,Level A
+361,Girls 14,Guyana,Pooja Lam,,10,2,218,140,33,-107,Level A
+362,Open 14,Cyprus,Michalis Hadjipetris,1232,3,0,22,149,36,-113,Level A
+363,Girls 14,,Naila Rahaman,,9,0,145,142,23,-119,Level A
+364,Girls 14,,Italy Ton-Chung,,9,1,144,175,33,-142,Level A
+365,Girls 14,Cameroon,Fouda Omgba Nsizoa Anne-Marthe Bellage,,1,0,0,0,0,,Level A

@@ -1,0 +1,348 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Default,India,Tarun Bhargav Tokala,1025,1,0.5,50,13,60,47,Level D
+2,Default,Russia,Alexey Smirnov,2436,7,7,211,22,64,42,Level D
+3,Default,India,Vivek Watpade,1344,4,4,103,17,56,39,Level D
+4,Default,Israel,Alexey Streltsov,2192,2,2,20,28,65,37,Level D
+5,Default,Chile,Tomas Figueroa Morales,2093,7,6,155,30,63,33,Level D
+6,Default,Russia,Evgeniy Suslov,2236,4,4,118,29,59,30,Level D
+7,Default,Germany,Jarno Scheffner,1969,2,2,44,36,64,28,Level D
+8,Default,North Macedonia,Vladimir Trkaljanov,2096,7,6,161,31,58,27,Level D
+9,Default,Venezuela,Juan Marcos Polanco Colina,1729,1,1,31,28,55,27,Level D
+10,Default,Ukraine,Igor Yarmonov,2391,10,7,353,32,56,24,Level D
+11,Default,Poland,Lukasz Nowak,2265,11,8.5,347,34,57,23,Level D
+12,Default,Poland,Marcin Molenda,2349,11,10,459,37,59,22,Level D
+13,Default,India,Gangolli Kishan,2128,7,3,186,32,54,22,Level D
+14,Default,Hungary,Gabor Acs,1977,6,5,144,38,59,21,Level D
+15,Default,Spain,Gavril Draghici Flutur,2072,6,5.5,240,34,55,21,Level D
+16,,,,,2,2,114,36,56,20,Level D
+17,Default,Israel,Arkady Shevelev,2280,6,4.5,208,34,54,20,Level C
+18,Default,Russia,Stanislav Babarykin,2387,11,8,339,35,54,19,Level C
+19,Default,Poland,Pawel Piekielny,2098,11,7,483,33,52,19,Level C
+20,Default,Turkiye,Huseyin Sahin,1788,7,4,207,39,57,18,Level D
+21,Default,Poland,Marcin Tazbir,2513,9,7,238,35,53,18,Level C
+22,Default,Kazakhstan,Serik Soltanov,2266,7,5,232,32,50,18,Level C
+23,Default,Germany,Georg Braun,2375,6,4.5,368,33,50,17,Level C
+24,Default,FIDE,Andrei Obodchuk,2299,7,5.5,316,37,53,16,Level C
+25,Default,Ukraine,Sergey Grigorchuk,2213,6,4.5,205,36,52,16,Level C
+26,Default,Philippines,Darry Bernardo,2114,6,5,192,38,53,15,Level D
+27,Default,Hungary,Samuel Attila Szilagyi,1912,1,1,17,38,53,15,Level C
+28,Default,Panama,Jesus Camilo Osorio,1859,7,4.5,229,35,50,15,Level C
+29,Default,Ukraine,Oleksandr Sovetov,2022,6,5,221,39,53,14,Level C
+30,Default,FIDE,Sergey Tsapalin,1943,7,4,307,37,51,14,Level C
+31,Default,Cuba,Alberto D. Interian Rodriguez,2119,4,4,117,35,49,14,Level C
+32,Default,Armenia,Sargis Sargissyan,2269,7,6.5,215,44,57,13,Level D
+33,Default,Colombia,Gildardo Molina,1998,7,6,216,40,53,13,Level C
+34,Default,Poland,Mateusz Lapaj,2216,2,1,53,52,64,12,Level D
+35,Default,Romania,Costica Marchidan,1770,6,4.5,156,42,54,12,Level D
+36,Default,Argentina,Leonel Amato,2100,6,3.5,208,42,54,12,Level D
+37,Default,Philippines,Arman Subaste,1894,5,3.5,186,40,52,12,Level C
+38,Default,Vietnam,Thi Hong Nguyen,1124,3,3,117,40,52,12,Level C
+39,Default,Kazakhstan,Adilkhan Kozhabekov,2080,7,5.5,215,41,52,11,Level C
+40,Default,Germany,Michael Becker,2267,5,5,141,45,55,10,Level D
+41,Default,,Van Quan Nguyen,1783,7,4.5,237,45,54,9,Level D
+42,Default,Ukraine,Vladyslav Kolpakov,2223,5,4.5,109,45,54,9,Level D
+43,Default,Israel,Yaacov Zilberman,2339,7,4.5,297,39,48,9,Level C
+44,Default,Russia,Polina Taranenko,1445,6,5,204,46,54,8,Level C
+45,Default,Poland,Jacek Stachanczyk,2122,7,4.5,208,43,51,8,Level C
+46,Default,Philippines,Cheryl A. Angot,1315,7,5,142,41,49,8,Level B
+47,Default,Philippines,Israel Peligro,1539,2,0.5,81,45,52,7,Level C
+48,Default,Malaysia,Norazlin Juarih,1480,4,3,110,42,49,7,Level B
+49,Default,Cuba,Carlos Larduet Despaigne,2293,6,3.5,244,39,46,7,Level C
+50,Default,Vietnam,Van Viet Le,1438,3,0.5,106,39,46,7,Level C
+51,Default,Colombia,Luisa Fernanda Molina Valdes,1651,4,3.5,109,38,45,7,Level C
+52,Default,Ukraine,Vadim Bondarets,2210,3,1,153,50,56,6,Level D
+53,Default,Cuba,Pedro Morales Romero,2332,6,4.5,175,47,53,6,Level C
+54,Default,Argentina,Luis Sanz,2186,5,4,189,46,52,6,Level D
+55,Default,Poland,Piotr Dukaczewski,2163,6,3.5,205,43,49,6,Level C
+56,Default,North Macedonia,Tode Zafirovski,2138,7,4,323,41,47,6,Level C
+57,Default,Philippines,Jasper Rom,2202,2,1,43,41,47,6,Level C
+58,Default,Venezuela,Victor Abiad Parra,1860,6,4.5,163,39,45,6,Level C
+59,Default,Romania,Vasile Carapit,1760,4,2,106,36,42,6,Level C
+60,Default,Venezuela,Harlen Jose Otero Munelo,2125,1,0,37,41,46,5,Level C
+61,Default,Colombia,Yesid Suaza,1836,5,4,116,40,45,5,Level C
+62,Default,Colombia,Jose Joaquin Care Garcia,1796,2,0.5,56,48,52,4,Level C
+63,Default,Ukraine,Nikolay Mukha,2163,11,8,400,47,51,4,Level B
+64,Default,Russia,Artem Anfinogenov,2061,7,5.5,158,46,50,4,Level C
+65,Default,Colombia,Anderson Ramirez Ramirez,1542,4,3.5,140,44,48,4,Level B
+66,Default,Turkiye,Orhan Yeter,1245,3,2,111,44,47,3,Level C
+67,Default,Belarus,Evgenij Koishman,2024,2,0,27,68,70,2,Level D
+68,Default,Ukraine,Taras Ovcharov,2007,5,3,163,57,59,2,Level D
+69,Default,Bangladesh,Bappi Sarkar,1808,7,6,303,49,51,2,Level C
+70,Default,Romania,Mihail-Dacian Pribeanu,2207,3,1,92,46,48,2,Level C
+71,Default,Poland,Szymon Kasperczyk,1790,4,2,175,45,47,2,Level C
+72,Default,United States of America,Michael Aigner,2006,7,4,285,43,45,2,Level B
+73,Default,,B Joshi Aryan,1842,1,0.5,31,43,45,2,Level C
+74,Default,Cuba,Raul Leonardo Lavigne Lopez,2229,4,2.5,136,43,45,2,Level B
+75,Default,Kyrgyzstan,Toktobek Bolotov,1448,7,5.5,225,48,49,1,Level C
+76,Default,Bangladesh,Ejaz Husain,1952,7,3.5,313,46,47,1,Level B
+77,Default,Chile,Valeska Rozas Lazcano,1435,7,4.5,321,44,45,1,Level B
+78,Default,Poland,Michal Wolanski,2029,5,3.5,163,43,44,1,Level B
+79,Default,Russia,Yuri A. Meshkov,2351,7,5,259,53,53,0,Level D
+80,Default,Ukraine,Oleksii Filippskikh,1983,6,4.5,213,51,51,0,Level C
+81,Default,Ukraine,Boris Biryulin,1910,2,1,55,49,49,0,Level C
+82,Default,Venezuela,Vanessa Descarrega Zacarias,1828,1,0,42,48,48,0,Level B
+83,Default,Croatia,Domagoj Glazar,2137,6,3,248,47,47,0,Level B
+84,Default,Hungary,Ferenc Frink,2056,2,1.5,128,44,44,0,Level B
+85,Default,Russia,Alexey Pakhomov,2315,7,4,103,57,56,-1,Level D
+86,Default,Israel,Andrei Gurbanov,2289,6,4,199,51,50,-1,Level C
+87,Default,Ukraine,Natalya Myronenko,1830,4,2.5,132,48,47,-1,Level B
+88,Default,Colombia,Leidy Johanna Bautista,1638,4,1,105,56,54,-2,Level C
+89,Default,Turkiye,Suleyman Saltik,1639,7,5,187,56,54,-2,Level C
+90,Default,Hungary,Andras Paal,2060,5,4,162,49,47,-2,Level B
+91,Default,Spain,David Fernandez Lago,1958,3,1.5,106,47,45,-2,Level B
+92,Default,Georgia,Akaki Shalamberidze,,1,0,39,41,39,-2,Level C
+93,Default,India,Pradhan Soundarya Kumar,1746,6,5.5,212,54,51,-3,Level C
+94,Default,Poland,Aleksander Choroszej,2042,2,1,84,51,48,-3,Level C
+95,Default,Brazil,Tiago Dias Polo,1856,5,4,122,49,46,-3,Level B
+96,Default,Ukraine,Oleg Tuka,2340,7,1,198,48,45,-3,Level B
+97,Default,Vietnam,Thu Huyen Doan,1535,4,2.5,165,41,38,-3,Level C
+98,Default,Venezuela,Giuseppe Abatantuono Lattarulo,2112,5,3,221,51,47,-4,Level B
+99,Default,Malaysia,Pin Xie Loo,1571,5,4,135,51,47,-4,Level B
+100,Default,,Henry Lopez,2107,5,3,217,51,47,-4,Level B
+101,Default,Philippines,Sander Severino,2364,7,4,287,50,46,-4,Level B
+102,Default,Ukraine,Tatiana Baklanova,2213,2,1,69,53,48,-5,Level C
+103,Default,India,Kataria Sarita Manoj,1266,5,3,151,51,46,-5,Level B
+104,Default,India,Krishna Karthik K Venkata,1903,7,4,281,48,43,-5,Level B
+105,Default,Armenia,Sargis Atabekyan,1946,7,3,108,46,41,-5,Level B
+106,Default,FIDE,Ilia Lipilin,2189,7,4,247,62,56,-6,Level B
+107,Default,India,A H Murahari,1210,1,0,32,59,53,-6,Level C
+108,Default,India,Anto K. Jennitha,2001,7,5,239,55,49,-6,Level C
+109,Default,Brazil,Jose Eduardo Bastos O. Maia,2043,7,5,240,54,48,-6,Level B
+110,Default,Hungary,Attila Paal,2148,7,4.5,314,50,44,-6,Level B
+111,Default,Azerbaijan,Habibulla Aghalarov,1923,7,5,129,55,48,-7,Level C
+112,Default,Russia,Denis Palin,2110,4,3,146,55,48,-7,Level B
+113,Default,Romania,Maria Lupascu,1480,7,4,232,53,46,-7,Level B
+114,Default,Colombia,Nicole Daniela Centenaro Erazo,1304,4,1,123,53,46,-7,Level B
+115,Default,Belarus,Dzmitry Tsitou,1773,7,6.5,211,52,45,-7,Level B
+116,Default,Germany,Matthias Dorner,2172,3,2,75,48,41,-7,Level B
+117,Default,Romania,Mihai Dima,1997,5,3,222,57,49,-8,Level B
+118,Default,Turkiye,Unal Donmez,1915,2,1,27,56,48,-8,Level B
+119,Default,United States of America,Pranav Shankar,1499,7,5,210,54,46,-8,Level B
+120,Default,Spain,Agustin Fernandez Manrique,2090,6,4,158,60,51,-9,Level C
+121,Default,France,Solenn Afraoui,1889,5,3,193,58,49,-9,Level B
+122,Default,India,Kutwal Shashikant,2182,7,2.5,268,58,49,-9,Level C
+123,Default,Poland,Emilia Tryjanska,1425,5,4,157,56,47,-9,Level C
+124,Default,Vietnam,Thi Bich Thuy Tran,1422,4,2,112,52,43,-9,Level B
+125,Default,Cuba,Karla Marrero Infante,1812,2,1.5,62,51,42,-9,Level B
+126,Default,Brazil,Elias Moyses Sobrinho,1884,2,0.5,100,59,49,-10,Level B
+127,Default,India,Desai Ashish Krishnamurari,1965,1,1,41,59,49,-10,Level D
+128,Default,India,Sanjay R. Kavlekar,1730,6,2.5,250,57,47,-10,Level B
+129,Default,Turkiye,Handenur Sahin,1997,7,3,251,55,45,-10,Level B
+130,Default,Croatia,Vladimir Nestorovic,2203,5,1.5,198,55,45,-10,Level B
+131,Default,India,Garugu Krishna Reddy,1475,6,2,295,51,41,-10,Level A
+132,Default,,Mijgee Khishigbayar,1847,7,2,276,59,48,-11,Level B
+133,Default,Germany,Mirko Eichstaedt,2236,5,3.5,130,55,44,-11,Level B
+134,Default,Romania,Florin-Iulian Rada,1563,1,1,46,52,41,-11,Level B
+135,Default,Azerbaijan,Aydin Shahpalangov,1945,7,3.5,287,61,49,-12,Level C
+136,Default,Turkiye,Halis Aslanhan,1810,6,3,191,59,47,-12,Level C
+137,Default,Colombia,Lucas Giraldo Bohorquez,1693,4,2,131,56,44,-12,Level C
+138,Default,India,Handa Malika,1345,5,3.5,171,51,39,-12,Level A
+139,Default,Ukraine,Svitlana Gonchar,1709,2,1,48,67,54,-13,Level D
+140,Default,France,Marie Moulin,1579,4,1.5,137,62,49,-13,Level B
+141,Default,India,V Kannan,1395,4,3,106,61,48,-13,Level B
+142,Default,Armenia,Saro Melkonyan,1506,7,2,62,61,48,-13,Level C
+143,Default,Philippines,Menandro Redor,2019,5,1.5,174,55,42,-13,Level B
+144,Default,Poland,Maciej Szalko,1946,10,6.5,344,63,49,-14,Level B
+145,Default,Croatia,Bogdan Bozinovic,2151,7,5,261,62,48,-14,Level B
+146,Default,Ecuador,Andres Nevarez Castro,1250,7,5,266,58,44,-14,Level B
+147,Default,Spain,Albert Olivera Gutierrez,2097,6,1.5,180,57,43,-14,Level B
+148,Default,Canada,Guannan Terry Song,2145,6,5,185,60,45,-15,Level B
+149,Default,Philippines,Felix Aguilera,1785,5,2.5,126,55,40,-15,Level A
+150,Default,Malaysia,Saharuddin Mappa,1695,5,3,186,55,40,-15,Level A
+151,Default,Canada,Pierre Lambert,1647,2,0,53,55,40,-15,Level B
+152,Default,Kyrgyzstan,Dzhanysh Arstanbekov,1729,7,2.5,211,50,35,-15,Level B
+153,Default,Turkiye,Mehmet Ali Bingol,1318,3,1,87,63,47,-16,Level B
+154,Default,United States of America,Griffin McConnell,1823,7,4,261,62,46,-16,Level B
+155,Default,Turkiye,Yusuf Solak,1531,5,3,146,62,46,-16,Level B
+156,Default,India,Kumar Patra Subhendu,1783,5,2.5,223,61,45,-16,Level B
+157,Default,Hungary,Muriel Aranka Gaspar,1423,7,1,212,60,44,-16,Level B
+158,Default,Chile,Pedro Basualto Penalieres,2025,5,2.5,122,59,43,-16,Level A
+159,Default,Russia,Elizaveta Klochko,1029,1,0,24,58,42,-16,Level C
+160,Default,North Macedonia,Olga Angelovska,,4,1.5,144,57,41,-16,Level A
+161,Default,India,Kumar A. Naveen,2035,6,2.5,210,57,41,-16,Level A
+162,Default,India,Udupa Krishna,1733,4,2.5,154,56,40,-16,Level A
+163,Default,Colombia,Jhon Mike Rosales Zuluaga,1690,5,2,151,63,46,-17,Level B
+164,Default,Romania,Ciprian-Iulian Strete,1782,2,1,47,62,45,-17,Level B
+165,Default,France,Jeremy Guibert,1861,4,0.5,138,61,44,-17,Level B
+166,Default,Chile,Andres Saul Tapia Loncon,1890,3,1.5,106,60,43,-17,Level A
+167,Default,Brazil,Adriano Albiani Barata,2144,7,3.5,205,57,40,-17,Level B
+168,Default,Israel,Aleksandra Aleksandrova,1780,7,2.5,235,65,47,-18,Level B
+169,Default,Romania,Emil-Peter Vaduva,1968,6,3,198,64,46,-18,Level B
+170,Default,Malaysia,Ardian Syah Muming,1431,5,1,245,64,46,-18,Level B
+171,Default,Croatia,Krsto Kovacevic,2117,3,2,87,61,43,-18,Level A
+172,Default,Colombia,Francisco Alonso Jr. Mesa,1837,7,2.5,293,60,42,-18,Level B
+173,Default,Mali,Amadou Doumbia,,7,3.5,194,58,40,-18,Level B
+174,Default,Poland,Zuzanna Lukasik,1643,4,1.5,153,65,46,-19,Level C
+175,Default,Malaysia,Mohd Johar Johari,1241,5,3,79,65,46,-19,Level B
+176,Default,France,Georges Vasquez,1871,4,0.5,134,60,41,-19,Level A
+177,Default,North Macedonia,Janco Gjorgjevski,1904,5,4,171,67,47,-20,Level B
+178,Default,Croatia,Ana Vuljanic,1581,7,1.5,143,61,41,-20,Level B
+179,Default,Russia,Marina Kaydanovich,1734,8,2.5,295,60,40,-20,Level B
+180,Default,Argentina,Cristian Caballero,1851,2,1,51,59,39,-20,Level B
+181,Default,Turkiye,Umit Selcuk,1628,5,2,96,59,39,-20,Level A
+182,Default,Venezuela,Edgar Rivas Cabrera,2019,6,5,209,57,37,-20,Level A
+183,Default,India,Ashvin K Makwana,1768,4,1.5,142,65,44,-21,Level B
+184,Default,Poland,Anna Stolarczyk,1909,10,4.5,372,63,42,-21,Level B
+185,Default,India,Pegu Cheniram,1695,2,1,47,61,40,-21,Level A
+186,Default,Venezuela,Barbara del Valle Palacios Figueroa,1724,6,2.5,170,60,39,-21,Level A
+187,Default,Kyrgyzstan,Tilegen Rakhatbekov,1399,7,3.5,155,59,38,-21,Level A
+188,Default,Kyrgyzstan,Irina Ostry,2147,7,4,180,71,49,-22,Level C
+189,Default,Ecuador,Christopher Leonel Garzon Zapatanga,1697,7,2.5,217,64,42,-22,Level B
+190,Default,Bangladesh,Md. Khorshed Alam,2065,7,1.5,223,67,44,-23,Level A
+191,Default,Philippines,Max Dave Tellor,1771,4,3,114,68,44,-24,Level B
+192,Default,Malaysia,Muhd Ikmal Faiz Ab Rahman,1414,5,2,183,67,43,-24,Level A
+193,Default,Turkiye,Kerim Osman Altinok,1565,5,2,192,65,41,-24,Level A
+194,Default,Zimbabwe,Tapiwa Gora,1929,7,4,200,72,47,-25,Level B
+195,Default,,Ibrahim Dal,1626,4,1,70,71,46,-25,Level B
+196,Default,Philippines,Cheyzer Crystal J. Mendoza,1639,7,4,225,69,44,-25,Level A
+197,Default,Turkiye,Busra Ozturk,1100,7,4,147,69,44,-25,Level A
+198,Default,Russia,Ruslan Draganov,2157,1,0,31,64,39,-25,Level B
+199,Default,Russia,Svetlana Gerasimova,1916,3,1,84,70,44,-26,Level A
+200,Default,Canada,Louis Morin,1806,6,5.5,140,69,43,-26,Level A
+201,Default,Argentina,Valeria Simone,1453,5,1,139,66,40,-26,Level B
+202,Default,France,Frederic Dumont,1366,3,1,104,64,38,-26,Level A
+203,Default,Panama,Alba Cristal Munoz,,7,5,114,72,45,-27,Level B
+204,Default,Russia,Maksim Ermakov,1611,6,6,209,68,41,-27,Level B
+205,Default,Ukraine,Vladyslav Pokotaiev,1839,7,2.5,239,70,42,-28,Level A
+206,Default,India,K Marimuthu,1588,7,3.5,215,68,40,-28,Level B
+207,Default,Poland,Krzysztof Checiak,1967,4,2,111,68,40,-28,Level A
+208,Default,,J Rao Samarth,1664,2,0,85,74,45,-29,Level C
+209,Default,India,Shukla Ashutosh,1509,3,1,117,72,43,-29,Level B
+210,Default,Zimbabwe,ONAI CHIKAFU,1494,7,4,190,71,42,-29,Level A
+211,Default,Germany,Annegret von Erichsen,1998,5,1,152,70,41,-29,Level B
+212,Default,Romania,Eugen-Cezar Vieru,1798,4,1,100,77,47,-30,Level B
+213,Default,Nicaragua,Jairo Oswaldo Leyton Calderon,1526,7,4,209,70,40,-30,Level A
+214,Default,Ecuador,Esteban Jacome,1549,7,4.5,221,69,38,-31,Level A
+215,Default,Azerbaijan,Gennadiy Gelman,1793,7,2,203,76,44,-32,Level B
+216,Default,Mali,Mamoutou Traore,,7,3,163,66,34,-32,Level A
+217,Default,Argentina,Raul Grosso,1746,4,3,119,81,48,-33,Level B
+218,Default,Turkiye,Ahmet Taha Inal,1206,3,3,43,73,40,-33,Level A
+219,Default,,R P Kanishri,1098,2,1,59,85,51,-34,Level C
+220,Default,Russia,Mariya Dorozhkina,1705,4,1,131,81,47,-34,Level B
+221,Default,Poland,Bartosz Pawelec,2019,1,0.5,61,80,46,-34,Level B
+222,Default,Poland,Aleksandra Zielinska,1325,2,1,31,79,45,-34,Level B
+223,Default,Turkiye,Ayhan Ozgur,1426,4,1,100,78,43,-35,Level A
+224,Default,Azerbaijan,Nadezhda Belyayeva,,7,2.5,279,77,42,-35,Level A
+225,Default,Turkiye,Recep Koksal,1711,5,2,159,77,42,-35,Level A
+226,Default,Costa Rica,Marco Vinicio Cabrera Sosa,1364,7,4,185,74,39,-35,Level A
+227,Default,Colombia,Fidel Zabala,1909,3,1,160,72,37,-35,Level A
+228,Default,Turkiye,Huseyin Demirel,1451,5,0.5,192,79,43,-36,Level B
+229,Default,Mongolia,Gombo Gonchigdorj,,7,1.5,244,75,39,-36,Level A
+230,Default,Turkiye,Selim Eyup Altinok,1536,5,2,169,74,38,-36,Level A
+231,Default,Vietnam,Hien Vuong Duong,1457,6,3,160,72,36,-36,Level A
+232,Default,India,Chakraborty Megha,1232,5,2,111,68,32,-36,Level A
+233,Default,Turkiye,Gokhan R Gungor,1579,6,4,119,86,49,-37,Level B
+234,Default,Belarus,Igor Rosikhin,1832,7,4.5,180,80,43,-37,Level B
+235,Default,Poland,Malwina Szewczyk,1418,7,3,297,75,38,-37,Level A
+236,Default,Ukraine,Alona Osypova,1568,2,0,54,77,39,-38,Level B
+237,Default,Turkiye,Zeynep Guleryuz,1199,6,2.5,154,77,39,-38,Level A
+238,Default,Spain,Carmen Lago Carballo,1328,7,2.5,145,72,34,-38,Level A
+239,Default,Poland,Andrzej Migala,2080,2,2,67,80,40,-40,Level B
+240,Default,Chile,Cristian Gonzalez Astete,2130,6,0.5,228,80,39,-41,Level B
+241,Default,Canada,Gilbert Perez,1835,7,1.5,289,79,38,-41,Level A
+242,Default,Uganda,Wasswa Sharif Mbaziira,1362,7,1.5,93,84,42,-42,Level A
+243,Default,Georgia,Margalita Natelauri,,6,3,133,86,43,-43,Level A
+244,Default,Argentina,Ana Carolina Cayo,1214,2,1,21,86,43,-43,Level B
+245,Default,Ukraine,Vyacheslav Anikeev,1841,1,0.5,18,82,39,-43,Level A
+246,Default,United States of America,Jessica T Lauser,1567,7,2,277,81,38,-43,Level A
+247,Default,Romania,Gheorghe Bratu,1729,4,2,119,83,39,-44,Level A
+248,Default,Cuba,Idalis Batista Rivera,1811,5,1.5,145,83,39,-44,Level A
+249,Default,France,Aldric Gomez,,1,1,6,77,33,-44,Level A
+250,Default,North Macedonia,Zarko Selkovski,2007,2,0,70,93,47,-46,Level C
+251,Default,Malaysia,Muhd Adib Rusydan Suharman,575,2,1,61,90,44,-46,Level B
+252,Default,Russia,Varvara Nikitskaya,1173,3,1,66,88,42,-46,Level A
+253,Default,Ecuador,Andrea Delgado Tigasi,1243,7,3,157,86,40,-46,Level A
+254,Default,Georgia,Leri Talikadze,1162,7,4,238,80,34,-46,Level A
+255,Default,Panama,Iliak Omar Arias Cano,1882,5,2,169,81,34,-47,Level A
+256,Default,Malaysia,Siaw Hui Cindy Yeo,564,5,2.5,104,88,40,-48,Level B
+257,Default,Mali,Ousmane Diakite,,7,1,167,86,38,-48,Level A
+258,Default,Panama,Elias Jimenez Moron,1967,2,1,19,91,42,-49,Level B
+259,Default,Mongolia,Gan-Ochir Delgerdalai,,7,4,231,88,39,-49,Level A
+260,Default,Costa Rica,Rigoberto Telles,1307,6,1,138,87,38,-49,Level A
+261,Default,Mongolia,Baasankhuu Boldbaatar,,7,4,116,93,43,-50,Level B
+262,Default,Turkiye,Ozlem Erten,1138,4,1,81,95,42,-53,Level A
+263,Default,Kazakhstan,Almash Nuserova,1245,7,3,235,86,33,-53,Level A
+264,Default,Kazakhstan,Nina Zhukovskaya,1475,7,2,199,86,33,-53,Level A
+265,Default,Argentina,Jose Maria Saponara Caizzi,1524,2,1,47,97,43,-54,Level B
+266,Default,Ukraine,Irina Zarubinskaya,1747,7,3,158,93,39,-54,Level A
+267,Default,Romania,Constantin Stroe,1917,4,1,113,91,37,-54,Level A
+268,Default,Brazil,Marcia Maria Dias Lopes,1363,7,0.5,190,89,35,-54,Level A
+269,Default,,Danny Jose Martinez Rios,,7,5,122,88,33,-55,Level A
+270,Default,Cuba,Pedro Leonard Torres,2173,1,0,24,98,42,-56,Level D
+271,Default,Malaysia,Saiful Azham Othman,1242,5,3,118,92,36,-56,Level A
+272,Default,Romania,Pavel Curticapean,1728,3,1,96,91,35,-56,Level A
+273,Default,Zambia,Harry Sauti,1683,1,0,21,95,38,-57,Level B
+274,Default,Germany,Manuela Mekus,1644,2,1,65,92,35,-57,Level A
+275,Default,Colombia,Helmer Andres Ortega Moran,1762,3,1,65,96,37,-59,Level A
+276,Default,El Salvador,Carlos Funes,1235,5,3,97,96,37,-59,Level A
+277,Default,Venezuela,Luis Anibal Rodriguez Pirela,1880,2,1,80,94,35,-59,Level A
+278,Default,Turkiye,Sinan Ozalp,1549,4,2,98,101,41,-60,Level A
+279,Default,Romania,Dorina Florea,1741,7,3,122,99,39,-60,Level A
+280,Default,Argentina,Juan Carlos Montenegro,1636,2,0,80,96,35,-61,Level B
+281,Default,France,Yann Harmand,1468,2,0,51,95,31,-64,Level B
+282,Default,Malaysia,Shamsudin Nazirah,542,2,0,39,96,31,-65,Level B
+283,Default,Belarus,Alena Mikhalionak,1508,7,3,195,94,28,-66,Level A
+284,Default,Malaysia,Arjoni Sadewah,858,1,0,21,115,48,-67,Level B
+285,Default,Georgia,Giorgi Qvelashvili,,3,2,82,101,34,-67,Level A
+286,Default,Ukraine,Svitlana Solomna,1434,5,1,218,110,42,-68,Level A
+287,Default,Turkiye,Ayca Balci Gungor,,3,0,68,100,32,-68,Level A
+288,Default,Colombia,Yolima Franco,1517,4,1,70,110,41,-69,Level A
+289,Default,North Macedonia,Marija Arsova,,3,0.5,79,106,35,-71,Level A
+290,Default,Costa Rica,Rolando Gamboa Mora,1459,2,0,29,106,34,-72,Level C
+291,Default,Zimbabwe,Tafadzwa Mashonganyika,,7,1,144,110,37,-73,Level A
+292,Default,Poland,Alicja Jakimczuk,1314,1,1,49,104,31,-73,Level A
+293,Default,Kenya,Ivini Boke,1213,7,3,124,113,39,-74,Level A
+294,Default,Kenya,Robert Ndirangu,,7,4,168,111,37,-74,Level A
+295,Default,Vietnam,Hoa Binh Le,1387,1,0,26,114,39,-75,Level D
+296,Default,Kenya,Ali Sheikh Sadam,1190,7,1,155,107,32,-75,Level A
+297,Default,Turkiye,Seyfettin Cagri Yildirim,1516,4,1,122,105,29,-76,Level A
+298,Default,Georgia,Anna Mgeladze,1387,4,1,71,104,25,-79,Level A
+299,Default,Malaysia,Siti Safura Jaafar,1231,2,0,30,123,43,-80,Level C
+300,Default,Canada,Chantal Nicole,1169,7,1,69,116,36,-80,Level A
+301,Default,Uganda,Enoch Sseguya,,5,1,38,112,32,-80,Level A
+302,Default,Costa Rica,Steven Jose Mendez Dimarco,1164,3,1,54,114,33,-81,Level A
+303,Default,India,Himanshi Rathi,1177,2,0,37,115,32,-83,Level B
+304,Default,Ukraine,Kateryna Sovietova,1338,6,0,139,116,30,-86,Level B
+305,Default,Kenya,Geoffrey Maoga Mosongoh,1199,7,2,101,126,39,-87,Level A
+306,Default,Malaysia,Amirul Iman Amiruddin,875,2,0,49,120,33,-87,Level A
+307,Default,El Salvador,Alejandro Pasasin,,7,3,130,119,32,-87,Level A
+308,Default,India,Pande Mrunali Pande,1236,2,1,29,134,41,-93,Level A
+309,Default,El Salvador,Roberto Vaquero,,2,1,30,122,27,-95,Level A
+310,Default,Georgia,Roman Tsiteladze,1301,4,0,65,128,31,-97,Level A
+311,Default,Zimbabwe,Natasha Shonhiwa,1275,7,0,149,132,33,-99,Level A
+312,Default,El Salvador,Cesar Bonilla,1172,6,1,116,134,34,-100,Level A
+313,Default,Bangladesh,Sukanna Marufa Azad,1164,7,2.5,183,133,33,-100,Level A
+314,Default,Malaysia,Aqilah Syahira Ahmad,1146,5,4,110,148,37,-111,Level A
+315,Default,Uganda,Maxima Ciza,,6,1,50,143,32,-111,Level A
+316,Default,Malaysia,Muhd Tareq Shahir Tarmizi,786,2,0,41,146,27,-119,Level C
+317,Default,Nicaragua,Ricardo Jose Mendoza Lainez,1137,6,2,95,148,24,-124,Level A
+318,Default,Turkiye,Bekir Ertan Yardimci,1208,1,0,15,153,27,-126,Level B
+319,Default,Nicaragua,Donald Guillen,1192,1,0,4,128,0,-128,Level A
+320,Default,Costa Rica,Dennis Solis Solano,,3,1,8,171,37,-134,Level A
+321,Default,Libya,ADEL OUN,,6,1,75,167,25,-142,Level A
+322,Default,Panama,Mario Oscar Singares,1425,7,1,74,175,31,-144,Level A
+323,Default,France,Jonathan Martinat,1257,1,0,11,184,27,-157,Level B
+324,Default,El Salvador,Genesis Aviles,,7,1,46,184,26,-158,Level A
+325,Default,Nicaragua,Arlen Karina Villanueva Vallejo,,7,0,78,186,27,-159,Level A
+326,Default,Georgia,Mariam Kapanadze,1421,1,0,16,202,25,-177,Level A
+327,Default,Libya,abdulmoneim khalifa,,6,1,59,216,24,-192,Level A
+328,Default,Georgia,Ioseb Sarishvili,1504,2,0,24,213,17,-196,Level A
+329,Default,Libya,Mohammed Alhadar,,5,2,38,241,24,-217,Level A
+330,Default,Costa Rica,Simey Elena Noel Matarrita,,7,1,13,253,15,-238,Level A
+331,Default,Turkiye,Nil Ucar,,1,0,19,258,16,-242,Level B
+332,Default,Uganda,Angel Nambooze,,6,2,17,335,29,-306,Level A
+333,Default,Malaysia,Wahidah Syamimi Abdul Sani,308,1,0,3,453,0,-453,Level C
+334,Default,Belarus,Siarhei Kudrashou,1947,5,0,0,0,0,,Level A
+335,Default,Armenia,Bella Hayrapetyan,,7,0,0,0,0,,Level A
+336,Default,Libya,Muamr Mussa,,4,0,0,0,0,,Level A
+337,Default,Turkmenistan,Meredgeldy Amangeldiyev,1891,1,0,0,0,0,,Level B
+338,Default,Mali,Rokiatou Cissoko,,6,0,0,0,0,,Level A
+339,Default,Uganda,John Denise Mwesigye,1351,3,0,0,0,0,,Level A
+340,Default,Turkmenistan,Aydogdy Atabayev,2202,1,0,0,0,0,,Level B
+341,Default,Zambia,Tambuzhai Kadilamwando,,1,0,0,0,0,,Level A
+342,Default,Libya,Abdalah Saed,,1,0,0,0,0,,Level A
+343,Default,Zambia,Peter Kalenga,1551,1,0,0,0,0,,Level D
+344,Default,Libya,Hatem Kzam,,1,0,0,0,0,,Level A
+345,Default,Turkmenistan,Oraz Bashymow,1853,1,0,0,0,0,,Level D
+346,Default,Turkmenistan,Gurbangul Esenova,,1,0,0,0,0,,Level A
+347,Default,Zambia,Robert Nkhupi,1701,1,0,0,0,0,,Level C

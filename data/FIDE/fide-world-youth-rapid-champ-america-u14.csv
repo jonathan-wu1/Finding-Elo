@@ -1,0 +1,63 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open,United States of America,NICO CHASIN,2303,4,1,104,30,51,21,Level A
+2,Open,Peru,Diego Saul Rodri Flores Quillas,2245,7,5,188,46,59,13,Level A
+3,Open,Jamaica,Darren McKennis,1735,7,3,303,40,52,12,Level A
+4,Girls,United States of America,ROCHELLE WU,2029,7,5.5,251,43,53,10,Level A
+5,Open,United States of America,Eric Li,2311,5,4,208,44,53,9,Level A
+6,Open,United States of America,Jason Wang,2312,7,5.5,364,39,48,9,Level A
+7,Open,Bolivia,Barja Viveros Matias Ariel,1579,7,4,236,47,51,4,Level A
+8,Girls,United States of America,Ruiyang Yan,2093,7,6,275,43,47,4,Level A
+9,Girls,Canada,Kate Yuhua Jiang,1605,7,4,295,48,47,-1,Level A
+10,Girls,United States of America,Aksithi Eswaran,1745,7,4.5,329,46,45,-1,Level A
+11,Girls,Argentina,Candela Francisco Guecamburu,2034,7,6,174,50,47,-3,Level A
+12,Open,Colombia,Manuel Enrique Campos Gomez,1958,7,4,248,54,50,-4,Level A
+13,Open,Canada,Nameer Issani Sr.,2070,7,5.5,299,49,45,-4,Level A
+14,Girls,,Paula Sofia Hernandez Diaz,1329,7,4.5,248,53,48,-5,Level A
+15,Girls,Paraguay,Helen Anabel Guadalupe Montiel Caceres,1599,7,4,292,56,50,-6,Level A
+16,Girls,United States of America,ELLEN WANG,1926,7,5.5,337,55,49,-6,Level A
+17,Open,United States of America,Arthur Guo,2358,7,5.5,317,55,48,-7,Level A
+18,Open,Cuba,Jose A. Hernandez Izquierdo,2054,7,5,211,53,46,-7,Level A
+19,Open,Ecuador,VICTOR VARGAS SOTELO,1654,7,4,123,57,49,-8,Level A
+20,Girls,Argentina,Anna Laura Scarsi,1668,7,4,267,52,44,-8,Level A
+21,Open,United States of America,Jason Liang,2317,7,6.5,226,50,41,-9,Level A
+22,Girls,Bolivia,Ariadne Ricela Ramallo Aguilar,1311,7,3.5,343,59,46,-13,Level A
+23,Girls,Peru,Fiorella Daiana Contreras Huaman,1937,7,5,195,61,46,-15,Level A
+24,Open,Canada,Max Chen,1997,7,4.5,280,58,43,-15,Level A
+25,Open,Canada,Ilia Batorshyn,,7,3,188,65,48,-17,Level A
+26,Girls,Peru,Luciana Belen Moreyra Saravia,1033,7,4,249,61,41,-20,Level A
+27,,,,,7,4,234,67,46,-21,Level A
+28,Open,Paraguay,Sebastian Rodriguez,1950,7,3,194,66,45,-21,Level A
+29,Open,Chile,Leonardo Ballesteros Cardenas,1991,7,3,225,70,48,-22,Level A
+30,Open,Panama,NICOLAS BATISTA,1654,7,3,258,66,42,-24,Level A
+31,Open,Colombia,Brayan Steven Chavez,2036,7,3,214,66,42,-24,Level A
+32,Open,Argentina,Joaquin Fiorito,1909,7,4.5,295,70,45,-25,Level A
+33,Girls,Jamaica,Amy Stephenson,1339,7,3.5,209,73,47,-26,Level A
+34,Open,Haiti,Fritz Jean Francois,,6,1,202,70,39,-31,Level A
+35,Open,Trinidad & Tobago,Brad Brown,1248,7,2,190,77,45,-32,Level A
+36,Girls,Colombia,COL-Luisa Maria Suarez Ardila,1724,7,3.5,292,75,41,-34,Level A
+37,Girls,Canada,Carina D'Souza,1302,7,3,327,72,37,-35,Level A
+38,Open,Canada,Hemant Srinivasan,1917,7,4,191,79,43,-36,Level A
+39,Open,Costa Rica,Caleb Vargas Arguedas,,6,1,198,74,38,-36,Level A
+40,Open,Jamaica,John Stephenson,1629,7,3,152,87,49,-38,Level A
+41,Open,Bermuda,Dimitri Gontcharov,1448,7,3,220,79,39,-40,Level A
+42,Girls,Ecuador,Veronica Priscila Orbe Vivero,1471,7,4,229,83,42,-41,Level A
+43,Open,Bahamas,Avian Pride,1208,6,1,196,81,40,-41,Level A
+44,Girls,Panama,LAYLA CAICEDO,1106,7,3.5,256,81,39,-42,Level A
+45,Girls,El Salvador,Marielos Vasquez,1498,7,2,202,84,39,-45,Level A
+46,Girls,Trinidad & Tobago,Zara La Fleur,1507,7,2.5,236,80,35,-45,Level A
+47,Girls,Peru,Kate Azumi Bravo Mallco,1895,7,4,230,86,39,-47,Level A
+48,Girls,Canada,Julia Tsukerman,1523,7,2.5,187,86,37,-49,Level A
+49,Girls,Haiti,Kinberlie Dunat,1398,7,2,190,85,36,-49,Level A
+50,Girls,Costa Rica,Maria Salvadora Rojas Mora,1176,7,3,172,90,40,-50,Level A
+51,Girls,Uruguay,Sofia Roepke,1589,7,3,271,92,41,-51,Level A
+52,Open,El Salvador,Alex Ibarra,1524,7,4,162,91,38,-53,Level A
+53,Open,Guyana,Ronan Lee,,7,1,178,92,38,-54,Level A
+54,Girls,Guatemala,Daniela Juarez Garcia,1625,7,3.5,185,97,42,-55,Level A
+55,Girls,Chile,Patricia Abdala Cancino,1611,7,2.5,211,87,32,-55,Level A
+56,Open,Uruguay,Nicolas Kulik,1586,7,3,192,95,36,-59,Level A
+57,Girls,Barbados,Yhden Layne,,7,2.5,138,103,35,-68,Level A
+58,Girls,Haiti,Valencia JEAN FRANCOIS,1398,7,2,148,116,38,-78,Level A
+59,Open,Barbados,Tarquin Clark,1013,6,1,111,119,33,-86,Level A
+60,Girls,Costa Rica,Abigail Monge Ramirez,1079,7,1.5,182,137,34,-103,Level A
+61,Girls,Guyana,Maliha Rajkumar,,7,0,126,171,30,-141,Level A
+62,Open,Guatemala,Ricardo Miguel Aragon Trujillo,1875,2,0,0,0,0,,Level A

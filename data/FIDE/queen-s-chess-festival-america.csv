@@ -1,0 +1,99 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Category A,Ecuador,Martha L. Fierro Baquero,2359,7,4.5,281,35,48,13,Level C
+2,Category C,Paraguay,Helen Montiel Caceres,1619,8,6,235,47,56,9,Level D
+3,Category A,Colombia,Valentina Argote Heredia,2191,7,5.5,261,41,48,7,Level C
+4,Category A,Brazil,Julia Alboredo,2182,7,5,205,44,49,5,Level B
+5,Category B,Colombia,Angela Franco Valencia,2089,9,7.5,229,53,48,-5,Level B
+6,Category B,Argentina,Candela Be Francisco Guecamburu,2034,9,8.5,326,57,49,-8,Level B
+7,Category C,Argentina,Abril Sanchez,1721,9,6,302,53,45,-8,Level B
+8,Category C,Brazil,Yasmin Soares De Medeiros,1633,9,5.5,284,52,40,-12,Level A
+9,Category C,Ecuador,Analia Karen Miranda Vargas,1520,9,7,288,60,47,-13,Level B
+10,Category B,Brazil,Suzana Chang,2034,9,6.5,341,56,43,-13,Level A
+11,Category B,Peru,Kate Azumi Bravo Mallco,1895,9,4,244,63,48,-15,Level B
+12,Category C,Argentina,Anna Laura Scarsi,1668,9,5,371,55,40,-15,Level A
+13,Category C,Bolivia,Jessica Molina,1797,9,5,251,62,45,-17,Level B
+14,Category B,Peru,Flor De Maria Zarate Oyague,2000,8,2,178,72,52,-20,Level C
+15,Category C,Chile,Francisca Valenti Sanchez Tobar,1777,9,4,293,64,44,-20,Level A
+16,Category C,Ecuador,Yesenia Pacheco Jimenez,1617,9,4,264,64,42,-22,Level A
+17,Category D,Argentina,Daira Isis Veliz,1432,5,3,84,61,38,-23,Level A
+18,Category C,Brazil,Gabriela Goes Da Cunha,1564,9,6,307,60,37,-23,Level A
+19,Category B,Venezuela,Amelia Hernandez Bonilla,2016,8,5,276,67,42,-25,Level A
+20,Category C,Jamaica,Raehanna Brown,1594,9,6,319,69,43,-26,Level A
+21,Category D,El Salvador,Marielos Vasquez Vasquez,1498,11,10,288,70,43,-27,Level A
+22,Category C,Venezuela,Katherin Rossmary Ubertin Gomez,1667,8,3,262,72,44,-28,Level A
+23,Category D,Venezuela,Paola Natali Blanco Gascon,1000,11,6,228,71,43,-28,Level A
+24,Category B,Ecuador,Anahi Ortiz Verdezoto,2013,9,6,267,72,43,-29,Level B
+25,Category D,Jamaica,Gabriella Watson,1101,11,6.5,251,70,41,-29,Level A
+26,Category D,Costa Rica,Daniela Maria Castro Aguilar,1000,10,4,222,69,40,-29,Level A
+27,Category B,Venezuela,Tairu Manuela Rovira Contreras,2058,8,3,331,71,41,-30,Level A
+28,Category A,Peru,Ann Chumpitaz,2244,7,2.5,260,71,41,-30,Level A
+29,Category A,Paraguay,Jennifer Perez Rodriguez,2251,7,2.5,224,75,44,-31,Level B
+30,Category C,Panama,Maria Angelica Carrillo Marval,1730,8,2.5,276,74,43,-31,Level A
+31,Category C,Uruguay,Sofia Roepke,1589,9,6.5,308,72,41,-31,Level A
+32,Category C,Uruguay,Daniela Larrea,1705,8,0,197,71,40,-31,Level A
+33,Category D,Ecuador,Katheen Gabriela Quezada Pauker,1498,11,7.5,272,77,44,-33,Level A
+34,Category A,Argentina,Anapaola S. Borda Rodas,2162,7,4.5,197,78,44,-34,Level A
+35,Category D,United States of America,Shirley Kong,1000,11,5.5,309,78,44,-34,Level A
+36,Category C,Barbados,Julissa Figueroa,1658,8,2.5,177,72,38,-34,Level A
+37,Category D,Ecuador,Camila Estefania Palacios Gordillo,1270,11,8.5,310,69,35,-34,Level A
+38,Category D,Bolivia,Nicole Mollo Figueroa,1141,11,7,330,76,41,-35,Level A
+39,Category B,Bolivia,Daniela Cordero,2010,9,5,229,71,36,-35,Level A
+40,Category A,El Salvador,Lorena Zepeda,2132,7,1.5,225,79,43,-36,Level A
+41,Category D,Ecuador,Ariadna Ameli Artieda Berru,1220,11,6.5,279,74,38,-36,Level A
+42,Category B,Paraguay,Dalila Perez,1873,8,3,247,80,43,-37,Level A
+43,Category D,Paraguay,Renata Mayeregger Gonzalez,1280,11,6.5,285,80,43,-37,Level A
+44,Category D,Bolivia,Caely El Hage Serrano,1189,11,4,334,74,37,-37,Level A
+45,Category D,United States of America,Lulu Huang,1206,11,6,313,78,39,-39,Level A
+46,Category D,Ecuador,Arlette Guerrero Caicedo,1360,11,8,328,82,41,-41,Level A
+47,Category D,Colombia,Ariatna Valentina Melgarejo Suarez,1432,11,6,346,79,38,-41,Level A
+48,Category D,Ecuador,Karina Paola Martinez Zambrano,1407,11,7,209,79,38,-41,Level A
+49,Category B,El Salvador,Angie Garcia,1802,9,4,317,80,38,-42,Level A
+50,Category B,Jamaica,Rachel Miller,2004,9,4.5,365,78,36,-42,Level A
+51,Category D,Brazil,Rafaela Moura Di Simoni,1495,11,5.5,287,78,36,-42,Level A
+52,Category B,Ecuador,Josselyne Penafiel Mendoza,1807,9,4,228,85,41,-44,Level A
+53,Category D,Brazil,Maria Vitoria De Sousa Silva,1169,11,5,246,84,39,-45,Level A
+54,Category C,Brazil,Renee Blandy T. Brambilla,1671,9,3.5,246,83,38,-45,Level A
+55,Category D,Panama,Betty Arosemena Castillero,1471,10,4,335,84,36,-48,Level A
+56,Category C,El Salvador,Alejandra Beatriz Zavala Galindo,1740,9,5,221,84,35,-49,Level A
+57,Category A,Argentina,Marisa Zuriel,2203,7,2,195,92,42,-50,Level A
+58,Category B,Bolivia,Nataly A. Monroy G.,1957,9,4,197,91,41,-50,Level A
+59,Category D,Costa Rica,Victoria Canales Chinchilla,1000,11,6,292,88,38,-50,Level A
+60,Category B,Uruguay,Andreina Quevedo,1867,5,1.5,140,88,38,-50,Level A
+61,Category C,Panama,Yolys Desiree Rondon Chacon,1707,8,3,240,88,38,-50,Level A
+62,Category C,Trinidad & Tobago,Zara La Fleur,1569,9,4,239,89,38,-51,Level A
+63,Category B,United States of America,Vaval Aaditi,1844,8,1.5,173,90,35,-55,Level A
+64,Category B,Brazil,Joara Chaves,1901,8,2,195,94,38,-56,Level A
+65,Category D,Peru,Camila Sofia Macedo Minaya,1000,11,4.5,279,97,40,-57,Level A
+66,Category C,Uruguay,Natalia Silva Rosas,1771,9,3,279,97,38,-59,Level A
+67,Category D,Bolivia,Katherine Mollo,1299,11,7,323,97,38,-59,Level A
+68,Category D,Bermuda,Shiela Cancino,1438,11,5,312,95,34,-61,Level A
+69,Category D,Brazil,Barbara Ribeiro Araujo,1497,11,7,340,97,35,-62,Level A
+70,Category D,Barbados,Chanon Reifer-Belle,1073,10,5,264,97,35,-62,Level A
+71,Category B,Jamaica,Adani Clarke,1811,8,3,314,99,36,-63,Level A
+72,Category D,Peru,Nicoletta Anette Nole Alvarez,1000,11,5,315,94,31,-63,Level A
+73,Category C,Paraguay,Paula Oviedo Acosta,1637,8,5,209,106,42,-64,Level A
+74,Category B,Bermuda,Zuzana Kovacova,2050,9,5,256,102,38,-64,Level A
+75,Category D,Barbados,Yhden Layne,1000,10,3,188,107,40,-67,Level A
+76,Category C,Panama,Yaribeth Gonzalez Ramirez,1679,8,2,273,106,38,-68,Level A
+77,Category C,Costa Rica,Karina Bogantes Robleto,1664,9,4.5,313,106,38,-68,Level A
+78,Category D,Ecuador,Heidy Arelys Villagomez Martinez,1289,11,8,239,104,36,-68,Level A
+79,Category C,United States of America,Sydney Kong,1677,9,6,255,99,31,-68,Level A
+80,Category C,Bolivia,Alejandra Callata,1502,8,3,289,98,30,-68,Level A
+81,Category D,United States of America,Lucia Huang,1000,10,3.5,276,107,36,-71,Level A
+82,Category D,Brazil,Julia Marzanatti Gattamorta,1496,10,4,258,107,36,-71,Level A
+83,Category D,Uruguay,Pilar Silvera,1410,11,5.5,332,110,38,-72,Level A
+84,Category D,United States of America,Ya He,1000,11,5,306,107,34,-73,Level A
+85,Category D,Bolivia,Maria Jose Salazar Salinas,1011,11,5,248,104,31,-73,Level A
+86,Category D,Peru,Antuannet Huguette Nole Alvarez,1201,11,6,308,111,34,-77,Level A
+87,Category D,Peru,Ariana Lucia Chavarria Soto,1277,11,6,258,116,33,-83,Level A
+88,Category D,Bolivia,Zuleyka Garcia Vacaflor,1000,11,6,193,123,39,-84,Level A
+89,Category D,United States of America,Fiona Hayes,1000,5,2,69,120,36,-84,Level A
+90,Category D,Costa Rica,Valentina Campos Munoz,1000,11,4,275,128,32,-96,Level A
+91,Category D,Barbados,Hannah Wilson,1315,11,7,244,122,25,-97,Level A
+92,Category D,United States of America,Yashaswini Ayithi,1000,11,4,168,143,30,-113,Level A
+93,Category D,Costa Rica,Sharon Jimena Duarte Castillo,1000,10,1,163,166,29,-137,Level A
+94,Category D,Peru,Alessandra Zea Bereche,1000,7,2,114,177,22,-155,Level A
+95,Category D,,Peralta Solis Nahomi,1000,11,3,71,196,24,-172,Level A
+96,Category D,Bermuda,Olga Gontcharova,1301,10,0,123,202,20,-182,Level A
+97,Category D,,LISELI MULALA,1000,1,0,0,0,0,,Level A
+98,Category D,Trinidad & Tobago,Aradhana Ramnarine Singh,1211,1,0,0,0,0,,Level A

@@ -1,0 +1,69 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Africa all,Nigeria,Emmanuella Trust Enomah,1808,1,0,20,33,65,32,Level A
+2,Africa all,Zimbabwe,Christine Makwena,1614,6,3,70,54,50,-4,Level A
+3,Africa all,Nigeria,Pelomoh Jessica,1974,10,7,285,53,41,-12,Level A
+4,Africa all,Botswana,Gabatshwarwe Refilwe,1798,11,7,280,65,47,-18,Level A
+5,Africa all,Botswana,Onkemetse Francis,1787,11,9,353,61,40,-21,Level A
+6,Africa all,Cote d’Ivoire,Marie Yavo Tchetche,1343,11,5,230,64,40,-24,Level A
+7,Africa all,Uganda,Peninah Nakabo,1709,11,8,307,70,44,-26,Level A
+8,Africa all,Madagascar,Faratiana Raharimanana,1687,11,7,283,71,41,-30,Level A
+9,Africa all,Kenya,Sasha Mongeli,1574,11,8,354,67,37,-30,Level A
+10,Africa all,Botswana,Masaiti Besa,1708,10,7,235,69,37,-32,Level A
+11,Africa all,Malawi,Shriyan Santosh Priyasha,1422,11,8,396,69,35,-34,Level A
+12,Africa all,South Africa,Chloe Badenhorst,1439,11,8.5,306,74,39,-35,Level A
+13,Africa all,Uganda,Ampaire Shakira,1673,11,5,356,79,41,-38,Level A
+14,Africa all,Cote d’Ivoire,Ayemou Mazan Emmanuela Esther,1000,11,6,312,72,34,-38,Level A
+15,Africa all,Kenya,Madelta Glenda,1420,11,6,202,80,41,-39,Level A
+16,Africa all,Botswana,Naledi Marape,1734,9,6.5,184,78,38,-40,Level A
+17,Africa all,Uganda,Ivy Claire Amoko,1862,11,9,340,81,40,-41,Level A
+18,Africa all,Botswana,Moshoboro Arona,1329,11,7,323,78,36,-42,Level A
+19,Africa all,Uganda,Hannah Zion Mawejje,1000,11,5.5,295,83,37,-46,Level A
+20,Africa all,Sudan,Elizabeth Emile Nagib Tanyous,1472,11,6.5,214,87,40,-47,Level A
+21,Africa all,Malawi,Banda Tapiwa,1114,11,6,254,83,36,-47,Level A
+22,Africa all,Botswana,Maya Otimile,1079,10,3.5,213,87,39,-48,Level A
+23,Africa all,Malawi,Dutt Lakshita,1460,10,5,283,82,34,-48,Level A
+24,Africa all,Ghana,Angel-Jordan Quansah,1000,11,5,303,80,32,-48,Level A
+25,Africa all,Kenya,Elizabeth Cassidy Maina,1000,11,7,304,86,37,-49,Level A
+26,Africa all,Togo,Ama Edoh,1000,11,5,379,83,33,-50,Level A
+27,Africa all,Kenya,Lucy Wanjiru,1619,10,5.5,293,91,38,-53,Level A
+28,Africa all,Morocco,Kenza Chouki,1370,11,6,286,90,37,-53,Level A
+29,Africa all,Malawi,Linda Jambo,1450,11,6,245,86,33,-53,Level A
+30,Africa all,Mauritius,Chethanah Andhin,1000,11,7,286,93,38,-55,Level A
+31,Africa all,Ghana,Claudia Adomah Danso,1000,11,5,263,92,37,-55,Level A
+32,Africa all,Malawi,Ellen Mpinganjira,1360,11,5,211,91,36,-55,Level A
+33,Africa all,Uganda,Christine Namaganda,1661,10,5,305,96,40,-56,Level A
+34,Africa all,Botswana,Laone Phoebe Moshoboro,1200,9,3,192,88,32,-56,Level A
+35,Africa all,Ghana,Tobi Felix,1448,10,4,186,98,41,-57,Level A
+36,Africa all,Morocco,Chaimaa Alaoui Belghiti,1703,11,6,228,99,40,-59,Level A
+37,Africa all,Madagascar,Lalaina Vololona Razafimahefa,1416,11,6,290,92,33,-59,Level A
+38,Africa all,,Christina Razafiharison,1000,11,6.5,257,96,36,-60,Level A
+39,Africa all,Sudan,Ibtihal Mohammed,1491,11,8,238,100,38,-62,Level A
+40,Africa all,Ghana,Angela Naa Amerley Ayiku,1393,10,4.5,361,96,34,-62,Level A
+41,Africa all,Nigeria,Hafsat Belo-osagie,,9,5,189,98,35,-63,Level A
+42,Africa all,Madagascar,Bakoly Razafindrabe,1208,11,6,289,96,33,-63,Level A
+43,Africa all,Kenya,Cheryl Ngima,1375,11,5,234,99,35,-64,Level A
+44,Africa all,Ghana,Christiana Naa Merley Ashley,1221,11,5.5,261,101,36,-65,Level A
+45,Africa all,Mauritius,Aamirah Beekhy,1373,11,4.5,279,101,33,-68,Level A
+46,Africa all,Cote d’Ivoire,Ayemou Akissi Victoire Sinchie,1000,11,4,201,106,34,-72,Level A
+47,Africa all,South Africa,Micaela Francis Staal,1443,11,6,272,105,32,-73,Level A
+48,Africa all,Togo,Ivana Claudia Eyram De Souza,1108,11,5,208,105,32,-73,Level A
+49,Africa all,Malawi,Susan Namangale,1299,11,6,226,115,33,-82,Level A
+50,Africa all,Ghana,Pearl Addo,1000,10,3,209,118,29,-89,Level A
+51,Africa all,Zimbabwe,Tendai Muzadzi,1000,9,3,117,130,30,-100,Level A
+52,Africa all,Malawi,Kaliwo Tamara,1000,11,5,214,134,33,-101,Level A
+53,Africa all,Cote d’Ivoire,Madeleine Lorng Yowel,1043,10,3,149,130,29,-101,Level A
+54,Africa all,Sudan,Fatima Hassan Mustafa,1000,11,4,195,143,31,-112,Level A
+55,Africa all,Burundi,Iradukunda Darlene,1000,8,1,120,150,26,-124,Level A
+56,Africa all,Togo,Akua Kosife Esse,1329,6,2,77,156,27,-129,Level A
+57,Africa all,Burundi,Mugisha Noella,1000,7,2,96,151,20,-131,Level A
+58,Africa all,Togo,Amivi Lilas-Danielle Aziankpor,1000,9,2,78,168,27,-141,Level A
+59,Africa all,Togo,Afiwa Nicole Sagbo,1115,9,1,134,166,23,-143,Level A
+60,Africa all,,Matin Arielle Sharon Kapie,1000,10,1,120,210,21,-189,Level A
+61,Africa all,Burundi,Riragendanwa-Kaneza Arielle,1000,10,3,113,218,27,-191,Level A
+62,Africa all,,Golden Elsy Marielle Koukou,1000,11,4,94,243,23,-220,Level A
+63,Africa all,Sudan,Najwa Mohamed Ahmed,1402,1,0,0,0,0,,Level A
+64,Africa all,Malawi,Chazemba Lucy,1066,1,0,0,0,0,,Level A
+65,Africa all,Malawi,Jayloss Rachel,1000,1,0,0,0,0,,Level A
+66,Africa all,Botswana,Boitumelo Radikoro,1475,2,0,0,0,0,,Level A
+67,Africa all,Nigeria,Iyefu Joy Onoja,1768,1,0,0,0,0,,Level A
+68,Africa all,Burundi,Sezerano Arlene Antoine,1000,1,0,0,0,0,,Level A

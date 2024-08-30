@@ -1,0 +1,61 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open,Kazakhstan,Kazybek Nogerbek,2328,7,4,260,30,56,26,Level A
+2,Open,Philippines,Michael Jr. Concio,2297,7,5.5,215,31,53,22,Level A
+3,Girls,Bangladesh,Anjum Noshin,1902,7,4,261,39,56,17,Level A
+4,Open,,Rohith Krishna S,2304,7,5,346,35,51,16,Level A
+5,Open,Iran,Amirreza Pour Agha Bala,2432,7,5.5,262,38,52,14,Level A
+6,Open,India,Raja Rithvik R,2408,7,5.5,337,45,54,9,Level A
+7,Open,Philippines,Daniel Quizon,2319,7,4.5,257,40,49,9,Level A
+8,Open,Mongolia,Sumiya Chinguun,2269,7,4,323,42,50,8,Level A
+9,Open,India,Kushagra Mohan,2351,7,3.5,318,41,49,8,Level A
+10,Open,India,Srihari L R,2414,7,4.5,286,46,51,5,Level A
+11,Girls,India,Jyothsna L,1855,7,5.5,280,42,46,4,Level A
+12,Girls,Kazakhstan,Zeinep Sultanbek,1846,7,4.5,215,50,53,3,Level A
+13,Open,Malaysia,Lye Lik Zang,2358,7,4,299,48,51,3,Level A
+14,Girls,China,Song Yuxin,2290,7,6,242,45,48,3,Level A
+15,Open,Kyrgyzstan,Aziz Degenbaev,1816,7,3.5,285,51,51,0,Level A
+16,Girls,Sri Lanka,MMWH MAPA,1429,7,2.5,225,52,50,-2,Level A
+17,Open,Yemen,Khaled waleed Abdullah,1568,7,2.5,279,57,54,-3,Level A
+18,Girls,China,Youyang Cai,2040,7,4.5,203,54,51,-3,Level A
+19,Open,Malaysia,Rohan Shan Tze Navaratnam,2071,7,4,229,58,52,-6,Level A
+20,Girls,India,Mukherjee Bristy,1924,7,4,182,56,50,-6,Level A
+21,Girls,Philippines,Jerlyn Mae San Diego,1836,7,3.5,237,52,46,-6,Level A
+22,Open,China,Renjie Huang,2422,7,5.5,232,56,49,-7,Level A
+23,Girls,India,Mrudul Dehankar,2256,7,4.5,219,53,46,-7,Level A
+24,Open,Australia,Michael OSTAPENKO,1964,7,4.5,225,62,54,-8,Level A
+25,Girls,India,Mahendra Teja Mekala,1869,7,3,352,51,43,-8,Level A
+26,Open,,Amartuvshin Ganzorig,2350,7,4,245,60,51,-9,Level A
+27,Girls,United Arab Emirates,Nour Saleh Jasim,1164,7,2,201,52,43,-9,Level A
+28,Open,China,Hao Wu,1995,7,3.5,226,60,50,-10,Level A
+29,Girls,Iran,Seyede Setare Sebt Rasoul,2012,7,4.5,261,57,47,-10,Level A
+30,Girls,Sri Lanka,Ashvini Pavalachandran,1722,7,3,277,56,43,-13,Level A
+31,Girls,Mongolia,Altantuya Boldbaatar,2263,7,4,260,62,48,-14,Level A
+32,Open,Kazakhstan,Aituar Zhukenov,2144,7,3,329,57,43,-14,Level A
+33,Open,Iran,Seyed Kian Poormosavi,2255,7,3,230,68,53,-15,Level A
+34,Open,,Saksham Rautela,2480,7,3.5,256,61,46,-15,Level A
+35,Open,Bangladesh,Islam Mortuza Mahathir,1829,7,3.5,201,57,41,-16,Level A
+36,Open,Singapore,Cyrus Nisban,1854,7,3,251,66,49,-17,Level A
+37,Open,,Yeoh Yuan Hui Yeoh,1728,7,2,228,66,48,-18,Level A
+38,Open,Guam,Cyle Sarmiento,1230,7,2.5,241,64,46,-18,Level A
+39,Girls,Kyrgyzstan,Nurai Sovetbekova,1608,7,5,255,63,45,-18,Level A
+40,Girls,Kazakhstan,Nazerke Nurgali,2217,7,4,358,62,44,-18,Level A
+41,Girls,Malaysia,Jia Ru Sim,2005,7,4,306,62,44,-18,Level A
+42,Girls,India,Rakshitta Ravi,2190,7,5,273,71,50,-21,Level A
+43,Open,,Tran Dang Minh Quang VIE,2077,7,3,259,63,41,-22,Level A
+44,Girls,,Nanjid Tsogzolmaa,1895,7,3.5,226,65,42,-23,Level A
+45,Open,Lebanon,Akram Khoder,1829,7,3,260,72,45,-27,Level A
+46,Girls,China,Shujun Zhou,1716,7,3.5,272,72,42,-30,Level A
+47,Open,Indonesia,Jan Adiar Malik,2027,7,2.5,248,72,41,-31,Level A
+48,Girls,Australia,Sulia Van Sebille,1576,6,2,169,73,40,-33,Level A
+49,Open,Palestine,Nidal Ahmed,1802,7,3,281,76,41,-35,Level A
+50,Girls,Sri Lanka,M Tharushi Sandeepani,1706,7,2.5,204,76,41,-35,Level A
+51,Girls,India,Nayanikaa Muralidharan,1621,7,3,163,79,42,-37,Level A
+52,Open,"Hong Kong, China",Gerent Lee,1432,7,2,257,80,40,-40,Level A
+53,Open,United Arab Emirates,Hamad Bader,1685,7,1,187,88,47,-41,Level A
+54,Open,Sri Lanka,Kevin Ranindu Silva,1958,7,3.5,267,88,42,-46,Level A
+55,Open,Maldives,Mohamed rayyan Adam Shakir,,7,0,170,81,34,-47,Level A
+56,Girls,"Hong Kong, China",Hoi Yau Ashley Cheung,,6,0.5,186,91,41,-50,Level A
+57,Girls,Palestine,Samar Natsheh,1124,6,2,137,93,34,-59,Level A
+58,Girls,Lebanon,Jennifer Abdallah,1056,6,0.5,87,108,38,-70,Level A
+59,Girls,Maldives,Nuha Rilwan,1102,6,2,139,110,31,-79,Level A
+60,Girls,Yemen,Hadil Hesham Al Nuzili,,2,0,1,876,0,-876,Level A

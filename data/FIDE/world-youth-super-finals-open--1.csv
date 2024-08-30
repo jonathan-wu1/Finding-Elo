@@ -1,0 +1,31 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open 12,India,Mrinmoy Rajkhowa,1634,4,2.5,205,26,60,34,Level D
+2,Open 12,Ukraine,Ihor Samunenkov,2369,8,6.5,333,29,60,31,Level D
+3,Open 12,United States of America,Abhimanyu Mishra,2510,8,6.5,369,27,55,28,Level D
+4,Open 16,FIDE,Volodar Murzin,2519,10,6.5,342,34,58,24,Level D
+5,Open 14,Kazakhstan,Aldiyar Ansat,2366,10,6,452,31,53,22,Level C
+6,Open 16,Azerbaijan,Khazar Babazada,2429,10,6,242,36,57,21,Level D
+7,Open 10,India,Ethan Vaz,1384,10,7,547,31,50,19,Level C
+8,Open 18,Russia,Ilya Makoveev,2322,10,6.5,236,42,59,17,Level D
+9,Open 16,Azerbaijan,Read Samadov,2375,10,5.5,345,42,57,15,Level D
+10,Open 14,Turkiye,Ediz Gurel,2390,10,7,482,35,50,15,Level C
+11,Open 14,Greece,Dimitrios Makridis,2082,10,6,465,41,53,12,Level C
+12,Open 16,India,Aaryan Varshney,2277,10,5,331,41,52,11,Level D
+13,Open 18,Greece,Nikolaos Spyropoulos,2445,10,8.5,397,41,52,11,Level C
+14,Open 14,Slovenia,Rudi Olenik Campa,2102,10,5.5,388,44,54,10,Level C
+15,Open 10,Vietnam,Dau Khuong Duy,1754,10,4.5,562,34,44,10,Level C
+16,Open 18,India,Harshavardhan G B,2397,10,6.5,339,49,53,4,Level C
+17,Open 10,Turkiye,Yagiz Kaan Erdogmus,2276,10,8,394,47,51,4,Level C
+18,Open 16,India,V Pranav,2486,10,6,331,47,51,4,Level C
+19,Open 10,India,Sathvik Adiga,1374,10,3,486,47,51,4,Level C
+20,Open 12,Russia,Ivan Zemlyanskii,2169,10,4,358,48,50,2,Level C
+21,Open 18,Georgia,Akaki Qalichava,2071,10,3.5,446,52,52,0,Level C
+22,Open 12,China,Xiangrui Kong,1950,10,3.5,429,48,47,-1,Level B
+23,Open 10,Argentina,Ilan Schnaider,2106,10,4.5,415,47,46,-1,Level B
+24,Open 14,Belarus,Mikhei Navumenka,2114,10,2,402,52,50,-2,Level C
+25,Open 14,India,Shahil Dey,2400,10,3.5,390,51,49,-2,Level C
+26,Open 10,Vietnam,Quang Minh Nguyen,1423,10,3,414,55,49,-6,Level B
+27,Open 12,Iran,Barad Yeganegi,1855,8,1,331,53,47,-6,Level B
+28,Open 18,Sri Lanka,Ranindu Dilshan Liyanage,2300,10,4,335,59,47,-12,Level C
+29,Open 16,Sri Lanka,L M S T De Silva,2131,10,1,243,64,46,-18,Level C
+30,Open 18,Azerbaijan,Ughur Ilyasli,2310,10,1,345,67,48,-19,Level C

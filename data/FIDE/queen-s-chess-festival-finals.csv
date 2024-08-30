@@ -1,0 +1,43 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Category A,India,Vantika Agrawal,2286,7,3.5,289,48,48,0,Level C
+2,Category A,Italy,Olga Zimina,2348,7,5,237,49,45,-4,Level B
+3,Category D,Indonesia,Shafira Devi Herfesa,1000,10,9.5,313,49,44,-5,Level B
+4,Category C,Ecuador,Analia Karen Miranda Vargas,1520,11,9,267,57,51,-6,Level C
+5,Category C,Paraguay,Helen Montiel Caceres,1619,11,7,284,58,49,-9,Level B
+6,Category A,Ecuador,Martha L. Fierro Baquero,2359,7,5,287,53,44,-9,Level B
+7,Category A,Singapore,Qianyun Gong,2347,7,4.5,222,59,45,-14,Level C
+8,Category D,England,Anusha Subramanian,1000,11,8.5,418,54,39,-15,Level A
+9,Category B,Colombia,Angela Franco Valencia,2089,9,7.5,265,61,43,-18,Level B
+10,Category A,Switzerland,Ghazal Hakimifard,2270,7,4,157,64,45,-19,Level B
+11,Category A,Colombia,Valentina Argote Heredia,2191,7,1,293,63,44,-19,Level A
+12,Category C,Sri Lanka,K M Dahamdi Sanudula,1717,11,8.5,516,63,44,-19,Level A
+13,Category B,England,Kamila Hryshchenko,2048,9,5.5,323,69,49,-20,Level C
+14,Category B,Georgia,Lile Koridze,2016,9,8,281,65,45,-20,Level B
+15,Category A,China,Tianqi Yan,2207,7,3.5,241,69,48,-21,Level C
+16,Category B,Argentina,Candela Be Francisco Guecamburu,2034,9,5,383,68,46,-22,Level B
+17,Category C,Philippines,Francois Marie Magpily,1757,11,8.5,436,68,44,-24,Level A
+18,Category D,England,Mae Katelyn Rose Catabay,1215,10,2,247,68,43,-25,Level A
+19,Category A,Brazil,Julia Alboredo,2182,7,1.5,269,65,39,-26,Level A
+20,Category B,China,Xiao Zhang,2091,9,3,458,76,49,-27,Level B
+21,Category B,England,Louise Head,2090,9,4,399,71,44,-27,Level B
+22,Category D,India,Pournami S,1276,10,6,282,73,45,-28,Level B
+23,Category C,Greece,Maria Tsakona,1576,11,7,300,75,46,-29,Level B
+24,Category D,Malawi,Shriyan Santosh Priyasha,1422,10,6,324,70,41,-29,Level A
+25,Category D,Ecuador,Camila Estefania Palacios Gordillo,1270,11,7,321,73,43,-30,Level A
+26,Category C,Kazakhstan,Elnaz Kaliakhmet,1528,11,8,412,71,41,-30,Level A
+27,Category C,Kenya,Sasha Mongeli,1574,11,1,304,70,40,-30,Level A
+28,Category B,Singapore,Mei-En Emmanuelle Hng,2013,9,5.5,279,77,44,-33,Level A
+29,Category C,Azerbaijan,Aytaj Heydarova,1747,11,5,340,75,40,-35,Level A
+30,Category D,South Africa,Chloe Badenhorst,1439,11,5,266,76,40,-36,Level A
+31,Category C,Botswana,Onkemetse Francis,1787,11,3,303,76,38,-38,Level A
+32,Category B,Uganda,Ivy Claire Amoko,1862,9,1,330,80,41,-39,Level A
+33,Category B,India,Srimathi R,1944,9,2.5,385,79,39,-40,Level A
+34,Category D,Ecuador,Arlette Guerrero Caicedo,1360,10,3.5,282,89,40,-49,Level A
+35,Category B,Brazil,Suzana Chang,2034,9,3,329,87,38,-49,Level A
+36,Category D,Sri Lanka,Devindya Oshini Gunawardhana,1373,11,7.5,290,89,39,-50,Level A
+37,Category C,England,Nina Pert,1537,11,6,359,93,39,-54,Level A
+38,Category D,Sudan,Ibtihal Mohammed,1491,9,0,260,92,38,-54,Level A
+39,Category C,Uganda,Peninah Nakabo,1709,11,1,329,93,38,-55,Level A
+40,Category D,Greece,Vaia Tsekoura,1468,11,5,316,99,41,-58,Level A
+41,Category C,Uruguay,Sofia Roepke,1589,11,2,368,104,38,-66,Level A
+42,Category D,El Salvador,Marielos Vasquez Vasquez,1498,6,0,0,0,0,,Level A

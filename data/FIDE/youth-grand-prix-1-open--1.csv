@@ -1,0 +1,53 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open 12,Kazakhstan,Edgar Mamedov,2086,9,7,340,29,56,27,Level D
+2,Open 16,Azerbaijan,Khazar Babazada,2427,10,9,291,32,58,26,Level D
+3,Open 16,India,V Pranav,2328,10,8.5,464,31,54,23,Level C
+4,Open 18,Russia,Ilya Makoveev,2322,8,5.5,159,40,60,20,Level D
+5,Open 16,Ukraine,Artem Lutsko,,10,6.5,351,36,53,17,Level C
+6,Open 16,Malaysia,Yu Tian Poh,2081,10,3,477,37,53,16,Level C
+7,Open 16,Sri Lanka,L M S T De Silva,2085,10,6,412,43,58,15,Level D
+8,Open 14,Slovenia,Rudi Olenik Campa,,8,4.5,284,35,50,15,Level C
+9,Open 14,Russia,Erdem Khubukshanov,,8,6.5,216,40,54,14,Level C
+10,Open 10,Vietnam,Quang Minh Nguyen,1423,8,7,292,37,51,14,Level C
+11,Open 12,India,Kshatriya Nitin Vekhande,1782,9,5,365,41,54,13,Level C
+12,Open 12,Russia,Ivan Zemlyanskii,,9,8,365,38,51,13,Level C
+13,Open 10,Azerbaijan,Khagan Ahmad,1846,9,7,294,39,51,12,Level C
+14,Open 16,Azerbaijan,Read Samadov,2375,10,7,299,42,53,11,Level C
+15,Open 14,India,Bharath Subramaniyam H,1888,8,5.5,305,40,50,10,Level C
+16,Open 14,China,Yuan Chen,,8,5.5,304,45,53,8,Level C
+17,Open 16,India,Samant Aditya S,2297,10,4.5,370,43,48,5,Level B
+18,Open 16,India,Rohith Krishna S,2304,10,5.5,476,44,48,4,Level B
+19,Open 12,China,Xiangrui Kong,,9,5.5,393,48,51,3,Level C
+20,Open 12,Russia,Semen Novozhilov,,9,6,357,46,49,3,Level C
+21,Open 10,Russia,Gleb Radionenko,1267,9,4.5,261,50,52,2,Level C
+22,Open 10,Iran,Barad Yeganegi,,7,5.5,302,52,52,0,Level C
+23,Open 16,India,Aaryan Varshney,2277,10,3.5,429,50,50,0,Level C
+24,Open 12,Kyrgyzstan,Emir Sharshenbekov,1794,9,3,370,50,50,0,Level C
+25,Open 14,Greece,Dimitrios Makridis,2080,8,3.5,317,47,47,0,Level B
+26,Open 18,Nigeria,Isaac Chukwudalu Okeke,2179,7,2.5,136,56,54,-2,Level C
+27,Open 18,Spain,Aaron Alonso Garcia,2367,8,4.5,272,53,51,-2,Level C
+28,Open 10,,Adiga Sathvik,1374,8,5,319,52,49,-3,Level B
+29,Open 10,Vietnam,Duong Vu Anh,1513,9,5,330,49,46,-3,Level B
+30,Open 18,India,Saksham Rautela,2480,8,5,202,58,54,-4,Level C
+31,Open 18,Sri Lanka,Ranindu Dilshan Liyanage,1926,8,5.5,189,53,49,-4,Level C
+32,Open 14,India,Shahil Dey,1799,9,6.5,274,61,53,-8,Level C
+33,Open 18,Georgia,Akaki Qalichava,2042,9,4,273,65,55,-10,Level D
+34,Open 10,New Zealand,Daqi Mao,1823,9,4,349,59,48,-11,Level B
+35,Open 12,Ghana,Amoako Philip Selikem Yao,1386,9,1.5,341,61,48,-13,Level B
+36,Open 16,Egypt,Kevin George Micheal,,10,1.5,395,60,45,-15,Level B
+37,Open 10,Tunisia,Mahmoud Ammous,1323,7,0,263,59,43,-16,Level B
+38,Open 12,Vietnam,Nho Kiet Dinh,1792,9,4,311,65,48,-17,Level B
+39,Open 18,Sri Lanka,G M H Thilakarathne,2398,8,2.5,298,69,51,-18,Level C
+40,Open 14,Georgia,Nikolozi Shamatava,1768,8,1.5,292,66,48,-18,Level B
+41,Open 10,United States of America,Tariq Yue,,9,3,251,62,44,-18,Level B
+42,Open 18,Egypt,David George Samir,1804,8,2,199,71,48,-23,Level C
+43,Open 16,Tunisia,Ajili Rayen,1528,10,0,352,67,44,-23,Level B
+44,Open 14,India,Sahib Singh,1745,8,2,294,72,46,-26,Level B
+45,Open 14,Egypt,Hamed Wafa,,9,2.5,258,70,41,-29,Level A
+46,Open 12,Egypt,Martin Mena,1701,9,4,333,74,41,-33,Level A
+47,Open 18,Azerbaijan,Ughur Ilyasli,2341,7,4.5,182,83,49,-34,Level C
+48,Open 10,Nigeria,Odey Goodness Ekunke,1748,6,0,50,81,38,-43,Level B
+49,Open 12,Azerbaijan,Ziya Hasanli,,9,1,249,94,41,-53,Level A
+50,Open 14,Mauritania,Taleb Mohamed Mohamed Abderrahim,1862,2,0,0,0,0,,Level A
+51,Open 10,Argentina,Agustin Duarte,1500,1,0,0,0,0,,Level B
+52,Open 18,China,Kaifeng Yu,2344,1,0,0,0,0,,Level D

@@ -1,0 +1,108 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Category D,Turkiye,Zeren Haktanirlar,1294,10,7,261,45,47,2,Level D
+2,Category B,Turkiye,Cisel Anacoglu,1924,8,1,152,49,48,-1,Level B
+3,Category A,Denmark,Esmat Susanne Guindy,2100,6,2,199,50,47,-3,Level B
+4,Category A,Italy,Olga Zimina,2348,7,5,173,56,50,-6,Level C
+5,Category B,England,Zoe Varney,1917,8,4.5,243,56,47,-9,Level B
+6,Category A,Switzerland,Monika Mueller-Seps,2237,6,2.5,188,54,44,-10,Level A
+7,Category A,Czech Republic,Eliska Richtrova,2186,7,4.5,238,59,48,-11,Level B
+8,Category A,Czech Republic,Olga Sikorova,2215,7,5,258,60,48,-12,Level B
+9,Category D,England,Lindsay Pyun,1000,11,6,351,54,41,-13,Level A
+10,Category A,Ukraine,Maryana Huda,2128,7,4.5,186,60,45,-15,Level B
+11,Category B,Georgia,Lile Koridze,2016,9,8.5,264,57,42,-15,Level A
+12,Category D,England,Anusha Subramanian,1000,11,8,399,61,44,-17,Level B
+13,Category D,Greece,Evgenia Valeria Platsaki,1201,11,6,276,58,41,-17,Level A
+14,Category C,Azerbaijan,Aytaj Heydarova,1747,9,7,322,64,46,-18,Level B
+15,Category A,Azerbaijan,Sabina Ibrahimova,2213,7,4,189,59,41,-18,Level A
+16,Category B,Romania,Andreea-Cristina Nastase,2074,9,4.5,306,65,46,-19,Level B
+17,Category B,Italy,Gaia Paolillo,2069,9,4.5,287,62,43,-19,Level A
+18,Category D,Turkiye,Arya Aydogan,1155,11,7.5,405,62,43,-19,Level A
+19,Category C,Greece,Maria Tsakona,1576,9,8,226,61,42,-19,Level A
+20,Category D,Turkiye,Ela Bursali,1274,10,6,295,58,39,-19,Level A
+21,Category B,Czech Republic,Anna Marie Koubova,2089,9,4.5,296,56,37,-19,Level A
+22,Category B,Belgium,Marigje Degrande,1902,9,5,300,67,47,-20,Level B
+23,Category D,England,Rebecca Correa,1000,11,5,247,63,43,-20,Level A
+24,Category B,England,Kamila Hryshchenko,2048,9,7,287,61,41,-20,Level A
+25,Category D,Georgia,Mariam Tsetskhladze,1477,11,7,290,70,48,-22,Level B
+26,Category C,Scotland,Alice Lampard,1763,9,5.5,359,63,41,-22,Level A
+27,Category D,England,Olga L Latypova,1194,11,6,349,61,39,-22,Level A
+28,Category D,Turkiye,Deniz Karasakal,1490,11,6.5,436,66,43,-23,Level A
+29,Category D,England,Elis Denele Dicen,1379,10,7,435,62,37,-25,Level A
+30,Category A,Denmark,Oksana Kryger,2105,6,1.5,101,71,45,-26,Level B
+31,Category B,Switzerland,Gohar Tamrazyan,1892,8,2.5,320,71,44,-27,Level A
+32,Category D,Turkiye,Defne Senkal,1230,11,6,311,71,44,-27,Level A
+33,Category B,Georgia,Tamari Esadze,1921,9,6.5,357,78,50,-28,Level C
+34,Category B,England,Audrey Kueh,2080,9,5,264,77,48,-29,Level C
+35,Category D,England,Alisha Vyas,1282,11,7,326,68,39,-29,Level A
+36,Category D,Slovakia,Natalia Szotkovska,1000,10,4.5,186,73,43,-30,Level B
+37,Category B,Ireland,Lara Putar,1930,9,5,299,71,41,-30,Level A
+38,Category C,Austria,Lea Stadlinger,1620,9,5,191,73,42,-31,Level A
+39,Category A,Ireland,Trisha Kanyamarala,2180,6,3,227,72,41,-31,Level A
+40,Category B,England,Louise Head,2090,9,7,346,71,40,-31,Level A
+41,Category D,Greece,Vaia Tsekoura,1468,11,8.5,377,71,39,-32,Level A
+42,Category C,England,Agnieszka Milewska,1677,2,0,84,76,43,-33,Level A
+43,Category B,Belgium,Diana Musabayeva,1873,9,5,223,75,42,-33,Level A
+44,Category C,England,Karin Silvana Bayona,1793,6,2,240,68,35,-33,Level A
+45,Category D,England,Shambavi Hariharan,1000,11,7.5,356,68,35,-33,Level A
+46,Category C,England,Hambel M Willow,1595,9,4.5,353,73,39,-34,Level A
+47,Category C,Italy,Anna Dentale,1730,9,6,314,73,39,-34,Level A
+48,Category D,England,Mae Katelyn Rose Catabay,1215,11,8.5,352,79,44,-35,Level A
+49,Category B,England,Petra Fink-Nunn,1966,8,1.5,207,77,40,-37,Level A
+50,Category A,Croatia,Anamarija Radikovic,2110,6,2,174,75,38,-37,Level A
+51,Category C,Greece,Virginia Psoma,1538,9,4,277,80,42,-38,Level A
+52,Category B,Scotland,Ali Roy,1878,8,2.5,243,74,36,-38,Level A
+53,Category B,England,Meri Grigoryan,2044,9,4,276,82,43,-39,Level A
+54,Category D,Belgium,Lotus Decraene,1263,11,6,310,81,41,-40,Level A
+55,Category D,Turkiye,Yagmur Bolu,1499,11,6.5,261,77,37,-40,Level A
+56,Category A,Slovakia,Monika Rojickova,2124,6,0,154,86,45,-41,Level B
+57,Category A,Switzerland,Ghazal Hakimifard,2270,7,5,165,82,40,-42,Level A
+58,Category B,Latvia,Renate Vidruska,2000,9,5,273,82,40,-42,Level A
+59,Category C,Turkiye,Bengu Sena Ayan,1782,9,5.5,186,81,39,-42,Level A
+60,Category C,Czech Republic,Adela Trasakova,1792,9,5.5,301,83,40,-43,Level A
+61,Category C,England,Eugenia Karas,1584,9,4.5,289,79,36,-43,Level A
+62,Category C,Italy,Sara Duse Elena Celati,1763,9,4,270,83,39,-44,Level A
+63,Category D,Slovakia,Petra Deverova,1414,11,4.5,260,89,44,-45,Level B
+64,Category C,Austria,Lotte Stockhammer,1627,8,3,199,84,39,-45,Level A
+65,Category B,Switzerland,Angie Pecorini,1930,8,3,181,84,39,-45,Level A
+66,Category C,England,Imogen Dicen,1630,9,4.5,369,80,35,-45,Level A
+67,Category C,Turkiye,Ecrin Efsa Buyuk,1788,9,5,234,80,35,-45,Level A
+68,Category D,Czech Republic,Vera Marie Krejci,1470,11,6,297,92,46,-46,Level B
+69,Category D,England,Radha Ratnesan,1497,11,6,257,82,35,-47,Level A
+70,Category B,Austria,Helene Mira,2082,9,4.5,256,85,37,-48,Level A
+71,Category C,England,Nina Pert,1537,8,5.5,229,89,40,-49,Level A
+72,Category D,Italy,Marisa Cucoch,1476,10,1,132,87,38,-49,Level A
+73,Category D,England,Shrishti Shiva,1000,10,4,301,80,31,-49,Level A
+74,Category B,Iceland,Lisseth Acevedo Mendez,1829,8,3,190,89,38,-51,Level A
+75,Category D,Ireland,Polly McCormick,1000,11,4.5,289,88,36,-52,Level A
+76,Category C,Georgia,Anastasia Kirtadze,1719,9,5,287,91,38,-53,Level A
+77,Category D,Austria,Borbala Gritsch,1432,10,4.5,278,90,37,-53,Level A
+78,Category A,Austria,Denise Trippold,2113,7,4,171,92,37,-55,Level A
+79,Category D,Greece,Maria Trivella,1141,7,4,179,95,39,-56,Level A
+80,Category B,Denmark,Thomine Stolberg-Rohr,1969,8,2.5,298,93,37,-56,Level A
+81,Category C,Slovakia,Katalin Engel,1550,8,0,239,94,36,-58,Level A
+82,Category D,England,Bryony Eccleston,1027,11,5,248,97,36,-61,Level A
+83,Category B,,C A,1906,9,4.5,294,100,38,-62,Level A
+84,Category B,Greece,Maria-Anna Stefanidi,1983,8,3,277,98,36,-62,Level A
+85,Category D,Iceland,Idunn Helgadottir,1243,11,6,226,101,38,-63,Level A
+86,Category B,Slovenia,Karmen Mar,2093,9,4,376,105,41,-64,Level A
+87,Category D,Denmark,Leia Andries,1212,11,6,284,108,38,-70,Level A
+88,Category D,Turkiye,Elvin Esma Buyuk,1272,11,5,260,105,35,-70,Level A
+89,Category D,England,Prachi Arora,1000,11,5,204,114,43,-71,Level A
+90,Category D,Turkiye,Busra Ozturk,1100,11,5,203,114,40,-74,Level A
+91,Category D,Denmark,Aase Morling,1453,10,3,269,112,33,-79,Level A
+92,Category C,Germany,Tiffany Kinzel,1786,8,2.5,177,122,38,-84,Level A
+93,Category D,Slovakia,Veronika Kroupova,1000,10,2,155,122,33,-89,Level A
+94,Category D,Finland,Johanna Tanni,1000,4,3,47,121,28,-93,Level A
+95,Category D,England,Diah Patel,1000,11,5,183,130,36,-94,Level A
+96,Category C,Austria,Miriam Moerwald,1743,8,1,173,126,30,-96,Level A
+97,Category D,,Chidvilasini Konda,1000,10,4,149,132,35,-97,Level A
+98,Category D,England,Naina Jaiswal,1000,10,3,201,142,33,-109,Level A
+99,Category D,Slovakia,Michaela Slavikova,1000,10,2,165,146,25,-121,Level A
+100,Category D,England,Florence Shearsby,1000,10,3,158,154,29,-125,Level A
+101,Category D,,Rishitha Vuppala,1000,10,2,132,170,28,-142,Level A
+102,Category C,Ukraine,Ksenia Lukianova,1798,1,0,0,0,0,,Level A
+103,Category A,Ukraine,Olga Babiy,2280,1,0,0,0,0,,Level B
+104,Category D,England,Ofelia Raluca Stroe,1000,1,0,0,0,0,,Level C
+105,Category D,,Taru Puhtila,1000,1,0,0,0,0,,Level A
+106,Category D,,Rose Saunders,1000,1,0,0,0,0,,Level A
+107,Category C,Denmark,Andrea Kongskov,1608,1,0,0,0,0,,Level B

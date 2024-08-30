@@ -1,0 +1,325 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open 10,"Hong Kong, China",Ziyang Jin,1185,10,7,356,33,60,27,Level D
+2,Girls 18,Indonesia,Aurellia Vania Winanda,1784,10,6.5,420,33,52,19,Level C
+3,Open 10,Vietnam,Duong Vu Anh,1513,10,7,392,36,52,16,Level C
+4,Girls 18,England,Nadia Jaufarally,1905,10,6.5,325,42,56,14,Level D
+5,Girls 18,Mongolia,Batkhishig Udval,1626,10,7,283,44,57,13,Level D
+6,Girls 18,Vietnam,Ngoc Thuy Duong Bach,2198,10,9,356,38,51,13,Level C
+7,Open 10,Kazakhstan,Mark Smirnov,1421,10,8.5,469,38,50,12,Level C
+8,Girls 18,Azerbaijan,Laman Hajiyeva,2000,10,6,497,40,51,11,Level C
+9,Open 10,India,Meesala Vamshi,1241,10,6.5,377,40,49,9,Level C
+10,Open 10,Azerbaijan,Khagan Ahmad,1750,10,9,362,41,49,8,Level C
+11,Open 10,United States of America,Jacob S Wang,1504,5,2,106,40,48,8,Level C
+12,Open 10,Canada,Mendes Aaron Reeve,1520,10,7,301,39,47,8,Level C
+13,Open 10,India,Darshan S,1712,10,6.5,431,38,45,7,Level C
+14,Open 10,Vietnam,Manh Duc Nguyen,1552,10,6.5,611,42,47,5,Level B
+15,Open 10,"Hong Kong, China",Shun Him Leung,1034,10,6.5,278,48,52,4,Level C
+16,Girls 18,Georgia,Tamari Esadze,1921,10,7.5,338,51,54,3,Level C
+17,Girls 18,Belarus,Aliaksandra Tarasenka,2061,10,8,385,48,50,2,Level C
+18,Girls 18,India,Sai Divya M,1869,10,6,412,47,49,2,Level B
+19,Open 10,Russia,Dmitriy Petukhov,1557,10,8,513,44,46,2,Level B
+20,Open 10,United States of America,Rohan Rajaram,1530,9,6,432,43,45,2,Level B
+21,Girls 18,Philippines,Alexandra Sydney Paez,1667,10,5,297,52,53,1,Level C
+22,Girls 18,Vietnam,Tran Gia Thu Pham,1630,10,7.5,538,45,46,1,Level B
+23,Open 10,Russia,Taimaz Temirbekov,1573,10,7.5,481,46,46,0,Level B
+24,Open 10,,Davaadorj Altansoyombo,,10,6.5,364,54,53,-1,Level C
+25,Open 10,India,Prajeesh B U,1159,10,6,376,51,50,-1,Level C
+26,Open 10,Turkiye,Gokdeniz Ekmekcioglu,1451,10,5.5,447,50,49,-1,Level B
+27,Open 10,,Ethan Vaz,1384,10,8,424,43,42,-1,Level B
+28,Girls 18,Algeria,Lina Nassr,1970,10,6.5,353,53,51,-2,Level C
+29,Open 10,Ukraine,Serhii Anuchyn,1227,10,5.5,332,46,44,-2,Level C
+30,Girls 18,India,Chandratreya Prachiti,1998,10,6,419,50,47,-3,Level B
+31,Girls 18,India,Arushi Kotwal,1854,10,5.5,406,54,50,-4,Level C
+32,Girls 18,Spain,Adhara Rodriguez Redondo,2138,10,6,411,50,46,-4,Level B
+33,Open 10,Cuba,Leandro Alvarez Alburquerque,1348,10,5.5,445,56,51,-5,Level C
+34,Open 10,Switzerland,Dimitri Aeschbacher,1577,10,6.5,289,54,49,-5,Level B
+35,Girls 18,Argentina,Anapaola S. Borda Rodas,2162,10,6,425,53,48,-5,Level B
+36,Open 10,Georgia,Data Qalabegashvili,1308,10,5.5,440,51,46,-5,Level B
+37,Open 10,Israel,Daniel Vardi,1202,10,6,435,50,45,-5,Level B
+38,Girls 18,India,Sanjana Raghunath,1726,10,6,379,57,51,-6,Level C
+39,Girls 18,Russia,Ekaterina Miroshnik,2234,10,7.5,378,55,49,-6,Level B
+40,Open 10,United States of America,Aditeya Das,,8,3.5,339,51,45,-6,Level B
+41,Open 10,Mongolia,Battur Tsolmon,1279,10,5.5,300,56,49,-7,Level B
+42,Open 10,Russia,Matfey Yurasov,1528,10,7.5,403,54,47,-7,Level B
+43,Girls 18,Spain,Lulu Zhou,2131,10,7,363,52,45,-7,Level B
+44,Open 10,England,George Zhao,,10,6,402,56,48,-8,Level B
+45,Open 10,Bolivia,Esdras Adrian Mamani Alvino,1240,10,5,386,55,47,-8,Level B
+46,Open 10,Vietnam,Quang Minh Nguyen,1423,10,8,334,54,46,-8,Level B
+47,Open 10,,Esquivel Levi Kalani Alexander Fogo,,10,5.5,365,53,45,-8,Level B
+48,Girls 18,India,Varshita Jain,1491,10,5,389,51,43,-8,Level A
+49,Open 10,,Akshaj Chaudhary,,10,5,345,56,47,-9,Level B
+50,Girls 18,Slovenia,Pia Marie Ruzic,1932,10,6.5,299,56,47,-9,Level B
+51,Open 10,New Zealand,William Rui Liu,1226,10,6,324,56,47,-9,Level B
+52,Open 10,Malaysia,Kavin Mohan,1649,10,7,314,60,50,-10,Level C
+53,Open 10,Turkiye,Eren Hazer,,10,4,332,60,50,-10,Level C
+54,Girls 18,India,Diya Chowdhury,1698,10,6,386,59,49,-10,Level B
+55,Open 10,India,Reyan Md.,1333,10,6,339,58,48,-10,Level B
+56,Open 10,India,Madhvendra Pratap Sharma,1043,10,6.5,376,57,47,-10,Level B
+57,Open 10,Peru,Mateo Henry Palomino Quispe,,10,6.5,422,56,46,-10,Level B
+58,Open 10,Philippines,Oshrie Jhames Reyes,1136,10,6.5,477,55,45,-10,Level B
+59,Girls 18,Belarus,Kseniya Zeliantsova,1970,10,6.5,225,63,52,-11,Level C
+60,Open 10,Vietnam,Dau Khuong Duy,1754,10,7.5,384,59,48,-11,Level B
+61,Open 10,Estonia,Kirill Gorkov,1178,10,5.5,312,57,46,-11,Level B
+62,Open 10,Brazil,Henrique Rocha Muniz,1237,10,5,319,57,46,-11,Level B
+63,Open 10,Singapore,Ee Rui Poon,1209,10,5.5,399,56,45,-11,Level B
+64,Girls 18,India,Bristy Mukherjee,1924,10,6.5,360,61,49,-12,Level B
+65,Girls 18,Azerbaijan,Govhar Beydullayeva,2264,9,6,412,59,47,-12,Level B
+66,Open 10,India,Jval Saurin Patel,1572,10,6,281,59,47,-12,Level B
+67,Girls 18,Slovenia,Nusa Hercog,2058,10,5,370,58,46,-12,Level B
+68,Girls 18,Peru,Heidy Nicole Garcia Andrada,1912,10,5,402,55,43,-12,Level A
+69,Open 10,Kyrgyzstan,Ruslan Momunaliev,1726,10,7,344,62,49,-13,Level B
+70,Girls 18,Argentina,Guadalupe Milagros Mayeregger,1731,10,6,310,62,49,-13,Level B
+71,Open 10,England,Jan Murawski,1108,10,6.5,460,61,48,-13,Level B
+72,Open 10,Brazil,Theo Magalhaes De Lima,1421,10,5.5,218,60,47,-13,Level B
+73,Girls 18,Spain,Maria Eizaguerri Floris,2304,10,6.5,308,59,46,-13,Level B
+74,Open 10,,Munkhzul Batmanlai,,10,4.5,413,59,46,-13,Level B
+75,Open 10,,Battuvshin Amartuvshin,,10,5,363,59,46,-13,Level B
+76,Girls 18,Bolivia,Alejandra Callata,1502,9,4,380,57,44,-13,Level A
+77,Girls 18,,Udval Enkhsaikhan,1710,10,6,372,57,44,-13,Level A
+78,Open 10,Peru,Oscar Adriano Coaquira Gonzales,1045,10,5,332,56,43,-13,Level A
+79,Open 10,Chile,Christopher Munoz Ramos,1627,10,8,409,55,42,-13,Level A
+80,Open 10,Scotland,Neev Lukhi,,10,5,339,53,40,-13,Level A
+81,Girls 18,Canada,Svitlana Demchenko,2089,10,6.5,368,62,48,-14,Level B
+82,Open 10,,Batbayar Sergelen,1262,10,6.5,394,61,47,-14,Level B
+83,Open 10,,D D L N Dandeniya,1330,10,5,262,60,46,-14,Level B
+84,Open 10,India,Kolla Bhaavan,1109,10,7,253,59,45,-14,Level B
+85,Girls 18,India,Azal Nasir,1515,10,3.5,349,58,44,-14,Level B
+86,Open 10,Russia,Daniyar Farzaleev,1257,10,5.5,337,58,44,-14,Level A
+87,Open 10,India,Raihaan Zahid,1141,10,6,237,62,47,-15,Level B
+88,Open 10,Georgia,Davit Tatvidze,1265,10,7,356,59,44,-15,Level A
+89,Open 10,Azerbaijan,Kamil Sadigov,,10,4,354,59,44,-15,Level A
+90,Open 10,England,Kai Hanache,,10,7,401,58,43,-15,Level A
+91,Open 10,,Kian Dishank Shah,1339,10,6,259,65,49,-16,Level B
+92,Open 10,India,Vandan Alankar Sawai,1331,10,7,425,64,48,-16,Level B
+93,Open 10,Kyrgyzstan,Nail Alybakov,1307,10,6,343,63,47,-16,Level B
+94,Girls 18,Sri Lanka,Oneli Vithanawasam,1349,10,4,337,63,47,-16,Level B
+95,Girls 18,India,Bommini Mounika Akshaya,2029,10,6.5,264,68,51,-17,Level C
+96,Girls 18,Philippines,Mary Joy Tan,1740,10,6,406,66,49,-17,Level B
+97,Girls 18,Slovenia,Vita Siraj,1620,7,2.5,175,63,46,-17,Level B
+98,Girls 18,Bangladesh,Anjum Noshin,2004,10,5.5,361,62,45,-17,Level B
+99,Open 10,Switzerland,Mihaly Koehalmi-Szabo,1464,10,6,375,61,44,-17,Level A
+100,Girls 18,Russia,Lada Ilyina,1977,10,6,405,61,44,-17,Level B
+101,Girls 18,Wales,Susanna Fraser,1641,10,4.5,314,61,44,-17,Level A
+102,Open 10,South Africa,Ethan Ryan Moonsammy,,10,4.5,326,60,43,-17,Level A
+103,Open 10,United States of America,Aditya Arutla,1535,10,7.5,310,59,42,-17,Level A
+104,Open 10,England,Patrick Damodaran,1498,9,4.5,327,64,46,-18,Level B
+105,Open 10,Ecuador,Sebastian Alejandro Cajamarca Gordillo,1224,10,6.5,339,64,46,-18,Level B
+106,Open 10,Georgia,Andria Kviriashvili,1406,10,6,316,62,44,-18,Level A
+107,Open 10,Russia,Nikolay Kleimenov,1645,10,6.5,425,61,43,-18,Level A
+108,Girls 18,,Chua Jia-Tien Chua,1822,10,7,448,60,42,-18,Level A
+109,Open 10,Canada,Zachary Hankun Liu,,10,8,378,59,41,-18,Level A
+110,Girls 18,Bangladesh,Orpa Tasnia Tarannum,1577,10,4,413,59,41,-18,Level A
+111,Open 10,,Daniel Efraim,,2,0,41,52,34,-18,Level A
+112,Open 10,Malaysia,Yun Rui Lee,,10,5,303,67,48,-19,Level B
+113,Open 10,,Yen-Hsiu Elliot Wong,1432,10,7,306,64,45,-19,Level B
+114,Open 10,United States of America,Yuvraj Singh Sawhney,,10,5,334,62,43,-19,Level A
+115,Open 10,Bolivia,Isai Jeremi Alvarez Orellana,1209,10,4.5,346,62,43,-19,Level B
+116,Open 10,Georgia,Gabriel Gabadadze,1309,10,7,293,62,43,-19,Level A
+117,Open 10,,Jifan Zhao,,9,7,370,61,42,-19,Level A
+118,Girls 18,Bangladesh,Walijah Ahmed,1904,10,5.5,391,60,41,-19,Level A
+119,Open 10,Ukraine,Yehor Marynychenko,1367,10,6,331,67,47,-20,Level B
+120,Girls 18,,Prasansa Premanath,1517,10,3.5,321,66,46,-20,Level B
+121,Girls 18,India,Poornima Gupta,1432,9,4.5,334,66,46,-20,Level B
+122,Open 10,Croatia,Ivano Mocic,,10,4,276,66,46,-20,Level B
+123,Open 10,Tunisia,Mahmoud Ammous,1316,10,6,311,65,45,-20,Level B
+124,Open 10,New Zealand,Sai Vivan Karthikeya Somaraju,1365,9,4,327,64,44,-20,Level A
+125,Open 10,Poland,Wiktor Golis,1395,10,5,342,64,44,-20,Level B
+126,Open 10,Bolivia,Rodrigo Salazar Salinas,1105,10,5,288,64,44,-20,Level A
+127,Open 10,,Eduardo Michel Jiménez Puig,,10,4,352,58,38,-20,Level A
+128,Open 10,Brazil,Mathias Andre Casalaspro,1407,10,5.5,312,67,46,-21,Level B
+129,Open 10,India,Premshankar B U,1211,10,7,418,66,45,-21,Level B
+130,Girls 18,Singapore,Saravanan Durga,1615,10,4.5,362,65,44,-21,Level B
+131,Open 10,,Rajbongshi Tanmay,1366,10,7,371,64,43,-21,Level A
+132,Open 10,India,Parambrata Sarkar,,10,7,377,64,43,-21,Level A
+133,Girls 18,Vietnam,Dinh Hong Chinh Do,,9,4.5,267,64,43,-21,Level A
+134,Girls 18,Mexico,Alexa Caballero Alonzo,1602,10,5,308,63,42,-21,Level B
+135,Open 10,Belgium,Aeneas Kersemans,1558,10,4,321,70,48,-22,Level B
+136,Open 10,Canada,Modith Aaroh Mutyalapati,,10,4.5,333,69,47,-22,Level B
+137,Open 10,Albania,Dionis Senjo,,10,5,368,64,42,-22,Level A
+138,Open 10,Turkiye,Gorkem Unsal,,10,6.5,405,63,41,-22,Level A
+139,Girls 18,South Africa,Laurie Ann Shaw,1408,10,4.5,360,70,47,-23,Level B
+140,Open 10,Poland,Piotr Brzezina,1423,10,6,308,69,46,-23,Level B
+141,Open 10,Sri Lanka,K G Wimalarathne,1420,10,5.5,394,69,46,-23,Level B
+142,Open 10,,Vivaan Vijay Saraogi,1519,10,6,417,67,44,-23,Level A
+143,Girls 18,India,Bhillva Nilaya K E K,1357,10,4.5,191,67,44,-23,Level A
+144,Girls 18,Kenya,Naiya Gosrani,1331,10,3,249,64,41,-23,Level A
+145,Open 10,Argentina,Faustino Oro,,10,6,320,68,44,-24,Level A
+146,Open 10,Peru,Josue Gabriel Vasquez Lopez,1046,10,5,366,67,43,-24,Level A
+147,Open 10,India,Jaivardhan Raj,1591,10,6.5,364,66,42,-24,Level B
+148,Open 10,Argentina,Agustin Duarte,1500,10,8.5,357,65,41,-24,Level B
+149,Open 10,,Tumurchudur Tuvshintulga,1222,10,5.5,452,64,40,-24,Level A
+150,Girls 18,Argentina,Florencia Acosta,1716,10,4,343,63,39,-24,Level A
+151,Open 10,Sri Lanka,R B Sethum Samaraweera,1405,9,3,334,62,38,-24,Level A
+152,Open 10,Spain,Jon Bocos Delgado,1380,10,5.5,385,70,45,-25,Level B
+153,Open 10,Russia,Nestor A Bagateliya,1135,10,6,306,69,44,-25,Level A
+154,Open 10,Jamaica,Ronak Shergil,1343,10,5,378,68,43,-25,Level A
+155,Open 10,United States of America,Tariq Yue,,8,5,250,68,43,-25,Level A
+156,Girls 18,Indonesia,Diajeng Theresa Singgih,1972,10,6.5,313,67,42,-25,Level A
+157,Open 10,Georgia,Giorgi Kukhianidze,1258,10,6,289,65,40,-25,Level A
+158,Girls 18,Norway,Ingrid Skaslien,1950,9,4,304,74,48,-26,Level B
+159,Girls 18,Brazil,Isabella Ribeiro Conti De Freitas,1893,9,4,332,73,47,-26,Level B
+160,Open 10,FIDE,Radion Sidorenja,1472,10,6,263,72,46,-26,Level B
+161,Open 10,Cyprus,Miroslav Borodich,1299,10,5,297,69,43,-26,Level A
+162,Open 10,,Baatar Batbaatar,,10,5,365,69,43,-26,Level A
+163,Open 10,Poland,Antoni Radzimski,1444,10,5,362,69,43,-26,Level A
+164,Open 10,,Gervasius Ludwig Setiawan,,10,5,347,67,41,-26,Level A
+165,Girls 18,India,Jain Nityata,1993,10,5,294,67,41,-26,Level A
+166,Open 10,Peru,Thiago Albeiro Arredondo Huaman,,10,5,356,66,40,-26,Level A
+167,Open 10,"Hong Kong, China",Danbe Luk,1216,10,5,400,64,38,-26,Level A
+168,Open 10,United Arab Emirates,Rashid Husain Alhammadi,1188,10,5.5,211,62,36,-26,Level A
+169,Girls 18,Peru,Beatriz Milagros Cruz Flores,1257,10,3.5,323,73,46,-27,Level B
+170,Girls 18,Georgia,Ekaterine Pipia,1953,10,5.5,294,71,44,-27,Level B
+171,Open 10,Argentina,Pedro Serulnicoff,1419,10,5,339,71,44,-27,Level A
+172,Open 10,Turkiye,Ozgur Toprak Kurt,,10,7,405,70,43,-27,Level A
+173,Open 10,Guyana,Aquilani Swaminadha,,10,5,255,70,43,-27,Level A
+174,Girls 18,Panama,Lourdes Lorena Vasquez Jaen,1653,10,4,271,70,43,-27,Level A
+175,Open 10,Peru,Favio Adrian Diaz Valles,,10,4,273,69,42,-27,Level A
+176,Girls 18,Spain,Viviana Galvan Cipriani,2071,10,5,367,68,41,-27,Level A
+177,Girls 18,Philippines,Marphine Faith Mangubat,1540,10,4.5,361,67,40,-27,Level A
+178,Open 10,,Illia Shneider,,9,3.5,203,65,38,-27,Level A
+179,Open 10,El Salvador,Santiago Jose Guevara Ruiz,,10,4,270,75,47,-28,Level B
+180,Open 10,,Sai Siddharth,1320,10,6,425,72,44,-28,Level A
+181,Girls 18,Russia,Nyurguiaana Baisheva,1782,10,5.5,421,71,43,-28,Level B
+182,Open 10,Georgia,Luka Rukhadze,1244,10,6,230,70,42,-28,Level A
+183,Open 10,Peru,Dante Ivan Vilca Contreras,1150,10,4.5,428,70,42,-28,Level A
+184,Girls 18,,S Vijayasubhasri,1567,10,5,327,69,41,-28,Level A
+185,Girls 18,Russia,Sofiya Bandurina,1854,10,7,374,66,38,-28,Level A
+186,Open 10,Mongolia,Agibat Batzaya,1462,10,5,253,78,49,-29,Level B
+187,Open 10,South Africa,Matthew Shapiro,1158,10,4,302,74,45,-29,Level B
+188,Open 10,,Zayne-Eddine El Zein,,9,5,255,72,43,-29,Level A
+189,Open 10,New Zealand,Grayson Po`e-Tofaeono,,7,4,141,71,42,-29,Level A
+190,Girls 18,Israel,Liad Shaul Seidner,1743,10,5,380,70,41,-29,Level A
+191,Girls 18,,Nur Faiqah Aminuddin,1437,10,4.5,344,70,41,-29,Level A
+192,Open 10,,Erdenebaatar Galbaatar,,10,5,327,69,40,-29,Level A
+193,Girls 18,,Tasnim Kazi Zarin,1822,10,5,268,73,43,-30,Level A
+194,Open 10,,BCA Christian Tolosa,1162,10,6,346,72,42,-30,Level A
+195,Open 10,,Dann H Merriman,,10,5,297,70,40,-30,Level A
+196,Open 10,Paraguay,Enzo Mathias Vinales Gonzalez,1391,10,5,335,70,40,-30,Level A
+197,Girls 18,Guam,Grace Co Estur,1472,3,0,36,69,39,-30,Level A
+198,Girls 18,Azerbaijan,Ayan Allahverdiyeva,2095,10,7.5,295,77,46,-31,Level B
+199,Girls 18,South Africa,Shane Visser,,10,4,359,76,45,-31,Level B
+200,Open 10,Switzerland,Colin Federer,1632,10,4.5,414,75,44,-31,Level A
+201,Open 10,United States of America,Yiding Lu,,10,5,393,75,44,-31,Level B
+202,Girls 18,Switzerland,Angie Pecorini,1930,10,5.5,292,72,41,-31,Level B
+203,Open 10,South Africa,Rannveer Tak,1294,8,4.5,355,72,41,-31,Level A
+204,Girls 18,Barbados,Gaybrianna Moore,1321,10,4,264,72,41,-31,Level A
+205,Girls 18,Canada,Isabelle Wang,1520,10,3,408,71,40,-31,Level A
+206,Open 10,Greece,Apostolos Palaiologou,1406,10,4,315,71,40,-31,Level A
+207,Open 10,Australia,Harvey Zhu,1606,10,6,415,69,38,-31,Level A
+208,Open 10,United States of America,Rocky Wang,,8,4,260,68,37,-31,Level A
+209,Girls 18,India,Poorna Sri M.k,1904,10,5,318,80,48,-32,Level B
+210,Open 10,Bangladesh,Sajid Sakline Mostafa,1770,10,6,311,75,43,-32,Level A
+211,Open 10,United States of America,Vihaan Jammalamadaka,,10,5,318,77,44,-33,Level B
+212,Open 10,,Kyle Qiyu Dong,,10,7,344,77,44,-33,Level B
+213,Open 10,Israel,Harel Fester,1484,9,5.5,267,75,42,-33,Level A
+214,Girls 18,Panama,Claudia Mercedes Alvarez Chang,1619,10,2.5,194,76,42,-34,Level A
+215,Girls 18,,Kristel Melissa Diaz Charpentier,1898,10,5,316,76,42,-34,Level A
+216,Girls 18,Sri Lanka,Nemindi Linaya Ramanayake,1345,10,4.5,362,75,41,-34,Level A
+217,Open 10,Russia,Dmitriy Dolmatov,1247,10,6,290,74,40,-34,Level A
+218,Open 10,India,Amogh Bisht,1193,10,6,350,74,40,-34,Level A
+219,Girls 18,,NUR BATRISYA WAFA MOHSEN,1208,9,3,357,74,40,-34,Level A
+220,Open 10,India,Mridav M,1105,10,5,360,81,46,-35,Level B
+221,Open 10,Azerbaijan,Ahmed Huseynov,1216,10,5,303,78,43,-35,Level A
+222,Open 10,Ghana,Acheampong Dave Quansah Chief,1292,10,4,298,75,40,-35,Level A
+223,Girls 18,Chile,Valeska Rozas Lazcano,1399,10,5,362,75,40,-35,Level A
+224,Open 10,Jamaica,Khaleel Johnson-Bartlett,1326,10,3.5,257,72,36,-36,Level A
+225,Girls 18,Mexico,Estefania Benito De Leo,1651,10,5.5,308,79,42,-37,Level A
+226,Open 10,Georgia,Gaga Gvasalia,1211,10,6,319,78,41,-37,Level A
+227,Open 10,Poland,Bruno Przybys,1282,10,4,321,77,40,-37,Level A
+228,Open 10,Philippines,Phil Martin Casiguran,1930,10,5.5,352,79,41,-38,Level A
+229,Girls 18,Bolivia,Laura Espinoza Coca,1086,10,3,279,77,39,-38,Level A
+230,Open 10,India,Chinmay Kowshik,1444,9,4.5,360,76,38,-38,Level A
+231,Girls 18,Luxembourg,Sasha Biryukov,1411,10,4,275,83,44,-39,Level A
+232,Open 10,Russia,Mikhail Maruseev,,10,3.5,331,80,41,-39,Level A
+233,Open 10,Cyprus,Themistokles Amvrosiades,,10,3,221,83,43,-40,Level A
+234,Open 10,United States of America,Sahil Shivakumar,,8,3.5,212,81,41,-40,Level A
+235,Open 10,Cyprus,Sotiris Artemis,1135,10,4,217,85,44,-41,Level A
+236,Open 10,Scotland,Rishi Vijayakumar,,10,5,289,84,43,-41,Level A
+237,Girls 18,Mexico,Valeria Fernanda Cabrera Bautista,1283,10,4.5,395,82,41,-41,Level A
+238,Open 10,Russia,Klim Listratov,1015,10,4,315,82,41,-41,Level A
+239,Open 10,Slovenia,Anze Danicic,,10,4,305,82,41,-41,Level A
+240,Open 10,Barbados,Aaron Jaikaran,1024,10,3,353,80,39,-41,Level A
+241,Open 10,Mexico,Eithan Ruiz Bolanos,1329,10,6,252,82,40,-42,Level A
+242,Open 10,South Africa,Youlin Chen,,10,4,256,82,40,-42,Level A
+243,Girls 18,Costa Rica,Melanie Salazar Gould,1961,10,4.5,324,79,37,-42,Level A
+244,Open 10,Trinidad & Tobago,Kyan Muradali,1238,10,4,371,83,40,-43,Level A
+245,Open 10,Uruguay,Tabare Caballero,1059,10,3.5,238,81,38,-43,Level A
+246,Open 10,Indonesia,Shawn Alamsyah,,9,3.5,252,80,37,-43,Level A
+247,Open 10,Belgium,Hillel Toledo,1278,10,4,252,84,40,-44,Level A
+248,Open 10,Azerbaijan,Khanlar Anar Allahverdiyev,,10,2.5,356,79,35,-44,Level A
+249,Open 10,South Africa,Chase Salimu,966,10,4.5,307,79,35,-44,Level A
+250,Open 10,South Africa,Samuel Driscoll,,10,3,233,83,38,-45,Level A
+251,Open 10,Panama,Adrian Ignacio Cortes Franco,,10,4,343,89,43,-46,Level A
+252,Girls 18,South Africa,Kerri-Anne Naicker,1134,10,3.5,246,85,39,-46,Level A
+253,Open 10,Costa Rica,Julian Gonzalez Aguero,,10,3.5,312,86,39,-47,Level A
+254,Girls 18,South Africa,Anje Van Jaarsveld,1312,10,4,315,85,38,-47,Level A
+255,Open 10,Ireland,Riyansh Agarwal,,10,3,255,84,37,-47,Level A
+256,Open 10,Jersey,Gus Weber,,10,4,222,94,46,-48,Level B
+257,Open 10,Kenya,Jeremiah Kagambi,,10,3,308,86,38,-48,Level A
+258,Girls 18,Peru,Ariana Oquiche Huarcaya,1644,10,6,297,85,37,-48,Level A
+259,Open 10,Mexico,Bryan Abimael Salas Carbajal,1526,7,3,182,84,36,-48,Level A
+260,Open 10,,Sanskrit Jaiswal,,10,3,232,88,39,-49,Level A
+261,Open 10,Zimbabwe,Gweshe Jordan,898,9,2,290,86,36,-50,Level A
+262,Open 10,Croatia,Filip Apostolovski,1248,10,5,236,92,41,-51,Level A
+263,Open 10,Russia,Georgiy Al Kalmykov,1140,10,5.5,335,91,40,-51,Level A
+264,Girls 18,Mauritius,Chethanah Andhin,1680,10,3,306,94,42,-52,Level A
+265,Open 10,Russia,Mikhail Nefedov,,10,4.5,319,93,41,-52,Level A
+266,Open 10,Chile,Renato Ramirez Camilla,1117,9,2.5,258,90,38,-52,Level A
+267,Girls 18,Switzerland,Yulia Avilova,1627,10,5,302,93,40,-53,Level A
+268,Open 10,,Oliver Rana,,10,5,242,99,45,-54,Level B
+269,Open 10,Guyana,Nicholas Zhang,,9,2,295,91,37,-54,Level A
+270,Open 10,Zambia,Lwenyeka Tumelo,,10,3.5,239,95,40,-55,Level A
+271,Open 10,,Hugo Hardwick,,10,4,329,91,36,-55,Level A
+272,Open 10,,Kritin Vongrungrot,1163,10,3,273,97,41,-56,Level A
+273,Girls 18,Bolivia,Ariadne Ricela Ramallo Aguilar,1311,10,4,356,95,39,-56,Level A
+274,Open 10,Jamaica,Austin Xiang,1047,9,3,214,94,38,-56,Level A
+275,Girls 18,Trinidad & Tobago,Keira Samuel Bisnath,1095,10,2.5,247,94,38,-56,Level A
+276,Girls 18,Kenya,Mercy Ingado,1215,9,2,172,90,34,-56,Level A
+277,Open 10,,Leon Luo,,10,3.5,329,95,38,-57,Level A
+278,Open 10,Sweden,Guanbo Cong,1462,10,4.5,281,98,40,-58,Level A
+279,Open 10,Poland,Maksymilian Wojtun,,9,2,199,97,39,-58,Level A
+280,Girls 18,Canada,Kylie Tan,1369,10,3,354,97,36,-61,Level A
+281,Open 10,Kenya,Mwangi Abel,,10,4,272,104,42,-62,Level A
+282,Open 10,South Africa,Shyam Radia,,10,4,303,100,37,-63,Level A
+283,Open 10,Uruguay,Facundo Muniz,1198,10,4,182,95,31,-64,Level A
+284,Girls 18,Sweden,Julia Ostensson,1595,10,4.5,292,102,37,-65,Level A
+285,Open 10,,Khomisajie Muhd Ismakhaizuran,1117,10,4.5,329,93,28,-65,Level A
+286,Open 10,Panama,Nicolas Trigas Martinez,,10,2.5,272,106,37,-69,Level A
+287,Open 10,Bangladesh,Rayan Rashid Mugdho,1257,10,2.5,272,102,33,-69,Level A
+288,Open 10,,Ollie Marenduzzo,,10,3.5,206,107,36,-71,Level A
+289,Open 10,Panama,Jose Bernardo Fabrega Van Der Laat,,10,4,206,105,34,-71,Level A
+290,Open 10,Ireland,Nathan Jacob Renji,,10,4,197,107,35,-72,Level A
+291,Open 10,Guyana,Julian Mohabir,918,10,4,247,107,35,-72,Level A
+292,Girls 18,,Lollita Ndanu,1121,9,1,249,106,34,-72,Level A
+293,Open 10,Cyprus,Alexandr Lomadze,1140,10,4.5,221,110,37,-73,Level A
+294,Open 10,Azerbaijan,Tariyel Sharifov,,10,3,281,107,34,-73,Level A
+295,Open 10,,Johan Eapen,,10,4,218,118,43,-75,Level A
+296,Open 10,,Raheem Gayle,,10,2,233,112,36,-76,Level A
+297,Open 10,,Liam Logan,,10,3.5,272,106,30,-76,Level A
+298,Open 10,Jamaica,Tahir Tavares,1480,10,5,191,121,42,-79,Level A
+299,Open 10,Libya,ammar Ammar Almushammar,,10,4,174,112,26,-86,Level A
+300,Open 10,,Onolt Tugssanaa,,10,3,237,123,35,-88,Level A
+301,Open 10,Guam,Malachi Obrien,,10,3,194,125,34,-91,Level A
+302,Open 10,Pakistan,Saiyed Hassan Ahmad,,10,2.5,156,134,40,-94,Level A
+303,Open 10,,Josiah Soojay,,9,2,150,126,32,-94,Level A
+304,Open 10,Malta,Nick Calleja Urry,1106,10,3.5,181,124,29,-95,Level A
+305,Girls 18,Puerto Rico,Kiara M. Vargas Gomez,,9,0,179,136,31,-105,Level A
+306,Open 10,Barbados,Alexander Berry,,10,2.5,139,145,35,-110,Level A
+307,Open 10,,Franco A. Adamowich Lebron,,2,0,30,138,27,-111,Level C
+308,Open 10,,Mathur Arsh,,10,3,295,145,31,-114,Level A
+309,Open 10,Guyana,Jacob Frank McDonald,,9,1,178,152,34,-118,Level A
+310,Open 10,,Aryan Shetty,,9,2,142,154,33,-121,Level A
+311,Open 10,South Africa,Mukil Mukil,,9,1,173,156,32,-124,Level A
+312,Girls 18,Ghana,Barnor Mary,,9,2,127,148,22,-126,Level A
+313,Open 10,,Arsene Marchal,,9,1,92,165,32,-133,Level A
+314,Girls 18,,Michaela Schneider,,9,2,135,171,30,-141,Level A
+315,Open 10,Guam,Daniel Combs,1297,2,0,54,188,24,-164,Level B
+316,Open 10,,Joshua Kiarie,1036,9,1,114,198,25,-173,Level A
+317,Open 10,,Cameron Martin,,10,2,81,216,20,-196,Level A
+318,Open 10,Ghana,Kymani Nkansah Donkor,,9,1,82,221,23,-198,Level A
+319,Open 10,,Mateo A. Adamowich Lebron,,3,0,24,245,17,-228,Level A
+320,Open 10,,BAH Dennis Adderley,,6,0,34,300,15,-285,Level A
+321,Girls 18,United States of America,Aasa Dommalapati,1809,1,1,0,0,0,,Level A
+322,Girls 18,Sao Tome and Principe,Juazilmira De Oliveira Bastos Rita,,1,0,0,0,0,,Level A
+323,Girls 18,Panama,Salma Patricia Gomez Morales,1280,1,0,0,0,0,,Level B
+324,Girls 18,India,Rindhiya V,1855,1,0,0,0,0,,Level A

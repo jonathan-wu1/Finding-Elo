@@ -1,0 +1,59 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Open,United States of America,ANDREW HONG,2449,7,6.5,325,33,53,20,Level A
+2,Open,Canada,Shawn Rodrigue-Lemieux,2276,7,5.5,221,42,50,8,Level A
+3,Open,Brazil,Matheus Mendes Domingues Ribeiro,2133,7,4.5,272,46,53,7,Level A
+4,Open,United States of America,Anthony He,2337,7,5.5,301,44,47,3,Level A
+5,Open,Argentina,Agustin Villareal,2143,7,3.5,292,44,46,2,Level A
+6,Open,Colombia,Jose Gabriel Cardoso Cardoso,2414,7,5,207,51,52,1,Level A
+7,Girls,El Salvador,Dalila Barahona,1802,7,3.5,184,46,45,-1,Level A
+8,Open,United States of America,CHRISTOPHER SHEN,2354,7,4.5,300,51,47,-4,Level A
+9,Girls,United States of America,Martha Samadashvili,2215,7,5,285,51,44,-7,Level A
+10,Girls,Paraguay,Paula Oviedo,1659,7,3.5,211,50,43,-7,Level A
+11,Open,Canada,Ian Zhao,2347,7,4,301,56,47,-9,Level A
+12,Open,Chile,Alejandro Castellanos Vilela,2202,7,5,257,59,48,-11,Level A
+13,Open,,Miguel Tadeo Palma Villanueva,2070,7,4,283,56,45,-11,Level A
+14,Open,Ecuador,JUAN PABLO GUARACA,1828,7,4,227,64,52,-12,Level A
+15,Open,Guatemala,Adrian Mauricio Corado Castaneda,1682,7,3.5,206,62,50,-12,Level A
+16,Girls,Chile,Rocio Contreras Suazo,1695,7,4,321,57,43,-14,Level A
+17,Open,Canada,Taira Tyler Tanaka,2099,7,3,209,59,44,-15,Level A
+18,Girls,Ecuador,Analia Miranda,1520,7,5,242,62,46,-16,Level A
+19,Open,Panama,MARTIN BRIONES,1531,7,4,218,60,44,-16,Level A
+20,Girls,Brazil,Beatriz Maria Frattini,1868,7,4,289,59,43,-16,Level A
+21,Open,El Salvador,Armando Perez,1932,7,4,199,66,49,-17,Level A
+22,Girls,United States of America,Evelyn Zhu,2038,7,5.5,327,59,42,-17,Level A
+23,Girls,Canada,Sandy-Rose Bilodeau-Savaria,1338,7,3.5,242,65,45,-20,Level A
+24,Girls,Jamaica,Raehanna Brown,1594,7,5,336,66,45,-21,Level A
+25,Open,Uruguay,Facundo Vazquez,2207,7,4.5,292,71,47,-24,Level A
+26,Girls,,Alexa Amairanhy Caballero Alonzo,1540,7,4,272,67,43,-24,Level A
+27,Girls,Argentina,Anapaola S. Borda Rodas,2138,7,3.5,217,64,40,-24,Level A
+28,Girls,,Kristel Melissa Diaz Charpentier,1898,7,4,238,71,46,-25,Level A
+29,Girls,Barbados,Vanessa Greenidge,1496,7,3,338,70,45,-25,Level A
+30,Girls,United States of America,Sheena Zeng,2065,7,5,299,67,42,-25,Level A
+31,Open,Colombia,Santiago Avila Pavas,2393,7,4,235,70,43,-27,Level A
+32,Girls,Colombia,Sara Moncada,1783,7,5,264,71,41,-30,Level A
+33,Open,Barbados,Yeshua-Erchomai Hill,1325,6,1.5,168,75,43,-32,Level A
+34,Girls,Haiti,Rose Berline SEINE,1679,7,2.5,230,71,39,-32,Level A
+35,Open,Bolivia,Maveric Mayta Aiza,1488,7,3,239,76,43,-33,Level A
+36,Open,Panama,EDEN SHAUL,,6,1.5,156,78,44,-34,Level A
+37,Open,Peru,Ivan Danilo Varillas Jimenez,2028,7,4,185,75,41,-34,Level A
+38,Girls,Barbados,Gaybrianna Moore,1361,7,3,139,71,37,-34,Level A
+39,Open,Paraguay,Enrique Allo,1837,7,3,222,78,42,-36,Level A
+40,Open,Bahamas,Aidan Mart,1262,6,2,163,76,40,-36,Level A
+41,Girls,Peru,Heidy Nicole Garcia Andrada,1912,7,4.5,195,76,39,-37,Level A
+42,Girls,Guatemala,Deycy Raymundo,1454,4,2,108,74,37,-37,Level A
+43,Girls,Panama,SALMA GOMEZ,1267,6,2,165,77,38,-39,Level A
+44,Open,Antigua and Barbuda,Joshua Solomon,,6,2,164,76,37,-39,Level A
+45,Girls,Bolivia,Emily Katherine Mollo Vega,1299,6,2,202,85,43,-42,Level A
+46,Open,Haiti,Jamesley DECIMUS,1635,7,2,252,87,44,-43,Level A
+47,Girls,Argentina,Abril Leonela Godoy,1693,7,4,170,81,38,-43,Level A
+48,Open,Colombia,Miguel Angel Toro,1988,7,3,192,86,41,-45,Level A
+49,Girls,Haiti,Cadeau Merisena,1439,7,2,146,83,38,-45,Level A
+50,Open,Trinidad & Tobago,Amir Mahadeo,1407,6,1,230,82,37,-45,Level A
+51,Open,Jamaica,Antonic Chung,1402,6,1,138,91,42,-49,Level A
+52,Open,Costa Rica,Juan Diego Coto Calderon,1673,7,3,231,94,43,-51,Level A
+53,Open,Barbados,Louis Wilson,1486,7,3,189,95,42,-53,Level A
+54,Girls,Panama,GUERRA FLORIBETH,,6,1.5,104,92,36,-56,Level A
+55,Girls,Trinidad & Tobago,Keira Samuel Bisnath,1063,7,2,171,108,35,-73,Level A
+56,Girls,Barbados,Azaria Johnson,1383,7,2,150,124,39,-85,Level A
+57,Open,Guyana,Joshua Che Ahmad Khan,,6,0,109,120,35,-85,Level A
+58,Girls,Guyana,Anasie Fredericks,,6,0,91,178,29,-149,Level A

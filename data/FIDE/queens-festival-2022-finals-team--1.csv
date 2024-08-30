@@ -1,0 +1,49 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Team,China,Yuxin Song,2317,11,9.5,321,37,50,13,Level C
+2,Team,United States of America,Irina Krush,2430,11,10,323,49,47,-2,Level B
+3,Team,Paraguay,Jennifer Perez Rodriguez,2251,11,7,319,49,46,-3,Level B
+4,Team,England,Mae Katelyn Rose Catabay,1425,11,9,400,53,49,-4,Level B
+5,Team,Iran,Sara Davari,1742,11,9.5,396,48,43,-5,Level B
+6,Team,Serbia,Suzana Maksimovic,2145,11,6.5,244,58,49,-9,Level C
+7,Team,Iran,Sahar Masoumi,1956,11,11,297,56,47,-9,Level B
+8,Team,Turkmenistan,Jemal Ovezdurdyyeva,2061,11,6.5,371,57,46,-11,Level B
+9,Team,Brazil,Thauane Ferreira Medeiros,1889,10,4.5,324,59,46,-13,Level B
+10,Team,China,Wen Cui,1718,11,6.5,398,57,44,-13,Level A
+11,Team,United States of America,Esther Jou,,11,8.5,405,57,44,-13,Level A
+12,Team,China,Xing Hong,1999,11,8,278,62,45,-17,Level B
+13,Team,Turkmenistan,Meryem Agajanova,1783,11,8.5,483,62,45,-17,Level B
+14,Team,Brazil,Julia Alboredo,2264,11,8,324,62,44,-18,Level A
+15,Team,Azerbaijan,Malak Ismayil,2001,11,6.5,444,59,41,-18,Level A
+16,Team,Turkmenistan,Lala Shohradova,1856,11,7.5,345,65,46,-19,Level B
+17,Team,Azerbaijan,Asnad Bakhshizada,1168,11,8,437,59,40,-19,Level A
+18,Team,United States of America,Erin Bian,1811,11,8,391,68,47,-21,Level B
+19,Team,Botswana,Onkemetse Francis,1777,11,3,356,65,42,-23,Level A
+20,Team,United States of America,Aparna Yellamraju,1720,11,7.5,386,64,41,-23,Level A
+21,Team,Azerbaijan,Khadija Khalilova,1777,11,10,337,67,42,-25,Level A
+22,Team,Azerbaijan,Aysel Mammadova,1893,11,6.5,344,70,44,-26,Level B
+23,Team,China,Tianyu Jiang,1502,11,9,304,73,41,-32,Level A
+24,Team,Iran,Nooralzahra Khezrian,1269,11,5,342,77,43,-34,Level A
+25,Team,Botswana,Naledi Marape,1738,11,3,335,75,41,-34,Level A
+26,Team,Serbia,Vera Vujovic,1353,11,7,365,74,40,-34,Level A
+27,Team,Brazil,Andrea Vidigal Bucci,1769,11,2.5,370,74,40,-34,Level A
+28,Team,Serbia,Milena Vujcic,1987,11,8,381,77,41,-36,Level A
+29,Team,Serbia,Tatjana Vukosavljevic,1758,11,4,329,76,40,-36,Level A
+30,Team,,Arazmedova Enesh,,11,5.5,318,80,42,-38,Level B
+31,Team,England,Anusha Subramanian,1637,11,2.5,433,77,37,-40,Level A
+32,Team,Paraguay,Dalila Perez,1799,11,6.5,278,83,42,-41,Level A
+33,Team,Brazil,Maria Eduarda Papini Gomes,1594,11,5,299,82,41,-41,Level A
+34,Team,Malawi,Banda Tapiwa,1213,11,2,257,78,37,-41,Level A
+35,Team,England,Rayelynn Posadas,1648,11,5,458,81,39,-42,Level A
+36,Team,Paraguay,Renata Mayeregger Gonzalez,1461,11,3,359,81,38,-43,Level A
+37,Team,Malawi,Shriyan Santosh Priyasha,1597,11,4.5,351,82,37,-45,Level A
+38,Team,Kenya,Riya Shah,1559,11,2,352,89,43,-46,Level A
+39,Team,Paraguay,Fiorella Mayeregger Gonzalez,1284,10,1.5,278,93,44,-49,Level A
+40,Team,Botswana,Banda Natalie Katlo,1664,11,3.5,302,94,44,-50,Level A
+41,Team,Iran,Neda Khezrian,1056,11,0,273,91,35,-56,Level A
+42,Team,Kenya,Vivian Muthoni,1128,11,0.5,252,98,35,-63,Level A
+43,Team,Kenya,Kosgey Sheila Jerop,1221,11,2,237,102,38,-64,Level A
+44,Team,Kenya,Triza Mwendwa,1468,11,3,263,109,33,-76,Level A
+45,Team,England,Meri Grigoryan,1993,11,3.5,279,114,37,-77,Level A
+46,Team,Botswana,Moshoboro Arona,1611,11,3.5,304,124,39,-85,Level A
+47,Team,Malawi,Desiderata Nkhoma,1465,11,1,184,126,30,-96,Level A
+48,Team,Malawi,Kaliwo Tamara,,11,0,253,133,34,-99,Level A

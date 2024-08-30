@@ -166,6 +166,13 @@ def save_results(result, start_index):
         for item in result:
             json.dump(item, f)
             f.write('\n')
+    
+
+def save_results(result, start_index, ndjson_file_path):
+    with open(ndjson_file_path, 'w') as f:
+        for item in result:
+            json.dump(item, f)
+            f.write('\n')
 
 if __name__ == "__main__":
 

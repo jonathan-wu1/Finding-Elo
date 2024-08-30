@@ -1,0 +1,73 @@
+Sort,Section,Fed,Name,Rating,Games,Result,Moves,CPL,MM,Sort score,"Analysis "
+1,Girls,Iran,Melika Mohammadi,1745,7,6,202,29,60,31,Level B
+2,Open,India,Arjun Adireddy,1658,7,4.5,286,44,55,11,Level B
+3,Open,Philippines,Oshrie Jhames Reyes,1136,7,3.5,208,41,52,11,Level B
+4,Open,Kazakhstan,Edgar Mamedov,1973,7,5,225,43,53,10,Level B
+5,Girls,China,Yanhan Wang,1552,7,5,222,45,51,6,Level B
+6,Open,Malaysia,Ern Jie Anderson Ang,1910,7,5.5,293,45,51,6,Level B
+7,Open,India,Rajkhowa Mrinmoy,1547,7,6,275,45,47,2,Level B
+8,Open,India,Rosh Jain,1811,7,4,293,52,52,0,Level B
+9,Girls,Mongolia,Sodgerelt Naranbold,1148,7,5,215,51,50,-1,Level B
+10,Open,Kazakhstan,Sauat Nurgaliyev,1873,7,3.5,321,50,49,-1,Level B
+11,Open,,Barad Yeganegi,1863,7,5,368,47,46,-1,Level B
+12,,,,1590,7,5,307,54,52,-2,Level B
+13,Open,India,G Aakash,1664,7,5.5,220,52,50,-2,Level B
+14,Open,Iran,Seyed Abolfazl Moosavifar,1757,7,3.5,268,46,43,-3,Level B
+15,Open,Malaysia,MOHAN KAVIN,1617,7,4.5,252,55,51,-4,Level B
+16,Girls,India,Vidula Anbuselvan,1109,7,3,342,51,46,-5,Level B
+17,Girls,Philippines,Franiel Angela Magpily,1364,7,4.5,191,50,44,-6,Level A
+18,Open,Vietnam,Dau Khuong Duy TDO,1675,7,5,289,54,47,-7,Level B
+19,Open,China,Haochen Jiang,1389,7,3,279,51,44,-7,Level B
+20,Open,Mongolia,Bat-Erdene Duurenkhishig,,7,4,242,56,47,-9,Level B
+21,Girls,Kazakhstan,Elnaz Kaliakhmet,1426,7,5,274,55,46,-9,Level B
+22,Open,,Alikhan Khazhatuly,1708,7,3.5,302,57,47,-10,Level B
+23,Girls,Uzbekistan,Nilufarkhon Imomkuzieva,1169,7,3.5,296,55,44,-11,Level A
+24,Girls,,Asal Ebrahimi Rashti,1575,7,5,223,59,47,-12,Level B
+25,Open,"Hong Kong, China",Yucheng Robinson Li,1413,7,4.5,276,55,43,-12,Level A
+26,Girls,China,Yunqing Zhao,1538,7,4,282,55,42,-13,Level A
+27,Girls,China,Muziyan Gao,1172,7,3,217,57,43,-14,Level A
+28,Open,Iran,Sina Movahed,1804,7,6,181,65,50,-15,Level B
+29,Open,Iran,Radin Yadegar,1953,4,0,141,61,46,-15,Level B
+30,Open,Australia,Jayden OOI,1780,7,3,279,66,50,-16,Level B
+31,Girls,China,Yiqing Tian,1444,7,3.5,237,62,46,-16,Level B
+32,Open,China,Bingnan Wang,1553,7,4,171,64,47,-17,Level B
+33,Girls,,Shreya G Hipparagi,1273,7,6,252,62,45,-17,Level B
+34,Girls,India,Alana Meenakshi Kolagatla,1120,7,3,342,67,49,-18,Level B
+35,Girls,,Adrina Imani,1517,7,3.5,248,60,42,-18,Level A
+36,Girls,Iran,Maedeh Yousefian,1471,7,5,296,67,48,-19,Level B
+37,Open,Philippines,Al-Basher Buto,1510,7,4,318,62,42,-20,Level A
+38,Open,India,Jaivardhan Raj,1590,7,4.5,325,67,46,-21,Level B
+39,Girls,,Jenuki Alwis,1051,7,4,279,62,41,-21,Level A
+40,Open,Sri Lanka,G Haritha Hansana,1269,7,3,147,72,50,-22,Level B
+41,Open,,Nguyen Nghia Gia Binh HNO,1387,7,3,329,68,45,-23,Level B
+42,Open,Kazakhstan,Nazar Talgatov,1461,7,4,267,67,44,-23,Level B
+43,Girls,Vietnam,Tran Le Vy DAN,,7,3.5,190,67,44,-23,Level A
+44,Girls,"Hong Kong, China",Tian Yi Liu,1026,7,3,273,65,42,-23,Level A
+45,Open,India,Suhaas A,1522,7,4,280,71,47,-24,Level B
+46,Open,Bangladesh,Sajid Sakline Mostafa,1362,7,2,311,70,43,-27,Level A
+47,Open,Iran,Arshia Mohammadyansichani,1782,7,4,310,70,43,-27,Level A
+48,Girls,China,Zhilin Yuan,1693,7,4,248,65,38,-27,Level A
+49,Open,Lebanon,Hicham El Habboub,1192,7,2,240,71,43,-28,Level A
+50,Girls,Kyrgyzstan,Aizhan Sezdbekova,1442,7,3.5,269,71,42,-29,Level A
+51,Open,"Hong Kong, China",Chun Yung Samuel Lam,1325,7,3,237,76,45,-31,Level B
+52,Girls,Mongolia,Gurvanbaatar Urangoo,1233,7,4,306,71,40,-31,Level A
+53,Open,Kyrgyzstan,Baiel Muradylov,1141,7,3,222,75,41,-34,Level A
+54,Open,Indonesia,Adwa Fattah Achmad,,7,3,237,72,37,-35,Level A
+55,Open,United Arab Emirates,Alhammadi Rashid,1200,7,2,216,79,43,-36,Level B
+56,Girls,Kazakhstan,Malika Japparbekova,1368,7,4,264,84,46,-38,Level B
+57,Girls,Qatar,Layan Mansour Al Qassabi,1167,6,1,144,78,40,-38,Level A
+58,Open,,Akhil Prasad Sri,1019,7,2,228,79,40,-39,Level A
+59,Girls,,Leah Rice,1172,7,2,366,77,36,-41,Level A
+60,Girls,Australia,Deethya Sai Katakam,1327,7,2.5,328,80,36,-44,Level A
+61,Open,Singapore,Gideon Yen,1313,7,3,210,79,34,-45,Level A
+62,Girls,Yemen,Neamah Ali Awadh BaJamel,,7,2.5,165,85,32,-53,Level A
+63,Girls,Kyrgyzstan,Nurelina Tursunalieva,1165,7,3,127,99,39,-60,Level A
+64,Open,Guam,Daniel Combs,,6,1,128,103,35,-68,Level A
+65,Girls,Malaysia,Nur Azzalea Shahril Azahar,1417,7,2.5,329,105,36,-69,Level A
+66,Girls,United Arab Emirates,Anoud Eisa Bashkardi,,6,1,126,104,34,-70,Level A
+67,Open,Maldives,Mohamed Almaan Hassan,,7,1,155,105,34,-71,Level A
+68,Girls,Lebanon,Mariam Sayegh,1081,7,1.5,159,107,33,-74,Level A
+69,Girls,India,Devaki Nandana,1159,7,3,148,120,32,-88,Level A
+70,Girls,Maldives,Aminath Sara Haleem,,7,1,149,114,25,-89,Level A
+71,Open,,IBRAHIM AL JANAHI WALEED,,6,0,100,138,27,-111,Level A
+72,Open,Yemen,abdullah Al-qudaimi,1192,2,0,0,0,0,,Level A
