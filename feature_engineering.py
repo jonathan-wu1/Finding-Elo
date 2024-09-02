@@ -71,6 +71,9 @@ def extract_features(chess_game):
     features["ECO"] = chess_game.headers.get('ECO', '')
     features["Opening"] = chess_game.headers.get('Opening', '')
     
+    if len(features["moves"]) < 6:
+        return features
+
 
     cpls = stockfish_cpl(features["moves"])
     features["white_cpl"] = cpls[0]

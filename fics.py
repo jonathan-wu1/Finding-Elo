@@ -13,25 +13,23 @@ from feature_engineering import *
 
 
 if __name__ == "__main__":
-
-
     # run this script first
     # !pgn-extract -e data/data.pgn --output data/data_openings.pgn
     
     sys.setrecursionlimit(50000)
     start_time = time.time()
-    pgn_file_path = "data/landing/ficsgamesdb.pgn"
-    games = process_pgn_file(pgn_file_path, 40000)
+    pgn_file_path = "data/landing/fics_openings.pgn"
+    games = process_pgn_file(pgn_file_path, 30000)
     print(f"number of games: {len(games)}")
 
     end_time = time.time()
     print(f"Reading time: {end_time - start_time}")
 
     start_time = time.time()
-    chunk_size = 5000  # Process 1000 games at a time
+    chunk_size = 1000  # Process 1000 games at a time
     num_chunks = len(games) // chunk_size + (1 if len(games) % chunk_size > 0 else 0)
 
-    for i in range(num_chunks):
+    for i in range(26, num_chunks):
         chunk_start = time.time()
         print(f"Chunk starting at index {i}")
         start_index = i * chunk_size
