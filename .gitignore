@@ -1,3 +1,11 @@
 
 data/landing/ficsgamesdb.pgn
 data/landing/fics_openings.pgn
+maia.chess/lc0_windows/cublas64_11.dll
+maia.chess/lc0_windows/cublasLt64_11.dll
+maia.chess/lc0_windows/CUDA.txt
+maia.chess/lc0_windows/cudart64_110.dll
+maia.chess/lc0_windows/mimalloc-override.dll
+maia.chess/lc0_windows/mimalloc-redirect.dll
+*.pkl
+*.joblib
