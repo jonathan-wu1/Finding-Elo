@@ -119,7 +119,11 @@ def closest_100(x):
 
 def maia_cpl(row, stockfish):
     """ returns the cpl of maia engine for both black and white"""
-
+    # making sure there are more than 6 moves
+    moves = row["moves"]
+    if len(moves) < 7:
+        return None
+    
     cpl_w = []
     cpl_b = []
 
@@ -132,12 +136,6 @@ def maia_cpl(row, stockfish):
     model_b = f"--weights=lc0_windows\models\maia-{closest_100(int(row['BlackElo']))}.pb.gz"
     change_config(model_b)
     maia_b = chess.engine.SimpleEngine.popen_uci(["lc0_windows\lc0.exe"])
-
-
-    # making sure there are more than 6 moves
-    moves = row["moves"]
-    if len(moves) < 7:
-        return None
     
     board = chess.Board()
     
