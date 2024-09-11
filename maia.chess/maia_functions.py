@@ -169,7 +169,7 @@ def maia_cpl(row, stockfish):
     maia_b.quit()
     maia_w.quit()
 
-    return (np.mean(cpl_w), np.mean(cpl_b))
+    return (cpl_w, cpl_b)
     
 
 def get_cpl(move, board, stockfish):
