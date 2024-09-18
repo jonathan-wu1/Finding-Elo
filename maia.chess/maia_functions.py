@@ -129,15 +129,15 @@ def maia_cpl(row, stockfish):
     cpl_w = []
     cpl_b = []
 
-    if row['WhiteElo'] == "":
+    if row['white_elo'] == "":
         maia_w = 1200
     else:
-        maia_w = closest_100(int(row['WhiteElo']))
+        maia_w = closest_100(int(row['white_elo']))
         
-    if row['BlackElo'] == "":
+    if row['black_elo'] == "":
         maia_b = 1200
     else:
-        maia_b = closest_100(int(row['BlackElo']))
+        maia_b = closest_100(int(row['black_elo']))
 
     # defining closest maia model based on the white elo
     model_w = f"--weights=lc0_windows\models\maia-{maia_w}.pb.gz"
