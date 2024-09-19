@@ -12,6 +12,86 @@ library(glmnet)
 
 
 ```{r}
+data <- stream_in(file("data/Curated/FIDE_INDIVIDUAL.ndjson"))
+
+data$opening <- factor(data$opening)
+data$result <- factor(data$result)
+data$is_white <- factor(data$is_white)
+```
+
+
+```{r}
+colnames(data)
+```
+
+
+
+
+
+```{r}
+
+
+# Prepare data for glmnet
+X <- model.matrix(elo ~ opening + stockfish_mean + stockfish_min + stockfish_max + 
+                  stockfish_std + maia_mean + maia_min + maia_max + maia_std + 
+                  result + is_white, data = data)[,-1] # Removing intercept
+y <- data$elo
+dim(X)
+length(y)
+# Fit a Lasso model
+lasso_model <- cv.glmnet(X, y, alpha = 1)  # alpha=1 for Lasso, alpha=0 for Ridge
+```
+
+
+
+```{r}
+# Find rows with any NA values
+rows_with_na <- which(apply(data, 1, function(x) any(is.na(x))))
+
+# Print rows with NA values
+print(rows_with_na)
+
+# Display the rows with NA values
+data[rows_with_na, ]
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
 # Read the NDJSON file
 data <- stream_in(file("data/Curated/stockfish_15.ndjson"))
 
