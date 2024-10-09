@@ -12,156 +12,202 @@ library(glmnet)
 
 
 ```{r}
-# Read the NDJSON file
-data <- stream_in(file("data/Curated/stockfish_15.ndjson"))
-
-data$result <- as.factor(data$result)
-data$ECO <- as.factor(data$ECO)
-data$Opening <- as.factor(data$Opening)
-
-
-# Get rid of columns
-data <- data[, !names(data) %in% c("event", "round", "white", "black", "moves", "white_elo", "black_elo", "white_cpl", "black_cpl", "stockfish_eval", "diff_elos")]
-
-```
-```{r}
-head(data, 2)
-```
+# data <- stream_in(file("data/Curated/FIDE_INDIVIDUAL.ndjson"))
+data <- stream_in(file("data/Curated/FICS_INDIVIDUAL.ndjson"))
+data$opening <- factor(data$opening)
+data$result <- factor(data$result)
+data$is_white <- factor(data$is_white)
+data_clean <- na.omit(data)
 
 
+# Prepare data for glmnet
+X <- model.matrix(elo ~ opening + 
+                    result + 
+                    stockfish_mean + stockfish_min + stockfish_max + 
+                  stockfish_std + maia_mean + maia_min + maia_max + maia_std + 
+                is_white, data = data_clean)[,-1] # Removing intercept
+y <- data_clean$elo
 
-```{r}
-X=model.matrix(mean_elos~.,data)[,-1][0:800,]
-y <- data$mean_elos[0:800]
-dim(X)
-```
+set.seed(10)
+
+train_indices <- sample(1:nrow(X), 22000)
+X_train <- X[train_indices, ]
+y_train <- y[train_indices]
+X_test <- X[-train_indices, ]
+y_test <- y[-train_indices]
 
 
-```{r}
-cv_model <- cv.glmnet(X, y, alpha = 1)
-```
-
-
-```{r}
-plot(cv_model) 
+data_train <- data_clean[train_indices, ]
+data_test <- data_clean[-train_indices, ]
 ```
 
 
 ```{r}
-# Get the best lambda
-best_lambda <- cv_model$lambda.min
-print(best_lambda)
+colnames(data)
 ```
 
 ```{r}
-# Fit the final Lasso model
-lasso_model <- glmnet(X, y, alpha = 1, lambda = best_lambda)
+# Fit a Lasso model
+lasso_model <- cv.glmnet(X_train, y_train, alpha = 1)  # alpha=1 for Lasso, alpha=0 for Ridge
 ```
 
 ```{r}
-#coef(lasso_model)
-```
-
-
-```{r}
-X_test=model.matrix(mean_elos~.,data)[,-1][0:-800,]
-y_test <- data$mean_elos[0:-800]
-dim(X_test)
-length(y_test)
+coef(lasso_model)
 ```
 
 
 ```{r}
-predictions <- predict(lasso_model, newx = X_test)
-predictions_vector <- as.vector(predictions)
-```
-
-
-```{r}
-
-# Calculate the residuals
-residuals <- y_test - predictions_vector
-
-# Calculate the Sum of Squared Residuals (SSR)
-SSR <- sum(residuals^2)
-
-# Calculate the Total Sum of Squares (TSS)
-TSS <- sum((y_test - mean(y_test))^2)
-
-# Calculate R-squared score
-r_squared <- 1 - (SSR / TSS)
-
-# Print R-squared score
-print(r_squared)
+lasso_pred <- predict(lasso_model, alpha = 1, newx = X_test)
+mse_test <- mean((lasso_pred - y_test)^2)
+mae_test <- sqrt(mse_test)
+print(mse_test)
+print(mae_test)
 ```
 
 
 
 
 
+
+
+
+
+
+# Fitting a lineaer model
+
 ```{r}
-library(ggplot2)
+# data <- stream_in(file("data/Curated/FIDE_INDIVIDUAL.ndjson"))
+data <- stream_in(file("data/Curated/FICS_INDIVIDUAL.ndjson"))
+data$opening <- factor(data$opening)
+data$result <- factor(data$result)
+data$is_white <- factor(data$is_white)
+data_clean <- na.omit(data)
 
-# Create a data frame for plotting
-plot_data <- data.frame(True = y_test, Predicted = predictions_vector)
+set.seed(10)
 
-# Plot using ggplot2
-ggplot(plot_data, aes(x = True, y = Predicted)) +
-  geom_point() +
-  geom_abline(intercept = 0, slope = 1, color = "red", linetype = "dashed") +
-  labs(x = "True Values", y = "Predicted Values", title = "Predicted vs True Values") +
-  theme_minimal()
+train_indices <- sample(1:nrow(X), 22000)
+data_train <- data_clean[train_indices, ]
+data_test <- data_clean[-train_indices, ]
+```
+
+```{r}
+# Add a new level "Unknown" to the opening factor in the training data
+data_train$opening <- factor(data_train$opening, levels = c(levels(data_train$opening), "Unknown"))
+
+# For any unseen levels in the test data, convert them to "Unknown"
+data_test$opening <- factor(data_test$opening, levels = levels(data_train$opening))
+data_test$opening[is.na(data_test$opening)] <- "Unknown"
 ```
 
 
 
 ```{r}
-X=model.matrix(mean_elos~.,data)[,-1][0:800,]
-y <- data$mean_elos[0:800]
-
-df <- data[0:800,]
-colnames(df)
-```
-
-
-
-```{r}
-model1 <- lm(mean_elos ~ ., data = df)
-```
-
-
-
-
-
-```{r}
-model2 <- step(model1, direction = "backward")
+lm_model1 <- lm(y_train ~ opening + result + stockfish_mean + stockfish_min + 
+                  stockfish_max + stockfish_std + maia_mean + maia_min + 
+                  maia_max + maia_std + is_white, data = data_train)
 ```
 
 ```{r}
-summary(model2)
+lm_model2 <- step(lm_model1)
+```
+
+
+Some of the higher values do not fit teh normal qq plot. 
+```{r}
+plot(lm_model2)
 ```
 
 
 
 
+
+
+
+
+
+
+
+
 ```{r}
-test_df = data[0:-800,]
-head(test_df)
+lm_model3 <- lm(elo ~ opening + result + stockfish_mean + I(stockfish_mean^2) + 
+                  stockfish_min + stockfish_max + stockfish_std + maia_mean + I(maia_mean^2) + maia_min + 
+                  maia_max + maia_std + is_white, data = data_train)
+```
 
-# Assess R² on training data
-train_r2 <- summary(model2)$r.squared
+```{r}
+lm_model4 <- step(lm_model3)
+```
 
-# Predict on test data
-test_predictions <- predict(model2, newdata = test_df)
 
-# Calculate R² on test data
-test_actual <- test_df$mean_elos
-test_r2 <- 1 - sum((test_df$mean_elos - test_predictions)^2) / sum((test_df$mean_elos - mean(test_df$mean_elos))^2)
+```{r}
+plot(model4)
+```
+
+
+```{r}
+anova(lm_model4, lm_model2)
+```
+
+
+```{r}
+anova(lm_model4)
+# summary(lm_model4)
+```
+
+
+
+```{r}
+data_test2 <- data_test %>% filter(opening != "two knights") # need to remove
+
+# Now you can use the model to predict
+predictions <- predict(lm_model4, newdata = data_test2)
+```
+
+
+
+```{r}
+# Proceed with your evaluation (e.g., MSE and MAE)
+actual_values <- data_test2$elo
+mse <- mean((predictions - actual_values)^2)
+mae <- mean(abs(predictions - actual_values))
 
 # Print results
-print(paste("Training R²:", train_r2))
-print(paste("Testing R²:", test_r2))
+cat("Mean Squared Error (MSE):", mse, "\n")
+cat("Mean Absolute Error (MAE):", mae, "\n")
 ```
+
+
+
+
+```{r}
+lm_model5 <- lm(elo ~ result + stockfish_mean + I(stockfish_mean^2) + 
+                  stockfish_min + stockfish_max + stockfish_std + maia_mean + I(maia_mean^2) + maia_min + 
+                  maia_max + maia_std + is_white, data = data_train)
+```
+
+```{r}
+lm_model6 <- step(lm_model5)
+```
+
+
+
+```{r}
+predictions <- predict(lm_model6, newdata = data_test2)
+
+# Proceed with your evaluation (e.g., MSE and MAE)
+actual_values <- data_test2$elo
+mse <- mean((predictions - actual_values)^2)
+mae <- mean(abs(predictions - actual_values))
+
+# Print results
+cat("Mean Squared Error (MSE):", mse, "\n")
+cat("Mean Absolute Error (MAE):", mae, "\n")
+```
+
+
+
+
+
 
 
 

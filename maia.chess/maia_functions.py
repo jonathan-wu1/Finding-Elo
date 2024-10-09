@@ -31,6 +31,8 @@ def apply_engine_v2(row, engine, engine_str):
     moves = row["Moves"]
     if len(moves) < 7:
         return None
+    
+
     mm_w = []
     mm_b = []
     board = chess.Board()
@@ -122,18 +124,28 @@ def maia_cpl(row, stockfish):
     # making sure there are more than 6 moves
     moves = row["moves"]
     if len(moves) < 7:
-        return None
+        return ([], [])
     
     cpl_w = []
     cpl_b = []
 
+    if row['white_elo'] == "":
+        maia_w = 1200
+    else:
+        maia_w = closest_100(int(row['white_elo']))
+        
+    if row['black_elo'] == "":
+        maia_b = 1200
+    else:
+        maia_b = closest_100(int(row['black_elo']))
+
     # defining closest maia model based on the white elo
-    model_w = f"--weights=lc0_windows\models\maia-{closest_100(int(row['WhiteElo']))}.pb.gz"
+    model_w = f"--weights=lc0_windows\models\maia-{maia_w}.pb.gz"
     change_config(model_w)
     maia_w = chess.engine.SimpleEngine.popen_uci(["lc0_windows\lc0.exe"])
 
     # defining closest maia model based on the black elo
-    model_b = f"--weights=lc0_windows\models\maia-{closest_100(int(row['BlackElo']))}.pb.gz"
+    model_b = f"--weights=lc0_windows\models\maia-{maia_b}.pb.gz"
     change_config(model_b)
     maia_b = chess.engine.SimpleEngine.popen_uci(["lc0_windows\lc0.exe"])
     
@@ -169,7 +181,7 @@ def maia_cpl(row, stockfish):
     maia_b.quit()
     maia_w.quit()
 
-    return (np.mean(cpl_w), np.mean(cpl_b))
+    return (cpl_w, cpl_b)
     
 
 def get_cpl(move, board, stockfish):
